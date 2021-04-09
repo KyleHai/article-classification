@@ -1,0 +1,2 @@
+即便是苹果的a系列，也困于外挂基带，看看a14和麒麟9000的title就知道，一个是全球首款量产的5nm制程工艺芯片，一个是史上最强全球首个5nm5gsoc芯片，含金量一看便知	1
+<divclass="img_wrapper"><imgstyle="max-width:640px"id="1"img-size="550,306"src="http://n.sinaimg.cn/spider20201225/56/w550h306/20201225/0945-kftfpiw2190721.jpg"/><spanclass="img_descr">不过现在苹果要难办了，之前因为些小恩怨，高通和苹果关系僵了几年，和好后苹果和高通签署了长达4年期的合同，高通基带iphone至少会用到2024年，现在高通集成了5g基带，不知道库克会怎么选择	1

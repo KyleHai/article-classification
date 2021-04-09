@@ -1,0 +1,11 @@
+苹果全息车窗概念曝光微美全息为ar-hud屏打造ai+sdk服务	1
+<pclass='ori_titlesource'>原标题：苹果全息车窗概念曝光微美全息为ar-hud屏打造ai+sdk服务来源：科技快报网	1
+原标题：苹果全息车窗概念曝光，微美全息为ar-hud屏打造ai+sdk服务	1
+<divclass="img_wrapper"><imgsrc="http://n.sinaimg.cn/spider20201221/54/w578h276/20201221/76bf-kfnaptu6575597.png"style="max-width:640px"id="0"img-size="578,276"/><spanclass="img_descr"><divclass="img_wrapper"><imgid="1"img-size="578,276"src="http://n.sinaimg.cn/spider20201221/54/w578h276/20201221/00c1-kfnaptu6575599.png"style="max-width:640px"/><spanclass="img_descr">最近，苹果又在开发一种改进的平视显示器(hud)系统，以用于车辆，例如“applecar”中可以在侧窗或其他表面上显示信息的系统	1
+<divclass="img_wrapper"><divclass="img_wrapper"><divclass="img_wrapper"><imgimg-size="800,342"src="http://n.sinaimg.cn/spider20201221/342/w800h342/20201221/e678-kfnaptu5906144.jpg"style="max-width:640px"alt="(图片来源于网络)"id="2"/><spanclass="img_descr"><spanclass="img_descr"><spanclass="img_descr">(图片来源于网络)在今年12月授予苹果的一项专利中，该公司概述了改进hud技术的概念	1
+苹果于2019年2月首次申请了名为“带全息平视显示器的系统”的专利	1
+2019年以来苹果在汽车领域获得的30多项专利，涉及自动驾驶、ar导航、车载vr、车内支付、生物识别、智能硬件、车外交互、虚拟后视镜等多个领域	1
+但是苹果公司指出，由于它们是根据固定设计参数和前挡风玻璃的角度量身定制的，因此标准hud在其放置位置上存在“不必要的限制”	1
+另一方面，苹果的系统将依赖于显示输出设备以及由全息元件形成的光学组合器	1
+另一方面，苹果的系统将依赖于显示输出设备以及由全息元件形成的光学组合器	1
+与传统的hud概念一样，苹果的系统可以通过一组传感器，摄像头和其他来源来获取有关车辆，乘客及其周围环境的数据	1

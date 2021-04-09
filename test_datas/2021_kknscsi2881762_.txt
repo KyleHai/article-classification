@@ -1,0 +1,9 @@
+无刘海全面屏iPhone，苹果专利显示在路上了？
+新浪科技综合
+<p class="ori_titlesource">　　本文来自太平洋电脑网</p>
+<p cms-style="font-L isIntable ">　　从iPhoneX开始采用的FaceID面部解锁功能一直以来得到非常多用户的强烈好评，但由此带来了iPhone正面“刘海屏”设计，成为了现如今手机全面屏理念下不小的遗憾。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021313/200/w600h400/20210313/f892-kmeeiut3314291.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L isIntable ">　　什么时候，iPhone能在保留FaceID面部解锁功能前提下，去掉正面的刘海呢？广大用户对此也是相当期待。根据曝光的最新消息，这似乎即将成为可能。根据相关消息称，苹果申请了一项名为“用于检测电子设备显示屏发光层所受光线的传感系统”的专利，苹果列出了一个将光线检测层嵌入显示屏堆栈的系统，可以实现将FaceID传感器组件放置在屏下。</p>
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021313/104/w554h350/20210313/cc73-kmeeiut3314290.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L isIntable ">　　这个专利如果推进下去，那么未来的iPhone将可能实现屏下3D人脸识别功能，彻底取消“刘海屏设计”。</p>
+<p cms-style="font-L isIntable ">　　当然，这项技术应该还处于早期研发阶段，作为消费者，让我们留有足够的耐心，一起等待真正“全面屏”iPhone的到来。</p>

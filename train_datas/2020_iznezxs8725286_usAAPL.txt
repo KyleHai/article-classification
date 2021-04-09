@@ -1,0 +1,5 @@
+2020it圈大事件：wi-fi6e标准出炉，苹果自研arm芯片登场	1
+<pclass='ori_titlesource'>原标题：2020it圈大事件：wi-fi6e标准出炉，苹果自研arm芯片登场来源：时刻头条	1
+苹果自研arm芯片，处理速度最快提高3.5倍	1
+6月23日，苹果wwdc20年度开发者大会上，苹果宣布mac电脑将放弃英特尔芯片，全面采用自研的arm架构芯片	1
+<divclass="img_wrapper"><imgid="2"img-size="500,256"src="http://n.sinaimg.cn/spider20201224/756/w500h256/20201224/72d1-kftfpiv9581041.jpg"style="max-width:640px"/><spanclass="img_descr">而11月11日，随着搭载自研m1芯片的macbookair、macbookpro和macmini三款产品发布，一次性将苹果本的性能和续航进行了革命性的提升，强悍性能大获消费者好评	1

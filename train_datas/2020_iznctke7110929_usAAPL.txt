@@ -1,0 +1,4 @@
+相关阅读：<ahref="https://finance.sina.com.cn/tech/2020-12-17/doc-iiznezxs7400563.shtml"target="_blank"data-comos-dataid="comos:iznezxs7400563">发布一个月后苹果m1芯片mac的常用软件体验怎么样了	1
+parallels是通过创建一个“使用苹果m1mac芯片硬件辅助虚拟化的新虚拟化引擎”，允许用户在虚拟机中运行基于arm架构的操作系统，例如windows	1
+苹果在10月份的发布会上正式推出了基于m1处理器的macbook，宣告了从x86指令集切换到arm的决心	1
+在苹果发布m1芯片mac不久，parallels就宣布，将开发面向applesilicon处理器平台的paralles版本	1

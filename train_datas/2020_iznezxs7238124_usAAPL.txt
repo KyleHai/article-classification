@@ -1,0 +1,13 @@
+两个月前的新品发布会上，苹果就介绍过iphone12pro系列独占的影像功能——appleproraw	1
+除了appleproraw，ios14.3还加入了对airpodsmax的支持、桌面直接运行快捷指令、空气质量指数、隐私保护、applefitness+等功能，内容非常丰富	1
+appleproraw	1
+作为苹果影像的年度大招，appleproraw在发布时就获得了广大摄影爱好者的关注	1
+也许是为了定位区分，appleproraw目前只有iphone12pro和promax支持，iphone12、12mini以及老款机型无缘	1
+至于以后有没有可能下放，就要看苹果心情了	1
+而appleproraw的亮点在于，它将多帧图像处理和计算摄影融入raw格式中	1
+<divclass="img_wrapper"><imgid="2"img-size="480,300"src="http://n.sinaimg.cn/spider20201216/780/w480h300/20201216/8e22-kffctcc7174788.jpg"style="max-width:640px"/><spanclass="img_descr">下方这组appleproraw图片中，右侧为阴影亮度拉满的效果	1
+<divclass="img_wrapper"><imgid="3"img-size="480,516"src="http://n.sinaimg.cn/spider20201216/196/w480h516/20201216/8b9f-kffctcc7174787.jpg"style="max-width:640px"/><spanclass="img_descr">已经更新到ios14.3的iphone12pro系列用户，可以在「设置」—「相机」—「格式」中开启appleproraw	1
+但是，appleproraw的特性，决定了它只是为那些钟爱摄影，且后期创作要求更高的用户准备的	1
+<divclass="img_wrapper"><imgid="7"img-size="480,559"src="http://n.sinaimg.cn/spider20201216/239/w480h559/20201216/d205-kffctcc7174894.jpg"style="max-width:640px"/><spanclass="img_descr">applefitness+	1
+ios14.3带来了applefitness+功能，它可以在观看专业健身视频的同时，收听精心挑选的动感配乐，并将applewatch所监测到的身体数据直接反映在手机、平板、tv等大屏幕上	1
+-支持applewatch的有氧适能水平监测	1

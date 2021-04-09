@@ -1,0 +1,3 @@
+比如下面苹果的k线，就是一个很好的例子:	0
+同样，我们继续观察苹果的k线图:	0
+<divclass="img_wrapper"><imgid="3"img-size="852,909"src="http://n.sinaimg.cn/spider20201015/161/w852h909/20201015/53b5-kaqzmiv4471925.png"style="max-width:640px"/><spanclass="img_descr">我们可以看到，苹果曾多次试图突破215美元的水平(绿线)，但都以失败告终	0

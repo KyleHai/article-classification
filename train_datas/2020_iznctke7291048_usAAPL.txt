@@ -1,0 +1,3 @@
+<divclass="img_wrapper"><imgsrc="http://n.sinaimg.cn/spider20201219/36/w480h356/20201219/5b27-kfnaptt9686984.png"style="max-width:640px"id="1"img-size="480,356"/><spanclass="img_descr">上图是iphone、ipad、ipod、applewatch和macbook等苹果产品的适宜温度带	1
+也就是说，我们所使用的苹果设备不仅怕冷，同样也怕热	1
+不过最理想的环境还是介于16°c至22°c(62°f至72°f)之间，在这个温度范围内，你的苹果设备将会有更出色的性能表现	1

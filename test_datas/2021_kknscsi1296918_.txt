@@ -1,0 +1,4 @@
+苹果将在Mac电脑上引入Face ID面部识别功能
+品玩
+<p class="ori_titlesource">　　<font cms-style="font-L">据9to5Mac消息，技术人员在macOS Big Sur上发现了TrueDepth摄像头的相关信息，苹果可能要将面部识别技术应用到Mac系列的设备上。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">然而，实现这个技术仍需要一定时间，苹果公司可能需要一段时间才能发布一个新的Mac机型，该机型应该带有TrueDepth摄像头来支持Face ID。</font></p>

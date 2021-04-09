@@ -1,0 +1,4 @@
+miniled背光本质上是对传统lcd屏的一次技术升级，与oled相比有寿命更长、可靠性及环境适应性更高、无烧屏现象等优势，在2021年苹果ipadpro以及三星电视的带动下渗透率有望快速提升	0
+<divclass="img_wrapper"><imgcms-width="677"id="41"img-size="701,338"src="http://n.sinaimg.cn/spider20201124/239/w701h338/20201124/0e3e-kefmphe1793304.png"style="max-width:640px"/><spanclass="img_descr"><divclass="img_wrapper"><imgstyle="max-width:640px"cms-width="677"id="42"img-size="702,548"src="http://n.sinaimg.cn/spider20201124/450/w702h548/20201124/02c7-kefmphe1793366.png"/><spanclass="img_descr">三星、苹果等各大品牌积极布局，2021年miniled应用将迎来爆发	0
+根据trendforceled研究(ledinside)调查，苹果预计在2021年第一季推出12.9寸miniled背光ipadpro，同时也会针对14寸与16寸的笔电开展方案	0
+鉴于苹果在消费电子产业链中风向标的地位，苹果此举有望加速miniled在消费电子领域的渗透率	0

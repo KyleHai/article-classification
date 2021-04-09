@@ -1,0 +1,13 @@
+高通无奈！苹果自研5G基带曝光：将装配到所有iPhone中
+快科技2018
+<blockquote>
+<p>　　新品拿到手软，好物天天推荐，<a href="http://zhongce.sina.com.cn/" target="_blank" data-comos-dataid="">新浪众测</a>等你加入。在这里，你也能成为数码大V；在这里，产品好坏你说了算。【<a href="http://zhongce.sina.com.cn/about/app#page1" target="_blank" data-comos-dataid="">玩转新奇好物，来新浪众测</a>】</p>
+</blockquote>
+<p>　　对于苹果来说，重要处理器自研这是不能改变的趋势，而作为最重要的一环，基带是他们必须要攻克的。</p>
+<p>　　据外媒报道称，苹果定制设计的5G蜂窝调制解调器很可能会在2023年所有iPhone机型中亮相，而芯片制造商Qorvo和Broadcom应该是受益于向苹果内部解决方案转变的公司之一。</p>
+<p>　　苹果正在为未来的iPhone研发自己的调制解调器。据报道，苹果在一年前收购Intel大部分智能手机调制解调器业务后于2020年开始开发调制解调器。</p>
+<p>　　苹果目前使用的是高通调制解调器，包括iPhone 12机型中的骁龙X55调制解调器。</p>
+<p>　　2019年，苹果与高通之间的法律和解协议显示，苹果可能会在2021年的iPhone中使用骁龙X60调制解调器，随后在2022年的iPhone中使用骁龙X65调制解调器。</p>
+<p>　　路线图中确实提到了2023年iPhone使用未公布的骁龙X70调制解调器的可能性，但现在看来这种可能性较小。</p>
+<p>　　苹果的调制解调器很可能由其长期的芯片制造合作伙伴台积电负责生产。</p>
+<div class="img_wrapper"><img id="0" src="http://n.sinaimg.cn/spider2021312/135/w600h335/20210312/d6b3-kmeeius9929677.png" alt=""><span class="img_descr"></span></div>

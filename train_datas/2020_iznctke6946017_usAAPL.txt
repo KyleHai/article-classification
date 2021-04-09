@@ -1,0 +1,4 @@
+诸多microsoft365应用和vscode现已支持苹果m1mac	1
+<pclass='ori_titlesource'>原标题：诸多microsoft365应用和vscode现已支持苹果m1mac来源：cnbeta.com	1
+在大家期待着微软为苹果m1mac提供windows10onarm版本的时候，该公司已经率先为旗下部分生产力工具提供了移植	1
+与通过rosetta2进行转译后才能运行的产品相比，这些软件不仅能够充分发挥applesilicon的芯片性能，还有助于改善设备的电池续航表现	1

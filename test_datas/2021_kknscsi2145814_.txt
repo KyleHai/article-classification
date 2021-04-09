@@ -1,0 +1,13 @@
+前员工解释苹果实施应用跟踪透明度变化后，Facebook将失去什么？
+新浪科技综合
+<p class="ori_titlesource">　　来源：cnBeta</p>
+<p cms-style="font-L">　　在苹果准备在iOS 14.5中实施应用跟踪透明度变化之际，<font cms-style="font-L strong-Bold">CNBC采访了几位前Facebook员工，以了解Facebook为何如此强烈地反对计划中的隐私更新。</font>从今年春天开始，Facebook和其他应用开发者需要获得明确的许可才能访问用户的广告标识符，即IDFA，用于追踪整个应用和网站的使用情况，以达到广告定位的目的。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/39/w550h289/20210312/48ab-kmeeiut0196695.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　Facebook针对应用追踪透明化进行了大力宣传，在报纸上刊登整版广告，并试图将苹果定位为小企业的敌人。</p>
+<p cms-style="font-L">　　Facebook的主要论点之一是，苹果的改变将损害使用Facebook广告工具的企业，但Facebook前员工Henry Love对CNBC表示，对于许多企业来说，这种改变可能根本就不明显。</p>
+<p cms-style="font-L">　　更少的广告跟踪数据将阻止Facebook及其客户像现在这样有效地定位广告，但很多企业可能不需要太多的数据来进行有效的广告定位。例如，德克萨斯州的一家小型咖啡店很可能使用邮政编码和年龄范围等广泛的目标类别来投放广告，这些数据是Facebook可以从自己的应用程序中收集的，而不需要IDFA。</p>
+<p cms-style="font-L">　　用IDFA在移动、网页和Facebook受众网络上瞄准用户的人“不是小企业”，Love称这类公司是 “复杂的、有风险投资支持的初创企业”。</p>
+<p cms-style="font-L">　　应用追踪透明化将威胁到Facebook的浏览量转化追踪，这个指标可以让广告公司弄清楚有多少人看到了广告，而没有点击，但后来进行了与广告相关的购买。零售商可以记录购买商品的人的信息，然后分享给Facebook，Facebook能够确定这个人的IDFA与看到所购产品广告的用户是否匹配。</p>
+<p cms-style="font-L">　　CNBC称，这些信息的丢失可能会对Facebook造成严重影响，因为如果广告商无法准确衡量Instagram和Facebook广告的效果，他们可能会将更多的预算转移到其他应用和服务上。</p>
+<p cms-style="font-L">　　Facebook的受众网络（Audience Network）在非Facebook应用中提供广告，也将受到影响，因为它使用IDFA数据，根据Facebook数据选择最佳广告向用户展示。如果用户选择不分享IDFA，那么Facebook在自家应用之外的广告个性化工作将变得毫无用处。</p>
+<p cms-style="font-L">　　Facebook正计划向用户征求访问IDFA的许可，并正在测试措辞，表明跟踪将提供更好的广告体验。Facebook的测试提示鼓励客户允许使用IDFA，以“支持那些依靠广告接触客户的企业”。</p>

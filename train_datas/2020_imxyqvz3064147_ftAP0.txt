@@ -1,0 +1,8 @@
+苹果扩展quicklook让零售商在增强现实中销售商品	0
+<pclass="ori_titlesource"><spanstyle="font-family:kaiti_gb2312,kaiti;">原标题：苹果扩展“quicklook”应用让零售商直接在增强现实中销售商品	0
+考虑到这种情况，苹果在2018年推出了一项基于ar的新功能，该功能可以“在房间里看到特定的东西”概念直接集成到ios/&nbsp;ipad&nbsp;os中	0
+零售商提供3d模型（usdz格式，该文件格式与pixar合作研发），苹果利用arkit渲染它，使其呈现出真实世界中的样子，包括处理缩放到照明和阴影	0
+而现在，苹果正在对该概念进行一些扩展，允许开发人员将可自定义的按钮添加到组合中	0
+它可能是一个购买按钮，可以当场触发applepay提示	0
+苹果公司还在ios和ipados的最新开发人员版本中悄悄地将对空间音频的支持扩展到quicklook中，从而使这些3d模型能够发出声音，例如玩具的哔哔声和嗡嗡声，或者扬声器发出的音乐	0
+苹果去年在wwdc上预览了该功能；本周，一些大型零售商（如homedepot，wayfair，bang&amp;olufsen和1-800-flowers）正在推广其方案	0

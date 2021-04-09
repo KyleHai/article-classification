@@ -1,0 +1,15 @@
+2020年苹果Mac恶意软件威胁激增，但仍远不及Windows
+IT之家
+<blockquote>
+<p>　　听人描述，不如自己上手！你也想试试最新、最炫数码产品？还等什么，赶紧<a href="http://zhongce.sina.com.cn/about/app" target="_blank" data-comos-dataid="">加入新浪众测</a>。在这里不仅好玩意儿拿到手软，还有一群志同道合的伙伴与你畅聊数码。</p>
+</blockquote>
+<p cms-style="font-L">　　新数据显示，与往年相比，恶意软件开发者在 2020 年加大了针对 Mac 的恶意软件的制作力度。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021318/433/w1305h728/20210318/048b-kmkptxe4951343.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　根据 Atlas 的调查，AV-TEST GmbH 的安全研究人员在 2020 年记录了 674，273 个 macOS 恶意软件的新样本。研究人员在 2019 年发现了 56，556 个样本，在 2018 年发现了 92，570 个样本。</p>
+<p cms-style="font-L">　　虽然数据只能证明发现了更多独特的恶意软件样本，<font cms-style="font-L">但也确实表明恶意软件作者正在继续将注意力转向 Mac</font>。在 2019 年至 2020 年间，恶意软件样本识别量激增了 1092%。2020 年检测到的 674，273 个样本远远超过了 AV-TEST GmbH 在 2012 年至 2019 年期间检测到的 219，257 个样本总数。</p>
+<p cms-style="font-L">　　当然，<font cms-style="font-L">虽然 Mac 恶意软件的威胁在不断增加，但相对来说还是比较小的</font>。AV-TEST GmbH 在 2020 年检测到 9105 万个 Windows 恶意软件样本，创历史新高，比 2019 年的 8907 万个样本有所增加。</p>
+<p cms-style="font-L">　　按照这些数字来看，<font cms-style="font-L">这意味着 Windows 恶意软件作者平均每天制造了 249452 个新威胁，而 Mac 恶意软件开发者则每天制造约 1847 个威胁。</font></p>
+<p cms-style="font-L">　　根据 Atlas 的说法，macOS 和 Windows 恶意软件开发激增的原因之一是现成代码的扩散，可以很容易地针对特定攻击进行定制。</p>
+<p cms-style="font-L">　　2020 年 2 月 Malwarebytes 的一份报告显示，macOS 恶意软件威胁的开发速度超过了 Windows 威胁。该报告指出，由于市场份额增加，Mac 正在成为攻击者更甜蜜的目标。</p>
+<p cms-style="font-L">　　IT之家了解到，在 2021 年早些时候，Malwarebytes 发布了一份单独的报告，指出 2020 年 macOS 和 Windows 的恶意软件检测量与往年相比都有所下降。</p>
+<p cms-style="font-L">　　苹果目前正在将 Mac 产品线转移到专有的 Apple Silicon 芯片上，Apple Silicon 具有许多英特尔处理器所没有的安全优势和反恶意软件机制。</p>

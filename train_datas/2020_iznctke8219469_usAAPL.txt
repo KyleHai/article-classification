@@ -1,0 +1,4 @@
+外媒：parallels与微软合作将win10引入苹果m1mac中	1
+<pclass='ori_titlesource'>原标题：外媒：parallels与微软合作将win10引入苹果m1mac中	1
+【cnmo新闻】据外媒消息，parallels近日与微软合作将windows10系统引入了苹果新的m1mac设备中	1
+最近，windows仿真公司parallels已开始使用苹果m1芯片对mac的parallelsdesktopformac进行beta测试	1

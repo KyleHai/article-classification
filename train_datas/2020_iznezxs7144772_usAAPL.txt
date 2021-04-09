@@ -1,0 +1,11 @@
+未来applewatch或增加指纹识别和屏下隐藏式摄像头	1
+<divclass="img_wrapper"><imgsrc="http://n.sinaimg.cn/tech/transform/168/w630h338/20201216/21b1-kffctcc5647475.png"alt="未来applewatch或增加touchid和屏下隐藏式摄像头"data-link=""><spanclass="img_descr">未来applewatch或增加touchid和屏下隐藏式摄像头	1
+新浪数码讯12月16日早间消息，据外媒macrumors报道，根据两份新公布的专利申请显示，苹果正在考虑为applewatch增加touchid和屏下隐藏式摄像头	1
+外媒patentlyapple发现了一项由美国专利和商标局授予的专利，专利名称为“具有密封按钮生物识别传感系统的电子设备”	1
+<divclass="img_wrapper"><imgsrc="http://n.sinaimg.cn/tech/transform/163/w630h333/20201216/cea8-kffctcc5648929.png"alt="touchid集成到applewatch的侧边按钮中"data-link=""><spanclass="img_descr">touchid集成到applewatch的侧边按钮中	1
+这个专利申请解释了如何将touchid集成到applewatch的侧边按钮中，以及它可以达到什么实际目的	1
+这就不难理解为什么苹果要在applewatch中加入touchid	1
+目前，applewatch还是依赖于密码的使用，直到设备从手腕上取下，才会再次提示密码	1
+生物识别认证可以让苹果保证用户使用applewatch或进行applepay交易时有更高的安全性	1
+但这个专利的重点是applewatch	1
+目前阻碍applewatch成为腕戴式视频通讯工具的主要原因就是缺乏摄像头，如果专利能够成为现实，对于applewatch来说将是革命性的变化	1

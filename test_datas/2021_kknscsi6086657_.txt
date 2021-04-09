@@ -1,0 +1,9 @@
+报告：美国市场5G手机测速比拼 iPhone垫底
+环球网
+<p cms-style="font-L">　　【环球网智能综合报道】3月15日，来自Opensignal的一份最新报告描述了iPhone12系列手机5G性能与美国市场Android智能手机的对比情况，苹果整体下载速度排名垫底。</p>
+<p cms-style="font-L">　　据报道，下载速度最快的25款5G智能手机中大多数最终都是由三星生产的，其中，三星新推出的Galaxy S21 5G以56Mbps的平均5G/4G下载速度位居榜首。在这份报告中显示TCL的RevVL5G和OnePlus 8T+分别以49.8和49.3 Mbps的平均速度位居第二和第三。LG的Velvet 5G以37.8Mbps排名第25位。虽然iPhone12的5G速度比其4G iPhone的速度提高了2.3倍，但苹果的首款5G iPhone在整体下载速度上依然比较落后。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/sinakd2021316s/0/w2048h1152/20210316/99cb-kmkptxc9709624.jpg" alt=""></div>
+<p cms-style="font-L">　　Opensignal指出，iPhone在4G网速方面落后于Android，是因为采用的是英特尔的调制解调器，因此iPhone 12在美国的5G速度比4G速度增长了2.3倍，超过了三星（Samsung）、OnePlus等竞争对手从4G跃升到5G的速度增长幅度。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/sinakd2021316s/0/w2048h1152/20210316/40d5-kmkptxc9709643.jpg" alt=""></div>
+<p cms-style="font-L">　　不过iPhone12系列使用的是像Android设备一样的高通5G调制解调器，甚至在所有型号中都支持毫米波技术，苹果在5G速度方面仍然落后就显得比较奇怪。</p>
+<p cms-style="font-L">　　撰写这份报告并领导Opensignal分析团队的伊恩•福克表示，在射频设计方面，三星和其他安卓（Android）制造商可能领先于苹果，因为调制解调器以外的智能手机组件会影响5G/4G的性能。例如，三星的Galaxy S21是其第三代5G智能手机，而iPhone12系列是苹果的首款。因此，苹果可能需要努力赶上前端射频设计。</p>

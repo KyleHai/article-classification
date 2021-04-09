@@ -1,0 +1,8 @@
+外媒：Facebook有1万名员在研发AR/VR设备 占员工总数近1/5
+TechWeb
+<p class="ori_titlesource">　　3月15日消息，据国外媒体报道，Facebook在增强现实（AR）和虚拟现实（VR）上押下重注。据报道，Facebook有近1万名员工（占其全球员工总数的近五分之一）在研发AR和VR设备。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021315/75/w500h375/20210315/bd2b-kmkptxc6158305.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　2017年，Facebook的全球员工总数为18770人，其中该公司旗下Oculus VR部门的员工超过1000人，所占比例超过5%。2021年初，该公司在全球雇佣了58604人，约有1万名工程师负责重要的AR和VR开发工作，这一数字几乎占Facebook全球员工总数的20%。</p>
+<p cms-style="font-L">　　近年来，Facebook制定了一项积极的战略，即打造自己的消费类硬件，以减少对苹果和谷歌的依赖。为了减少对苹果和谷歌的依赖，该公司将全力投入Oculus。</p>
+<p cms-style="font-L">　　Facebook一直在大力进入虚拟现实领域。2014年，该公司以逾20亿美元收购了虚拟现实游戏公司Oculus Studios。2019年11月，该公司收购了VR音乐游戏《节奏空间》（Beat Saber）的开发商Beat Games。2020年2月份，该公司又收购了虚拟现实游戏开发企业Sanzaru Games。</p>
+<p cms-style="font-L">　　除了Facebook，其他公司也在开发AR/VR解决方案。比如，苹果可能正在开发多种AR/VR设备，包括AR隐形眼镜和配备8K micro-OLED显示屏的头盔。（小狐狸）</p>

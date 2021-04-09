@@ -1,0 +1,8 @@
+iphone又被挖出重大漏洞连巴菲特都减持苹果了	1
+<pclass='ori_titlesource'>原标题：iphone又被挖出重大漏洞连巴菲特都减持苹果了	1
+怪不得连巴菲特都减持了苹果，iphone又被挖出重大漏洞	1
+以前巴菲特都是增持苹果股票，但是最近不一样，老爷子开始减持苹果了，让很多人有“股神都不看好苹果未来”的想法	1
+<divclass="img_wrapper"><imgstyle="max-width:640px"id="0"img-size="550,380"src="http://n.sinaimg.cn/spider20201225/130/w550h380/20201225/1535-kftfpiw2095524.jpg"/><spanclass="img_descr">但是你要说苹果公司市值，那也是全世界一顶一的，目前高达2.09万亿美元，国内这些互联网巨头市值加一起很可能都比不过，毕竟是创造了华尔街历史的存在	1
+不过，苹果最近出的事也不少，就拿iphone12来说，一会是5g状态下电池疯狂掉电，一会是绿屏门	1
+最近，苹果还被挖出了两个大漏洞	1
+<divclass="img_wrapper"><imgid="1"img-size="550,315"src="http://n.sinaimg.cn/spider20201225/65/w550h315/20201225/4480-kftfpiw2095523.jpg"style="max-width:640px"/><spanclass="img_descr">一个是苹果新款macbook、iphone12pro涉及重大系统漏洞，苹果自研的m1几乎溃不成军，只需一个脚本，1秒不到，攻击者就能取得系统最高权限root身份，读取用户设备上相册、通讯录，账号密码等隐私数据	1

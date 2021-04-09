@@ -1,0 +1,22 @@
+谷歌苹果降费政策对自身营收影响甚微 堡垒之夜CEO称是自私的把戏
+新浪科技
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/59/w550h309/20210317/d2f7-kmkptxe3275018.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;相关新闻：<a href="https://finance.sina.com.cn/tech/2021-03-16/doc-ikkntiam3251469.shtml" target="_blank" data-comos-dataid="comos:kkntiam3251469">谷歌将应用商店开发者每年首次100万美元收入抽成减少至15%</a></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://finance.sina.com.cn/tech/2021-03-17/doc-ikkntiam3596237.shtml" target="_blank" data-comos-dataid="comos:kkntiam3596237">外媒爆料：FTC八年前就查明谷歌搜索垄断证据 却选择放虎归山</a></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://finance.sina.com.cn/tech/2021-03-17/doc-ikkntiam3907100.shtml" target="_blank" data-comos-dataid="comos:kkntiam3907100">谷歌苹果降费政策对自身营收影响甚微 堡垒之夜CEO称是自私的把戏</a></p>
+<p>　　新浪科技讯 北京时间3月17日下午消息，据报道，市场研究公司Sensor Tower的最新测算表明，<strong>苹果和谷歌都不会因为改变应用收费方式损失太大收入。</strong></p>
+<p>　　这份报告是在谷歌周二宣布改变应用收费方式后发布的。而苹果此前也在12月采取了类似的举措。</p>
+<p>　　从7月1日开始，通过Google Play应用商店销售的Android应用，在销售额不超过100万美元时，只要支付15%的佣金。超过100万美元之后，则需要支付30％的佣金。苹果的模式与此类似：从1月1日起，规模较小的公司可以向苹果申请15％的费用减免，但在App Store的销售额超过100万美元时，佣金比例会升至30％。</p>
+<p>　<strong>　根据应用分析公司Sensor Tower的最新测算，由于这两家公司的应用商店业务规模庞大，因此费用下调不会对其营收产生显著影响：</strong></p>
+<p>　　- 如果谷歌在2020年就针对Google Play实行不超过100万美元只收取15％佣金的政策，该公司将因此减少5.87亿美元营收，约占Sensor Tower估算的Google Play全年116亿美元营收的5％。</p>
+<p>　　- 如果苹果在2020年实施降费政策，Sensor Tower估计该公司将因此损失5.95亿美元营收，约占2020年App Store 217亿美元佣金收入的2.7％。</p>
+<p>　　Sensor Tower的测算凸显出手机应用行业的“赢家通吃”局面。此外，<strong>尽管苹果App Store和谷歌Google Play商店的降费政策有利于大量规模较小的应用程序开发商，但从中获取最大收益的公司仍将支付近30％的佣金。</strong></p>
+<p>　　这就是Epic Games CEO蒂姆·斯威尼（Tim Sweeney）在周二回应谷歌政策时提出的观点。Epic Games目前正在起诉苹果和谷歌，希望这两家公司能对其应用商店佣金规则进行调整。</p>
+<p>　　<strong>斯威尼在推文中说：“这完全是为他们自身的利益着想</strong>：绝大多数开发者都可以享受15％的最新费率优惠，因此继续维权的意愿会降低，但绝大部分的营收都适用于30％的费率。”</p>
+<p>　　苹果和谷歌的应用商店正面临立法者和监管者越来越密切的关注。</p>
+<p>　　北达科他州的一项立法提案要求应用商店允许软件开发人员使用自己的支付处理软件，避免苹果和谷歌收取费用。但该提案未能通过。但在上周，亚利桑那州众议院通过了一项类似的法案 ，目前仍在等待该州参议院的审议。</p>
+<p>　　苹果称这种模式是为了帮助小型开发者。谷歌也在周二表示：“帮助开发者建立可持续发展的业务是Google Play的一项核心使命。”</p>
+<p>　　两家公司均未披露确切的应用商店销售数据，但苹果会定期披露向开发人员支付的费用，因此可以大致算出App Store的规模。</p>
+<p>　　苹果在2020财年的财报中披露其服务收入为547.6亿美元，约占其总营收的19％。App Store费用只是苹果服务业务的一部分，另外还包括订阅、保修和其他产品。苹果发言人尚未对Sensor Tower的报告发表评论。</p>
+<p>　　Alphabet将Google Play收入计入其他收入，这一收入在2020年达到217亿美元。但该科目还包括谷歌硬件业务、YouTube订阅以及其他产品和服务。</p>
+<p>　　谷歌尚未作出回应。</p>

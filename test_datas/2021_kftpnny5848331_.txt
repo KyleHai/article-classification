@@ -1,0 +1,103 @@
+商品期货“预期与现实”的故事是怎么讲的？
+新浪财经-自媒体综合
+<p><!--article_adlist[<p cms-style="font-L align-right">文  |  资本小论  资本小论</p>]article_adlist--></p>
+<p>　　来源：资本小论</p>
+<p cms-style="font-L">　　本文以期货合约的设计以及合约分布进行介入，论述不同商品期货合约所具有的属性；随后建立期货的“预期与现实分析体系”，对期货合约进行“预期现实四象限”分析，并对处于极端区域——“戴维斯双击区域”、“戴维斯双杀区域”进行解读；最后讲述期货合约在不同时间点的交易逻辑——“预期逻辑”、“现实逻辑”，并对其进行论证。</p>
+<p cms-style="font-L">　　本文内容相对繁琐，嫌烦者可进行跳阅；每大段以及文末有内容总结，可移步之。</p>
+<p cms-style="font-L">　　本文的前提依旧是：期货为现货服务，金融为实体服务。</p>
+<p cms-style="font-L align-Center">　　1</p>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">期货合约的设计</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">我们都很清楚期货合约一般都是连续的从01月一直延续到12月，但也有一些品种因其自身特点而非连续合约，比如白糖、棉花、玉米、豆油、菜油、黄金等。确定合约交割月份，主要考虑的是现货的季节因素。在设计工业品合约时，因为工业品是每月、每天连续性的生产，所以合约分布多为所有月份；而农产品是季节性生产，合约分布多为单月，由于我国的春节因素，农产品合约交割避开了2月份；同时借鉴国际通行的离散设计，月份多选择为从01月到11月的单月。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">就工业品而言，由于大部分工业品都具有连续生产、连续贸易的特点，其生产、消费、贸易、流通没有明显的季节性，相关企业在全年各月份均有套期保值的需求。因此，将所有月份设计为交割月份，符合现货贸易习惯，也可以为相关企业提供更加符合现货需求的套期保值操作。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">然而，大部分农产品交易合约为单月。当然，在合约设计之初也是有一些特殊品种，比如鸡蛋以及菜籽，还有最近出的生猪期货。鸡蛋期货上市初期直接去掉了7月以及8月的高温季节合约，确定了01~06合约、09~12合约作为交易合约。原因在于温度是影响鸡蛋新鲜度变化速度的重要因素。鸡蛋从生产到交割，中间往往会存储一段时间，为了降低入库前鸡蛋新鲜度变化的速度，同时便于卖方在适宜的条件下出库，在鸡蛋期货合约月份设计时，交易所将大部分地区最热的7月以及8月两个月份去除。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">同理的还有生猪期货。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">这也是期限结构理论对于大部分农产品不是很适用的原因之一。当然，由于现阶段很多农产品都在慢慢淡化季节性属性以及供需错配的性质。所以较多农产品也是适用的，比如油脂、大豆、玉米、棉花等。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">对于交易合约的设计，是需要贴近现实情况的，比如比较典型的油菜籽合约。国产油菜籽收获后再几个月内就压榨完了，所以只设计了下半年合约，那为什么这样的品种也要设计上市？主要是为尽快油菜籽留空间。目前（2017）进口油菜籽不允许流通，只允许点对点加工。一旦市场放开，就可以实现全年交割，届时交易所也会尝试增加上半年合约。但就现在而言，由于油菜籽期货的流动性问题，暂时未能实现。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">期货合约的设计其实也是很有意思且值得去研究的一件事情。品种的选择、交易单位、报价单位、涨跌停板及最低保证金、交易月份、交割日期、交割品牌及升贴水等。每一个细节都值得我们去细细研究。比如生猪期货上市之初提高保证金的原因是什么？报价单位选择16吨/手的原因是什么？增加交割品卡拉拉铁矿，升贴水确定后的影响是什么？或者这样去想，鸡蛋期货现在已经放开7月8月合约，那是否意味着7月8月合约如果遇到供需矛盾加大的情况下，波动会明显抬升，也就意味着7月8月合约的行情会更加剧烈。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/sinakd202128s/514/w1018h296/20210208/dcc5-kiweitv5884000.png" alt=""></div>
+<p cms-style="font-L">　　<font cms-style="font-L">生猪同理。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">本段总结：本段主要介绍了期货合约设计的一些细节，从期货合约设计的角度进行商品特性的研究。对于一些特殊品种，尤其是农产品，由于自身的周期性属性以及存在供需错配的情况，从而引出合约之间逻辑以及价格走势的差异性，并为下文内容做一个铺垫。</font></p>
+<p cms-style="font-L align-Center">　　2</p>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">期货市场上的“戴维斯效应”</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">这里我们就牵扯就到期货与现货最大的区别的问题。很多人仅仅通过研究现货指导期货交易，或者是通过研究期货指导现货经营。这两者在很大程度上是有问题的，原因就在于期货与现货有着很大的区别。具体体现在哪呢？</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">一个重要的理念——现实与预期。期货可以说是预期的现货，而现货则是现实的现货。现货的关注点应该更集中于现实问题而非预期问题，然而期货则正好相反。很多人通过当下冰山一角的情况去预测未来，判断未来走势，其实并非靠谱。譬如，当下库存高，便去做空远月；当下库存低，就去做多远月。这在很大程度是有问题的。原因就在于当下库存这种静态的指标完全不能反应出预期的情况。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">这也是预期与现实之间的差异问题。从金融市场的基本理论来看，市场有时候是走预期路线，市场有时候是走现实路线。两者之间存在着不确定性，但是我们可以大致确认的是这个关系。期货是现货叠加了预期因素，如下图：</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/sinakd202128s/639/w991h448/20210208/7012-kiweitv5884002.png" alt=""></div>
+<p cms-style="font-L">　　<font cms-style="font-L">上图所表述的意思是，我们将现货也当作一张期货合约的话。现货所代表的是100%现实因素下的期货价格，而近月期货合约则是现货因素占大头的期货合约，主力合约则是两两相匹配的。也就是说，随着时间的往后推移，预期的因素在合约价格上的比重是越来越大的。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">基于此，我们便可解释很多的现象。</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">我把这些现象称之为“戴维斯效应”。</font></font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">——分为“戴维斯双杀”以及“戴维斯双击”。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">比如：2020年以来的电解铜。现实因素因供应端矛盾的一直存在，且至今未能很好解决，而消费端，全年铜产品消费也表现可观，加上一些产业备库，现货强势，现实强势。同时预期因素也很乐观，就拿消费端来说，电动车的消费预期，生产一辆燃油车平均需要23千克铜，而电动车需要57千克铜，充电桩需要10千克铜，风力涡轮机和太阳能电池板也一样会消耗大量的铜）。在整个大宏观环境不大变的情况下，电解铜预期与现实双双打满，属于一个标准的“戴维斯双击”。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/sinakd202128s/8/w1080h528/20210208/083b-kiweitv5884181.png" alt=""></div>
+<p cms-style="font-L">　　<font cms-style="font-L">再比如：2020年12月以来的铝锭。现实情况是铝锭隐性库存显性化、市场上库存量增加不少（此前支撑铝锭强势价格的一个很重要的逻辑点就是铝锭的低库存状态），由于现实因素被证伪，预期方面暂时也没有很大的变化，所以是介于“戴维斯双杀”以及“戴维斯双击”之间，属于中性情况。盘面则表现为震荡，但是后来随着宏观的变化，美元的拉涨，铝锭开始了破位下跌之路。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/sinakd202128s/8/w1080h528/20210208/fff6-kiweitv5884192.png" alt=""></div>
+<p cms-style="font-L">　　<font cms-style="font-L">再比如：2020年10月份以来的苹果。此前我们一直说的，苹果是一个很简单且很微妙的品种。原因在于这个品种外界因素干扰很少，进出口影响因素小，国家也不怎么进行收储，重点是该品种一年一季，开花结果时间点比较确定。这就导致了几个问题，一是去库存将从12月份开始，一直持续到第二年的10月份；二是仓单数量是明确的，且仓单也是递减的；这两者在本质上是一样的。所以我们可以确定，苹果落地摘完，意味着现实因素已经基本确定，如果产量大增，就是现实上的利空；如果产量大减，那就是现实上的利多。那接下来就是看库存的变化了，库存的边际消化不行，也就是出库量不及预期，那又是一层利空。所以我们会发现，2020年10月份以来，苹果则是弱现实、弱预期，走的就是“戴维斯双杀”路线。为什么这么说？一是产量大增，二是出库量一直不及预期，更不及历史出库量。当然，如果再进一步复盘，就会发现还有其他的外部现实因为也在参与，我们走进超市就会发现，柑橘、脐橙等水果也是丰产且低价，这对苹果也是一个冲击。所以我们看2020年的苹果，即使到现在，也可以说是一种空逼多的软逼仓行情。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">反观2018年上半年，苹果则是满满的“戴维斯双击”，超强现实、强预期主导，走出了多逼空的强势逼仓行情。所以我们就能发现一个现象，就苹果而言，预期的故事只能在摘果前讲，而现实的故事更多则是集中在落果后。所以多做多集中于05/10合约，而做空多集中于01/05合约。这就是火热的2018年的苹果以及惨淡的2020年苹果，一个主要发生在2018年的上半年，一个主要发生在2020年的下半年，就其原因，在于苹果品种的自身属性问题。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/sinakd202128s/694/w1080h414/20210208/a608-kiweitv5884401.png" alt=""></div>
+<p cms-style="font-L">　　<font cms-style="font-L">那2021年的苹果会有良好的预期因素吗？有的，同样的故事会继续上演。这就是，利好的预期因素表现在2021年上半年的天气问题。等苹果库存消化的差不多了，市场关注度就会就会来到苹果的预期因素，配合着现实中的风风雨雨，期货市场上又会迎来一波狂欢。所以“戴维斯理论”在苹果这个品种上的表现得非常淋漓尽致。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/sinakd202128s/7/w1080h527/20210208/cdab-kiweitv5884402.png" alt=""></div>
+<p cms-style="font-L">　　<font cms-style="font-L">当然，我们此前也提到过，对品种的分析可以采用主次分析方法。也就是说：抓住当前产业的主要矛盾，了解当下的市场主线。如果市场是偏向于宏观路线，那我们就以宏观路线为出发点，再进行产业的基本面研究，找到“宏观面”与“基本面”共振的品种进行交易策略制定；如果是市场流行产业路线，那我们就以产业路线为主，进行微观研究，此时宏观面影响因素就会相对较小了。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">回到我们最初的话题，预期与现实，究竟如何去判断。其实对于现实情况，是相对好断定的，但是相对于远月的故事，我们该如何下手。我觉得分为两个方面，一方面是需要去分析现实因素和现实情况，另一方面则是去建立预期。确定两者是“戴维斯双杀”还是“戴维斯双击”，抑或是各占一个因素。在进行因素的分析的时候，一些能够量化的数据则可观测其边际变化情况分析，也有一些是做定性分析的。这个我们可以留着后面的文章进行分析，本文主要是介绍方法论以及其逻辑。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以我们拥有了这个体系后，就可以简单的将市场上大部分商品做一个简单的规划，分为四个象限。我将其称之为“预期现实四象限”分析法。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">以横轴为现实端，正向为强现实，负向为弱现实；以纵轴为预期端，正向为强预期，负向为弱预期，形成四大象限。其中越靠近原点两个属性越是中性；而在一三象限则有两个极端区域：一是“戴维斯双击区域”，另一个则是“戴维斯双杀区域”。第一象限“戴维斯双击区域”代表的是持续性的看涨，第三象限“戴维斯双杀区域”代表的是持续性的看跌，而其他的区域也对应了品种的不同属性。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">在此，我们对当下大部分交易品种进行简单的分类。如下图：</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/sinakd202128s/301/w1055h846/20210208/0e13-kiweitv5884592.png" alt=""></div>
+<p cms-style="font-L">　　<font cms-style="font-L">（注：本图仅作参考，不构成交易建议。）</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">当然，上图可以继续改良。将每个品种在不同的时间点匹配不同的位置，反应其边际的变化情况，将更加具体。举例子，就目前豆粕菜粕都位于“戴维斯双击区域”，但两者还是有区别的，我们认为豆粕无论是现实端还是预期端，都将强于菜粕，所以豆粕的位置应该在菜粕之上。再比如油脂的强弱关系，随着2021年油脂进入增产期，在外界宏观环境不发生预期之外的情况下，油脂的大方向是看空的，但是油脂内部缺也是有分化的可能。同理的还有螺纹与热卷。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以我们可以通过这个方法来对一些品种进行定位，建立四象限。如果是能跟踪品种的变动情况，那就更加完美了。比如某一个品种脱离了“戴维斯双杀区域”，随后进入“中性区域”，随着供应端矛盾的变化，进入了“强现实端”；或者某一品种从“戴维斯双击”的神坛跌入到“弱现实端”。这就是一个相对完整的价格运动。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">本段总结：本段主要介绍了期货的一个分析方法——“预期与现实分析方法”。利用商品的预期与现实之间的强弱关系，构建预期现实分析法的四象限。并对两个极端点——“戴维斯双击”“戴维斯双杀”进行解读；最后将当下的品种进行四象限分类。</font></p>
+<p cms-style="font-L align-Center">　　3</p>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">预期与现实的故事是怎么讲的？</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">此前我们提到过：交易员都是对当前的悲观和对未来的乐观；或者是对当下的乐观和对远月的悲观，两者正好相反。【原文：论期现关系与供应端矛盾】</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">这句话怎么理解呢？</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">从交易员对期货价格的乐观程度来看，当下的乐观和远期的乐观，只能选一个；当下的悲观和远期的悲观，也只能选一个。因为从长期来看，我们不可能存在这样的一个世界：当下是绝望的，未来也是绝望的；或者是当下的乐观的，未来依旧是乐观的，因为这样的世界没有意义，因为波动才是万物之源。选择当下的悲观和预期的乐观，就是将一串葡萄中最坏的先吃完，留着好的后面吃；选择当下的客观和预期的悲观，则是正好相反。或许有人就一口咬定说前者好抑或后者好，但这其实都没有意义，前者过得艰辛但还有希望，后者活得滋润却只剩回忆。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">这或许也是两种人生态度。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">悲观和远期的乐观，对应的就是Contango结构；当下的乐观和远期的悲观，对应的就是Back结构。当然，这是一个中长期的组合方式；如果是短期行情，还是会存在的乐观与乐观共振，悲观与悲观共振的情况。所以从中长期来看，我们就有了这么几个组合：</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/sinakd202128s/453/w977h276/20210208/5865-kiweitv5884586.png" alt=""></div>
+<p cms-style="font-L">　　<font cms-style="font-L">或许有人问，介于Contango与Back之间的结构呢？但其实，这种情况是不稳定的，介于Contango和Back的情况存在，但是这种结构对大部分品种来说不会存在太久，原因一是套利的存在总是能把结构套成Contango或者是Back的一种；原因二是预期与现实总会出一个结果，否则市场就失去了其交易的意义。当然，大部分工业品的终极都是进入Contango结构，至于原因，我们留着后面的文章再分析和共享。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以我们来讲几个有趣的故事：</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">假如现在是11月份，A品种是标准常态化的Back结构：现货价900，12月近月期货价820，01主力期货价780，05远月期货价格720。随着时间的推移，从11月直到1月份前的主逻辑是“期现回归”，也就是01主力合约价格和现货价格收敛。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">当然会出现这么几种情况：一是如果“现实端出现强现实”的情况，譬如现货市场上“库存降低，供应减少”这类现象的出现，那么意味着现货价格会拉涨，且期现基差将拉大，合约间价差也拉大，市场走正向套利的逻辑，此时市场上走的就是“强现实”路线。二是市场现状正好相反“现实端的弱现实”，比如出现“库存增加，供应端产量也增加”这类现象，也也就意味着现货端价格预期走跌，且期现基差将缩小，合约间价差也缩小，市场走反向套利的逻辑。此时市场上走的就是“弱现实”路线。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">当然，市场上一般不会只有现实端的强弱，还有预期端的强弱。如果是“强现实搭配了强预期”，那就是标准的“戴维斯双击”。市场可能会走出逼仓的行情，比如11以来的黑色；如果是“弱现实搭配了弱预期”，那就标准的“戴维斯双杀”，Back结构的话那就可能是单边走跌的情况，如果是Contango结构，那就意味着可能会存在逼仓的情况了，比如11月以来的苹果。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以对于这两种情况是很好判断的，就比如11月下旬的铁矿石，当前商品短缺，且预期货物也供应不足，那无论是期货还是现货，只能通过涨价化解矛盾。再如落果后的苹果，产量大增，走货也低于预期，库存历史新高，库存消化能力也低于历史记录；同时疫情反复，运输受阻，其他水果的竞争，所以使得12/01合约苹果的矛盾只能通过跌价来化解。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">一样的，还有另外两种搭配情况，“强现实与弱预期”。从期限结构来看，如果是Back结构，则是Back缩小的一个过程，如果是Contango结构，则是一个Contango扩大的过程。这个也很好去理解，预期的故事少了，也就意味着预期因素降下来了，所以也就意味着远月会坍缩得比近月厉害，此时市场是走反套逻辑。如果是“弱现实与强预期”，从期限结构来看，则正好是相反的一个过程如果是Back结构，则是一个Back结构强化的过程，如果是Contango结构，则是一个Contango结构改善，甚至走向Back结构的过程。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">其中的案例也是很多，在此我们拿2020年铁矿的故事来做一个简单的复盘。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/sinakd202128s/68/w1080h588/20210208/2adb-kiweitv5884771.png" alt=""></div>
+<p cms-style="font-L">　　<font cms-style="font-L">2020年年初开盘走跌是因为新冠疫情的“弱现实”；随后海外疫情的爆发迎来了“弱现实和弱预期”的“戴维斯双杀”，当然，大部分商品也是受此影响（铁矿相对而言还是强势的）。随后市场进入了短暂的震荡进入了“弱现实，强预期”的走势，开启了一波上涨的走势；后来国内开工率回升，生产得以恢复，市场便开启了“强现实”的路线；当然，“强现实”过后一般都是意味着“弱预期”，一方面是季节性的预期，另一方面又到了前期的基本面高点。所以市场现实走了一波“弱预期”的路线，紧接着国庆后开始了“预期与现实的互掐”，并最终在中澳矛盾冲突下走出了一波逼仓行情，也就是“强预期叠加了强现实”的“戴维斯双击”行情；回到现在，市场的路线就再次回到了“强现实，弱预期”的路线，在此阶段，市场波动率明显加大，且最终将以震荡的形式走出一个方向。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">当然，铁矿的故事是比较典型。也有很多其他的品种值得我们去探究，比如棉花、橡胶以及电解铜等。这些品种在不同阶段上所讲述的故事是不同的，有的是在走预期行情，有的是在走现实路线。当然，必须结合特定的时间点以及对品种性质足够了解的情况下去分析。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">以上是市场上“期现回归”主路线的内容，以回归现实为主。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">市场上另一个主逻辑就是“预期路线”，以讲故事为主。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">以下为“预期路线”的主要内容。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">一般而言，一些相对特殊的品种，在“预期路线”的故事会很多。尤其是一些进口依赖类型产品、工农业复合类型产品以及农产品或季节性明显类型产品会十分明显，比如棉花、橡胶、甲醇、油脂、铁矿石等。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">随着最近交割月的交割完毕，市场上的矛盾得到释放，这是“预期路线”发生的主要时间点。由于较主力合约到期还有一段很长的交易市场，市场上的交易热点会集中于“预期路线”；随着市场对“预期路线”交易得差不多了的时候，市场的交易情绪又会集中于“现实路线”。所以从大方向来看：市场上的一个重要逻辑就是在“预期路线”和“现实路线”来回切换。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">简言之如下图：</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/sinakd202128s/540/w987h353/20210208/cb35-kiweitv5884767.png" alt=""></div>
+<p cms-style="font-L">　　<font cms-style="font-L">我们就以当下（2021年1月）橡胶为例。从盘面上看，橡胶2105合约既下不去14000的关键点位，也上不了15000这个关键位置，始终在14000—15000这个位置徘徊；上去就被砸盘急跌下来，下去也有人托着价格。从持仓量来分析：几次大跌是多头主动减仓，几次拉涨是空头主动减仓导致的；从期货持仓席位来分析：空头集中于中信期货、国泰君安，其自己子公司都是具有现货的。两者结合，简单的一个结论：也就代表着他们看到了套利的利润，所以选择在这个区间内来回交易。这一方面源于自己有现货，另一方面则是橡胶仓单历年最低。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以现在市场上有很多的人盯着橡胶，等着05橡胶合约突破，希望随着技术上的突破走出一波大的行情。为什么会执着于05橡胶合约，就是05橡胶合约预期故事很多。有着农产品属性，便有了天气、自然灾害的问题；有着工业属性，便有了汽车消费等预期的好转；同时又叠加了产能周期以及宏观环境看好的因素。所以05橡胶合约预期故事很多，所以橡胶目前就是属于一个“强预期，现实中性”的品种。同理的，还有棉花、苹果、红枣；当然品种间还是有差异的，棉花也是“强预期，现实中性”，苹果属于“弱现实，弱预期”，红枣则属于“预期现实都中性”。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">当然，也有“预期故事”并不是很乐观的。比如当下的05铁矿石合约，05铁矿石合约的矛盾一方面是预期供应端属于偏宽松端的，这样说的原因一是05合约的时间周期长，无法预期后续政策情况。其本意是当下已经经历了较长周期的紧供应，多数交易参与者会认为这种状态不会持续的存在，尤其是在01合约创下历史新高的时候。所以对于铁矿而言，其定位是“强现实，弱预期”的局面。再如焦煤焦炭就更是如此了，所以我们一边能看到黑色现货与近月强势，但是05主力合约跌幅较大。这就是一个“强现实，弱预期”的故事。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">以上便是“预期故事”的一个路线。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">预期故事会随着时间的推移而慢慢变成现实，随后市场上的故事就又会来到“现实路线”，开启“期现回归”之旅。关于什么时候开启，我更偏向于换月的时间的问题，简单的来看就是新主力合约开启前到后续新主力生成这个阶段属于“预期路线”的时间段，随后直到期货交割，市场上走的便是“现实路线”。关于主力换月的问题，我们后面会专门出一篇文章进行介绍，在此并不赘述。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">本段总结：本段主要讲述预期与现实的哲学关系以及其对应的期限结构，在此情况下对期限结构进行简单的解读。随后叙述了一个主力合约的周期变化以及其演绎路径——“预期路线”“现实路线”。也就是说，市场上在不同的时间点存在着两种不同的交易逻辑，一个交易逻辑是“预期逻辑”，在此路线下，市场上以“讲故事”为重心，品种充斥着不同的预期；另一个则是“现实逻辑”，在此路线下，市场上以“期现回归”为重心，终究面对现实。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">这就是一张期货合约的一生！</font></p>
+<p cms-style="font-L align-Center">　　4</p>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">全文总结</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【1】农产品以及工业品在期货合约设计之时有着不同的考虑。大部分工业品都具有连续生产、连续贸易的特点，其生产、消费、贸易、流通没有明显的季节性，相关企业在全年各月份均有套期保值的需求。而农产品是季节性生产，合约分布多为单月，由于我国的春节因素，农产品合约交割避开了2月份；同时借鉴国际通行的离散设计，月份多选择为从01月到11月的单月。这也是期限结构理论适用大部分工业品以及少部分农产品的原因。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【2】关于预期和现实，我们可以这样去理解。现货所代表的是100%现实因素下的期货价格，而近月期货合约则是现货因素占大头的期货合约，主力合约则是两两相匹配的。也就是说，随着时间的往后推移，预期的因素在合约价格上的比重是越来越大的。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【3】我们可以通过“预期与现实”的分析方法来对一些品种进行定位，建立“预期现实四象限”，如果是能跟踪其变动情况，那就更加完美了。比如某一个品种脱离了“戴维斯双杀区域”，随后进入“中性区域”，随着供应端矛盾的变化，进入了“强现实端”；或者某一品种从“戴维斯双击”的神坛跌入到“弱现实端”。这就是一个相对完整的价格运动。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【4】长期来看，我们是不可能存在这样的一个世界：当下是绝望的，未来也是绝望的；或者是当下的乐观的，未来依旧是乐观的，因为这样的世界没有意义，因为波动才是万物之源。选择当下的悲观和预期的乐观，就是将一串葡萄中最坏的先吃完，留着好的后面吃；选择当下的客观和预期的悲观，则是正好相反。或许有人就一口咬定说前者好抑或后者好，但这其实都没有意义，前者过得艰辛但还有希望，后者活得滋润却只剩回忆。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【5】这或许也是两种不同的人生态度。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【6】从一个合约存续周期的角度来看，一个合约的交易逻辑是有变化的。首先在交易时间充足的情况下，市场上的交易逻辑是在“预期逻辑”上，关于该品种的预期故事会非常多。随着交易时间的慢慢变少，市场上的交易逻辑就会转变成为“现实逻辑”，期货合约会开始“期现回归”的道路，并最终面对现实，变成100%的现货。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【7】这就是一张期货合约的一生。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">References：</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[1]魏振祥．商品期货品种设计手册[M]．机械工业出版社．2017</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[2]张秀青．预期管理与期货市场[J]．国际金融．2017</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[3]陈蓉；郑振飞．期货价格能否预测未来的现货价格[J]．国际金融研究．2007</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[4]李岩；牟博佼．我国商品期货与现货价格引领关系实证研究[J]．商业研究．2018</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[5]代宏霞；林祥友．股指期货合约存续期价格引导关系的时变性研究[J]．投资研究．2012</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[6]侯旭廷．国际铁矿石期货价格与现货价格关系研究[D]．中国海洋大学．2013</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[7]何爱萍．我国大宗商品期货交易系统研究[D]．厦门大学．2017</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[8]钱钟书．围城[M]．人民文学出版社． 2007</font></p>
+<!--article_adlist[<p cms-style="strong-Bold font-L align-Center"><font cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center">— THE END —</font></font></p><p cms-style="strong-Bold font-L align-Center"><font cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center">大宗商品脱水策略研报V2.0 全新升级</font></font></p><p cms-style="strong-Bold font-L align-Center">交易期货市场，这份买方机构都在用的“策略情报”了解一下</p>]article_adlist-->
+<div class="img_wrapper"><!--article_adlist[<img cms-width="677" style="max-width:640px" id="12" src="http://n.sinaimg.cn/sinakd202128s/730/w750h780/20210208/1e54-kiweitv5884387.png" img-code="2048" img-size="750,780" ocr-text="追踪核心逻辑驱动\n一复盘监测日报飞脱水策略周报飞专属社群互动\nT<x一\n助力关键决策\n大宗商品脱水策略研报-O一口\n入以己*思的语的期货数据-研究集散地\n-地\n了热点专题报告心大咖线上路演\nzZ&-" qr-area="0.025"></x>]article_adlist--></div>
+<!--article_adlist[<p cms-style="strong-Bold font-L align-Center"><font cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">联系我们</font></font></font></p><p cms-style="font-L align-Center"><font cms-style="font-L align-Center">官方网站：http://bestanalyst.cn</font></p><p cms-style="strong-Bold font-L align-Center">记得扫码关注微信公众号</p><p cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">「对冲研投」</font></font></p><p cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">寻找属于你的alpha</font></font></p>]article_adlist-->
+<div class="img_wrapper"><!--article_adlist[<img cms-width="131" style="max-width:640px" id="13" src="http://n.sinaimg.cn/sinakd202128s/516/w258h258/20210208/025d-kiweitv5884368.jpg" img-code="2048" img-size="258,258" ocr-text="毕\n矩多小公\n口难斑巴\n芯冲研段\n出一>" qr-area="0.734"/>]article_adlist--></div>

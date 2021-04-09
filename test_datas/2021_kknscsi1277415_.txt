@@ -1,0 +1,10 @@
+macOS Big Sur代码曝光 未来Mac系列有望支持Face ID
+CNMO
+<blockquote>
+<p>　　新品拿到手软，好物天天推荐，<a href="http://zhongce.sina.com.cn/" target="_blank" data-comos-dataid="">新浪众测</a>等你加入。在这里，你也能成为数码大V；在这里，产品好坏你说了算。【<a href="http://zhongce.sina.com.cn/about/app#page1" target="_blank" data-comos-dataid="">玩转新奇好物，来新浪众测</a>】</p>
+</blockquote>
+<p>　　3月11日，有技术人员在macOS Big Sur上发现了TrueDepth摄像头的相关信息，这意味着苹果正在尝试将面部识别技术应用到Mac系列产品上。</p>
+<div class="img_wrapper"><img id="0" src="http://n.sinaimg.cn/spider2021311/65/w553h312/20210311/c649-kmeeius7142467.png" alt=""><span class="img_descr"></span></div>
+<p>　　据9to5Mac报道称，技术人员在macOS Big Sur Beta 3上找到了一个新的拓展代码，代码支持“PearlCamera”，而这正是TrueDepth摄像头和面部识别的内部代号，这一代号第一次出现是在iPhone X上，这款iPhone也是苹果首款支持Face ID的手机产品。</p>
+<div class="img_wrapper"><img id="1" src="http://n.sinaimg.cn/spider2021311/10/w600h210/20210311/d252-kmeeius7142465.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　这意味着，苹果接下来发布的Mac系列产品很有可能会支持Face ID，用于提升产品本身的安全性。值得注意的是，Face ID的拓展代码是为macOS专门构建的，而不是代码残留。但是，Face ID功能要真正落地到市售产品上可能还需要再等上一段时间，可能不会在苹果春季新品发布会上亮相。除此之外，Apple Silicon也将会是今年Mac系列产品的亮点之一。</p>

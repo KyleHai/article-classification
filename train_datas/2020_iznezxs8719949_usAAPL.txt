@@ -1,0 +1,14 @@
+苹果终于忍不住推出一款平价智能音箱homepodmini，虽然和亚马逊echodot、googlehome相比，这款音箱的价格似乎并没有很“平价”，但和它的老前辈homepod相比，可以说是大幅降低了购买门槛	1
+拿到homepodmini的第一感受就是它比我预期的还要小，放在手里真的就像拿着一颗苹果	1
+从苹果官网的描述来看，如果使用的电源适配器功率不够，homepodmini将显示为黄灯，无法使用	1
+苹果在宣传文案中称homepodmini“简直就像个大音箱”，实际体验过后，你会清楚它指的一定不是homepod	1
+亚马逊alexa、googleassistant和siri是目前最流行的三大虚拟助理服务，其中siri应该是表现最差的，但也是目前对中文支持最好的，苹果正通过各种办法改善它的体验，目前不论是在iphone还是homepod上，至少在智能家居、基础娱乐与问答方面，siri不会让人太失望	1
+<divclass="img_wrapper"><imgid="6"img-size="1080,675"src="http://n.sinaimg.cn/spider20201224/155/w1080h675/20201224/93f9-kftfpiv9489409.jpg"style="max-width:640px"/><spanclass="img_descr">除此之外，这个搜索结果似乎会根据你的所在地使用不同的搜索引擎，即便你使用美国appleid，但你在中国询问，它就会给你百度搜索的结果，而不是google	1
+<divclass="img_wrapper"><imgid="10"img-size="1080,675"src="http://n.sinaimg.cn/spider20201224/155/w1080h675/20201224/2d58-kftfpiv9489812.jpg"style="max-width:640px"/><spanclass="img_descr">除了控制各种设备，随着homepodmini的推出，苹果还带来了“广播”功能，你只需要对着手机或homepod说“hey	1
+<divclass="img_wrapper"><imgsrc="http://n.sinaimg.cn/spider20201224/155/w1080h675/20201224/7196-kftfpiv9489808.jpg"style="max-width:640px"id="11"img-size="1080,675"/><spanclass="img_descr">虽然苹果这几年的品控越来越差，但在产品设计上，依然能看到它的用心，比如初次设定时，和airpods一样，只要把手机靠近设备就能开始进行初始设定	1
+对于不同的wi-fi热点，苹果也能让用户“无痛”切换	1
+在中国，你可以让siri帮你播放applemusic和icloud音乐资料库的内容，如果你没有订阅applemusic，你也可以让它播放itunes资料库中的曲目，除了音乐，你也能用它播放podcast节目	1
+<divclass="img_wrapper"><imgimg-size="1080,675"src="http://n.sinaimg.cn/spider20201224/155/w1080h675/20201224/7f7d-kftfpiv9489939.jpg"style="max-width:640px"id="12"/><spanclass="img_descr">如果你使用第三方音乐服务，目前homepod没有支持中国的qq音乐、网易云音乐这些本土音乐平台，在国外也只有pandora等部分平台得到了支持，正与苹果对抗中的spotify同样没有在第一时间得到支持	1
+首先，对于想要在家里部署homekit智能家居的用户来说，homepod、ipad至少都要花费两千多，appletv也要一千多，只要749元的homepodmini也是价格非常亲民的控制中枢设备	1
+<divclass="img_wrapper"><imgid="15"img-size="1080,675"src="http://n.sinaimg.cn/spider20201224/155/w1080h675/20201224/0c10-kftfpiv9490056.jpg"style="max-width:640px"/><spanclass="img_descr">音源方面，单以中国来看，你如果不想用airplay，那么你可能需要订阅个applemusic，或是在itunesstore里面购买音乐	1
+但是从苹果的角度来看，它应该更希望通过这样一款平价产品，吸引更多用户来订阅applemusic吧	1

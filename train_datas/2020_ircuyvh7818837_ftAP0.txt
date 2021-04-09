@@ -1,0 +1,7 @@
+5、<ahref="https://finance.sina.com.cn/stock/usstock/c/2020-04-15/doc-iircuyvh7810938.shtml"target="_blank">苹果从applemaps收集数据显示社交隔离遵守程度	0
+<ahref="https://finance.sina.com.cn/stock/usstock/c/2020-04-15/doc-iircuyvh7810938.shtml"target="_blank">苹果从applemaps收集数据追踪社交隔离遵守程度	0
+<ahref="http://stock.finance.sina.com.cn/usstock/quotes/aapl.html"target="_blank">苹果公司周二发布了一款新工具，该工具可以显示人们对社交隔离准则的遵循程度	0
+该公司从applemaps收集匿名数据，与googlemaps趋势的展示类似	0
+苹果公司表示，该公司通过“计算向applemaps发出的路线请求数量”来为其移动工具生成信息	0
+苹果公司收集的信息与任何appleid无关，因此该公司不知道每个人在做什么	0
+苹果公司表示将每天更新信息，以便政府、医务人员人员和公众获得最新的可用数据	0

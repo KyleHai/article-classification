@@ -1,0 +1,5 @@
+微软edge浏览器现已原生支持苹果m1mac	1
+微软更新了其edge浏览器，现已原生支持applesilicon处理器，为搭载m1芯片的mac优化了性能	1
+本周早些时候，苹果分享了一份针对m1mac优化的热门应用清单，这些应用在mac应用商店中可以下载，比如pixelmatorpro、adobelightroom、affinitydesigner、darkroom、fantastical、omnifocus、bbedit、instapaper和twitter	1
+苹果称，针对m1芯片优化的应用能提供“改变游戏规则的速度和功能”	1
+it之家了解到，上个月苹果发布了首批采用m1芯片的mac，包括新款13英寸macbookpro、macbookair和macmini	1

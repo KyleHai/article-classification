@@ -1,0 +1,25 @@
+教你用iPhone提升睡眠质量
+新浪数码
+<p>　　新浪数码讯 3月18日下午消息，一年一度的世界睡眠日（3月19日）来临，你是否已经开始关注你的睡眠质量了呢？借此机会，我们给大家介绍几个助眠小技巧，借助你的iPhone和Apple Watch，提高睡眠质量。</p>
+<p>　　<strong>1、让iPhone帮你建立作息规律</strong></p>
+<p>　　充足睡眠对于健康来说非常重要，然而很多人都会遇到这样的情况——心里想着要早点休息，一抬头已经过了零点。iPhone有个自带的健康App，可以帮助你解决这个问题。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/226/w630h396/20210318/8669-kmrcuky6719307.png" alt="善用睡眠App" data-link=""><span class="img_descr">善用睡眠App</span></div>
+<p>　　在健康App你可以设定作息时间、设定目标，例如每晚睡眠时长、每周的安排等等。另外，“睡前放松”功能可直接提醒你每晚就寝时间，还会提示各种睡前放松的捷径：例如在家居App中设定特定场景、在Apple Music上聆听舒压的歌单。这些捷径会在临近就寝时间时在锁定画面上出现，帮你养成良好的作息。</p>
+<p>　　<strong>2、用Apple Watch关注你的睡眠质量</strong></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/152/w630h322/20210318/3328-kmrcuky6721167.png" alt="利用Apple Watch监测睡眠" data-link=""><span class="img_descr">利用Apple Watch监测睡眠</span></div>
+<p>　　Apple Watch有个全新睡眠App，可以帮你制定作息时间，培养睡眠习惯，从而实现睡眠目标。Apple Watch通过加速感应器的信号来判断你是醒着还是在睡觉，这样就可以追踪自己每晚的睡眠时长，并查看一段时间内的睡眠趋势。</p>
+<p>　　当然，通过健康App，你也能很方便地查看睡眠历史记录，以及其他健康数据。</p>
+<p>　　<strong>3、让HomePod mini带你进入梦乡</strong></p>
+<p>　　HomePod mini今年苹果主打的智能音箱产品，身材小巧，动力十足。如果你有这款产品，不妨拿它和Apple Music、Siri组合在一起，睡前播放一些音乐，帮助你快速进入梦乡。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/202/w630h372/20210318/bfb2-kmrcuky6723580.png" alt="Apple Music的睡眠板块" data-link=""><span class="img_descr">Apple Music的睡眠板块</span></div>
+<p>　　Apple Music有个专门的“睡眠”板块，其中囊括了编辑精心策划挑选的 心情氛围歌单、自然声音和白噪音，以及助眠电台等内容。睡觉前，你可以通过Siri来播放这些歌曲。比如，你可以说“Hey Siri，给我播放一些大自然的声音”或者“Hey Siri，为我播放一些助眠音乐”。</p>
+<p>　　HomePod mini 支持各种环境声，包括雨声、炉火噼啪声、溪水流动声等等，这些背景声能帮助你集中注意力，放松身心。Siri 还可以设置睡眠计时器，让背景声自动停止播放。</p>
+<p>　　<strong>4、其他一些睡眠App，你不妨试试</strong></p>
+<p>　　除了苹果自己的产品和服务，一些第三方App也能帮你提高睡眠质量。</p>
+<blockquote>
+<p>　　Sleep Cycle，一款闹钟App，能追踪你的睡眠模式，并在浅眠时叫醒你，让人自然起床，因此能彻底休息、精力充沛，再也不必把手机放在床上；</p>
+<p>　　Moshi: Sleep and Mindfulness，为小朋友而设的睡眠App，97%的家长用户认为Moshi能帮助小朋友入睡；</p>
+<p>　　Sleepiest，内置100多个床前小故事，无论成人或小孩都可找到适合的睡前娱乐；</p>
+<p>　　AutoSleep，配合Apple Watch，他会追踪你的睡眠和质量，并在早上发送通知；即使不配戴手表睡觉，AutoSleep也能追踪你的睡眠时间。</p>
+</blockquote>
+<p>　　如果你是苹果用户，不妨试试上面这些技巧，养成一个良好的睡眠习惯，让你变得更加健康。</p>

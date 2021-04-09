@@ -1,0 +1,3 @@
+<divclass="img_wrapper"><imgid="0"img-size="480,265"src="http://n.sinaimg.cn/spider20201223/745/w480h265/20201223/b717-kftfpiv6177436.png"style="max-width:640px"/><spanclass="img_descr">这个问题其实不仅仅局限于iphone12，如果进入苹果社区，我们会看到无论是最新的iphone12，还是这几年的其他iphone手机，都会有人反应在双卡双待下，有一张卡经常会出现没有信号的问题	1
+<divclass="img_wrapper"><imgid="1"img-size="480,318"src="http://n.sinaimg.cn/spider20201223/798/w480h318/20201223/6175-kftfpiv6177435.jpg"style="max-width:640px"/><spanclass="img_descr">我们看到在苹果社区里，这些反应相同问题的帖子中，有的是最近一周出现的，当然就是iphone12了；有的则是早在一年前就反应过类似的问题	1
+不过另一点让我们想不明白的是，网上很多用户的iphone12，即使没有升级到ios14.3，同样有类似的案例出现，考虑到在苹果社区中，不同型号的iphone以及不同的系统都有这样的先例，那么可以说这个问题苹果iphone的通病	1

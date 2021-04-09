@@ -1,0 +1,12 @@
+omdia：预计2020出货预输出给苹果iphone面板出货量将达2.07亿片	1
+新浪科技讯12月15日上午消息，根据omdia最新的《智能手机显示面板市场追踪报告》，2020年出货给apple智能手机的面板数量整体回升，并在近三年来有所增长	1
+omdia预计2020年，输出给苹果iphone的面板出货量将达到2.07亿片，较2019年增长11%	1
+根据omdia最新的《智能手机显示面板市场追踪报告》，2020年出货给apple智能手机的面板数量整体回升，并在近三年来有所增长	1
+omdia预计2020年，输出给苹果iphone的面板出货量将达到2.07亿片，较2019年增长11%	1
+不过，由于新iphone12系列的推出，面板厂向苹果的柔性amoled的出货量有望大幅增加85%，达到1.03亿片	1
+figure1:smartphonepanelshipmentsforappleiphones	1
+图2为各面板供应商给苹果手机的历史出货变化	1
+尽管乐金显示供应iphone的ltpstftlcd面板出货量减少，但其向苹果的手机面板出货量同比增长17%至5200万片	1
+figure2:appleiphonepanelshipmentsbysupplier	1
+apple特别要求2021年的机型采用低温多晶硅氧化物（ltpo）面板和薄膜封装（tfe）的on-cell触控面板等面板增强技术，因此面板厂商也纷纷计划ltps面板产能转向ltpo，同时也为tfe的on-cell触控面板争取足够的产能	1
+因此，三星显示用于苹果iphone的柔性amoled产能预计将从2020年每月10.5万张ltps基板变为2021年每月4.5万张ltps基板以及5万张ltpo基板	1

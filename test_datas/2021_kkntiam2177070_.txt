@@ -1,0 +1,54 @@
+这款跟MacBook对着干的产品 能否成功？
+爱范儿
+<blockquote>
+<p>　　听人描述，不如自己上手！你也想试试最新、最炫数码产品？还等什么，赶紧<a href="http://zhongce.sina.com.cn/about/app" target="_blank" data-comos-dataid="">加入新浪众测</a>。在这里不仅好玩意儿拿到手软，还有一群志同道合的伙伴与你畅聊数码。</p>
+</blockquote>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/184/w630h354/20210316/c323-kmkptxc8116424.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　去年年末 Apple 推出了搭载 Arm 版芯片的 MacBook，一面因自研芯片 M1 提供了强大性能和极低功耗表现而备受关注，另一方面则因其不可自行增加内存的‘缺陷’而被口诛笔伐。</p>
+<p cms-style="font-L">　　巧的是，有一家美国初创公司要跟 MacBook 的产品理念对着干。</p>
+<p cms-style="font-L strong-Bold">　　未来笔电之光？还是昙花一现？</p>
+<p cms-style="font-L">　　这家名为 Framework 的公司，将在今年夏天推出一款主打模块化理念的笔记本产品，其预搭载一块 13.5 英寸的 3：2 宽高比的屏幕，还有一个完整的笔电框架。在此之上，用户可以自行更换主板、接口、键盘、内存，甚至是屏幕边框等等元素。</p>
+<div class="img_wrapper"><img src="http://f.sinaimg.cn/sinakd2021315s/762/w1000h562/20210315/fc16-kmkptxc6944573.gif" alt="" width="550"></div>
+<p cms-style="font-L">　　从官方释出的拆装视频可以看出，目前产品的组装流程已经相当成熟，几乎所有零部件都能通过拆开 C 面面板后进行更换组装，背面所设置的，只有无线网络等小模块，看起来是可以通过热插拔的形式进行更换的，整机重量大概会在 1.3KG 以内，厚度嘛，最薄处为 1.58cm，体量与 MacBook Air 相似，略厚一点点。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/85/w630h255/20210316/fd2d-kmkptxc8115755.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　显然这款产品的卖点之一便是模块化，将 PC 上的 DIY 理念移植到笔电上，这想法很新鲜但绝非首创，在 Framework 之前就有前辈把这一理念付诸实践了。</p>
+<p cms-style="font-L strong-Bold">　　它的前辈们，结局让人喜忧参半</p>
+<p cms-style="font-L">　　早在 2015 年，一个叫 SOLO Notebook 的品牌就推出一款模块化笔电产品，还打出了 As easy as Lego 的宣传口号，他们没骗人。它的键盘、触控板、屏幕等模块像积木一样，通过 USB 接口（当时用的还是 Micro USB）相连，就连外观长得也像是乐高玩具。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/302/w630h472/20210316/1261-kmkptxc8115645.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　而戴尔旗下的外星人系列，也在一年前推出的 Area-51m 系列中，引入了模块化设计，因其使用的是桌面级处理器，所以不仅常规的内存和硬盘可以被拆卸更换，处理器和显卡也同样可以。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/145/w630h315/20210316/531d-kmkptxc8115540.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　然后一些产品选择了另一种形态，笔电本身轻薄化，但支持外置的 GPU 拓展坞，在外保持轻便苗条的身材，回到家接上强大的外置显卡，则露出狂野的另一面。这种设计得到了不少用户的青睐，不过由于高昂的价格，这类产品只受到一小撮游戏爱好者的关注。</p>
+<p cms-style="font-L">　　跳出笔电市场，让我们把目光看向移动电子产品领域，模块化设计是隔三岔五就会出现一次的风潮。</p>
+<p cms-style="font-L">　　譬如在隔壁手机产品上面，就被试验过许多次，LG G5、 Moto Z Play、Google Project Ara 都用自身行动证明了， 这条路根本走不通，失败的原因大概可以总结成两个方面：成本高、需求小。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/223/w630h393/20210316/6111-kmkptxc8115306.jpg" alt="▲ LG G5 图片来源：engadget" data-link=""><span class="img_descr">▲ LG G5 图片来源：engadget</span></div>
+<p cms-style="font-L">　　</p>
+<p cms-style="font-L">　　上面提到的三款产品，都是从 0 开始做起，推出的功能模块也只能在自家产品生态中去实现，固步自封的模块化设计，与 MacBook 一类的封闭产品也没差。</p>
+<p cms-style="font-L">　　而且手机这一品类，更新速度较快。据极光 2019 年 Q3 智能手机行业季度数据研究报告指出，我国手机用户换机频率大多集中在 2-3 年，占 29.7%，3 年以上才换机的用户仅 24.7%。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/390/w630h560/20210316/1f4c-kmkptxc8114954.jpg" alt=" ▲ 图片来源：极光大数据" data-link=""><span class="img_descr"> ▲ 图片来源：极光大数据</span></div>
+<p cms-style="font-L">　</p>
+<p cms-style="font-L">　　消费者换机背后的主要动力，除了更换阵营外，便是为了获得更流畅的使用体验，还有不少用户是因为看腻了现役手机的外观，就想换一台新的。</p>
+<p cms-style="font-L">　　以上列出的模块化产品都只能升级相机、电池等模块，满足不了用户更换性能硬件的需求，更做不到更换阵营，自然难以被用户接受。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/366/w630h536/20210316/6424-kmkptxc8114318.jpg" alt="▲ 图片来源：极光大数据" data-link=""><span class="img_descr">▲ 图片来源：极光大数据</span></div>
+<p cms-style="font-L">　　</p>
+<p cms-style="font-L">　　虽然模块化的这一标签，几乎在手机圈里彻底消失。而在其他消费电子领域，还有一线生机，譬如运动相机圈里的异类：Insta360 One R。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/184/w630h354/20210316/cbcc-kmkptxc8112929.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　借用了传统相机可换镜头的设计，让一台运动相机同时满足全景和高画质两种需求，算是颇有意思的尝试，但也因可拆卸的特性，削减了运动相机必须的防水防尘性能，或许亦是因此，才让极限运动爱好者望而却步选择了更为保险的一体式设计产品吧。</p>
+<p cms-style="font-L">　　可见 Framework 仅靠模块化笔电设计的卖点，成功的几率不太乐观，或许得找其他卖点去包装自己了 。</p>
+<p cms-style="font-L">　　Framework 的创始人 Nirav Patel 想到了环保议题。</p>
+<p cms-style="font-L strong-Bold">　　减少电子垃圾或许是卖点，但非灵丹妙药</p>
+<p cms-style="font-L">　　目前无论是笔电还是手机，每一次换代都意味着旧机器会被淘汰，没有坏的还能当闲置出手卖给有需要的人，延续它的生命，若是彻底报废的产品，最终归宿便是成为电子垃圾，被丢到堆填区或有专人进行回收处理。</p>
+<p cms-style="font-L">　　而在台式 PC 上，我们的做法会有些许差别：当遇到某个零件坏掉的情况，多数人会直接上网购买相应零件进行更换。</p>
+<p cms-style="font-L">　　即便产品换代，也会选择只升级某些部件，无需整机迭代，由此减少了电子垃圾的产生速度和频率，久而久之，对长远的环境保护大计而言，有百益而无一害。</p>
+<p cms-style="font-L">　　显然 Patel 也希望用模块化的设计，做出有益于地球母亲的事，或许正因为心怀这一个愿景，才有了 Framework 这个项目。</p>
+<p cms-style="font-L">　　然而品牌可以用环保的故事去包装产品，但又有多少用户真的会为此买账呢？环保只能是加分项，难以成为其产品力。</p>
+<p cms-style="font-L">　　真正的产品力，还得看用户最关心的：实用性。</p>
+<p cms-style="font-L strong-Bold">　　如果它能解决用户痛点的话，搞不好真能成</p>
+<p cms-style="font-L">　　从产品官网上，看得出来这款笔电预留了内存和 SSD 的位置，最多可拓展至 64GB 内存和 4TB SSD，而若想更换处理器，就需要把整块主板都换掉，对应不同处理器，散热方案也略有不同。</p>
+<p cms-style="font-L">　　目前可选的处理器方案分别是十一代酷睿 i5-1135G7、i7-1165G7 和 i7-1185G7，硬件配置方面足以对标主流的轻薄本，即便没有了模块化设计这一噱头，在选购办公笔电的时候，我也愿意多看它几眼。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/289/w630h459/20210316/a048-kmkptxc8112825.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　虽然 Framework 的产品形态暂时只有这一款，然而若预定量可观，或者得到了金主爸爸的支持，之后推出更多尺寸的机型和更强的性能拓展包，便能凸显出其模块化优势。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/191/w630h361/20210316/e8ed-kmkptxc8112779.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　不过摆在Patel 面前更紧迫的问题，还是成本，和如何让消费者观念产生转变。</p>
+<p cms-style="font-L">　　PC 的定制化之路走了三十余年，才发展至如今百花齐放的自由市场的样子，但还好 Framework 站在了巨人的肩膀上，不需要将所有坑再趟一遍，现有的加工和组装工艺已经可以生产出这款模块化笔电中的大部分零部件，但如何降低成本让售价维持在一个合理的水平，是 Patel 需要解决的问题。</p>
+<p cms-style="font-L">　　成本问题颇为棘手，但这是否能得到妥善解决，还得看消费者对模块化笔电的接受程度有多高，换句话说，用户愿意买账，采购成本便能降低。</p>
+<p cms-style="font-L">　　Emm，这下又绕回来了，看来 Framework 能否成功，还得在实际产品推出后，静待市场反应了。</p>

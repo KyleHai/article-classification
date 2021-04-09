@@ -1,0 +1,10 @@
+消息称苹果可能于明年发布搭载m1芯片的16英寸macbookpro	1
+<pclass='ori_titlesource'>原标题：消息称苹果可能于明年发布搭载m1芯片的16英寸macbookpro来源：站长之家	1
+12月21日消息：苹果已经发布了第一批采用自家芯片的mac电脑，包括最新版macbookair、macbookpro（13英寸）和macmini等产品都搭载m1芯片，而不是此前常用的英特尔芯片	1
+接下来让外界最关心的是，16英寸macbookpro什么时候才会正式采用苹果自主芯片	1
+<divclass="img_wrapper"><imgid="0"img-size="605,340"src="http://n.sinaimg.cn/spider20201222/145/w605h340/20201222/69ef-kfnaptu9219783.png"style="max-width:640px"/><spanclass="img_descr">在年度开发者大会（wwdc）上，苹果公司宣布，从英特尔完全到自家的芯片(applesilicon)的过渡将需要大约两年的时间	1
+<divclass="img_wrapper"><imgstyle="max-width:640px"id="1"img-size="600,450"src="http://n.sinaimg.cn/spider20201222/250/w600h450/20201222/2c3e-kfnaptu9220085.jpg"/><spanclass="img_descr">目前还不清楚苹果是否会设计一个类似于m1的芯片，将gpu构建到与硅芯片中，或者创建一个专用gpu	1
+国外媒体ilounge报道称，苹果获取可能会为16英寸的macbookpro打造一个更大的单芯片，包括cpu、内存和gpu	1
+当然，目前尚不能确定苹果的发展方向	1
+另一种可能是苹果为16英寸macbookpro打造专用gpu，由于这样会更厚，这意味着有更多空间容纳更多组件	1
+值得一提的是，彭博社11月初就报道过，采用applesilicon的新款16英寸macbookpro正在开发中，但没有提供发布时间表，当时预计采用applesilicon的全新16英寸macbookpro和全新设计的macbookpro将在2021年第二季度末或第三季度推出	1

@@ -1,0 +1,4 @@
+视频|苹果计划2024年生产电动车配有更高级电池	1
+<!--mce-plugin-videolist2[{"listplay":true,"videos":[{"title":"视频丨苹果计划2024年生产电动车配有更高级电池","videoid":"367204134","ad":true,"source":"","url":"https://video.sina.com.cn/p/finance/2020-12-22/detail-iiznctke7834215.d.html","img":"http://n.sinaimg.cn/front20201222ac/400/w720h1280/20201222/a472-kfnaptu9604261.jpg","largeimg":"http://n.sinaimg.cn/front20201222ac/400/w720h1280/20201222/a472-kfnaptu9604261.jpg","smallimg":"http://n.sinaimg.cn/front20201222ac/400/w720h1280/20201222/a472-kfnaptu9604261.jpg","tags":"","docid":"iznctke7834215","vmsurl":"http://video.sina.com.cn/view/367204134.html","wapurl":"https://video.sina.cn/finance/2020-12-22/detail-iiznctke7834215.d.html","dataid":"comos:iznctke7834215","from":"cms"}],"downloaddescr":"","videocard":false}]mce-plugin-videolist2-->	1
+据报道，苹果公司在研发自动驾驶汽车技术，并计划2024年生产一款拥有新型电池技术的车，新型电池设计能彻底降低电池成本并增加车辆续航里程	1
+苹果将使用激光雷达传感器帮助汽车获得道路三维视图	1

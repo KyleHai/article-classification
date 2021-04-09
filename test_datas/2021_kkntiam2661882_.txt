@@ -1,0 +1,13 @@
+全美最快5G手机前25全是安卓 苹果在天线设计上还需努力
+新浪数码
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/192/w630h362/20210316/a6aa-kmkptxc8165697.png" alt="　　5G网络下载速度排名前25的手机，蓝色的都是三星品牌。橙色是非三星，虚线的是折叠/双屏幕等新形态手机" data-link=""><span class="img_descr">　　5G网络下载速度排名前25的手机，蓝色的都是三星品牌。橙色是非三星，虚线的是折叠/双屏幕等新形态手机</span></div>
+<p>　　新浪数码讯 3月16日上午消息，数据公司Opensignal的一份新报告粗略描绘了美国市场主流智能手机在5G网络下的速度表现，结论是，最快5G手机中排名前25位的大多数都是由三星生产的，而苹果的首批5G iPhone整体下载速度比安卓手机慢。</p>
+<p>　　Opensignal分享了美国主流手机们的5G性能报告，以5G网络下下载速度而论，三星的新款Galaxy S21 5G以平均56Mbps的5G/4G下载速度名列榜首。</p>
+<p>　　前25名中有60%都是三星手机，当然这原因之一也是测试背景是美国手机市场，三星品牌在有较大占有率。TCL的Revvl 5G和一加8T+分别以29.8和49.3Mbps的平均速度排名第二和第三。 LG的Velvet 5G则以37.8Mbps的速度排名第25位。</p>
+<p>　　iPhone 12系列没排进前25？是的，如果仅以5G网络下载速度而论，iPhone 12让用户感到失望，苹果的首批支持5G的智能手机在平均速度上落后于Android手机。</p>
+<p>　　iPhone 12 Pro和12 Pro Max的平均下载速度分别为36.9Mbps和36.2Mbps，而iPhone 12和12 mini的平均下载速度分别为29.6Mbps和32.9Mbps。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/178/w630h348/20210316/ce23-kmkptxc8169168.png" alt="过度到5G网络后，iPhone的速度增幅是最大" data-link=""><span class="img_descr">过度到5G网络后，iPhone的速度增幅是最大</span></div>
+<p>　　不过也有让人宽慰的一点，就是iPhone的网络速度对比4G时代增幅较大。Opensignal指出，由于以前的iPhone使用英特尔芯片导致4G速度很慢，所以换了高通芯片后，iPhone 12在美国5G相对于4G速度的增幅比三星，一加等竞争对手中高出2.3倍。</p>
+<p>　　但是，iPhone 12系列使用的是跟安卓手机们相同的高通5G调制解调器，甚至还支持mmWave毫米波技术，那为什么iPhone的速度慢？</p>
+<p>　　撰写此报告并领导Opensignal分析小组的伊恩·福格（Ian Fogg）表示，在RF手机射频设计方面，三星和其他Android制造商可能会领先于苹果，因为现代手机中不仅是调制解调器对5G/4G性能会有影响。例如，三星的Galaxy S21是其第三代5G智能手机，而iPhone 12则是苹果的第一代产品。因此，苹果可能需要做一些工作来加强前端RF设计。</p>
+<p>　　另外需要说明的是，这次测试结果仅能代表美国市场的部分机型，5G网络速度跟许多因素有关，并不能完全以此评判。</p>

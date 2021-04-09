@@ -1,0 +1,41 @@
+M1版MacBook有硬伤？SSD损耗巨大到底咋回事
+新浪科技综合
+<p class="ori_titlesource">　　本文来自太平洋电脑网</p>
+<p cms-style="font-L isIntable ">　　M1处理器版的MacBook惊艳了很多人的眼球，有如此强劲的性能的同时，还可以实现超长续航，让很多人惊呼这就是轻薄本的终极形态。然而，最近M1版MacBook却引发了一些争议，有用户发现在使用一段时间后，SSD的写入数据量非常巨大。要知道，SSD中NAND的写入次数是有限的，M1版MacBook这还算是新机，就产生了如此写入量，为什么会这样？到底要不要紧？这就来简单谈谈。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021313/423/w700h523/20210313/53ce-kmeeiut3314324.jpg" alt="M1版MacBook出现SSD写入量过大的问题？"><span class="img_descr">M1版MacBook出现SSD写入量过大的问题？</span></div>
+<p cms-style="strong-Bold font-L isIntable ">　　SSD损耗无可避免：操作系统的Swap机制</p>
+<p cms-style="font-L isIntable ">　　根据反馈，出现巨大写入量的SSD，并不是经常挂机下载这样的任务引起的。在日常使用中，SSD就已经会出现此类情况。实际上，很多操作系统都会造成这样的状况，只不过可能没有M1版MacBook那么夸张。SSD的损耗在日常使用无可避免，其实这是SSD充当了内存Swap引起的。</p>
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021313/330/w700h430/20210313/7ed9-kmeeiut3314321.png" alt="macOS中的Swap"><span class="img_descr">macOS中的Swap</span></div>
+<p cms-style="font-L isIntable ">　　什么是Swap？这是一个在桌面操作系统中常见的系统机制，我们可以大致理解为硬盘充当了内存的作用。在桌面的使用环境下，PC、Mac等设备需要拥有实时运行多个大型软件的能力，这就需要内存足以存储这么多个大型软件的进程容量。然而物理内存是有限的，为此操作系统就需要调用硬盘空间，充当内存的作用。</p>
+<div class="img_wrapper"><img id="2" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021313/267/w700h367/20210313/5b04-kmeeiut3314367.jpg" alt="　Swap机制的简单示意图"><span class="img_descr">　Swap机制的简单示意图</span></div>
+<p cms-style="font-L isIntable ">　　在macOS系统中，当软件开始运行，进程即会被读取到物理内存当中。随着运行的软件越来越多，操作系统会意识到内存不够用，首先采取的措施是对内存中的数据进行压缩，这会消耗一定的CPU资源；当进入内存的数据变得更多后，操作系统就会考虑舍弃一部分内存中的数据，这时候在内存中没有被修改过的数据首先被抛弃，释放出部分内存空间——例如你打开一个软件，从未操作过，随着内存逐渐被占满，这个软件在内存的一些数据可能实际上已经被清除掉，当你重新开始操作该软件的时候，会重新从硬盘读取所需数据。在这种情况下，操作系统并不会对SSD写入大量数据。</p>
+<p cms-style="font-L isIntable ">　　然而，当内存中的数据被修改过，产生了“脏页”，情况就不一样了。当内存逐渐被占满时，操作系统并不能直接将“脏页”从内存中清理出去，毕竟这往往记录着软件的工作进程。这时候，macOS会将这部分“脏页”暂存到SSD中，这就产生了写入SSD的数据。</p>
+<p cms-style="font-L isIntable ">　　为此，macOS还建立了一个专门的VM分区，来存放这些内存数据，当物理内存越紧张、用户开启软件越多、软件需求的内存容量越大的时候，VM分区的I/O就会更加频繁，写入的数据也就更多。在这样的Swap操作之下，就算没有进行下载、传输数据之类的操作，也会有大量的数据写入SSD。</p>
+<div class="img_wrapper"><img id="3" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021313/237/w700h337/20210313/5ef0-kmeeiut3314365.png" alt="macOS中的VM分区"><span class="img_descr">macOS中的VM分区</span></div>
+<p cms-style="font-L isIntable ">　　实际上，并非只有macOS存在Swap的机制，Windows、Android等系统均有类似设计。在Windows中，我们可以在系统高级设置中找到“虚拟内存”，这即是硬盘为内存脏页提供存储空间；在Android中，也有zRAM和Swap的机制，会对内存进行压缩和写入NAND。</p>
+<div class="img_wrapper"><img id="4" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021313/334/w700h434/20210313/2fc8-kmeeiut3314394.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Center isIntable ">　　Win10中的虚拟内存设置</p>
+<p cms-style="font-L isIntable ">　　不过，iOS倒是没有Swap机制，这或许和墓碑机制不需要占用太多RAM、苹果对iOS设备定位为非重度生产力工具等因素有关。</p>
+<p cms-style="strong-Bold font-L isIntable ">　　M1版MacBook为何SSD写入数据尤其多？</p>
+<p cms-style="font-L isIntable ">　　Swap是一种非常常见的系统机制，Windows、Android等操作系统有类似设计。但有用户反馈，M1版MacBook的SSD写入数据就是特别多，这到底是为什么？下面是一些分析。</p>
+<p cms-style="font-L isIntable ">　　·和长期不关机的用户习惯有关。Mac电脑，有其是M1版MacBook，强调“掀盖即用”，很多用户养成了长期不关机的习惯，不使用电脑时仅仅合盖休眠。操作系统没有经过重启，经过长时间持续使用，内存脏页会越来越多，写入SSD的数据也越来越多。加上macOS的休眠状态（hibernatemode）会将RAM数据写入硬盘，长期使用休眠待机，也会加大SSD的写入量。</p>
+<div class="img_wrapper"><img id="5" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021313/247/w700h347/20210313/36f5-kmeeiut3314393.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Center isIntable ">　　MacBook强调“开盖即用”，长时间不关机，Swap更频繁，休眠会增加SSD的写入量</p>
+<p cms-style="font-L isIntable ">　　·和软件生态有关。越新的软件，占用的内存越多，这是无可辩驳的大趋势，在业界中被称为“安迪-比尔定律”。M1版MacBook由于硬件上进行了革新，很多软件也随之发布新版，新版软件带来了更大的内存容量需求，使得操作系统更容易触发Swap。与此同时，一些X86老软件在M1版MacBook运行，需要经过Rosetta 2转译代码，这会占用更多的存储空间，安装、使用这样的老软件，这也有可能加剧对SSD的写入操作。</p>
+<div class="img_wrapper"><img id="6" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021313/384/w700h484/20210313/24ca-kmeeiut3314421.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Center isIntable ">　　M1版MacBook兼容X86软件需要Rosetta 2转译，这会占用额外的硬盘容量，给SSD写入更多数据</p>
+<p cms-style="font-L isIntable ">　　·和RAM容量过小有关。M1版MacBook仅提供8G和16G两种RAM容量，而多数用户都选择8G RAM的版本。物理内存越小，就越容易触发Swap，有用户反馈称，8G RAM版本的M1版MacBook的确比16G版产生了更多SSD写入数据量。</p>
+<p cms-style="font-L isIntable ">　　·或许和M1芯片架构有关。M1芯片使用了片上系统的设计，RAM和CPU核心集成到了一起，这有助于提高I/O效率，但也有可能加快Swap的速度。但这只是一种可能，苹果没有公开太多M1芯片在这方面的细节，无法推定。</p>
+<p cms-style="font-L isIntable ">　　·或许和Spotlight有关。Spotlight是macOS中的全局搜索机制，它会检索硬盘中的所有数据。部分用户反馈，新版macOS的Spotlight很有可能额外对SSD写入了大量数据，目前某些beta版的macOS已经停用了Spotlight的文件检索。不过Spotlight是否是真正的原因，还有待苹果官方证实。</p>
+<div class="img_wrapper"><img id="7" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021313/425/w700h525/20210313/74c6-kmeeiut3314419.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Center isIntable ">　　Spotlight可能是导致SSD写入增加的原因，但这点有待证实</p>
+<p cms-style="strong-Bold font-L isIntable ">　　M1版MacBook真的有硬伤吗？</p>
+<p cms-style="font-L isIntable ">　　在多种因素作用下，部分用户的M1版MacBook产生了较多的SSD写入量。例如有用户反馈，使用仅仅60天，就产生了高达261TB的SSD写入量，以1000次P/E计算，则已经消耗了一块256G SSD 10%的寿命。那么M1版MacBook如此巨大的SSD写入量，真的算是缺陷吗？笔者认为需要辩证看待。</p>
+<div class="img_wrapper"><img id="8" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021313/406/w700h506/20210313/8634-kmeeiut3314463.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Center isIntable ">　　用户反馈，M1版MacBook使用仅仅60天，就产生了高达261TB的SSD写入量</p>
+<p cms-style="font-L isIntable ">　　·从历史来看，如果只是正常使用，SSD的损坏基本是由于硬件缺陷或者固件问题导致，SSD很少因为写入次数耗尽，而寿终正寝。很多SSD的实际寿命都高于官方标称，外媒Hardware.info曾经进行过测试，即使是TLC闪存的SSD，寿命也远超预期。SSD一般存在冗余容量，这部分容量用户不可见，可以有效延长SSD的生命周期。</p>
+<p cms-style="font-L isIntable ">　　·SSD很多写入行为产生于早期，例如X86软件进行Rosetta转码导致SSD写入额外数据，这样的情况只会发生一次。随着使用时间，SSD的损耗速度应该会有所回落。</p>
+<p cms-style="font-L isIntable ">　　如果你实在担心，可以选择购买更大RAM和SSD容量的MacBook使用。更大的RAM意味着更多数据读写发生在物理内存中，平时会触发更少的Swap；而更大的SSD容量意味着写入同样的数据量，SSD的损耗更少。当然，这样的设备价格也会更高。</p>
+<p cms-style="font-L isIntable ">　　至于这到底算不算硬伤，由于目前该现象尚未引发故障，因此很难说这属于设计缺陷。不过，该现象很值得大家保持关注，尤其是Spotlight的表现，大家可以暂时停用Spotlight，观察是否SSD写入数据有所减少。</p>
+<p cms-style="strong-Bold font-L isIntable ">　　总结</p>
+<p cms-style="font-L isIntable ">　　总的来说，M1版MacBook大量SSD写入，是由Swap机制引起的，而M1版MacBook本身的软硬件特性，让该现象尤为突出，引发了用户的注意。虽然这目前没有引发故障，但也值得重视，用户的担心是有道理的。希望苹果能尽快能出面解释，或者改进系统机制，给用户一个好交代吧。</p>

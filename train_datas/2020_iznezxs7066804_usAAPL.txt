@@ -1,0 +1,5 @@
+新版系统能够更好支持applefitness+以及airpodsmax，并在iphone12pro和iphone12promax上新增了appleproraw功能，在appstore加入隐私信息，并修复了其他部分错误	1
+<divclass="img_wrapper"><imgid="0"img-size="480,241"src="http://n.sinaimg.cn/spider20201215/721/w480h241/20201215/7b33-kffctcc4414132.png"style="max-width:640px"/><spanclass="img_descr">其中，applefitness+支持利用applewatchseries3后续机型提供全新健身体验，并支持在iphone、ipad和appletv上使用的健身房风格体能训练，并将之集成在“健身”app上，不仅覆盖了高强度间歇训练、室内单车、瑜伽、核心训练、力量训练、舞蹈、划船、跑步机步行、跑步机跑步和正念放松等十几种训练类型，还支持个性化推荐与精选的播放列表，该订阅机制在澳大利亚、加拿大、爱尔兰、新西兰、英国和美国可用	1
+拍摄方面，由于iphone12pro/promax开放了appleproraw照片拍摄能力，用户能够在“照片”app、ps/lr/vsco等第三方处理软件中编辑细节更充分的raw文件	1
+苹果也允许用户使用相机和控制中心扫描轻app码，并将之启动	1
+与此同时，视频app加入了appletv+标签页，用户可以观看苹果第一方的节目和电影，支持按类别搜索以及最佳搜索结果相关匹配项	1

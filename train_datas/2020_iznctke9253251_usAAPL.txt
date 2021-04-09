@@ -1,0 +1,8 @@
+苹果败诉	1
+<pclass='ori_titlesource'>原标题：苹果败诉	1
+原标题：苹果(aapl.us)败诉	1
+<divclass="img_wrapper"><imgid="0"img-size="480,229"src="http://n.sinaimg.cn/spider20201230/709/w480h229/20201230/f8c4-kfxsuvw9636455.png"style="max-width:640px"/><spanclass="img_descr">周二，美国佛罗里达州地方法院驳回了苹果(aapl.us)对corellium提出的侵犯版权指控，corellium为安全研究人员提供虚拟iphone以测试操作系统的漏洞	1
+苹果于2019年8月首次对corellium提起诉讼，该公司指责corellium抄袭其操作系统和图形用户界面，并指出其在帮助发现漏洞的同时也在公开市场上向出价最高者出售相关信息	1
+corellium反驳称，苹果此前试图收购该公司，但在收购谈判失败后起诉公司	1
+地方法院地方法院rodneysmith表示：“corellium为ios创建了一个新的虚拟平台，并增加了苹果ios设备上没有的功能，这属于版权法中可被豁免的部分	1
+此外，如果苹果成功收购了该公司，其本身也会将该产品用于内部测试	1

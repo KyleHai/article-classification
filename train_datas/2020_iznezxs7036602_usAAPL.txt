@@ -1,0 +1,6 @@
+新浪数码讯12月15日下午消息，苹果公司今天正式推送了ios14.3系统，新系统带来一系列改进，自然也包括为iphone12pro和12promax用户提供proraw照片拍摄	1
+<divclass="img_wrapper"><imgsrc="http://n.sinaimg.cn/tech/transform/184/w630h354/20201215/747e-kffctcc3921144.jpg"alt="苹果的proraw"data-link=""><spanclass="img_descr">苹果的proraw	1
+苹果proraw的目的就是打破这层桎梏，让文件既拥有raw格式的控制力和灵活性，又能体会到“计算摄影”功能的强大	1
+苹果构建了新的图像管线，将中央处理器、图形处理器、图像信号处理器和神经网络引擎所做的各部分处理，合并为一个新的深度影像文件	1
+它不仅提供所有标准raw信息，还附带了苹果图像管线数据	1
+在ios14.3系统中，苹果将proraw的开关放在设置-相机中，打开这个开关，就能在相机右上角看到拍摄proraw图像的按钮，拍摄的图像也能在照片app中直接编辑	1

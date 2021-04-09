@@ -1,0 +1,3 @@
+苹果AR眼镜专利：可录制无抖动视频
+腾讯新闻
+<p class='ori_titlesource'>原标题：苹果AR眼镜专利：可录制无抖动视频    来源：腾讯新闻</p><p cms-style="font-L">3月17日青亭网报道，USPTO今天公布苹果公司新专利，提到苹果一项AR专利（专利号10951904），具体指可降低画面抖动，录制平滑的AR视频。</p><div class="img_wrapper"><img id="0" img-size="480,460" src="http://n.sinaimg.cn/spider2021318/140/w480h460/20210318/13f7-kmkptxe4811560.jpg" style="max-width:640px"/><span class="img_descr"></span></div><p cms-style="font-L">据了解，这项专利可应用在AR、VR、MR眼镜中，用于后续播放或分析等。简单来说，实现原理就是通过注视点追踪技术，通过注视点追踪分析眼睛注视区域，来实现更平滑的内容录制。</p><p cms-style="font-L">目前，专利中提到的场景是基于AR眼镜＋其它设备，例如mac、iPhone、iPad、电视等配合来使用。</p>

@@ -1,0 +1,13 @@
+苹果遭App开发者起诉：为压低收购价格 拖延一年才批准上架
+新浪科技
+<div class="img_wrapper"><img src="https://n.sinaimg.cn/tech/transform/783/w550h233/20210318/1347-kmrcuky7507810.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　新浪科技讯 北京时间3月18日晚间消息，据报道，输入法应用FlickType的开发者柯斯塔·埃勒夫瑟里奥（Kosta Eleftheriou）今日将<a href="http://stock.finance.sina.com.cn/usstock/quotes/AAPL.html" target="_blank">苹果</a>公司告上法庭，称苹果在高度赞扬FlickType这款App的同时，却拖延一年时间才批准在App Store应用商店上架。</p>
+<p>　　FlickType是iPhone和Apple Watch的热门键盘App，专门为Apple Watch智能手表进行了优化，可使用手势在Apple Watch的小屏幕上快捷输入。</p>
+<p>　　至于苹果迟迟不批准FlickType上架，其开发者认为，苹果拖延时间是为了压低收购价格。埃勒夫瑟里奥在接受媒体采访时表示：“我相信他们是故意这样做的，目的是压低潜在的出售价格。”</p>
+<p>　　诉讼称，2019年1月，埃勒夫瑟里奥与苹果负责键盘技术的高管兰迪·马斯登（Randy Marsden）会面，讨论了苹果收购FlickType事宜。在那之后不久，苹果就拒绝FlickType在App Store上架。</p>
+<p>　　埃勒夫瑟里奥称，随后双方的收购谈判仍在零星地继续，但在“几个月前”陷入停滞。直至2020年1月，FlickType才获得苹果的批准，目前仍在App Store上架。根据诉讼，FlickType在App Store上架后不久，就成为下载量最大的付费应用。</p>
+<p>　　这起诉讼是在圣克拉拉县（Santa Clara County）的加州法院提起的，指控苹果发布虚假广告、欺诈、不正当竞争，并违反了与开发者的合同，即承诺平等对待所有应用程序。</p>
+<p>　　起诉书称，苹果告知FlickType，不批准这款应用，是因为“全键盘应用不适合Apple Watch”，尽管苹果已经在App Store上批准了Instagram、WhatsApp、<a href="http://stock.finance.sina.com.cn/usstock/quotes/TWTR.html" target="_blank">Twitter</a>和Reddit的手表应用，而这些应用都使用FlickType键盘。</p>
+<p>　　埃勒夫瑟里奥要求苹果赔偿审批延迟，以及App Store上的一些山寨键盘应用所导致的损失，具体数额并未说明。</p>
+<p>　　对此，苹果尚未回复记者的置评请求。</p>
+<p>　　在FlickType提起这场诉讼的同时，关于如何控制第三方接入其设备，苹果在全球范围内受到越来越多的反垄断审查。包括<a href="http://stock.finance.sina.com.cn/usstock/quotes/FB.html" target="_blank">Facebook</a>在内的开发者，纷纷抱怨苹果处理进入其App Store的方式及其收取的费用。</p>

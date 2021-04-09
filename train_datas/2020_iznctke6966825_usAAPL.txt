@@ -1,0 +1,3 @@
+以aws提供mac电脑接入服务为例，意味着mac系统将首次出现在云端，开发者可以通过aws使用诸如xcode和swift等开发工具为iphone、ipad、mac、applewatch、appletv和safari等苹果平台开发应用程序	1
+而苹果生态系统超过2300万开发者将有机会上云	1
+随着苹果已更新其操作系统授权协议，允许mac系统在一定条件下可在云端托管，aws在云端托管mac电脑的模式将有机会跑通	1

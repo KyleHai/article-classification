@@ -1,0 +1,1 @@
+<divclass="img_wrapper"><imgid="1"img-size="660,425"src="http://n.sinaimg.cn/spider20201216/285/w660h425/20201216/c6ac-kffctcc5673523.png"style="max-width:640px"/><spanclass="img_descr">(科技公司苹果(aapl.us)、亚马逊、脸书（fb.us）、谷歌(goog.us)在卫生事件中的表现，来源：cbiinsights)	1

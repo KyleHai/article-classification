@@ -1,0 +1,9 @@
+iphone12被瞬间破解，苹果彻底掉下神坛	1
+<pclass='ori_titlesource'>原标题：iphone12被瞬间破解，苹果彻底掉下神坛来源：雷科技	1
+不知道小伙伴是否还记得6年前,刷爆互联网、轰动全球的【苹果艳照门事件】	1
+哔哥那会在上学,也感受到事件波及之大,打开百度贴吧、微博等app清一色在讨论苹果艳照门事件,班里还有不少热心人士主动分享照片	1
+哔哥帮小伙伴总结一下:漏洞源自于苹果公司的awdl协议,airdrop便是靠该协议实现文件投送滴	1
+<divclass="img_wrapper"><imgid="1"img-size="828,325"src="http://n.sinaimg.cn/spider20201219/353/w828h325/20201219/638e-kfnaptu0050824.png"style="max-width:640px"/><spanclass="img_descr">一旦被恶意利用拿去偷拍监视,后果不堪设想,影响之大远非艳照门能比,怕是会波及几亿的苹果用户	1
+小伙伴请放心,别忘记谷歌公司和苹果公司是坚固的合作伙伴关系,谷歌安全团队早早把漏洞信息上报给苹果了	1
+在今年5月份的系统更新中,苹果已经修复了该漏洞,再无入侵破解的可能	1
+<divclass="img_wrapper"><imgimg-size="718,546"src="http://n.sinaimg.cn/spider20201219/464/w718h546/20201219/0180-kfnaptu0051163.png"style="max-width:640px"id="6"/><spanclass="img_descr">哔哥觉得这事也不能全怪苹果,人无完人,金无赤足,世界上不存在绝对安全的系统	1

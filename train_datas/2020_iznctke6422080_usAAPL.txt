@@ -1,0 +1,9 @@
+苹果appstore遭越狱商店cydia之父控告垄断	1
+<pclass='ori_titlesource'>原标题：苹果appstore遭越狱商店cydia之父控告垄断来源：donews	1
+donews12月14日消息（记者刘文轩）cydia是ios平台有名的越狱应用商店，最近cydia的创办人jayfreeman（也被称为“saurik”）指控苹果appstore垄断了ios平台的应用商店市场	1
+jayfreeman称苹果利用iphone的主场优势，使用反竞争策略，将cydia和其他潜在竞争对手排除在外	1
+jayfreeman在诉讼文件中称苹果“胁迫用户不得使用appstore之外的其他ios应用商店服务，利用本身iphone绑定appstore的主场优势，排挤所有竞争对手	1
+jayfreeman希望通过诉讼，建立开放ios应用程序分发和ios应用程序支付市场，让那些希望与苹果竞争的人，得到一个公平的环境，并从苹果对他们造成的巨大损失中的到补偿	1
+这也导致cydia对上架应用几乎不进行任何管控，也就导致该平台中盗版软件盛行，苹果也称它危害了ios设备的安全性	1
+对于这起诉讼，苹果回应称“仍在研究”，并再度表示，处于安全考虑，他们不建议用户对iphone越狱	1
+诺顿2019年针对移动设备进行调查，认为苹果对appstore进行严格管控，使ios设备比android设备更安全	1

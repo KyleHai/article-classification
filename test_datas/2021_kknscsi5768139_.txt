@@ -1,0 +1,12 @@
+iPhone或将允许单独安装安全更新 无需更新整个系统
+CNMO
+<blockquote>
+<p>　　新品拿到手软，好物天天推荐，<a href="http://zhongce.sina.com.cn/" target="_blank" data-comos-dataid="">新浪众测</a>等你加入。在这里，你也能成为数码大V；在这里，产品好坏你说了算。[<a href="http://zhongce.sina.com.cn/about/app#page1" target="_blank" data-comos-dataid="">玩转新奇好物，来新浪众测</a>]</p>
+</blockquote>
+<p cms-style="font-L isIntable ">　　据国外网站iPhoneHacks消息，有迹象表明，苹果正在研究一种在iOS上提供安全更新的新方法。最新发布的iOS 14.5 beta 4中包含的隐藏代码显示，苹果公司可能将允许用户在iPhone上单独安装系统更新的安全性部分。不过，一旦下载了特定更新（例如安全更新），则可能需要先删除它，才能再安装另一个可用的iOS更新。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021316/191/w600h391/20210316/d034-kmkptxc8047790.jpg" alt="iOS"><span class="img_descr">iOS</span></div>
+<p cms-style="font-L isIntable ">　　当前，苹果公司不允许用户单独安装安全更新，安全修补程序会随整个系统更新一起推出。如果用户不安装整个更新，那么也不会安装该安全修补程序。另外，对于运行iOS 12或更旧版本的旧设备，苹果干脆不提供安全修复程序。</p>
+<p cms-style="font-L isIntable ">　　这些情况可能很快就会得到改变。苹果或将在设置的“软件更新”部分中添加一个新部分，显示iPhone和iPad上的安装安全更新开关。这样，用户将可以选择只安装安全更新。</p>
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2021316/175/w600h375/20210316/738f-kmkptxc8047791.jpg" alt="苹果"><span class="img_descr">苹果</span></div>
+<p cms-style="font-L isIntable ">　　iPhoneHacks认为，新的更新方案可能会使许多未收到完整iOS更新的旧设备受益。每天都有许多安全隐患出现，因此该功能最终可能使这些旧设备免遭网络攻击。</p>
+<p cms-style="font-L isIntable ">　　值得一提的是，苹果在macOS上也有类似的举措，该公司提供了单独的安全更新以及完整的macOS更新，因此用户无需安装可用的最新macOS版本即可获得安全补丁和错误修复。</p>

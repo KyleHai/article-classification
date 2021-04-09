@@ -1,0 +1,11 @@
+numpy
+joblib
+tqdm
+six
+pandas
+pytablewriter
+setuptools
+scikit_learn
+atlas
+pyarrow
+tensorflow/tensorflow_gpu==1.13.1

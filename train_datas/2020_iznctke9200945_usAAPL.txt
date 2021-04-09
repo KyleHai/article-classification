@@ -1,0 +1,7 @@
+消息称苹果也在开发64核心arm定制芯片	1
+<pclass='ori_titlesource'>原标题：消息称苹果也在开发64核心arm定制芯片来源：电子发烧友	1
+在上月推出了采用5nmapplesilicon的三款mac产品线后，苹果自研的m1arm芯片已经引发了热烈的讨论	1
+可以预期的是，未来我们还将见到更高核心规格的applesilicon	1
+12月28日，@leaksapplepro在twitter上发布了一则神秘的推文	1
+虽然没有明确所指，但我们不难猜测它就是苹果的applesilicon家族成员	1
+如果苹果能够顺利推进64核applesilicon的研发，那它也不大可能为移动产品线所采用	1

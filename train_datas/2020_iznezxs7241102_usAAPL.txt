@@ -1,0 +1,5 @@
+苹果持续优化m1性能：新跑分碾压win平台arm设备	1
+<pclass='ori_titlesource'>原标题：苹果持续优化m1性能：新跑分碾压win平台arm设备来源：sina.com.cn	1
+在最新版的macos系统中，苹果着重对m1处理器的性能和兼容性进行了大幅优化，其表现也变得更加强大，这也在一定程度上打消了部分消费者对arm版苹果设备的疑虑	1
+现在，pcworld网站对微软surfaceprox和苹果m1macbookair进行了跑分对比测试	1
+与此同时，苹果为m1mac推出了rosetta2转译技术，rosetta2可以将绝大部分为intelmac创建的软件转译成arm架构软件	1

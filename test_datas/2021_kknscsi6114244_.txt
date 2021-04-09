@@ -1,0 +1,14 @@
+拦截机制成摆设：苹果用户遭遇FaceTime恶意群组通话骚扰
+新浪科技综合
+<p class="ori_titlesource">　　原标题：拦截机制成摆设：苹果用户遭遇FaceTime恶意群组通话骚扰</p>
+<p class="ori_titlesource">　　来源：cnBeta.COM</p>
+<p>　　<strong>AppleInsider报道称，近期苹果设备用户发现FaceTime群发的垃圾邮件数量有所增加。</strong>由官网支持论坛和社交媒体上的帖子可知，因为系统自带的隐私保护措施未能生效，导致部分用户被迫屏蔽了数百个未知账号和号码的群组呼叫。</p>
+<div class="img_wrapper"><img id="0" src="http://n.sinaimg.cn/spider2021316/250/w350h700/20210316/dee5-kmkptxc9864374.png" alt="资料图（来自：Apple官网）"><span class="img_descr">资料图（来自：Apple官网）</span></div>
+<p>　　ArsTechnica指出，恶意发起者可以利用FaceTime的群组通话功能，在同一时间骚扰到多达31人。</p>
+<p>　　当群组中的一个人选择了挂断、或呼叫失败时，还可能遭到另一个账号的继续骚扰。</p>
+<p>　　Aidan_mp在苹果官方支持论坛上询问其他人是否中招，结果有人提到至少在去年开始就躺过枪。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/392/w597h595/20210316/088d-kmkptxe0079828.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　显然，恶意呼叫发起者希望引诱苹果设备用户进行回拨。但该系统内置的安全措施，在此过程中根本无法起到有效的拦截作用。</p>
+<p>　　除非受害者在遭受每次垃圾群组通话骚扰时都手动屏蔽31个号码，不然是无法轻易躲过密集的轰炸的。</p>
+<p>　　AppleInsider指出，如果苹果能够在后续更新中提供一个“仅限联系人”的FaceTime呼叫选项，系统自带的拦截机制才能够切实发挥效用。</p>
+<p>　　如果实在忍无可忍，目前似乎也只能将与手机号与之解绑、甚至完全禁用掉FaceTime功能。</p>

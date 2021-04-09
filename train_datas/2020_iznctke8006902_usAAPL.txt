@@ -1,0 +1,6 @@
+在iphone11系列的发布会上，苹果高级副总裁菲利普・席勒（philipw	1
+图片来自：apple"><spanclass="img_descr">▲iphone11pro发布会上介绍计算摄影的菲利普・席勒（philipw	1
+图片来自：apple	1
+图片来自：apple"><spanclass="img_descr">▲拍摄一张照片，iphone所做的‘计算’过程	1
+图片来自：apple	1
+而mac平台上的pixelmatorpro修图软件，早在2018年就开始借助苹果的coreml机器学习进行识别图像，从而进行色彩调整、抠图、选取，甚至在压缩输出时，都运用了ml机器学习引擎	1

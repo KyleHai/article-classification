@@ -1,0 +1,15 @@
+苹果自研基带将支持5g毫米波，iphone13wifi更强	1
+<pclass='ori_titlesource'>原标题：苹果自研基带将支持5g毫米波，iphone13wifi更强	1
+iphone12系列的热销，让苹果对高通公司5g调制解调器和射频芯片的需求飙升，这也让苹果不得不向高通支付更多的费用来购买5g基带芯片	1
+<divclass="img_wrapper"><imgstyle="max-width:640px"id="0"img-size="971,706"src="http://n.sinaimg.cn/spider20201219/77/w971h706/20201219/8852-kfnaptu1615970.png"/><spanclass="img_descr">作为苹果唯一基带供应商的高通，更是赚得钵体满盆	1
+对苹果公司来说，最不能忍的就是别人赚他的钱，还是赚大钱	1
+因此，在核心技术方面，苹果一直都更倾向于自主研发	1
+比如上周五的时候，苹果硬件工程高级副总裁johnysrouji官宣表示：公司已经正式启动对基带芯片的研发	1
+”同时，该发言人还表示：苹果将在iphone中用自家的芯片逐渐替代高通生产的调制解调器	1
+<divclass="img_wrapper"><imgid="1"img-size="640,359"src="http://n.sinaimg.cn/spider20201219/199/w640h359/20201219/bbd7-kfnaptu1615967.jpg"style="max-width:640px"/><spanclass="img_descr">苹果要自研基带消息一出后，也是引发了业界的广泛关注，作为竞争对手的高通公司，受此消息影响，高通股价上周五（12月11日）大跌6.3%	1
+众所周知，苹果自研的产品一直都是业界中数一数二的	1
+那么此次苹果自研的基带会不会又是秒天秒地秒空气的存在呢	1
+据巴克莱分析师blaynecurtis及其同事提供了有关于苹果内部基带的其他一些相关细节	1
+<divclass="img_wrapper"><imgsrc="http://n.sinaimg.cn/spider20201219/334/w696h438/20201219/d723-kfnaptu1616066.png"style="max-width:640px"id="2"img-size="696,438"/><spanclass="img_descr">该分析师称，其实苹果对于5g调制解调器的研究至少已经研究了一年多了，我们相信这是一款定位非常高端的调制解调器，包括对毫米波的支持和芯片组	1
+当然，我们目前还不清楚苹果自研的基带芯片何时才能实现商用，srouji在上周报告中也暂未披露苹果自研基带芯片何时将出货	1
+不过从去年苹果和高通签署的基带采购协议来看，至少在最近这两年内，iphone是不可能用上自研基带芯片的	1

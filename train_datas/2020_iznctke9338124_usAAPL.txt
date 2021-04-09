@@ -1,0 +1,11 @@
+苹果新获两项汽车专利可实现舒适座舱、提升驾驶安全性	1
+<pclass='ori_titlesource'>原标题：苹果新获两项汽车专利可实现舒适座舱、提升驾驶安全性来源：东方财富网	1
+原标题：苹果新获两项汽车专利可实现舒适座舱、提升驾驶安全性	1
+patentandtrademarkoffice)又授予了苹果公司泰坦项目的两项专利，分别涉及车辆气候控制系统(climatecontrol)以及增强型车辆态势感知警报系统(enhancedvehiclesituationalawarenessalertsystem)	1
+<divclass="img_wrapper"><divclass="img_wrapper"><divclass="img_wrapper"><divclass="img_wrapper"><imgalt="苹果泰坦项目概念图(图片来源：patentlyapple.com)"id="1"img-size="480,260"src="http://n.sinaimg.cn/spider20201230/740/w480h260/20201230/9109-kfxsuvx1013912.jpg"style="max-width:640px"/><spanclass="img_descr"><spanclass="img_descr"><spanclass="img_descr"><spanclass="img_descr">苹果泰坦项目概念图(图片来源：patentlyapple.com)气候控制系统	1
+2017年8月，媒体首次发现苹果在欧洲专利局(europeanpatentoffice)申请了车辆“气候控制系统”专利；2018年该专利在美国被公布；而现在，苹果被正式授予了该项专利	1
+在专利文件中，苹果指出其提供了一个车辆气候控制系统，能够控制汽车座舱各区域的气候条件，而且经过配置之后，该气候控制系统能够控制一个或多个车内组件，以改变与一个或多个座舱区域有关的气候条件，从而实现近乎最优的一组舒适条件	1
+<divclass="img_wrapper"><divclass="img_wrapper"><divclass="img_wrapper"><divclass="img_wrapper"><imgalt="苹果专利图6(图片来源：patentlyapple.com)"id="2"img-size="480,385"src="http://n.sinaimg.cn/spider20201230/65/w480h385/20201230/7b49-kfxsuvx1014101.jpg"style="max-width:640px"/><spanclass="img_descr"><spanclass="img_descr"><spanclass="img_descr"><spanclass="img_descr">苹果专利图6(图片来源：patentlyapple.com)为了能够控制车内的气候，苹果介绍了一些新一代传感器，例如能够测量车辆(102)特定车窗组件中特定车窗太阳辐射的辐射传感器(radiancesensor)，以及测量车辆特定天窗组件特定天窗太阳辐射的辐射传感器	1
+苹果专利图6展示了一个图形显示界面，提供了与该气候控制系统有关的图形显示	1
+苹果获得的第二项专利名为“增强态势感知的无线车辆系统”(wirelessvehiclesystemforenhancingsituationalawareness)，该专利主要涉及移动电子设备，如车上的设备；更具体地说，涉及一些可以让车辆从附近车辆的无线传输中获取态势感知信息系统，并为驾驶员提供警报	1
+<divclass="img_wrapper"><divclass="img_wrapper"><divclass="img_wrapper"><divclass="img_wrapper"><imgsrc="http://n.sinaimg.cn/spider20201230/144/w480h464/20201230/0a5a-kfxsuvx1014099.jpg"style="max-width:640px"alt="苹果专利图2、8、9(图片来源：patentlyapple.com)"id="3"img-size="480,464"/><spanclass="img_descr"><spanclass="img_descr"><spanclass="img_descr"><spanclass="img_descr">苹果专利图2、8、9(图片来源：patentlyapple.com)苹果专利图2展示了车辆在行驶时，其多个设备如何无线互动；专利图8展示了车辆的显示屏，该显示屏正在向驾驶员展示增强型态势感知警报信息，如驾驶员车辆与同一道路附近车辆的图表；专利图9展示了车辆显示屏正在向驾驶员显示有关附近有急救车辆的警报信息	1

@@ -1,0 +1,5 @@
+向苹果看齐，微软正自研arm芯片，或使用在surface产品中	1
+<pclass='ori_titlesource'>原标题：向苹果看齐，微软正自研arm芯片，或使用在surface产品中来源：科技美学	1
+继苹果之后，微软也要开始自研arm芯片了，intel无疑会受到显著影响	1
+与applesilicon处理器一样，微软的silicon处理器也将基于arm设计，设备将采用windows10arm或windows10xarm	1
+windows10arm至少已经出现了四年，但它们有巨大的软件不兼容性，根据基准测试，微软自家的surfaceprox在运行windows10arm时比苹果m1处理器要慢得多	1
