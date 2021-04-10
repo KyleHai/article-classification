@@ -1,0 +1,17 @@
+苹果发布最新版操作系统 Siri可以学鸭子叫了
+快科技
+<p class="ori_titlesource">　　原标题：苹果发布最新版操作系统 Siri可以学鸭子叫了&nbsp;</p>
+<p cms-style="font-L">　　只要升级到苹果最新发布的iPhone操作系统iOS 14.3，你的Siri就可以学鸭子和狮子叫了。</p>
+<p cms-style="font-L">　　苹果当地时间周一发布了iOS 14.3操作系统、iPadOS 14.3之以及watchOS 7.2正式版。如果苹果手机升级到iOS 14.3系统，Siri就可以播放很多简短的音频，以回答有关某样东西听起来像什么的问题。</p>
+<p cms-style="font-L">　　例如，你只需要提问，“嘿，Siri，鸭子的叫声是怎样的？”作为回应，Siri会播放鸭子的嘎嘎叫声。</p>
+<p cms-style="font-L">　　现在iOS 14.3系统内置的声音包括动物、乐器和交通工具，苹果公司表示有数百种选择。在iPhone或iPad上，Siri还会显示该动物的图片，以及指向维基百科（Wikipedia）的更多信息的链接。</p>
+<p cms-style="font-L">　　这里有一些例子，你可以通过苹果问：</p>
+<p cms-style="font-L">　　“嘿，Siri，座头鲸的声音是怎样的？”</p>
+<p cms-style="font-L">　　“嘿，Siri，玩具贵宾犬的声音是怎样的？”</p>
+<p cms-style="font-L">　　“嘿，Siri，竖琴的声音是怎样的？”</p>
+<p cms-style="font-L">　　“嘿，Siri，消防车的声音是怎样的？”</p>
+<p cms-style="font-L">　　媒体还尝试了其他几种动物对Siri做试验，包括家猫、狮子、秃鹰，还有笑翠鸟（kookaburra）——一种听起来像人在笑的鸟。Siri还播放了几种汽车的声音、火车的汽笛，以及特雷门琴的简短样本。</p>
+<p cms-style="font-L">　　如果你问“what does the fox say？”， Siri会引用2013年在YouTube上走红的那首歌。但当你问“狐狸的叫声是什么”时，它会发出一只北极狐的真实叫声。</p>
+<p cms-style="font-L">　　Siri播放的音频是真实的，而非夸张或卡通式的。</p>
+<p cms-style="font-L">　　苹果表示，这项新功能是iOS 14.3的一部分，iOS 14.3 包括了对Apple Fitness+和AirPods Max的支持。此次系统更新还新增了在iPhone 12 Pro上拍摄Apple ProRAW照片的功能，并在App Store中引入了“隐私”信息，以及包括针对iPhone的其他功能和错误修复。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/275/w647h428/20201216/d869-kffctcc5613939.png" alt=""><span class="img_descr"></span></div>

@@ -1,0 +1,14 @@
+未来Apple Watch或增加指纹识别和屏下隐藏式摄像头
+新浪数码
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/168/w630h338/20201216/21b1-kffctcc5647475.png" alt="未来Apple Watch或增加Touch ID和屏下隐藏式摄像头" data-link=""><span class="img_descr">未来Apple Watch或增加Touch ID和屏下隐藏式摄像头</span></div>
+<p>　　新浪数码讯 12月16日早间消息，据外媒macrumors报道，根据两份新公布的专利申请显示，苹果正在考虑为Apple Watch增加Touch ID和屏下隐藏式摄像头。</p>
+<p>　　外媒Patently Apple发现了一项由美国专利和商标局授予的专利，专利名称为 “具有密封按钮生物识别传感系统的电子设备”。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/163/w630h333/20201216/cea8-kffctcc5648929.png" alt="Touch ID集成到Apple Watch的侧边按钮中" data-link=""><span class="img_descr">Touch ID集成到Apple Watch的侧边按钮中</span></div>
+<p>　　这个专利申请解释了如何将Touch ID集成到Apple Watch的侧边按钮中，以及它可以达到什么实际目的。</p>
+<p>　　Touch ID可以用于用户识别、设备解锁和应用授权。这就不难理解为什么苹果要在Apple Watch中加入Touch ID。目前，Apple Watch还是依赖于密码的使用，直到设备从手腕上取下，才会再次提示密码。生物识别认证可以让苹果保证用户使用Apple Watch或进行Apple Pay交易时有更高的安全性。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/131/w630h301/20201216/0e15-kffctcc5650281.png" alt="还有可能有隐藏式的摄像头" data-link=""><span class="img_descr">还有可能有隐藏式的摄像头</span></div>
+<p>　　除了Touch ID，还有一份专利也被曝光。专利名称为 “具有两级显示屏的电子设备”。它概述了如何将一个显示屏分层，从而包含一个摄像头和一个闪光灯，摄像头和闪光灯只有在需要的时候才会从外部看到。</p>
+<p>　　两级显示技术也将适用于其他设备，如iPhone，从而消除缺口。但这个专利的重点是Apple Watch。</p>
+<p>　　这个技术的工作原理是，电子设备可以提供一个两级显示屏，其中可以具有一个带有像素阵列的内层，用于显示图像，以及一个由光调制器形成的外层，该光调制器具有一个单元阵列，每个单元可以放置在透明模式或阻光模式中。该层可以有效地关闭。</p>
+<p>　　在这种情况下，相机快门可以具有与电子设备的外壳相匹配的外观。当需要捕捉图像时，电子设备中的控制电路可以暂时将快门置于透明模式，以允许来自闪光灯的光或者是相机成像捕捉的光线通过。</p>
+<p>　　目前阻碍Apple Watch成为腕戴式视频通讯工具的主要原因就是缺乏摄像头，如果专利能够成为现实，对于Apple Watch来说将是革命性的变化。</p>

@@ -1,0 +1,78 @@
+iOS 14.3正式发布！Pro系列新增ProRAW，还有这些值得关注的变化
+爱范儿
+<p>　　iOS 系统又更新啦，和往常一样，苹果在近日推送了 iOS 14.3 的正式版。</p>
+<p>　　iOS 14.3 的看点主要有两个，第一自然是为 iPhone 12 Pro 系列用户新增的 ProRAW 功能，这个功能在今年 iPhone 的发布会上被重点宣传过，甚至可以说今年 iPhone 在拍照上最大的提升就在这里。</p>
+<p>　　另外一个看点就是对全新发布的 AirPods Max 提供了正式全面的支持，作为苹果首次在头戴无线降噪耳机领域的尝试，可以说是一经发布就惊艳全场，别问，问就是三个月后再发货。</p>
+<p>　　那有没有什么方法尽快买到 AirPods Max 呢？我们为大家准备了一个原价抢到 AirPods Max 现货的机会。<strong>通过爱范儿‘糖纸’小程序专属渠道预约，</strong>我们有 20 台现货 AirPods Max 的福利等待大家。</p>
+<p>　　具体细节上苹果还为 iOS 14.3 增加了哪些新特性呢，来一起看一下吧。</p>
+<p>　　<strong>1。 天气、地图和 Siri 应用能看空气质量了</strong></p>
+<p>　　实际上 iOS 的天气之前是有 AQI 空气质量指数显示的，只不过在去年的时候突然下线了，之后一直处于消失的状态。</p>
+<p>　　AQI 空气质量指数其实就是（Air Quality Index，简称 AQI），2012 年 3 月国家发布的新空气质量评价标准，污染物监测为 6 项，包括：二氧化硫、二氧化氮、PM10、PM2.5、一氧化碳和臭氧，数据每小时更新一次。AQI 将这 6 项污染物用统一的评价标准呈现。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/gif_image/150/w300h650/20201216/c8d8-kffctcc5621552.gif" alt=""><span class="img_descr"></span></div>
+<p>　　如今苹果在 iOS 14.3 中将该功能加了回来，目前升级之后会在老地方显示空气质量指数，如果升级后没有立刻显示的话可以在天气应用停留一会看看。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/gif_image/150/w300h650/20201216/24c5-kffctcc5621570.gif" alt=""><span class="img_descr"></span></div>
+<p>　　不仅天气应用得到更新，现在 Siri 也可以回答空气质量了，直接询问就能得到当前位置的 AQI 指数。</p>
+<p>　　地图应用中在右下角的天气小浮窗中除了温度，现在也加入了 AQI 空气质量指数，但是似乎不是直接读取天气中的数据，会有一点点不同的样子。</p>
+<p>　　<strong>2.iPhone 12 Pro 系列用户提供 ProRAW 格式</strong></p>
+<p>　　在今年的 iPhone 12 系列上，主打拍照能力的 Pro 系列并非仅仅比 iPhone 12 系列多了一个长焦镜头和 LiDAR，实际上在整个工作流方面都有了截然不同的方式，最大的不同就是苹果为 Pro 系列提供了专业强大的 ProRAW 格式。这个功能在 iOS 14.3 上正式上线。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/94/w550h344/20201216/a469-kffctcc5621600.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　RAW 是什么？简单来说，这是一种会记录图像的原始信息的格式，它相当于一个锚点。打个形象点的比喻，它就像是一本书，各类原始数据都可以在一定范围的页码里随意调整，画质基本不会出现下降。JPEG 格式则像是一张纸，后期调整时被局限在‘一页’里，可操作性较低。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/gif_image/449/w800h449/20201216/cfe0-kffctcc5621617.gif" alt=""><span class="img_descr"></span></div>
+<p>　　而 ProRAW 则更进一步，据苹果在发布会上的介绍，ProRAW 可以让摄影爱好者既可以用 RAW 格式拍照，也可以使用苹果的计算摄影技术。它可以提供多帧图像处理和计算摄影的许多功能，比如深度融合（Deep Fusion）以及智能 HDR，并结合 RAW 格式的深度和宽容度。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/117/w550h367/20201216/b6d6-kffctcc5621636.png" alt=""><span class="img_descr"></span></div>
+<p>　　iPhone 12 Pro 系列用户要想使用全新的 ProRAW 格式非常简单，只需要打开‘设置——相机——格式’然后直接启用 ProRAW 格式就可以了。</p>
+<p>　　在启用 ProRAW 之后，由于每张照片记录了更多的数据，所以体积会比较大，达到了每张 25MB 左右。但相对的，每张照片后期操作的空间也会变得巨大许多，并且还能享受苹果计算摄影能力带来的增益。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/116/w550h366/20201216/5200-kffctcc5621656.png" alt=""><span class="img_descr"></span></div>
+<p>　　要辨别哪些照片是 RAW 格式的话，除了相册中有专门的 RAW 相册标签，还可以在具体某张照片的左上角看看有没有 RAW 的标注。</p>
+<p>　　除了带来 ProRAW 格式的支持，苹果还新增了 25fps 帧率的视频录制，以及让 iPhone 6s 到 iPhone X 的老机型自拍模式中支持了镜面翻转功能。</p>
+<p>　　<strong>3。 正式支持了 AirPods Max 耳机</strong></p>
+<p>　　iOS 14.3 还有一项重要更新就是正式支持了 AirPods Max，AirPods Max 是苹果在 12 月 8 日全新发布的头戴式无线降噪耳机，第一次以 AirPods 的系列线加入头戴式无线降噪耳机的阵营。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/59/w550h309/20201216/ddbf-kffctcc5621666.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　当 AirPods Max 靠近 iPhone 的时候就会自动弹窗进行配对，同样具备通透模式、降噪模式以及空间音频功能，并且降噪能力据测试已经略胜于索尼 WH-1000XM4 和 Bose 700，达到了目前降噪耳机的最高水平。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/59/w550h309/20201216/cc5d-kffctcc5621676.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　当然，如果不更新 iOS 14.3 的话也不是不能用，只是可能在某些细节功能上支持会有问题。所以如果你已经购买了 AirPods Max 的话，还是尽快升级才会获得最佳的使用体验。</p>
+<p>　　<strong>4。 全新上线了 Fitness+ 健身服务，但尚未支持中国</strong></p>
+<p>　　在今年 9 月 16 日的苹果发布会上，苹果带来了具备多种训练模式的新订阅服务 Apple Fitness+ 健身服务，当时苹果表示会在今年年底上线，果然在 2020 年的最后一个月苹果正式上线了该服务。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/38/w550h288/20201216/cd33-kffctcc5621691.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　Apple Fitness+ 健身服务可以在多种设备，包括 iPhone、iPad 和 Apple TV 上使用，除了健身+锻炼，还会有运动鞋和个性化推荐等其它内容。</p>
+<p>　　在健身方面 Apple Fitness+ 每周会带来十种流行锻炼类型的视频锻炼，包括室内自行车、瑜伽、核心、力量、舞蹈、划船、跑步机等多种训练模式。同时还有健身教练提供的专业锻炼教程和列表。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/59/w550h309/20201216/365d-kffctcc5621707.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　Apple Fitness+ 健身服务已经于 12 月 14 日正式上线，首批支持的国家为美国、英国、澳大利亚、加拿大、爱尔兰和新西兰，目前尚未有消息何时支持中国地区。</p>
+<p>　　价格方面每月 9.99 美元，一年 79.99 美元，新购入 Apple Watch 会送三个月。</p>
+<p>　　<strong>5。 快捷方式启动效果改变</strong></p>
+<p>　　在 iOS 14.3 之前的系统中，通过快捷方式启动应用程序的时候，快捷方式应用到启动实际应用之间会有一个快捷方式功能全屏幕跳转动效，而在 iOS 14.3 这个效果被简化为一个横幅通知。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/gif_image/529/w640h689/20201216/f071-kffctcc5621735.gif" alt="▲ 更新前会有一个跳转过场，更新后没有了"><span class="img_descr">▲ 更新前会有一个跳转过场，更新后没有了</span></div>
+<p>　　也就是说，使用快捷方式美化应用图标的小伙伴们不用在忍受频繁的跳转了。如果你还没学会怎么更换图标的话，可以参考我们之前的这篇文章，立刻动手学起来。</p>
+<p>　　<strong>6。‘健康’应用新增怀孕记录</strong></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/147/w550h397/20201216/4ad2-kffctcc5621754.png" alt=""><span class="img_descr"></span></div>
+<p>　　iOS 14.3 的健康应用中新增了一项怀孕记录的功能，现在你可以在‘经期跟踪’中对经期影响的新增因素选择‘怀孕’，然后 iOS 14.3 就会自动开始记录你的怀孕过程。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/147/w550h397/20201216/342b-kffctcc5621769.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　另外，你也可以直接在应用中搜索‘怀孕’来直接进入到怀孕功能的数据入口。</p>
+<p>　　<strong>7。 其它更新</strong></p>
+<p>　　除了上述主要功能更新之外，其它方面的更新还有：</p>
+<ul>
+<li>&nbsp;Safari 新增支持 Ecosia</li>
+<li>支持 Amazon 的 Luna 游戏手柄以及索尼 PS5 手柄</li>
+<li>Apple TV 应用改进，增加了 Apple TV+ 标签，增强了搜索功能</li>
+<li>Apple Store 隐私策略更新</li>
+<li>Apple Watch 支持台湾地区启用 ECG 功能</li>
+<li>配备双 SIM 卡的 iPhone 12 支持独立 5G（SA 模式）</li>
+</ul>
+<p>　　<strong>8。 问题修复</strong></p>
+<p>　　另外，iOS 14.3 还修复了以下问题：</p>
+<ul>
+<li>本更新还解决了以下问题：</li>
+<li>可能无法收到部分彩信</li>
+<li>可能无法收到部分‘信息’通知</li>
+<li>编写信息时联系人群组无法显示成员</li>
+<li>部分视频在从‘照片’App 共享时显示不正确</li>
+<li>App 文件夹可能无法打开</li>
+<li>‘聚焦’搜索结果以及从‘聚焦’打开 App 可能无法正常工作</li>
+<li>蓝牙在 “设置” 中可能不可用</li>
+<li>设备可能无法无线充电</li>
+<li>MagSafe 双项充电器可能不会以最大功率为 iPhone 无线充电</li>
+<li>使用 WAC 协议的无线配件和外围设备可能无法完成设置</li>
+<li>使用‘旁白’的情况下在‘提醒事项’中添加列表时键盘可能关闭</li>
+</ul>
+<p>　　总得来说，iOS 14.3 还是非常推荐升级的，尤其是对于 iPhone 12 Pro 系列用户来说有非常重要的功能升级，加上对新硬件的支持和许多小问题的修复，整体来说很不错。</p>
+<p>　　如果你也想要升级至最新版，只需在‘设置 &gt; 通用 &gt; 软件更新’中进行下载即可。</p>

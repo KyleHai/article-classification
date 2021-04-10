@@ -1,0 +1,13 @@
+M2加持：苹果新Mac Pro概念图曝光 体积超mini
+快科技
+<blockquote>
+<p>　　听人描述，不如自己上手！你也想试试最新、最炫数码产品？还等什么，赶紧<a href="http://zhongce.sina.com.cn/about/app" target="_blank" data-comos-dataid="">加入新浪众测</a>。在这里不仅好玩意儿拿到手软，还有一群志同道合的伙伴与你畅聊数码。</p>
+</blockquote>
+<p>　　之前产业链有消息称，苹果在准备搭载自研M系列处理器的Mac Pro，由于定位原因，所以对芯片的要求更强大，所以明年会发布，预计搭载M2。</p>
+<p>　　现在，有设计师就分享了新Mac Pro的概念设计图，看起来相当小巧，主要是采用了自研芯片的缘故，所以体积也要比搭载Intel芯片的mini很多。</p>
+<p>　　即便是有新的Mac Pro推出，苹果也不太会完全砍掉Intel版本，毕竟这个系列产品定位就是需要更强大的性能。</p>
+<p>　　之前有行业人士就曾表示，基于Intel芯片的Mac产品线并不会很快消亡。毕竟在扩展性和多路显卡（AMD GPU）支持方面，当前平台仍有着更大的优势。</p>
+<p>　　按照爆料的信息看，M2处理器将会基于5nm工艺，苹果会进一步提升多核性能表现，应足以应付更多线程。</p>
+<div class="img_wrapper"><img id="0" src="http://n.sinaimg.cn/spider20201221/137/w600h337/20201221/b179-kfnaptu7461771.jpg" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="1" src="http://n.sinaimg.cn/spider20201221/137/w600h337/20201221/c970-kfnaptu7461773.jpg" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="2" src="http://n.sinaimg.cn/spider20201221/137/w600h337/20201221/325f-kfnaptu7461867.jpg" alt=""><span class="img_descr"></span></div>

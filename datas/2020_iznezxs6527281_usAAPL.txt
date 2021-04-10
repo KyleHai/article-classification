@@ -1,0 +1,71 @@
+1瓦功耗5GHz频率：全球最快Risc-V芯片出世，效率超越苹果M1
+新浪科技-自媒体综合
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/250/w630h420/20201212/718e-kffctca5696834.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　来源：机器之心</p>
+<blockquote>
+<p>　　图灵奖获得者，计算机体系结构先驱David Patterson：“这真是太神奇了。”</p>
+</blockquote>
+<p>　　开放开源的Risc-V架构一直被认为前途不可限量，最近一段时间也获得了越来越多公司和机构的支持，市面上既出现了阿里平头哥这样的高性能处理器，也有华米打造的可穿戴设备芯片。</p>
+<p>　　但习惯了X86和Arm架构的很多人一直对于Risc-V这个秉承开放的架构持怀疑态度，人人都能自主可控，是否能催生出完整的生态？</p>
+<p>　　但首先，Risc-V本身必须足够强大。</p>
+<p>　　<strong>RISC-V的惊人突破</strong></p>
+<p>　　十年前，加州大学伯克利分校的一个实验室里诞生了一个想法：有人想创造计算机芯片的通用指令，这套指令将被所有芯片制造商使用，但又不属于任何一个制造商。</p>
+<p>　　虽然这个愿景还未实现，但最近的确发生了一件有趣的事情：该校的研究成果RISC-V已经开始在芯片设计方面取得一些技术突破。</p>
+<p>　　根据全球半导体行业知名媒体EETimes的报道，前些天，一家位于加州森尼维尔的小型电子设计公司Micro Magic宣称：他们设计、生产出了全世界最快的64位RISC-V内核，比苹果的M1芯片和Arm Cortex-A9表现还要出色。该公司认为，该芯片优雅地实现了David Patterson（参与创建RISC-V的加州大学伯克利分校教授）对精简指令集计算机（RISC）架构的最初设想，在当今用电池供电的设备上也能轻松工作。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/194/w612h382/20201212/2377-kffctca5697539.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　Micro Magic的声明中提到，这款原型CPU在1.1v电压下可以达到5GHz的时钟速度，远高于运行速度为3.2GHz的英特尔Xeon服务器芯片E7，CoreMarks跑分达到13000分。而1.1伏时，该芯片只需要消耗1瓦的功率，不到英特尔Xeon功率的1%。此外，单个Micro Magic核心在0.8V下可以达到4.25GHz，CoreMarks跑分达到11000分，但消耗的功率仅为200mW。</p>
+<p>　　与此同时，这款RISC-V芯片的速度和能效也超过了Exynos4。Exynos4是三星电子为其智能手机生产的顶级部件，基于ARM Holdings Plc提供的计算核心，是英特尔的主要竞争对手。</p>
+<p>　　David Patterson在接受ZDNet采访时说：“这真是太神奇了……我认为IBM的大型主机有5GHz的液冷产品，但需要100瓦才能运行”。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/209/w630h379/20201212/5099-kffctca5697863.jpg" alt="David Patterson。图源：https：//spectrum.ieee.org/view-from-the-valley/computing/hardware/david-patterson-says-its-time-for-new-computer-architectures-and-software-languages" data-link=""><span class="img_descr">　　David Patterson。图源：https：//spectrum.ieee.org/view-from-the-valley/computing/hardware/david-patterson-says-its-time-for-new-computer-architectures-and-software-languages</span></div>
+<p>　　Patterson还表示：“我也听到过一些关于FPGA的令人印象深刻的数字，大概是600MHz”，他指的是可重新编程芯片，“对于软核来说，这似乎相当快”。</p>
+<p>　　Patterson对技术创新的突飞猛进感到非常惊讶，“创新的潜力总是存在的”，但这并不是他和加州大学伯克利分校教授Krste Asanovic在2011年首次为RISC-V撰写宣言时的初衷。</p>
+<p>　　“因为它是开放的，所以我们会看到很多这类竞争”，Patterson反思道。</p>
+<p>　　“也许是因为竞争激烈，我们开始看到设计领域一些真正有趣的东西正在被实现”，Patterson说，他同时也是谷歌的杰出工程师。</p>
+<p>　　新的5GHz处理器仅仅是一个原型，而不是一个车库起家的初创公司的产物。它是由硅谷芯片知识产权设计公司Micro Magic&nbsp;Inc制造的，该公司为硅谷所有的大公司提供咨询服务已有25年。一小队经验丰富的芯片设计师能够完成这样的任务，这意味着一场设计复兴可能即将到来。</p>
+<p>　　这款芯片不仅在低功耗下速度更快，在基准得分上也赶超英特尔和三星的芯片。在CoreMark基准测试中，这款RISC-V芯片的得分为13000分，是基于ARM的Exynos单核性能得分的两倍多。虽然英特尔Xeon名义上单核性能更高，达到26009分，但Xeon需要更多线程，120个线程才能达到上述结果。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/162/w550h412/20201212/028c-kffctca5698371.png" alt="" data-link=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/162/w550h412/20201212/5b0b-kffctca5698543.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　Micro Magic业务联络人、长期担任芯片行业高管的Dr。Andy Huang在接受ZDNet电话采访时解释说：这一突破在于CPU和内存的交互方式。Micro Magic的两位创始人Mark Santoro和Lee Tavrow在90年代早期为一种SRAM计算机内存芯片申请了专利。</p>
+<p>　　这一RISC-V原型芯片改变了存储快、芯片慢这种现状。</p>
+<p>　　“如果内存运行在5GHz，而逻辑运行在1GHz，谁是瓶颈？”Dr。Andy Huang打趣道。但他没有透露具体细节。</p>
+<p>　　<strong>关键在于开放</strong></p>
+<p>　　Huang还表示：他们成功的关键在于RISC-V是开放的，不像英特尔芯片的复杂指令集架构CISC，也不像ARM芯片中的RISC版本。芯片设计可以解决上述瓶颈。但如果芯片的指令被锁定，瓶颈就很难解决。</p>
+<p>　　为了解释这一点，Huang还打了个比方。</p>
+<p>　　“我问我儿子为什么他更喜欢三星（智能手机）而不是苹果，他说是因为如果他想改变什么，他可以让他的一个编程朋友帮他做，因为Android是开放的，不像iOS”。Huang这样比喻。</p>
+<p>　　“这就是我们为什么要把所有的成功都归功于Dr。Patterson”，Huang说，“他创造了迄今为止最高效、最优雅的RISC架构”。</p>
+<p>　　“我们应该叫他圣Patterson”，Huang说。</p>
+<p>　　Micro Magic芯片的成功不仅仅是修改指令集那么简单，还有一种经济因素在起作用。</p>
+<p>　　Dr。Huang强调，CISC或ARM的指令集都有1000多条指令，而RISC-V的指令不到100条。</p>
+<p>　　由于RISC-V指令集简单，Micro Magic能够使用标准硅晶圆生产其芯片，无需进行特殊调整。这使得使用所谓的shuttlerun成为可能。在制造过程中，该芯片与其他家的芯片组合在同一个晶圆上。由于晶圆的成本是由多方共同承担的，所以这样可以节省成本。</p>
+<p>　　“人们经常讨论用1亿美元来做一个定制的ASIC”，Patterson说，这意味他们想做一种为特定应用而调整的芯片。“但他们（Micro Magic）没有花1亿美元去做这件事”。</p>
+<p>　　尽管Patterson和Huang都没有强调，但还有一个经济因素也在起作用：如果你在ARM许可方面没有太多的预算，那么shuttlerun会让你的处境变得容易一些，因为这样就可以将ARM许可费用分摊。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/456/w630h626/20201212/4518-kffctca5699032.png" alt="Micro Magic 的芯片在 3.08GHz 频率下的功耗是 0.69mW，此时的 CoreMark 分数为 8200 分。" data-link=""><span class="img_descr">Micro Magic的芯片在3.08GHz频率下的功耗是0.69mW，此时的CoreMark分数为8200分。</span></div>
+<p>　　考虑到世界上最大的芯片制造商之一英伟达（Nvidia）正以400亿美元的价格收购ARM，这个经济方面的问题开始变得重要起来。</p>
+<p>　　Nvidia首席执行官黄仁勋（Jensen Huang）描述了他对ARM雄心勃勃的计划，并且他向华尔街保证，ARM许可证的持有者、他的竞争对手们不会介意英伟达收购ARM。</p>
+<p>　　但是此举显然为替代品提供了新的机会。当被问及这笔交易时，Patterson表现得非常谨慎。英伟达是RISC-V生态系统的成员，并全心全意地支持该技术。</p>
+<p>　　<strong>巨大的想象空间</strong></p>
+<p>　　Micro Magic的Huang说，自从Micro Magic发布了简短的芯片公告后，就有科技巨头开始联系他。</p>
+<p>　　“在那市值总和达到4万亿美元的四大科技巨头（苹果、微软、亚马逊、Alphabet）”中，已经有两家公司给我发来了电子邮件”，Huang说，但他没有透露具体是哪两家公司。</p>
+<p>　　Huang的这个说法为我们提供了一个假设的空间，即苹果或谷歌可能利用该芯片在能效方面取得突破。</p>
+<p>　　“谷歌已经拥有了移动开源软件Android，想象一下，如果他们再拿到最节能、性能最强大的开源RISC核心，移动消费者将从中获得多少收益”，Huang这样说道。</p>
+<p>　　“再想象一下最新的苹果手表不需要每晚充电，”这是Huang提出的另一种可能性。</p>
+<p>　　Huang说，不管有没有这样的交易，Micro Magic都希望将其RISC-V的知识产权应用到越来越多的设计中，从而在全球电力消耗方面取得实质性的进展。</p>
+<p>　　“我们的目的是帮助世界，帮助个人电脑、笔记本电脑世界、平板电脑世界、手机世界、可穿戴设备、游戏、电动汽车和物联网……我们的目标是为将世界碳排放量减少一半做出贡献。”</p>
+<p>　　五到十年之后，RISC-V将成为最重要的指令集？</p>
+<p>　　一个CPU原型并不是一场革命。通过与英特尔和其他公司的实际出货产品进行比较，我们可以发现一个事实，即完成芯片设计需要很多的部件。</p>
+<p>　　这就是为什么围绕RISC-V的公司生态系统如此重要。目前，宣布将使用RISC-V的公司数量虽然不多，但正在增长。</p>
+<p>　　Patterson说：“所有你能想到的产品，甚至是数据中心，都有人在认真考虑RISC-V”。</p>
+<p>　　他说：“我们感觉，最难的地方已经过去了。几年前，我们讨论的是为什么要用RISC-V，现在，我们讨论的是为什么我不用RISC-V”。</p>
+<p>　　Si Five是硅谷的一家初创公司，多年来致力基于RISC-V的芯片知识产权的研发。八月份，该公司成立了一个业务部门Open Five，致力于为各种应用（包括AI和边缘计算）生产定制芯片。Patterson的合作者Asanović教授是Si Five的首席架构师。</p>
+<p>　　另一家典型的RISC-V生态支持者是台湾的嵌入式处理器制造商晶心科技（Andes Technology。多年来，该公司总共向电子产品制造商出售了数十亿的CPU设计。</p>
+<p>　　上个月，Si Five和Andes Technology都在著名的芯片技术会议（Linley Fall Processor）上展示了使用RISC-V的人工智能新芯片设计。</p>
+<p>　　Si Five告诉ZDNet，他们现在已经与80多家公司达成了200多项设计方案，其中包括前十大半导体制造商中的6家。凭借FADU、华米、高通、三星和新思国际在设计领域取得的成功，目前Si Five的核心出货量已达数千万。</p>
+<p>　　晶心科技在上个月的一份季度报告中对投资者表示，今年约三分之一的收入来自基于RISC-V的零部件。</p>
+<p>　　大型磁盘驱动器制造商Seagate Technology和Western Digital都是下个月举行的RISC-V Summit的赞助商，这是该生态系统的第三届年度技术峰会。该活动由RISC-V国际协会主办，该协会是一家非盈利机构，目前代表了750多个致力于推进该标准的缔约方，其中包括中国智能手机供应商华为、芯片制造商赛灵思、高通以及IBM。Asanović是该组织的主席，Patterson是副主席。</p>
+<p>　　然而，无论RISC-V有多成功，我们可能永远不会知道它的全部用途。这是因为，尽管ARM和其他商业技术提供商要求被许可方签署文件，但RISC-V的使用者无需披露其使用情况。</p>
+<p>　　RISC-V国际协会要求供应商自愿披露使用情况，但不强制。基于这个原因，很难看到RISC-V使用范围的具体证据，Patterson说。</p>
+<p>　　最近，Patterson通过视频与合作者进行了一系列的一对一访谈，以庆祝RISC-V十周年。Patterson告诉ZDNet，其中一位合作者提出了一个惊人的观点：在五到十年内，RISC-V可能是世界上最重要的指令集。“一方面，这听起来很疯狂，但这并非不可能。”Patterson说道。</p>
+<p>　　参考内容：</p>
+<p>　　https：//www.zdnet.com/article/risc-v-the-linux-of-the-chip-world-is-starting-to-produce-technological-breakthroughs/</p>
+<p>　　https：//arstechnica.com/gadgets/2020/12/new-risc-v-cpu-claims-recordbreaking-performance-per-watt/</p>
+<!--article_adlist[<p cms-style="font-L"><font cms-style="font-L">12 月 20 日，北京 798 艺术园区 751 罐，点击阅读原文，参与报名。</font></p>]article_adlist--><!--article_adlist[<p cms-style="font-L align-Center"><font cms-style="font-L align-Center">©THE END </font></p><p cms-style="font-L align-Center"><font cms-style="font-L align-Center">转载请联系本公众号获得授权</font></p><p cms-style="font-L align-Center"><font cms-style="font-L align-Center"></font></p>]article_adlist-->

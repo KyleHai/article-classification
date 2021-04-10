@@ -1,0 +1,112 @@
+瑞达期货：市场情绪有所降温 苹果供需宽松局面延续
+新浪财经
+<p>　　内容提要：</p>
+<p>　　1、苹果产区现货价格涨跌互现，低档货源价格下调为主</p>
+<p>　　2、时令鲜果大量集中上市，水果消费呈多元化</p>
+<p>　　3、产区走货速度相对缓慢，库存压力增加</p>
+<p>　　4、冷库苹果质量下降，且果农货占比较大，后市让价出售现象颇多</p>
+<p>　　策略方案：</p>
+<table style="width: 559px;" border="1" cellspacing="0" cellpadding="5">
+<tbody>
+<tr>
+<td style="width: 134px; text-align: center;"><span style="font-size: 12px;">单边操作策略</span></td>
+<td style="width: 183px; text-align: center;">&nbsp;</td>
+<td style="width: 137px; text-align: center;"><span style="font-size: 12px;">套利操作策略</span></td>
+<td style="width: 115px; text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 134px; text-align: center;"><span style="font-size: 12px;">操作品种合约</span></td>
+<td style="width: 183px; text-align: center;"><span style="font-size: 12px;">苹果2010合约</span></td>
+<td style="width: 137px; text-align: center;"><span style="font-size: 12px;">操作品种合约</span></td>
+<td style="width: 115px; text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 134px; text-align: center;"><span style="font-size: 12px;">操作方向</span></td>
+<td style="width: 183px; text-align: center;"><span style="font-size: 12px;">逢高抛空</span></td>
+<td style="width: 137px; text-align: center;"><span style="font-size: 12px;">操作方向</span></td>
+<td style="width: 115px; text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 134px; text-align: center;"><span style="font-size: 12px;">入场价区</span></td>
+<td style="width: 183px; text-align: center;"><span style="font-size: 12px;">8840-8880</span></td>
+<td style="width: 137px; text-align: center;"><span style="font-size: 12px;">入场价区</span></td>
+<td style="width: 115px; text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 134px; text-align: center;"><span style="font-size: 12px;">目标价区</span></td>
+<td style="width: 183px; text-align: center;"><span style="font-size: 12px;">8560</span></td>
+<td style="width: 137px; text-align: center;"><span style="font-size: 12px;">目标价区</span></td>
+<td style="width: 115px; text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 134px; text-align: center;"><span style="font-size: 12px;">止损价区</span></td>
+<td style="width: 183px; text-align: center;"><span style="font-size: 12px;">8960</span></td>
+<td style="width: 137px; text-align: center;"><span style="font-size: 12px;">止损价区</span></td>
+<td style="width: 115px; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>　　风险提示：</p>
+<p>　　1、新季苹果套袋情况 2、资金持仓情况 3、夏季水果上市 4、冷库出库情况</p>
+<p>　　2020年5月，苹果期货主力2010合约价格呈高位回落态势，主要因冷库苹果质量下降，促使果农急于降价出售及终端需求购买力不足等影响。展望于6月，目前供应端全国苹果库存仍偏大，尤其是山东产区冷库货源充足且果农货占比较大，产区走货仍显不佳；冷库质量堪忧，果农急于降价清库为主。加之时令鲜果大量上市，且价格优势明显，进一步冲击苹果销量。</p>
+<p>　　一、基本面因素分析</p>
+<p>　　（一）供应方面</p>
+<p>　　根据美国农业部（USDA）的数据显示，中国近十年来产量和种植面积稳步增长。据市场调研机构知，新季度苹果处于坐果阶段受到冻害，减产幅度大致在6-10%，远不及2018年度减产幅度。目前新季苹果陆续进入套袋中，密切关注各地套袋情况。此外，从旧年度的库存来看，全国苹果冷库库容量大致在1440万吨附近，2019年度全国苹果库容比为80%，高于去年库容比50%的水平，其中山东冷库库容量在410万吨，陕西库容为450万吨，山西库容在180万吨；截止5月下旬，山东库容比为40.6%，陕西库容比为22.6%，预计山东苹果冷库仍剩余约160万吨，陕西冷库苹果大致剩余100万吨，加之受应季水果大量上市，且价格优势明显，更不利于各地冷库出货速度，供应压力加剧。</p>
+<p>　　图1：2001-2019年度中国苹果供给情况及估值</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/90/w550h340/20200611/4ee9-iuvaazp3784110.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　数据来源：USDA、瑞达期货</p>
+<p>　　苹果进口方面，近十年以来中国苹果进口量均较少，进口苹果主要来自美国、新西兰和智利。据最新USDA报告知，2018/2019年度中国苹果进口增长14%至10万吨，主要基于本年度苹果产量减少，促使中国增加进口苹果，由于美国是中国的最大进口国，受到贸易征税的影响，中国将减少进口苹果量而转移至新西兰和智利。总体上，中国仍作为全球最大的苹果生产国，进口量几乎少之又少，基本上可以忽略不计。</p>
+<p>　　图2：中国鲜苹果进口情况</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/744/w465h279/20200611/569c-iuvaazp3784122.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　数据来源：USDA、瑞达研究院</p>
+<p>　　（二）需求方面</p>
+<p>　　中国苹果的需求主要分为国内消费、加工、和出口。其中国内鲜食消费占绝大比例，而加工方面则为460万吨，出口为138万吨左右，分别占苹果需求的10%和3%。鉴于中国对水果的消费注重于营养价值和新鲜度苹果，后期中国苹果消费增长将有所放缓甚至出现饱和状态。出口和加工的变化则相对平缓，加工方面大多维持在500万吨左右，出口则保持在100万吨附近。</p>
+<p>　　图3：2011年度以来的中国苹果需求情况</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/26/w550h276/20200611/bb3f-iuvaazp3784127.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　数据来源：USDA、瑞达研究院</p>
+<p>　　苹果出口方面，根据海关总署的数据显示，一般每年的11月至次年1月期间为一年苹果出口量最大的时间段，年中6、7月份则出口量降至该年最低。2019年苹果总体出口量约为97.13万吨，同比2018年减少14.75万吨，同比减少13.16%。苹果的出口量占到国内苹果总体需求量的2.89%。从这个数值来看，出口所占国内需求总值并不大，出口行业对国内苹果供求形势影响程度一般。</p>
+<p>　　据海关数据最新显示，截止2020年04月，中国出口苹果当月50000吨，出口累计数量为290000吨，累计同比增加7.9%，因本年度冷库库存多为低等级别货源，质量品级较差货源均出口制作饮料等，出口累计继续增加，有利于缓解国内库存，同时也有利于提振国内信心。</p>
+<p>　　图4：2018年以来中国鲜苹果出口情况</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/67/w550h317/20200611/7de8-iuvaazp3784147.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　数据来源：WIND、瑞达研究院</p>
+<p>　　而苹果生产的季节性决定了苹果消费具有明显的季节性特征，特别是秋冬季节的苹果消费相对较多，其中圣诞、元旦以及春节期间的苹果消费相对旺盛。而夏季需求相对较少，特别是进入5月份后，随着其他时令鲜果的上市，苹果的消费需求进入淡季期。我国的富士苹果主要是晚熟品种，大多数苹果在秋季的9月开始逐渐上市。再者，我国苹果消费主要以鲜果消费模式为主，占比在85%左右，当然也包含损耗量；深加工大致占比12%，出口量占比较为低。</p>
+<p>　　（三）产销区现货方面</p>
+<p>　　从苹果产区角度而言，截止5月底，山东栖霞纸袋80#以上一二级苹果价格为2.80元/斤，相较于4月底的2.80元/斤，持平；陕西洛川纸袋80#以上苹果价格为4.2元/斤，相较4月底的3.65元/斤上涨了0.55元/斤，涨幅为15.06%；甘肃静宁纸袋75#以上苹果价格为3.75元/斤，相较4月底的3.75价格保持不变；产区苹果现货价格稳中上浮为主，其中品质较好的苹果价格上涨为主，而低档级别苹果价格省略有下调，但跌幅相对不明显。产区苹果交易延续清淡趋势，各地客商数量均较少，部分地区进入樱桃采收季，导致苹果成交量减少；陕西苹果余货量不多，部分产区已结束交易，且库内少量余货以中等货源为主，进而拉高价格。整体而言，市场货源以山东苹果货为主，客商采购积极性差，冷库销售压力仍偏大。</p>
+<p>　　图5：富士苹果产区价格走势</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/67/w550h317/20200611/f3c0-iuvaazp3784159.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　数据来源：中国苹果网、瑞达研究院</p>
+<p>　　苹果价格具备农产品明显的季节性变化：10-11月，为苹果收获期，供应大量增加，该阶段的苹果批发价格处于一年的较低水平；12-2月，中国农历春节一般处于1月份和2月份之间，叠加元旦节假日影响，对于苹果的需求有明显的提高，批发价随之上涨；3-4月，机械库集中出库价格下降；5月之后，不论冷库还是机库苹果将处于去库存状态，前期的供应压力将减小，价格再度走高，6-7月全国产区新苹果还未采摘上市，而上一年的苹果进入库存尾期，价格随即反弹，价格达到季节性波动的最高点。</p>
+<p>　　图6：历年红富士苹果批发平均价格走势</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/35/w550h285/20200611/ad9c-iuvaazp3784165.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　数据来源：WIND、瑞达研究院</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/34/w550h284/20200611/4172-iuvaazp3784185.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　数据来源：WIND、瑞达研究院</p>
+<p>　　截止2020年5月下旬，全国苹果批发价为8.18元/公斤，比4月底的8.41元/公斤，下调了0.23元/公斤，跌幅为2.73%；富士苹果批发平均价为7.02元/公斤，比4月底的6.89元/公斤，上涨了0.13元/公斤，涨幅约1.89%。多数批发市场苹果主流价格维持稳定，个别市场优质货源价格微幅上调；市场上山东货源占据主流，调货市场居多是山东货。整体批发市场苹果走货仍较慢，市场时令鲜果供应充足，且价格下滑明显，进一步冲击销区苹果数量；后市苹果市场整体消费需求继续走弱，客商采购意愿降低，预计产地苹果去库难度加大。此外，考虑今年受疫情影响，苹果季节性消费不佳，终端消费购买力不足的情况下，苹果短期需求或仍难有较大的改观。</p>
+<p>　　（四）替代品方面</p>
+<p>　　苹果作为人们生活当中的非必需品，一旦苹果价格过高的情形下，消费者可选择其他水果种类。据相关性分析知，蜜桔、鸭梨以及香蕉与苹果的相关系数较高，并且处于正相关关系。根据农业部监测的主要水果产品价格显示，截至5月下旬富士苹果批发平均价为3.51元/斤，较4月底的3.445元/斤，上涨0.065元/斤；蜜桔批发平均价为2.65元/斤，较4月底的2.75元/斤，下跌了0.10元/斤；香蕉批发平均价为2.72元/斤，较4月底的2.78元/斤，下跌了0.06元/斤；鸭梨批发平均价为1.58元/斤，较4月底的1.52元/斤，上涨了0.06元/斤，以上数据可以明显看出，除香蕉之外，鸭梨、苹果、蜜桔批发价格均略上调，上调幅度在0.06-0.10元/斤附近，目前砂糖橘逐渐退市，对苹果替代作用消退，但葡萄、桃子等时令鲜果开始大量上市，水果市场呈现多元化，多数客商转向收购应季水果，苹果交易冷清。随着后市调货商减少，加之库内苹果品质下滑，现货市场或走弱。</p>
+<p>　　图7：四大类水果批发平均价对比图</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/33/w550h283/20200611/e3b2-iuvaazp3784191.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　数据来源：WIND、瑞达研究院</p>
+<p>　　三、苹果期货市场主流资金持仓分析</p>
+<p>　　苹果期货合约前20名持仓结构以多头略占优势，截止5月26日，多单持仓量为71158手，空单持仓量65430手，净多单为5728手，2020年4月下旬以来苹果主力多头持仓略胜一筹，并且处于递增趋势中，市场看多情绪仍在增加。另外以下图表可以明显看出来，苹果市场总持仓额为1084747万元，较上个月底总持仓额967957万元增加116790万元，增幅达12.06%；苹果主力合约AP010持仓额为635653万元，较上一月份总持仓额632220万元增加3433万元。整体苹果期货市场资金持仓额处于流入的状态，不过苹果期货主力合约流入量相对有限。</p>
+<p>　　图8：苹果期货合约前20名持仓情况</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/78/w550h328/20200611/e3a3-iuvaazp3784201.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　数据来源：郑商所，瑞达研究院</p>
+<p>　　图9：苹果主力2010合约持仓额变化情况</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/75/w549h326/20200611/5765-iuvaazp3784216.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　数据来源：WIND 瑞达研究院</p>
+<p>　　四、2020年6月苹果市场行情展望</p>
+<p>　　产区而言，目前山东产区库存量仍较大，市场货源以山东苹果货为主，客商采购积极性差，冷库销售压力仍偏大。批发市场苹果走货仍较慢，市场时令鲜果供应充足，后市苹果市场整体消费需求继续走弱，客商采购意愿降低，预计产地苹果去库难度加大。整体上，供应端全国库存仍偏大，尤其是山东产区冷库货源充足且果农货占比较大，进入6月份，库内长时间储存将导致苹果质量下滑，果农变现集中出售压力加大。需求端受时令水果上市集中季，牵制苹果消费需求，预计短期苹果供需宽松局面持续，苹果价格继续承压。新季产区苹果苹果陆续进入套袋中，关注各地套袋情况及天气状况。操作上，建议苹果期货2010合约逢高抛空思路对待。</p>
+<p>　　五、投资操作策略</p>
+<p>　　投机策略（短线策略）：短线来看，应季水果大量上市，且冷库库存出货压力增加，短期期价弱势为主。技术上看，AP2010日线图短期均线向下排列倾斜，但kdj指标处于弱势，短线技术指标偏空，建议AP2010合约偏空思路对待。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/93/w550h343/20200611/b0ea-iuvaazp3784267.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　数据来源：文华财经</p>
+<p>　　投机策略（中线策略）：目前新季苹果陆续进入套袋中，新季产量逐渐清晰，后市天气炒作相对有限，苹果价格影响因素回归基本面。基于产区供需宽松局面延续，苹果价格弱势为主。操作上，建议AP2010合约逢高抛空思路对待。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/44/w550h294/20200611/6c66-iuvaazp3784277.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　数据来源：文华财经</p>
+<p>　　套利策略：目前跨月套利的苹果合约为2010和2101合约，两者价差维持在-350至-280元/吨区间运行。套利操作上，建议暂且不宜介入。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/53/w550h303/20200611/279e-iuvaazp3784292.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　数据来源：文华财经</p>
+<p>　　套保策略：对于果农而言，新季苹果减产相对有限，加之水果市场供应充足，预计新季苹果价格稍走弱，可适时卖出套期保值。企业套保而言，市场供应相对充足，需求端受削弱，届时采购商等待合适位置，再介入买入苹果套期保值。</p>
+<p>　　瑞达期货</p>

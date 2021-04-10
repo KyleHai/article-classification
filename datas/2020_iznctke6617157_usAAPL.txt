@@ -1,0 +1,18 @@
+App都收集了你的什么数据 今天起苹果用户可以明确知晓
+界面新闻
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201215/298/w700h398/20201215/c2bb-kffctcc2707436.jpg" alt="图片来源：unsplash"><span class="img_descr">图片来源：unsplash</span></div>
+<p cms-style="font-L align-right">　　<font cms-style="font-L align-right">记者 | </font><font cms-style="font-L align-right">伍洋宇</font></p>
+<p cms-style="font-L align-right">　　在今年6月的WWDC上苹果曾宣布，要让用户能在App Store的App产品页面清楚看到开发者的隐私惯例摘要。历经半年时间，12月15日，这项功能将正式向用户开放。</p>
+<p cms-style="font-L align-right">　　<strong>隐私惯例摘要是什么？通俗而言，更新之后的App产品页面，将向用户呈现自己可能会收集数据类型，共分为三类：用来追踪用户的数据、与用户关联的数据，以及不会与用户关联的数据。</strong></p>
+<p cms-style="font-L align-right">　　所谓数据用于追踪，是指从App收集的用户或设备数据，与不同来源（如其他企业的App、网站或线下场所）的数据两者进行了关联，用于定向广告或广告评估目的；或者这些数据被数据代理商共享。关联数据则是指不会用于追踪、但与用户身份信息有关的数据；再者就是与用户本人无关的数据。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/spider20201215/241/w700h1141/20201215/4e2a-kffctcc2707439.png" alt="App隐私惯例说明页面" data-link=""><span class="img_descr">App隐私惯例说明页面</span></div>
+<p cms-style="font-L align-right">　　苹果公司对界面新闻记者表示，这样的分级标准是基于数据对于用户的威胁性级别，在这样的分类下，用户可以快速分辨哪些数据更为关键应该得到保护，而哪些信息可以透露。</p>
+<p cms-style="font-L align-right">　　苹果推出该政策的原因在于，公司认为所有开发者进行的数据收集和使用，都必须是公开透明的，这样用户才能做出明智的选择。</p>
+<p cms-style="font-L align-right">　　苹果一直在隐私方面尽可能地努力。此前，iOS用户在使用App时会得到弹窗提示，例如是否提供麦克风、摄像头等访问权限。另外，用户也可以对App的定位信息进行模糊。这些都是苹果之前就为设备注入的功能，以便用户更好地控制个人隐私信息。</p>
+<p cms-style="font-L align-right">　　但公司认为即便有了这些控制功能，隐私惯例摘要依然重要，因为它能做到让用户一目了然，进而降低忽视隐私泄露的概率。苹果表示，这个项目有着非常宏大的愿景，即为App隐私政策打造一套用户极其容易理解的系统，并且它会随着时间的推进而调整，因为用户需求也会变化。</p>
+<p cms-style="font-L align-right">　　<strong>12月8日起，苹果开发者将会陆续接到提交新的隐私信息的要求，并在一定期限内更新其App。事实上，今后但凡App的隐私惯例有所改变，开发者都可以随时更新，而不必等到App的新版本发布。</strong></p>
+<p cms-style="font-L align-right">　　从许多动作可以看到，苹果对于用户隐私的重视程度正在前所未有地加大。</p>
+<p cms-style="font-L align-right">　　上周消息，据CNBC，从2021年年初开始，苹果将会推出针对用户隐私保护的新功能App Tracking Transparency（ATT），应用程序必须通过弹窗请求访问用户的广告商标识符IDFA，IDFA是一种可以被用来追踪用户数据的定位符，而那些未经允许对用户数据进行追踪的应用，将从明年年初起被移出应用商店。</p>
+<p cms-style="font-L align-right">　　这项新规引起了广告界的不小抵触。对此，苹果回应界面新闻称，历史上，例如Safari加入智能防追踪功能的时候，外界也有很多声音抗议称这对广告业产生了影响。但公司观察到，网页广告依然发展得很好，而用户隐私也同时得到了保护。</p>
+<p cms-style="font-L align-right">　　另外，新规不会让App开发者做出任何重大改变，包括商业模式，只需他们在获取数据方面获得用户的许可，类似的调试他们在应对麦克风和照片访问权限、模糊位置信息等控制功能上线时已经做得非常好。公司有理由相信，在新功能上线后开发者依然能很好应对。</p>
+<p cms-style="font-L align-right">　　据了解，开发者需要面对的标签有32项之多。目前，相关隐私新规在苹果官网的“隐私”页面已经进行了详细更新。</p>

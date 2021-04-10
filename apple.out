@@ -1,0 +1,638 @@
+nohup: ignoring input
+/home/hailei.yan/anaconda3/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:526: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/home/hailei.yan/anaconda3/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:527: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/home/hailei.yan/anaconda3/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:528: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/home/hailei.yan/anaconda3/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:529: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/home/hailei.yan/anaconda3/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:530: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/home/hailei.yan/anaconda3/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:535: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+INFO:tensorflow:Using default config.
+INFO:tensorflow:Using config: {'_model_dir': 'out_put1', '_tf_random_seed': None, '_save_summary_steps': 100, '_save_checkpoints_steps': None, '_save_checkpoints_secs': 600, '_session_config': allow_soft_placement: true
+graph_options {
+  rewrite_options {
+    meta_optimizer_iterations: ONE
+  }
+}
+, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_protocol': None, '_eval_distribute': None, '_experimental_distribute': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x7fc4319dc990>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
+INFO:tensorflow:Writing example 0 of 28298
+INFO:tensorflow:*** Example ***
+INFO:tensorflow:guid: 12449
+INFO:tensorflow:tokens: 苹 果 ：
+INFO:tensorflow:input_ids: 101 5741 3362 8038 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+INFO:tensorflow:input_mask: 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+INFO:tensorflow:segment_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+INFO:tensorflow:label: 0 (id = 0)
+INFO:tensorflow:*** Example ***
+INFO:tensorflow:guid: 18690
+INFO:tensorflow:tokens: 浇 底 乡 西 村 地 理 位 置 适 宜 ， 光 照 充 足 ， 对 发 展 苹 果 产 业 有 着 得 天 独 厚 的 优 势
+INFO:tensorflow:input_ids: 101 3842 2419 740 6205 3333 1765 4415 855 5390 6844 2139 8024 1045 4212 1041 6639 8024 2190 1355 2245 5741 3362 772 689 3300 4708 2533 1921 4324 1331 4638 831 1232 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+INFO:tensorflow:input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+INFO:tensorflow:segment_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+INFO:tensorflow:label: 0 (id = 0)
+INFO:tensorflow:*** Example ***
+INFO:tensorflow:guid: 19401
+INFO:tensorflow:tokens: 自 从 iphone ##12 系 列 产 品 采 用 oled 面 板 之 后 , 苹 果 一 直 试 图 摆 脱 对 三 星 display 的 依 赖 , lg ##d 和 京 东 方 都 是 苹 果 重 点 扶 持 对 象
+INFO:tensorflow:input_ids: 101 5632 794 8210 8455 5143 1154 772 1501 7023 4500 8868 7481 3352 722 1400 117 5741 3362 671 4684 6407 1745 3030 5564 2190 676 3215 11830 4638 898 6609 117 8589 8168 1469 776 691 3175 6963 3221 5741 3362 7028 4157 2820 2898 2190 6496 102 0 0 0 0 0 0 0 0 0 0
+INFO:tensorflow:input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+INFO:tensorflow:segment_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+INFO:tensorflow:label: 1 (id = 1)
+INFO:tensorflow:*** Example ***
+INFO:tensorflow:guid: 376
+INFO:tensorflow:tokens: 据 悉 ， 特 斯 拉 目 前 是 全 球 做 空 额 最 大 的 股 票 ， 排 在 第 二 的 是 苹 果 ( aa ##pl . us )
+INFO:tensorflow:input_ids: 101 2945 2634 8024 4294 3172 2861 4680 1184 3221 1059 4413 976 4958 7583 3297 1920 4638 5500 4873 8024 2961 1762 5018 753 4638 3221 5741 3362 113 9563 12569 119 8592 114 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+INFO:tensorflow:input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+INFO:tensorflow:segment_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+INFO:tensorflow:label: 1 (id = 1)
+INFO:tensorflow:*** Example ***
+INFO:tensorflow:guid: 9112
+INFO:tensorflow:tokens: 同 日 ， 据 the ##ver ##ge 报 道 ， 关 键 供 应 链 厂 商 透 露 称 ， 苹 果 计 划 在 明 年 第 三 季 度 推 出 其 首 款 电 动 汽 车 apple ##car ， 这 比 原 计 划 至 少 提 前 了 两 年 时 间
+INFO:tensorflow:input_ids: 101 1398 3189 8024 2945 8174 8984 8441 2845 6887 8024 1068 7241 897 2418 7216 1322 1555 6851 7463 4917 8024 5741 3362 6369 1153 1762 3209 2399 5018 676 2108 2428 2972 1139 1071 7674 3621 4510 1220 3749 6756 8350 9831 8024 6821 3683 1333 6369 1153 5635 2208 2990 1184 749 697 2399 3198 7313 102
+INFO:tensorflow:input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+INFO:tensorflow:segment_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+INFO:tensorflow:label: 1 (id = 1)
+INFO:tensorflow:Writing example 10000 of 28298
+INFO:tensorflow:Writing example 20000 of 28298
+INFO:tensorflow:***** Running training *****
+INFO:tensorflow:  Num examples = 28298
+INFO:tensorflow:  Batch size = 32
+INFO:tensorflow:  Num steps = 13264
+WARNING:tensorflow:From /home/hailei.yan/anaconda3/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:From main.py:320: map_and_batch (from tensorflow.contrib.data.python.ops.batching) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.data.experimental.map_and_batch(...)`.
+WARNING:tensorflow:From main.py:302: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+INFO:tensorflow:Calling model_fn.
+INFO:tensorflow:*** Features ***
+INFO:tensorflow:  name = input_ids, shape = (32, 60)
+INFO:tensorflow:  name = input_mask, shape = (32, 60)
+INFO:tensorflow:  name = is_real_example, shape = (32,)
+INFO:tensorflow:  name = label_ids, shape = (32,)
+INFO:tensorflow:  name = segment_ids, shape = (32, 60)
+WARNING:tensorflow:From /data/nlp/hailei.yan/project/apple_ambiguity/modeling.py:342: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+WARNING:tensorflow:From /data/nlp/hailei.yan/project/apple_ambiguity/modeling.py:655: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+INFO:tensorflow:**** Trainable Variables ****
+INFO:tensorflow:  name = bert/embeddings/word_embeddings:0, shape = (21128, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/embeddings/token_type_embeddings:0, shape = (2, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/embeddings/position_embeddings:0, shape = (512, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/embeddings/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/embeddings/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/attention/self/query/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/attention/self/query/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/attention/self/key/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/attention/self/key/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/attention/self/value/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/attention/self/value/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/attention/output/dense/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/attention/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/attention/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/attention/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/intermediate/dense/kernel:0, shape = (768, 3072), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/intermediate/dense/bias:0, shape = (3072,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/output/dense/kernel:0, shape = (3072, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_0/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/attention/self/query/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/attention/self/query/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/attention/self/key/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/attention/self/key/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/attention/self/value/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/attention/self/value/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/attention/output/dense/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/attention/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/attention/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/attention/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/intermediate/dense/kernel:0, shape = (768, 3072), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/intermediate/dense/bias:0, shape = (3072,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/output/dense/kernel:0, shape = (3072, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_1/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/attention/self/query/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/attention/self/query/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/attention/self/key/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/attention/self/key/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/attention/self/value/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/attention/self/value/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/attention/output/dense/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/attention/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/attention/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/attention/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/intermediate/dense/kernel:0, shape = (768, 3072), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/intermediate/dense/bias:0, shape = (3072,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/output/dense/kernel:0, shape = (3072, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_2/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/attention/self/query/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/attention/self/query/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/attention/self/key/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/attention/self/key/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/attention/self/value/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/attention/self/value/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/attention/output/dense/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/attention/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/attention/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/attention/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/intermediate/dense/kernel:0, shape = (768, 3072), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/intermediate/dense/bias:0, shape = (3072,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/output/dense/kernel:0, shape = (3072, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_3/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/attention/self/query/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/attention/self/query/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/attention/self/key/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/attention/self/key/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/attention/self/value/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/attention/self/value/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/attention/output/dense/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/attention/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/attention/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/attention/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/intermediate/dense/kernel:0, shape = (768, 3072), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/intermediate/dense/bias:0, shape = (3072,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/output/dense/kernel:0, shape = (3072, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_4/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/attention/self/query/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/attention/self/query/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/attention/self/key/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/attention/self/key/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/attention/self/value/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/attention/self/value/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/attention/output/dense/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/attention/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/attention/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/attention/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/intermediate/dense/kernel:0, shape = (768, 3072), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/intermediate/dense/bias:0, shape = (3072,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/output/dense/kernel:0, shape = (3072, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_5/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/attention/self/query/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/attention/self/query/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/attention/self/key/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/attention/self/key/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/attention/self/value/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/attention/self/value/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/attention/output/dense/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/attention/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/attention/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/attention/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/intermediate/dense/kernel:0, shape = (768, 3072), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/intermediate/dense/bias:0, shape = (3072,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/output/dense/kernel:0, shape = (3072, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_6/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/attention/self/query/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/attention/self/query/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/attention/self/key/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/attention/self/key/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/attention/self/value/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/attention/self/value/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/attention/output/dense/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/attention/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/attention/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/attention/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/intermediate/dense/kernel:0, shape = (768, 3072), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/intermediate/dense/bias:0, shape = (3072,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/output/dense/kernel:0, shape = (3072, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_7/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/attention/self/query/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/attention/self/query/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/attention/self/key/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/attention/self/key/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/attention/self/value/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/attention/self/value/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/attention/output/dense/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/attention/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/attention/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/attention/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/intermediate/dense/kernel:0, shape = (768, 3072), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/intermediate/dense/bias:0, shape = (3072,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/output/dense/kernel:0, shape = (3072, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_8/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/attention/self/query/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/attention/self/query/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/attention/self/key/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/attention/self/key/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/attention/self/value/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/attention/self/value/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/attention/output/dense/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/attention/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/attention/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/attention/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/intermediate/dense/kernel:0, shape = (768, 3072), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/intermediate/dense/bias:0, shape = (3072,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/output/dense/kernel:0, shape = (3072, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_9/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/attention/self/query/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/attention/self/query/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/attention/self/key/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/attention/self/key/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/attention/self/value/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/attention/self/value/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/attention/output/dense/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/attention/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/attention/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/attention/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/intermediate/dense/kernel:0, shape = (768, 3072), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/intermediate/dense/bias:0, shape = (3072,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/output/dense/kernel:0, shape = (3072, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_10/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/attention/self/query/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/attention/self/query/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/attention/self/key/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/attention/self/key/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/attention/self/value/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/attention/self/value/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/attention/output/dense/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/attention/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/attention/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/attention/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/intermediate/dense/kernel:0, shape = (768, 3072), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/intermediate/dense/bias:0, shape = (3072,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/output/dense/kernel:0, shape = (3072, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/output/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/output/LayerNorm/beta:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/encoder/layer_11/output/LayerNorm/gamma:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/pooler/dense/kernel:0, shape = (768, 768), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = bert/pooler/dense/bias:0, shape = (768,), *INIT_FROM_CKPT*
+INFO:tensorflow:  name = output_weights:0, shape = (2, 768)
+INFO:tensorflow:  name = output_bias:0, shape = (2,)
+WARNING:tensorflow:From /home/hailei.yan/anaconda3/lib/python3.7/site-packages/tensorflow/python/training/learning_rate_decay_v2.py:321: div (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Deprecated in favor of operator or tf.math.divide.
+INFO:tensorflow:Done calling model_fn.
+INFO:tensorflow:Create CheckpointSaverHook.
+INFO:tensorflow:Graph was finalized.
+2021-03-21 16:37:45.229926: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 AVX512F FMA
+2021-03-21 16:37:45.238236: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2194940000 Hz
+2021-03-21 16:37:45.240285: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x55753c0f3cf0 executing computations on platform Host. Devices:
+2021-03-21 16:37:45.240322: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+2021-03-21 16:37:48.094688: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1433] Found device 0 with properties: 
+name: Tesla V100-PCIE-32GB major: 7 minor: 0 memoryClockRate(GHz): 1.38
+pciBusID: 0000:12:00.0
+totalMemory: 31.72GiB freeMemory: 31.31GiB
+2021-03-21 16:37:48.778788: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1433] Found device 1 with properties: 
+name: Tesla V100-PCIE-32GB major: 7 minor: 0 memoryClockRate(GHz): 1.38
+pciBusID: 0000:13:00.0
+totalMemory: 31.72GiB freeMemory: 31.31GiB
+2021-03-21 16:37:49.508482: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1433] Found device 2 with properties: 
+name: Tesla V100-PCIE-32GB major: 7 minor: 0 memoryClockRate(GHz): 1.38
+pciBusID: 0000:48:00.0
+totalMemory: 31.72GiB freeMemory: 31.31GiB
+2021-03-21 16:37:50.262428: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1433] Found device 3 with properties: 
+name: Tesla V100-PCIE-32GB major: 7 minor: 0 memoryClockRate(GHz): 1.38
+pciBusID: 0000:49:00.0
+totalMemory: 31.72GiB freeMemory: 31.31GiB
+2021-03-21 16:37:51.003722: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1433] Found device 4 with properties: 
+name: Tesla V100-PCIE-32GB major: 7 minor: 0 memoryClockRate(GHz): 1.38
+pciBusID: 0000:89:00.0
+totalMemory: 31.72GiB freeMemory: 31.31GiB
+2021-03-21 16:37:51.775591: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1433] Found device 5 with properties: 
+name: Tesla V100-PCIE-32GB major: 7 minor: 0 memoryClockRate(GHz): 1.38
+pciBusID: 0000:8a:00.0
+totalMemory: 31.72GiB freeMemory: 31.31GiB
+2021-03-21 16:37:52.590334: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1433] Found device 6 with properties: 
+name: Tesla V100-PCIE-32GB major: 7 minor: 0 memoryClockRate(GHz): 1.38
+pciBusID: 0000:c1:00.0
+totalMemory: 31.72GiB freeMemory: 31.31GiB
+2021-03-21 16:37:53.431538: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1433] Found device 7 with properties: 
+name: Tesla V100-PCIE-32GB major: 7 minor: 0 memoryClockRate(GHz): 1.38
+pciBusID: 0000:c2:00.0
+totalMemory: 31.72GiB freeMemory: 31.31GiB
+2021-03-21 16:37:53.537203: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0, 1, 2, 3, 4, 5, 6, 7
+2021-03-21 16:37:53.611209: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2021-03-21 16:37:53.611232: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990]      0 1 2 3 4 5 6 7 
+2021-03-21 16:37:53.611240: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0:   N Y Y Y Y Y Y Y 
+2021-03-21 16:37:53.611245: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 1:   Y N Y Y Y Y Y Y 
+2021-03-21 16:37:53.611250: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 2:   Y Y N Y Y Y Y Y 
+2021-03-21 16:37:53.611255: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 3:   Y Y Y N Y Y Y Y 
+2021-03-21 16:37:53.611260: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 4:   Y Y Y Y N Y Y Y 
+2021-03-21 16:37:53.611265: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 5:   Y Y Y Y Y N Y Y 
+2021-03-21 16:37:53.611269: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 6:   Y Y Y Y Y Y N Y 
+2021-03-21 16:37:53.611274: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 7:   Y Y Y Y Y Y Y N 
+2021-03-21 16:37:53.616991: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 30456 MB memory) -> physical GPU (device: 0, name: Tesla V100-PCIE-32GB, pci bus id: 0000:12:00.0, compute capability: 7.0)
+2021-03-21 16:37:53.617503: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 30456 MB memory) -> physical GPU (device: 1, name: Tesla V100-PCIE-32GB, pci bus id: 0000:13:00.0, compute capability: 7.0)
+2021-03-21 16:37:53.617906: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 30456 MB memory) -> physical GPU (device: 2, name: Tesla V100-PCIE-32GB, pci bus id: 0000:48:00.0, compute capability: 7.0)
+2021-03-21 16:37:53.618285: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 30456 MB memory) -> physical GPU (device: 3, name: Tesla V100-PCIE-32GB, pci bus id: 0000:49:00.0, compute capability: 7.0)
+2021-03-21 16:37:53.618613: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:4 with 30456 MB memory) -> physical GPU (device: 4, name: Tesla V100-PCIE-32GB, pci bus id: 0000:89:00.0, compute capability: 7.0)
+2021-03-21 16:37:53.618948: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:5 with 30456 MB memory) -> physical GPU (device: 5, name: Tesla V100-PCIE-32GB, pci bus id: 0000:8a:00.0, compute capability: 7.0)
+2021-03-21 16:37:53.619261: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:6 with 30456 MB memory) -> physical GPU (device: 6, name: Tesla V100-PCIE-32GB, pci bus id: 0000:c1:00.0, compute capability: 7.0)
+2021-03-21 16:37:53.619590: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:7 with 30456 MB memory) -> physical GPU (device: 7, name: Tesla V100-PCIE-32GB, pci bus id: 0000:c2:00.0, compute capability: 7.0)
+2021-03-21 16:37:53.622438: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x55753fc50340 executing computations on platform CUDA. Devices:
+2021-03-21 16:37:53.622465: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): Tesla V100-PCIE-32GB, Compute Capability 7.0
+2021-03-21 16:37:53.622472: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (1): Tesla V100-PCIE-32GB, Compute Capability 7.0
+2021-03-21 16:37:53.622476: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (2): Tesla V100-PCIE-32GB, Compute Capability 7.0
+2021-03-21 16:37:53.622481: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (3): Tesla V100-PCIE-32GB, Compute Capability 7.0
+2021-03-21 16:37:53.622486: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (4): Tesla V100-PCIE-32GB, Compute Capability 7.0
+2021-03-21 16:37:53.622490: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (5): Tesla V100-PCIE-32GB, Compute Capability 7.0
+2021-03-21 16:37:53.622495: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (6): Tesla V100-PCIE-32GB, Compute Capability 7.0
+2021-03-21 16:37:53.622500: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (7): Tesla V100-PCIE-32GB, Compute Capability 7.0
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Saving checkpoints for 0 into out_put1/model.ckpt.
+2021-03-21 16:38:13.149221: I tensorflow/stream_executor/dso_loader.cc:152] successfully opened CUDA library libcublas.so.10.0 locally
+INFO:tensorflow:loss = 0.81812555, step = 0
+INFO:tensorflow:global_step/sec: 3.53047
+INFO:tensorflow:loss = 0.22971942, step = 100 (28.325 sec)
+INFO:tensorflow:global_step/sec: 6.08674
+INFO:tensorflow:loss = 0.30503777, step = 200 (16.429 sec)
+INFO:tensorflow:global_step/sec: 6.09952
+INFO:tensorflow:loss = 0.19539697, step = 300 (16.394 sec)
+INFO:tensorflow:global_step/sec: 6.10077
+INFO:tensorflow:loss = 0.08247415, step = 400 (16.391 sec)
+INFO:tensorflow:global_step/sec: 6.09695
+INFO:tensorflow:loss = 0.085862115, step = 500 (16.402 sec)
+INFO:tensorflow:global_step/sec: 6.09276
+INFO:tensorflow:loss = 0.085276276, step = 600 (16.413 sec)
+INFO:tensorflow:global_step/sec: 6.10465
+INFO:tensorflow:loss = 0.22117876, step = 700 (16.381 sec)
+INFO:tensorflow:global_step/sec: 6.10482
+INFO:tensorflow:loss = 0.27554053, step = 800 (16.380 sec)
+INFO:tensorflow:global_step/sec: 6.10624
+INFO:tensorflow:loss = 0.22762169, step = 900 (16.377 sec)
+INFO:tensorflow:global_step/sec: 6.10584
+INFO:tensorflow:loss = 0.008428695, step = 1000 (16.378 sec)
+INFO:tensorflow:global_step/sec: 6.10513
+INFO:tensorflow:loss = 0.1268158, step = 1100 (16.380 sec)
+INFO:tensorflow:global_step/sec: 6.1028
+INFO:tensorflow:loss = 0.5043821, step = 1200 (16.386 sec)
+INFO:tensorflow:global_step/sec: 6.10647
+INFO:tensorflow:loss = 0.050808724, step = 1300 (16.376 sec)
+INFO:tensorflow:global_step/sec: 6.10167
+INFO:tensorflow:loss = 0.29203117, step = 1400 (16.389 sec)
+INFO:tensorflow:global_step/sec: 6.10281
+INFO:tensorflow:loss = 0.11808545, step = 1500 (16.386 sec)
+INFO:tensorflow:global_step/sec: 6.10146
+INFO:tensorflow:loss = 0.094058394, step = 1600 (16.389 sec)
+INFO:tensorflow:global_step/sec: 6.10458
+INFO:tensorflow:loss = 0.100691915, step = 1700 (16.381 sec)
+INFO:tensorflow:global_step/sec: 6.10439
+INFO:tensorflow:loss = 0.028837519, step = 1800 (16.381 sec)
+INFO:tensorflow:global_step/sec: 6.10041
+INFO:tensorflow:loss = 0.051417917, step = 1900 (16.392 sec)
+INFO:tensorflow:global_step/sec: 6.1053
+INFO:tensorflow:loss = 0.18696488, step = 2000 (16.379 sec)
+INFO:tensorflow:global_step/sec: 6.10704
+INFO:tensorflow:loss = 0.101930395, step = 2100 (16.374 sec)
+INFO:tensorflow:global_step/sec: 6.10675
+INFO:tensorflow:loss = 0.026293091, step = 2200 (16.376 sec)
+INFO:tensorflow:global_step/sec: 6.10468
+INFO:tensorflow:loss = 0.020982482, step = 2300 (16.381 sec)
+INFO:tensorflow:global_step/sec: 6.1054
+INFO:tensorflow:loss = 0.1366576, step = 2400 (16.379 sec)
+INFO:tensorflow:global_step/sec: 6.1052
+INFO:tensorflow:loss = 0.13590008, step = 2500 (16.380 sec)
+INFO:tensorflow:global_step/sec: 6.10714
+INFO:tensorflow:loss = 0.007165761, step = 2600 (16.374 sec)
+INFO:tensorflow:global_step/sec: 6.10226
+INFO:tensorflow:loss = 0.06950741, step = 2700 (16.387 sec)
+INFO:tensorflow:global_step/sec: 6.10593
+INFO:tensorflow:loss = 0.16764383, step = 2800 (16.378 sec)
+INFO:tensorflow:global_step/sec: 6.10962
+INFO:tensorflow:loss = 0.19184643, step = 2900 (16.367 sec)
+INFO:tensorflow:global_step/sec: 6.10566
+INFO:tensorflow:loss = 0.006545746, step = 3000 (16.378 sec)
+INFO:tensorflow:global_step/sec: 6.10235
+INFO:tensorflow:loss = 0.008937891, step = 3100 (16.387 sec)
+INFO:tensorflow:global_step/sec: 6.1047
+INFO:tensorflow:loss = 0.21566936, step = 3200 (16.381 sec)
+INFO:tensorflow:global_step/sec: 6.1062
+INFO:tensorflow:loss = 0.012945676, step = 3300 (16.377 sec)
+INFO:tensorflow:global_step/sec: 6.10124
+INFO:tensorflow:loss = 0.32366034, step = 3400 (16.390 sec)
+INFO:tensorflow:global_step/sec: 6.10788
+INFO:tensorflow:loss = 0.0022052238, step = 3500 (16.373 sec)
+INFO:tensorflow:Saving checkpoints for 3561 into out_put1/model.ckpt.
+INFO:tensorflow:global_step/sec: 5.42703
+INFO:tensorflow:loss = 0.016126892, step = 3600 (18.426 sec)
+INFO:tensorflow:global_step/sec: 6.10149
+INFO:tensorflow:loss = 0.007058889, step = 3700 (16.390 sec)
+INFO:tensorflow:global_step/sec: 6.09768
+INFO:tensorflow:loss = 0.005803762, step = 3800 (16.400 sec)
+INFO:tensorflow:global_step/sec: 6.10579
+INFO:tensorflow:loss = 0.2154529, step = 3900 (16.378 sec)
+INFO:tensorflow:global_step/sec: 6.106
+INFO:tensorflow:loss = 0.004185249, step = 4000 (16.377 sec)
+INFO:tensorflow:global_step/sec: 6.10404
+INFO:tensorflow:loss = 0.00507573, step = 4100 (16.383 sec)
+INFO:tensorflow:global_step/sec: 6.10478
+INFO:tensorflow:loss = 0.033119593, step = 4200 (16.380 sec)
+INFO:tensorflow:global_step/sec: 6.10442
+INFO:tensorflow:loss = 0.007585149, step = 4300 (16.382 sec)
+INFO:tensorflow:global_step/sec: 6.10584
+INFO:tensorflow:loss = 0.0018513303, step = 4400 (16.378 sec)
+INFO:tensorflow:global_step/sec: 6.1043
+INFO:tensorflow:loss = 0.003143244, step = 4500 (16.382 sec)
+INFO:tensorflow:global_step/sec: 6.10519
+INFO:tensorflow:loss = 0.17395854, step = 4600 (16.379 sec)
+INFO:tensorflow:global_step/sec: 6.09993
+INFO:tensorflow:loss = 0.002211932, step = 4700 (16.394 sec)
+INFO:tensorflow:global_step/sec: 6.10767
+INFO:tensorflow:loss = 0.0067881006, step = 4800 (16.373 sec)
+INFO:tensorflow:global_step/sec: 6.10547
+INFO:tensorflow:loss = 0.0038228077, step = 4900 (16.379 sec)
+INFO:tensorflow:global_step/sec: 6.09844
+INFO:tensorflow:loss = 0.005310992, step = 5000 (16.398 sec)
+INFO:tensorflow:global_step/sec: 6.10565
+INFO:tensorflow:loss = 0.0033691514, step = 5100 (16.379 sec)
+INFO:tensorflow:global_step/sec: 6.10019
+INFO:tensorflow:loss = 0.002025762, step = 5200 (16.393 sec)
+INFO:tensorflow:global_step/sec: 6.10357
+INFO:tensorflow:loss = 0.0034126649, step = 5300 (16.384 sec)
+INFO:tensorflow:global_step/sec: 6.10601
+INFO:tensorflow:loss = 0.0017908167, step = 5400 (16.377 sec)
+INFO:tensorflow:global_step/sec: 6.09965
+INFO:tensorflow:loss = 0.0015854426, step = 5500 (16.394 sec)
+INFO:tensorflow:global_step/sec: 6.10564
+INFO:tensorflow:loss = 0.002786797, step = 5600 (16.379 sec)
+INFO:tensorflow:global_step/sec: 6.10605
+INFO:tensorflow:loss = 0.0015543397, step = 5700 (16.377 sec)
+INFO:tensorflow:global_step/sec: 6.10105
+INFO:tensorflow:loss = 0.00080711505, step = 5800 (16.391 sec)
+INFO:tensorflow:global_step/sec: 6.09732
+INFO:tensorflow:loss = 0.37187636, step = 5900 (16.401 sec)
+INFO:tensorflow:global_step/sec: 6.10097
+INFO:tensorflow:loss = 0.09380057, step = 6000 (16.391 sec)
+INFO:tensorflow:global_step/sec: 6.10435
+INFO:tensorflow:loss = 0.0034937365, step = 6100 (16.382 sec)
+INFO:tensorflow:global_step/sec: 6.09679
+INFO:tensorflow:loss = 0.149178, step = 6200 (16.402 sec)
+INFO:tensorflow:global_step/sec: 6.10093
+INFO:tensorflow:loss = 0.0012304846, step = 6300 (16.391 sec)
+INFO:tensorflow:global_step/sec: 6.10272
+INFO:tensorflow:loss = 0.0012301576, step = 6400 (16.386 sec)
+INFO:tensorflow:global_step/sec: 6.09996
+INFO:tensorflow:loss = 0.0010952179, step = 6500 (16.393 sec)
+INFO:tensorflow:global_step/sec: 6.10069
+INFO:tensorflow:loss = 0.0013527062, step = 6600 (16.392 sec)
+INFO:tensorflow:global_step/sec: 6.10247
+INFO:tensorflow:loss = 0.0013258555, step = 6700 (16.387 sec)
+INFO:tensorflow:global_step/sec: 6.09603
+INFO:tensorflow:loss = 0.0006129603, step = 6800 (16.404 sec)
+INFO:tensorflow:global_step/sec: 6.09999
+INFO:tensorflow:loss = 0.053655364, step = 6900 (16.394 sec)
+INFO:tensorflow:global_step/sec: 6.10125
+INFO:tensorflow:loss = 0.15797, step = 7000 (16.390 sec)
+INFO:tensorflow:global_step/sec: 6.09868
+INFO:tensorflow:loss = 0.0007225091, step = 7100 (16.397 sec)
+INFO:tensorflow:global_step/sec: 6.10402
+INFO:tensorflow:loss = 0.018831287, step = 7200 (16.383 sec)
+INFO:tensorflow:Saving checkpoints for 7210 into out_put1/model.ckpt.
+INFO:tensorflow:global_step/sec: 5.43682
+INFO:tensorflow:loss = 0.00095461676, step = 7300 (18.393 sec)
+INFO:tensorflow:global_step/sec: 6.09397
+INFO:tensorflow:loss = 0.0041556554, step = 7400 (16.410 sec)
+INFO:tensorflow:global_step/sec: 6.10026
+INFO:tensorflow:loss = 0.052972723, step = 7500 (16.393 sec)
+INFO:tensorflow:global_step/sec: 6.10094
+INFO:tensorflow:loss = 0.08676862, step = 7600 (16.391 sec)
+INFO:tensorflow:global_step/sec: 6.10411
+INFO:tensorflow:loss = 0.0004430134, step = 7700 (16.383 sec)
+INFO:tensorflow:global_step/sec: 6.1027
+INFO:tensorflow:loss = 0.0012643711, step = 7800 (16.386 sec)
+INFO:tensorflow:global_step/sec: 6.10415
+INFO:tensorflow:loss = 0.0015088497, step = 7900 (16.382 sec)
+INFO:tensorflow:global_step/sec: 6.09586
+INFO:tensorflow:loss = 0.023485327, step = 8000 (16.405 sec)
+INFO:tensorflow:global_step/sec: 6.10055
+INFO:tensorflow:loss = 0.0010013179, step = 8100 (16.392 sec)
+INFO:tensorflow:global_step/sec: 6.10223
+INFO:tensorflow:loss = 0.021050844, step = 8200 (16.387 sec)
+INFO:tensorflow:global_step/sec: 6.10269
+INFO:tensorflow:loss = 0.00027676052, step = 8300 (16.386 sec)
+INFO:tensorflow:global_step/sec: 6.10192
+INFO:tensorflow:loss = 0.006182637, step = 8400 (16.388 sec)
+INFO:tensorflow:global_step/sec: 6.10416
+INFO:tensorflow:loss = 0.0052242875, step = 8500 (16.382 sec)
+INFO:tensorflow:global_step/sec: 6.10571
+INFO:tensorflow:loss = 0.022969184, step = 8600 (16.378 sec)
+INFO:tensorflow:global_step/sec: 6.10414
+INFO:tensorflow:loss = 0.0009624186, step = 8700 (16.382 sec)
+INFO:tensorflow:global_step/sec: 6.10497
+INFO:tensorflow:loss = 0.002536126, step = 8800 (16.380 sec)
+INFO:tensorflow:global_step/sec: 6.10343
+INFO:tensorflow:loss = 0.00015482868, step = 8900 (16.384 sec)
+INFO:tensorflow:global_step/sec: 6.1021
+INFO:tensorflow:loss = 0.00018485633, step = 9000 (16.388 sec)
+INFO:tensorflow:global_step/sec: 6.09815
+INFO:tensorflow:loss = 0.0002858789, step = 9100 (16.398 sec)
+INFO:tensorflow:global_step/sec: 6.10242
+INFO:tensorflow:loss = 0.042176485, step = 9200 (16.387 sec)
+INFO:tensorflow:global_step/sec: 6.09993
+INFO:tensorflow:loss = 0.017758073, step = 9300 (16.394 sec)
+INFO:tensorflow:global_step/sec: 6.10338
+INFO:tensorflow:loss = 0.18894343, step = 9400 (16.385 sec)
+INFO:tensorflow:global_step/sec: 6.10044
+INFO:tensorflow:loss = 0.26696706, step = 9500 (16.392 sec)
+INFO:tensorflow:global_step/sec: 6.09935
+INFO:tensorflow:loss = 7.126869e-05, step = 9600 (16.395 sec)
+INFO:tensorflow:global_step/sec: 6.10124
+INFO:tensorflow:loss = 4.0674997e-05, step = 9700 (16.390 sec)
+INFO:tensorflow:global_step/sec: 6.10151
+INFO:tensorflow:loss = 4.1677227e-05, step = 9800 (16.389 sec)
+INFO:tensorflow:global_step/sec: 6.10135
+INFO:tensorflow:loss = 0.019912345, step = 9900 (16.390 sec)
+INFO:tensorflow:global_step/sec: 6.09523
+INFO:tensorflow:loss = 0.0008528629, step = 10000 (16.406 sec)
+INFO:tensorflow:global_step/sec: 6.09724
+INFO:tensorflow:loss = 0.17903218, step = 10100 (16.401 sec)
+INFO:tensorflow:global_step/sec: 6.10011
+INFO:tensorflow:loss = 4.6663183e-05, step = 10200 (16.393 sec)
+INFO:tensorflow:global_step/sec: 6.10402
+INFO:tensorflow:loss = 0.00023589974, step = 10300 (16.383 sec)
+INFO:tensorflow:global_step/sec: 6.10066
+INFO:tensorflow:loss = 6.7142886e-05, step = 10400 (16.392 sec)
+INFO:tensorflow:global_step/sec: 6.09846
+INFO:tensorflow:loss = 0.019092627, step = 10500 (16.398 sec)
+INFO:tensorflow:global_step/sec: 6.10008
+INFO:tensorflow:loss = 0.000111853136, step = 10600 (16.393 sec)
+INFO:tensorflow:global_step/sec: 6.09283
+INFO:tensorflow:loss = 4.542448e-05, step = 10700 (16.413 sec)
+INFO:tensorflow:global_step/sec: 6.1031
+INFO:tensorflow:loss = 7.423227e-05, step = 10800 (16.385 sec)
+INFO:tensorflow:Saving checkpoints for 10859 into out_put1/model.ckpt.
+INFO:tensorflow:global_step/sec: 5.43071
+INFO:tensorflow:loss = 5.4277403e-05, step = 10900 (18.414 sec)
+INFO:tensorflow:global_step/sec: 6.1004
+INFO:tensorflow:loss = 7.187494e-05, step = 11000 (16.392 sec)
+INFO:tensorflow:global_step/sec: 6.10049
+INFO:tensorflow:loss = 4.1595275e-05, step = 11100 (16.392 sec)
+INFO:tensorflow:global_step/sec: 6.0944
+INFO:tensorflow:loss = 0.00010506411, step = 11200 (16.409 sec)
+INFO:tensorflow:global_step/sec: 6.09845
+INFO:tensorflow:loss = 0.0111303665, step = 11300 (16.397 sec)
+INFO:tensorflow:global_step/sec: 6.10309
+INFO:tensorflow:loss = 0.00033309218, step = 11400 (16.385 sec)
+INFO:tensorflow:global_step/sec: 6.09923
+INFO:tensorflow:loss = 0.022950629, step = 11500 (16.396 sec)
+INFO:tensorflow:global_step/sec: 6.10111
+INFO:tensorflow:loss = 3.4847126e-05, step = 11600 (16.390 sec)
+INFO:tensorflow:global_step/sec: 6.09652
+INFO:tensorflow:loss = 0.00014052866, step = 11700 (16.403 sec)
+INFO:tensorflow:global_step/sec: 6.09943
+INFO:tensorflow:loss = 4.0529114e-05, step = 11800 (16.395 sec)
+INFO:tensorflow:global_step/sec: 6.09944
+INFO:tensorflow:loss = 2.225833e-05, step = 11900 (16.395 sec)
+INFO:tensorflow:global_step/sec: 6.10188
+INFO:tensorflow:loss = 2.1721891e-05, step = 12000 (16.388 sec)
+INFO:tensorflow:global_step/sec: 6.10245
+INFO:tensorflow:loss = 2.187832e-05, step = 12100 (16.387 sec)
+INFO:tensorflow:global_step/sec: 6.10311
+INFO:tensorflow:loss = 1.8033952e-05, step = 12200 (16.385 sec)
+INFO:tensorflow:global_step/sec: 6.09886
+INFO:tensorflow:loss = 1.7653978e-05, step = 12300 (16.396 sec)
+INFO:tensorflow:global_step/sec: 6.0979
+INFO:tensorflow:loss = 3.3989563e-05, step = 12400 (16.399 sec)
+INFO:tensorflow:global_step/sec: 6.10096
+INFO:tensorflow:loss = 1.9088162e-05, step = 12500 (16.391 sec)
+INFO:tensorflow:global_step/sec: 6.10276
+INFO:tensorflow:loss = 0.00023642377, step = 12600 (16.386 sec)
+INFO:tensorflow:global_step/sec: 6.09877
+INFO:tensorflow:loss = 1.7385762e-05, step = 12700 (16.397 sec)
+INFO:tensorflow:global_step/sec: 6.10029
+INFO:tensorflow:loss = 2.6425942e-05, step = 12800 (16.393 sec)
+INFO:tensorflow:global_step/sec: 6.09745
+INFO:tensorflow:loss = 4.4886052e-05, step = 12900 (16.400 sec)
+INFO:tensorflow:global_step/sec: 6.10233
+INFO:tensorflow:loss = 1.8093546e-05, step = 13000 (16.387 sec)
+INFO:tensorflow:global_step/sec: 6.09919
+INFO:tensorflow:loss = 1.5556685e-05, step = 13100 (16.396 sec)
+INFO:tensorflow:global_step/sec: 6.10097
+INFO:tensorflow:loss = 2.112206e-05, step = 13200 (16.391 sec)
+INFO:tensorflow:Saving checkpoints for 13264 into out_put1/model.ckpt.
+INFO:tensorflow:Loss for final step: 0.01414296.
+
+WARNING: The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+If you depend on functionality not listed there, please file an issue.
+

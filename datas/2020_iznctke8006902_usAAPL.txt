@@ -1,0 +1,48 @@
+让 iPhone 拍照能力大升级的计算摄影，相机为什么不用？
+爱范儿
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/116/w550h366/20201224/edd6-kftfpiv7282643.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　在 iPhone 11 系列的发布会上，苹果高级副总裁菲利普・席勒（Philip W。 Schiller）在介绍 iPhone 11 Pro 系列的影像系统时，第一次将计算摄影的概念引入，这个概念也第一次被大众所熟知。</p>
+<p cms-style="font-L">　　其实，计算摄影这个概念并不新鲜，最早出现在 94 年就的一篇公开论文中，且认定机内合成 HDR、全景照片以及模拟散景都属于计算摄影范畴。但当时照片的主流载体还是胶片，数码相机才刚刚起步，手机上还没有摄像头。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201223/399/w720h479/20201223/c237-kftfpiv4322161.jpg" alt="▲ iPhone 11 Pro 发布会上介绍计算摄影的菲利普・席勒（Philip W。 Schiller）。 图片来自：Apple"><span class="img_descr">▲ iPhone 11 Pro 发布会上介绍计算摄影的菲利普・席勒（Philip W。 Schiller）。 图片来自：Apple</span></div>
+<p cms-style="font-L">　　几十年后，影像记录的载体从胶片换成数字，手机拥有了摄像头，计算摄影也从理论中走出，渐渐成为一大潮流。</p>
+<p cms-style="font-L">　　不过这这潮流跟相机关系不大，相机厂商依然按部就班的提高像素、连拍速度和视频能力，似乎对计算摄影两耳不闻，拍出来的照片（直出）依旧很平庸，渐渐被智能手机‘超越’。</p>
+<p cms-style="font-L">　　与之相反的是， 智能手机芯片的算力越来越强，AI、算法、机器学习介入的范围也更广，图像的演绎方法越来越多，最终经过一系列‘算法’处理过的照片也愈发好看。</p>
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201223/400/w720h480/20201223/ac5e-kftfpiv4322163.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　现在，很多人出门更愿意用手机记录、分享，而相机越来越少见，这也反应在二者的市场表现上，智能手机市场增速强劲，相机市场则连年萎缩，甚至 DC（卡片相机）都渐渐消失。</p>
+<p cms-style="font-L">　　这时，就有人会问了，既然智能手机随手一拍所得照片的观感这么好，为何传统的相机厂商不去跟随计算摄影的潮流，考虑提高照片直出的观感呢？</p>
+<p cms-style="font-L strong-Bold">　　是相机算力不够，算不过来？</p>
+<p cms-style="font-L">　　这个问题我们先从‘核心’谈起。</p>
+<p cms-style="font-L">　　手机的核心是 SoC，它集成了 CPU、GPU、ISP、NPU 以及基带等，可以让你打电话、拍照、看视频、玩游戏、上网等操作，也直接决定了手机的性能。</p>
+<p cms-style="font-L">　　而相机的核心部件是图像传感器（CMOS），除了元件面积外，跟手机差不多，作成像与感光。另外，控制整套相机系统的中央处理芯片叫做图像处理器（Image Processor）。</p>
+<div class="img_wrapper"><img id="2" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201223/400/w720h480/20201223/7e70-kftfpiv4322269.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　以索尼的 BIONZ X 图像处理器为例（α7 系列御用），它包括 SoC 和 ISP 芯片，并没有将 ISP 集成在 SoC 内，优点是索尼可以自行根据 CMOS 的性能需求，而自行增加 ISP 芯片的数量（α7RIII 的 BIONZ X 就配备了双 ISP），缺点就是集成化程度没有手机那么高。</p>
+<p cms-style="font-L">　　BIONZ X 中 SoC 的作用跟手机的类似，控制操控界面与相机功能，性能要求并不高。对图像传感器采集的‘数据’进行拜尔转型、解马赛克、降噪、锐化等操作，多是依靠 ISP，最终把 CMOS 采集的数据转换成相机的实时取景。在这个过程中，相机的 ISP 不涉及计算过程，只是把照片当做流水线上的产品，进行统一的处理。</p>
+<div class="img_wrapper"><img id="3" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201223/368/w720h448/20201223/794b-kftfpiv4322270.jpg" alt=" ▲ 索尼 BIONZ X 图像处理器。 图片来自：SONY"><span class="img_descr"> ▲ 索尼 BIONZ X 图像处理器。 图片来自：SONY</span></div>
+<p cms-style="font-L">　　随着现在相机的像素数、连拍速度以及视频性能不断提升，相机的图像处理器对图片处理的速度和吞吐量需求很高，单一的数据量很庞大，在不涉及‘计算’的前提下，相机图像处理器的处理能力远超过现在智能手机 ISP 的处理能力。</p>
+<div class="img_wrapper"><img id="4" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201223/400/w720h480/20201223/13f0-kftfpiv4322301.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　但说到计算摄影，或者说 AI 能力，就有些不太一样了。智能手机的成像过程有些类似相机，不过在呈现最终画面之前，还需要 ISP、DSP 的计算，实时调整、优化，尤其是在多摄系统成为主流后，手机的计算数据量成倍增长。</p>
+<p cms-style="font-L">　　在 iPhone 11 Pro 系列推出多摄系统后，多摄系统能够平滑、无缝切换的背后是 A13 Bionic 中新增的两个机器学习加速器庞大的数据处理能力，达到了每秒一万亿次，如此高频高效的数据处理能力才算是吃下了三个摄像头所产生的庞大数据量。</p>
+<p cms-style="font-L">　　相机的图像处理器多是对原始数据进行预处理，几乎没有计算的过程，而手机 SoC 则包括数据采集预处理以及后续的计算过程，二者着重的方向不同。</p>
+<p cms-style="font-L strong-Bold">　　面向群体不同，市场细分的结果</p>
+<p cms-style="font-L">　　手机计算摄影发展很快，根源还是因手机的图像传感器（CMOS）尺寸太小，以现在的技术，想要在物理上超过或者接近相机只能通过算法优化，拼直出观感，比如说，自动 HDR、超级夜景、模拟大光圈、魔法换天等功能。</p>
+<div class="img_wrapper"><img id="5" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201223/326/w720h406/20201223/7ab6-kftfpiv4322300.jpg" alt="▲ 拍摄一张照片，iPhone 所做的‘计算’过程。 图片来自：Apple"><span class="img_descr">▲ 拍摄一张照片，iPhone 所做的‘计算’过程。 图片来自：Apple</span></div>
+<p cms-style="font-L">　　但这些算法的演绎，做到可以‘个性化’干预还是很难，比如说滤镜加到什么程度，HDR 高光暗部保留到什么程度等。不过，对于面向大众人群的手机而言，尽可能让大多数人拍出不错的照片，更加符合手机的市场定位和人群定位。</p>
+<p cms-style="font-L">　　自相机发明以来，相机就有着绝对的‘工具’属性，为了高效，外观、操控、功能等等均会向效率妥协。面向更小众的职业人群，自然也会更符合他们的需求，相机们会尽可能的记录色深、色彩、光线等信息，以便使用者进行更大范围的后期调整，直出好不好看，并不在他们的需求里。</p>
+<div class="img_wrapper"><img id="6" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201223/400/w720h480/20201223/e62e-kftfpiv4322379.jpg" alt=" ▲ RAW 文件内记录了更多的信息，可以进行更大范围的调整。 图片来自：Ben Sandofsky"><span class="img_descr"> ▲ RAW 文件内记录了更多的信息，可以进行更大范围的调整。 图片来自：Ben Sandofsky</span></div>
+<p cms-style="font-L">　　对于大多数没有摄影基础的人来说，随手获得一张观感不错的照片，远比得到一张信息丰富的照片更加重要。而对于面向专业领域的相机厂商们，提升 RAW 记录的色深要比提升 JPG 直出效果更符合市场定位。</p>
+<p cms-style="font-L">　　不过，事情并非那么绝对，相机们也在尝试改变。富士就一直致力于相机的直出效果，引入了‘胶片模拟’，透过不同的算法，让拍出的照片更有味道，观感也更为好看。但这过程并没有经过场景计算，而是需使用者自行选择，这与手机的一些胶片模拟 App 有些类似，涉及不到所谓的‘计算摄影’。</p>
+<p cms-style="font-L strong-Bold">　　AI 后期，才是相机的大方向？</p>
+<p cms-style="font-L">　　摄影领域中，后期处理是必不可少的步骤，一方面，后期软件可以充分利用 RAW 格式中所记录的丰富信息，另一方面也可借助 PC 的高性能和算力来对照片快速处理。</p>
+<p cms-style="font-L">　　与相机厂商不同，几乎主流的专业后期软件都已开始在 AI 上发力，强调 AI 的处理能力。</p>
+<div class="img_wrapper"><img id="7" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201223/383/w720h463/20201223/5f1e-kftfpiv4322377.jpg" alt=" ▲ 后期软件 Luminar 4 支持 AI 自动换天。 图片来自：Luminar"><span class="img_descr"> ▲ 后期软件 Luminar 4 支持 AI 自动换天。 图片来自：Luminar</span></div>
+<p cms-style="font-L">　　Adobe 公司的 Photoshop 在近几个版本的更新中，在抠图、修复、磨皮等操作中加入了自动识别功能，使得操作越来越无脑，效果越来越精确。而 Mac 平台上的 Pixelmator Pro 修图软件，早在 2018 年就开始借助苹果的 Core ML 机器学习进行识别图像，从而进行色彩调整、抠图、选取，甚至在压缩输出时，都运用了 ML 机器学习引擎。</p>
+<div class="img_wrapper"><img id="8" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201223/263/w720h343/20201223/c521-kftfpiv4322465.png" alt="▲ Pixelmator Pro 2.0 的图像编辑支持机器学习引擎助力。 图片来自：Pixelmator"><span class="img_descr">▲ Pixelmator Pro 2.0 的图像编辑支持机器学习引擎助力。 图片来自：Pixelmator</span></div>
+<p cms-style="font-L">　　前文所提，现在相机厂商由于芯片 AI 算力限制，和面对小众市场问题，几乎没有在计算摄影上发力。但后期软件在 AI 上的爆发，也算是在侧面弥补了相机们在计算摄影上的短板。</p>
+<p cms-style="font-L">　　即使算上后期软件的 AI，相机们依然没有摆脱传统的流程，相机们记录，软件们处理，这个过程对于大众们来说，依然繁琐。对于专业的摄影玩家，后期软件 AI 的介入，的确能够减少工作量，让原本繁复的抠图等操作变得轻松不少，但依然无法扭转传统摄影行业的照片处理（创作）流程，与手机截然不同。</p>
+<div class="img_wrapper"><img id="9" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201223/429/w720h509/20201223/db21-kftfpiv4322466.png" alt=" ▲ 2020 年 9 月全球数码相机出货量，远不及 2018 年。 图片来自：CIPA"><span class="img_descr"> ▲ 2020 年 9 月全球数码相机出货量，远不及 2018 年。 图片来自：CIPA</span></div>
+<p cms-style="font-L">　　根据 CIPA 的数据，相机市场正逐步萎缩，与之相反的是，手机市场不断的增长。智能手机上成为潮流的‘计算摄影’，并不会改变相机日趋专业的方向，也不会扭转相机市场逐步萎缩的局面。</p>
+<p cms-style="font-L">　　换句话说，即使现在相机们有着与智能手机接近的‘计算摄影’能力，就能挽救‘江河日下’的相机市场吗？答案当然是否定的，举个极端的例子，拼直出可行的话，那富士相机会有着第一的市场份额。事实上，现在无反相机第一的宝座，反而被直出并不好看的索尼占据着。</p>
+<div class="img_wrapper"><img id="10" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201223/400/w720h480/20201223/81bd-kftfpiv4322501.jpg" alt="▲ 索尼微单已成为不少工作室的工作用机。 图片来自：SmallRig"><span class="img_descr">▲ 索尼微单已成为不少工作室的工作用机。 图片来自：SmallRig</span></div>
+<p cms-style="font-L">　　面对来势汹汹的手机们，相机们只能向着更专业的方向发展，不断的向上细分市场，近些年全画幅的 4000 万、6000 万高像素，中画幅的过亿像素，以及微单视频能力不断接近专业摄录一体机，都是相机细分市场的产物。</p>
+<p cms-style="font-L">　　相机专业化越来越强，也就意味着需要性能更佳的图像传感器（CMOS），但‘计算摄影’倚重单独的机器学习模块，众所周知，芯片的研发成本高、风险大，相机厂商们难以兼顾二者。计算摄影和发展专业化是两条不同的道路，同时，对于专业用户用处不大的‘计算摄影’、‘AI 干预’等特性，相机厂商大概率因平衡研发费用，暂时被战略性放弃。</p>
+<p cms-style="font-L">　　在现阶段或者可见的未来内，想要相机厂商去拥抱‘计算摄影’风险高、投资大，成效慢，是难上加难，更别说现在还有一众专业后期软件用 AI 修图来托底了。</p>

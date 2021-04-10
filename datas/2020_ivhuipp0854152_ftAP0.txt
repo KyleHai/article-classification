@@ -1,0 +1,28 @@
+大摩：警惕美股即将回调
+金十数据
+<p class="ori_titlesource">　　原标题：大摩：警惕美股即将回调</p>
+<p cms-style="font-L subpect-abstract">　　今年年初，摩根士丹利策略师威尔逊（Michael Wilson）对美股的态度由做空转为积极看涨，认为美联储注入大量流动性以及通胀回升将推动美股至历史新高。</p>
+<p cms-style="font-L">　　然而，在8月24日的一份报告中，威尔逊却警告称，市场广度的崩溃正成为美股的一大隐忧，市场可能正面临一场回调。</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">市场广度</font>（Market Breadth）是一种技术分析方法，这个指标通过分析上涨股票数量与下跌股票数量的差额来判断未来市场走势。</p>
+<p cms-style="font-L">　　威尔逊在报告中写道：</p>
+<p cms-style="font-L">　　“近期广度继续收窄，上周五的价格走势可能是迄今为止最极端的例子。<font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold">只有一只股票——苹果，贡献了纳指和标普500指数105%的回报，以及道指88%的回报。</font></font></p>
+<p cms-style="font-L">　　上周一整周，标普500指数（按市值加权）上涨了72个基点，创下历史新高，而等权重的标普500指数却是下跌了1.5%，且仍较其2月纪录高点低8%。”</p>
+<p cms-style="font-L">　　标普500指数的结果依照其成分股市值加权计算，而在等权重的标普500指数中，每只个股都具有相同权重，<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">因此等权重标普500指数的结果更能剔除FAAMG等领涨科技股对标普500指数的影响。</font></font></p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020826/507/w831h476/20200826/4831-iyhvyva0746875.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　威尔逊接着指出，等权重标普500指数也仍然低于6月8日的高点。此外，标普500指数的累计腾落指数在8月12日触顶，但未能创下历史新高。</p>
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020826/359/w831h328/20200826/3696-iyhvyva0746876.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　当然，对于那些只关注这少数几只日益集中的股票的人来说，这并不是什么新鲜事。事实上，正如威尔逊所写：</p>
+<p cms-style="font-L">　　“市场广度的收窄一直是这场美股反弹中的一大热议特征。我们感兴趣的是，在自3月低点以来的这场反弹的前几个月中，市场广度表现出巨大的改善，这也是我们早早宣称新一轮牛市开启的原因之一。在我们看来，直到最近，广度的收窄才成为了一个显著的问题。”</p>
+<div class="img_wrapper"><img id="2" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020826/25/w831h794/20200826/f270-iyhvyva0746906.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　在威尔逊看来，虽然他仍然对美股持整体看涨态度，且仍认为市场正处于新一轮周期性牛市的开端，<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">但他也表示，最近市场广度的极度狭窄表明，美股即将迎来一次规模可观的回调。</font></font></p>
+<p cms-style="font-L">　　威尔逊指出，上周出现了几个可能在短期内对股市造成整体负面影响的因素：</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">第一</font></font>，由于学生返校期间发生集中感染，一些大学已经决定取消线下授课，其他学校也纷纷效仿，避免感染病例爆发的风险。威尔逊认为：“这是自我们4月中旬首次强调重新开放以来，一个负面的事态发展。”</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">第二</font></font>，除了对学校改为线上授课的担忧加剧之外，国会在确定新一轮的财政刺激计划上仍陷入僵局。更糟的是，随着时间的推移，依赖失业救济金的家庭可能会对自己的财务状况失去信心。</p>
+<div class="img_wrapper"><img id="3" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020826/608/w831h577/20200826/51fb-iyhvyva0746904.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">第三</font></font>，摩根士丹利指出，备受期待的美联储7月份会议纪要，并未像投资者预期的那样，为美联储未来的政策提供支撑。更具体地说，“关于平均通胀目标（AIT）和收益率曲线控制（YCC）的指引是令人失望的主要原因”。</p>
+<p cms-style="font-L">　　这是一个令人担忧的问题，<font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold">因为对于美联储会采用这两种做法的预期，正是人们对长期美债收益率（包括名义收益率和实际收益率）持乐观看法的一大原因</font></font>。上周的会议记录向市场暗示，美联储并没有做好设置平均通胀目标的准备，对收益率曲线控制也根本不感兴趣。</p>
+<p cms-style="font-L">　　因此，在会议纪要发布之后，我们看到美债出现抛售，第二天的通胀保值国债拍卖也不如人意。</p>
+<p cms-style="font-L">　　综上，威尔逊总结道，<font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold">在股指走高的表面之下，股市实际表现十分疲软，现在甚至只由一只股票——苹果来推动。</font></font></p>
+<p cms-style="font-L">　　这种情况是比较危险的。市场对经济增长无法恢复的恐慌可能开始给苹果造成压力，让美股出现大幅波动。威尔逊的结论是：</p>
+<p cms-style="font-L">　　“我们预计，在未来几周/几个月内，市场会出现恐慌情绪，这最终可能导致美国主要股指出现首次回调。”</p>
+<p cms-style="font-L">　</p>

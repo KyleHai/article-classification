@@ -1,0 +1,75 @@
+德勤：企业可再生能源电力采购机制与实施建议
+新浪财经综合
+<p cms-style="font-L align-Center">　　来源：德勤Deloitte&nbsp;</p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020914/342/w735h407/20200914/53f7-izeysay8444918.jpg" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">企业购买可再生能源电力的背景</font></p>
+<p cms-style="font-L align-Center">　　1</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">背景</font></p>
+<p cms-style="font-L">　　2015年气候变化大会通过的《巴黎协定》为2020年以后携手应对气候变化制定了工作计划，各国达成共识，要将21世纪全球平均气温上升幅度控制在2摄氏度以内。根据联合国气候变化框架公约秘书处（UNFCCC）的测算，要达成这-2摄氏度的目标，到2050年与能源相关的二氧化碳排放量较2015年水平需要减少至少70%，大规模应用包括风能、太阳能、水能在内的可再生能源以及提高能效是实现这一目标的关键。</p>
+<p cms-style="font-L">　　国际可再生能源署（IRENA）的报告显示，能源生产和使用中排放的温室气体占总排放量约三分之二，其中电力生产和相关工业排放的二氧化碳占能源行业二氧化碳排放的约65%。巴黎协定2摄氏度的目标需要巨幅降低与能源相关的碳排放，而更大规模部署和使用清洁能源可以实现其中90%的碳排放。可见，降低温室气体排放、减轻全球气候变暖亟待能源领域的变革。</p>
+<p cms-style="font-L">　　Bloomberg的新能源展望报告显示，到2050年，全球可再生电量将爆发式增长到占总发电量的62%，其中光伏发电和风电占比达48%。按国家单独计算，到2050年中国可再生能源（太阳能和风能）占比将达到48%。</p>
+<p cms-style="font-L">　　<font cms-style="font-L">图 1&nbsp;2019 - 2050 年全球发电趋势预测</font></p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="2" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020914/782/w1080h502/20200914/5c65-izeysay8444992.png" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="font-L legend">　　资料和图片来源： Bloomberg NEF</p>
+<p cms-style="font-L">　　<font cms-style="font-L">图 2 2050年全球主要国家和地区可再生能源电力生产占比预测</font></p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="3" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020914/46/w1080h566/20200914/3179-izeysay8444993.png" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="font-L legend">　　资料和图片来源：Bloomberg NEF</p>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="font-L strong-Bold align-Center">2</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">RE100全球可再生能源倡议</font></p>
+<p cms-style="font-L">　　气候组织（The Climate Group）与碳披露计划（Carbon Disclosure Project， CDP）于2014年合作发起了RE100全球可再生能源倡议，加入企业必须公开承诺在2020至2050年间达成100%使用绿电的时程，并逐年提出规划。截止2020年8月，来自金融、消费、制造业等各个行业的全球242家企业已承诺将100%使用可再生能源电力，参与的企业包括：</p>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center">表1 RE100的企业成员示例</font></font></p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="4" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020914/716/w1080h436/20200914/27e8-izeysay8445040.png" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="font-L">　　参与企业通过绿电投资自发自用、购买再生能源凭证（Renewable Energy Certificates， RECs）、签订绿电购售合约（Power Purchase Agreement， PPA）等手段，达成绿电使用目标。值得一提的是一些行业巨头已经提早实现了这一目标，如美国苹果公司已在2018年4月实现了100%的可再生能源电力消耗。</p>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="font-L strong-Bold align-Center">3</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">企业可再生能源电力购买机制</font></p>
+<p cms-style="font-L">　　根据国际可再生能源署的报告统计显示，2017年企业可再生能源采购市场规模达到465 太瓦（TWh）。总体而言，企业可再生能源电力购买途径不断丰富，但通过购电协议方式采购可再生能源电力的比例仍然较低。</p>
+<p cms-style="font-L">　　<font cms-style="font-L">图 3 2017年全球可再生能源电力交易市场概览</font></p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="5" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020914/85/w1080h605/20200914/e2cf-izeysay8445041.png" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="font-L">　　<font cms-style="font-L">数据来源：IRENA</font></p>
+<p cms-style="font-L">　　北美地区在全球可再生电力交易规模上处于领先地位，截止2017年的数据显示，北美占全球企业购电协议的比重高于75%。美国企业绝大部分的可再生能源电力购买由场外实体购电协议和虚拟购电协议完成。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">中国企业可再生能源电力采购的现状</font></p>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="font-L strong-Bold align-Center">1</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">政策基础</font></p>
+<p cms-style="font-L">　　2015年3月，中共中央、国务院印发《中共中央 国务院关于进一步深化电力体制改革的若干意见》（中发〔2015〕9号），新一轮电力体制改革拉开序幕。文件提出了包括建立健全“基准价+上下浮动”的市场化价格机制，完善并网运行服务，支持可再生能源上网，落实可再生能源发电保障性收购制度等一系列深化改革的举措，为市场主体实现多样化电力采购，特别是可再生电力采购建立了制度。随后发布的《关于有序放开发用电计划的实施意见》等配套文件也指出，要逐步放大电力直接交易的比例，根据电压等级由高到低的次序，逐步放开工商业用户用电，积极推进直接交易。</p>
+<p cms-style="font-L">　　2019年5月，国家发改委、国家能源局联合发布《关于建立健全可再生能源电力消纳保障机制的通知》（发改能源〔2019〕807号）。通知提出要建立健全可再生能源电力消纳保障机制，并要求自2020年1月1日起全面进行监测评价和正式考核。通知明确要确定各省级区域的可再生能源电量在电力消费中的占比目标（即“可再生能源电力消纳责任权重”），进而促使各省级区域优先消纳可再生能源，加快解决弃水弃风弃光问题。同时要通过该机制促使各类市场主体公平承担消纳责任，形成可再生能源电力消费引领的长效发展机制。</p>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="font-L strong-Bold align-Center">2</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">中国可再生能源电力采购机制及现状</font></p>
+<p cms-style="font-L">　　根据落基山研究所（RMI）于2019年发布的报告显示，在中国直接购电协议尚处于试点阶段，进展较为缓慢，而虚拟购电协议在中国尚不可行，因此，分布式项目和可再生能源证书是我国企业可再生能源采购的主要机制。</p>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">表2 中国的可再生能源电力交易机制概览</font></font></p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="6" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020914/787/w1080h507/20200914/da83-izeysay8445098.png" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">典型案例</font></p>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="font-L strong-Bold align-Center">苹果</font></p>
+<p cms-style="font-L">　　苹果公司在2018年已通过建设分布式光伏发电站和购买可再生能源电力实现了自身100%使用可再生电能，将电能消耗造成的碳排放降至零。但除苹果自身以外，其供应链的碳排放占比占总碳排放的75%，其中70%的排放来自电能消耗，苹果正努力通过可再生能源电力投资，推动全球减排。值得一提的是，苹果采购的83%的就可再生能源电力来自其直接创造的可再生能源项目（“Apple-created projects”）；在这一部分项目中，12%由苹果全资投资建设，4%由苹果参与投资建设，84%通过签订长期可再生能源电力购买合同完成。此外，苹果在中国推动其供应商向100%可再生能源电力转型的措施尤为值得关注，苹果正努力让所有供应商在2030年之前使用上可再生能源电力。2018年，苹果与中国的合作伙伴一起创立了规模近3亿美元的清洁能源基金，用于开发建设可再生能源电力项目，期望最终在中国达成1千兆瓦的可再生能源电力生产装机规模，首批投资落地项目中包括在湖南道县投资建设的装机容量为48兆瓦的风电场。</p>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="font-L strong-Bold align-Center">百威啤酒</font></p>
+<p cms-style="font-L">　　总部位于比利时的百威是一家国际知名的啤酒企业，其承诺到2025年100%使用可再生能源酿造啤酒，目前正大力推进一系列可再生能源项目。2019年，百威亚太在中国完成对7家工厂的光伏改造，生产绿电4100万千瓦时，减少碳排放3万吨。其中，位于粤港澳大湾区的百威佛山工厂是百威啤酒全球最大的生产基地，负责全球百威啤酒20%的供应量。百威啤酒共投资约2450万元用于佛山工厂光伏改造，总装机容量为4.9兆瓦，每年为工厂提供可再生能源电力500万千瓦时。2020年，百威在四川省资阳市的工厂首次通过引入购电协议，实现了100%使用可再生能源电力生产，每年使用绿电1600万千瓦时，减少碳排放1.2万吨。预计到2020年底，百威将通过光伏发电和购售电协议，在中国应用可再生电力8600万千瓦时；届时其全年59%的产量将使用可再生能源电力完成，可减少碳排放6.45万吨。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">企业可再生能源采购面临的挑战</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">企业对可再生能源电力需求不断增大</font></p>
+<p cms-style="font-L">　　越来越多的企业发布低碳和可持续发展目标。截止2020年8月，来自金融、消费、制造业等各个行业的全球242家企业已承诺将100%使用可再生能源电力。其中，多数企业在中国设有运营机构。</p>
+<p cms-style="font-L">　　2020年8月8日，全球领先的绿色科技企业远景科技集团、全球领先的太阳能科技公司隆基股份、清洁电力转换技术全球领跑者阳光电源等RE100中国成员企业联合中国能源研究会可再生能源专业委员会、中国绿色供应链联盟光伏专委会在上海共同发起并签署了RE100中国倡议，倡议旨在呼吁更多中国企业推行百分百绿色电力，应对全球气候危机和推进中国能源革命。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">企业可再生能源采购的机制尚不完善</font></p>
+<p cms-style="font-L">　　目前我国绿色电力市场化交易机制尚不完善，未完全形成市场化定价机制。可再生能源直购电在弃风弃光省份已可以开展交易，但在东部高用电负荷省份仍面临政策障碍。大部分没有弃风弃光的省份，可再生能源仍未获准参与电力直接交易。即使在一些放开的市场，可再生能源发电企业参与意愿也较低。跨省区交易一般仅限于两省电网公司之间。由于区域壁垒和地方保护的障碍，区域电力市场尚未打通。为数不多的试点项目中，需要与各类利益相关方协调，获得电力主管部门批复，对于大部分企业来说仍有一定困难。</p>
+<p cms-style="font-L">　　虚拟购电协议在美国和欧洲日益盛行，但目前中国没有建立起可供电力交易且运行良好的现货市场，尚不可行。在电力现货试点省份，虚拟购电协议在未来有望成为可能。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">中国绿色电力证书设计存在缺陷</font></p>
+<p cms-style="font-L">　　中国绿色电力证书是国家对发电企业每兆瓦非水可再生能源上网电量判罚的具有独特标识代码的电子证书，是消费绿色电力的凭证。我国于2017年7月1日起开始实施绿证自愿认购，由国家可再生能源信息管理中心通过国家能源局可再生能源发电项目信息管理平台向符合资格的可再生能源发电企业颁发。</p>
+<p cms-style="font-L">　　企业可以通过购买绿证实现绿电消费。这种途径是当前政策和市场环境下企业实现绿电消费最为便捷的方式，但现阶段，绿证与绿电并未实行捆绑交易，存在重复计算的问题，且证书价格和流通性尚不完全具备金融属性，中国绿色电力证书尚未被纳入RE100，目前的绿证制度对企业、个人缺乏足够的吸引力。</p>
+<p cms-style="font-L">　　分布式项目虽是目前我国企业可再生能源电力采购的主要方式之一，但其贡献比例有限，如屋顶光伏可以满足占需求电力的10%-20%，尚不能满足企业100%的用电需求。直接投资建设可再生能源发电项目投资额大，对于专业技术要求高，因此对能源领域以外的企业吸引不大。总体而言，我国可再生能源电力采购起步晚，机制尚不完善，亟需建立起可再生能源消纳及企业可再生能源电力采购需求的桥梁。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">德勤建议</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">建议一：重点关注政策发展对绿色电力消费的机会</font></p>
+<p cms-style="font-L">　　国家能源主管部门对可再生能源发电企业参与市场化交易的准入和支持力度不断加强。继2019年5月发布《关于建立健全可再生能源电力消纳保障责任的通知》，我们可以预见未来短时间内国家发布关于减少补贴、促进市场交易消纳可再生能源电力的政策会越来越密集。用电企业应在尽早参与，提高对绿电的认知，制定绿电消费的目标和计划，了解通过电力市场采购绿电的政策进展和途径，并尽早参与绿电市场化交易。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">建议二：合理制定可再生能源战略实施路径</font></p>
+<p cms-style="font-L">　　对于企业而言，可再生能源发展战略是可持续发展战略的重要组成部分，是履行社会责任最直接的体现之一。中国在可再生能源的生产和消费领域发展迅猛，相关政策不断推陈出新，但可以看到传统的由政府补贴、纳税人买单促进可再生能源发展的模式在逐渐发生变化，由市场主体参与积极推动能源转型的殷切越来越清晰，政府、社会和市场越来越期望看到企业更多地履行社会责任、共创美丽家园。这势必会影响到消费者的消费模式和选择，进而直接影响同行业企业的竞争方式和产品的竞争策略。企业需要对标行业一流企业，合理制定和选择实施路径，以增大企业利用可再生能源的规模。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">建议三：专业机构助力企业可再生能源电力采购</font></p>
+<p cms-style="font-L">　　电力市场化交易具有较高的专业性，对于多数用电企业而言，电力交易和可再生能源电力采购并非主营业务。用电企业可以与专业咨询服务机构展开合作，从政策研究、战略制定、实施路径等提供全方位的服务，从而节约主营业务的人力投入和成本支出。</p>
+<!--article_adlist[<p cms-style="font-L">点击“<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">阅读原文</font></font>”，了解更多详情。</p>]article_adlist-->

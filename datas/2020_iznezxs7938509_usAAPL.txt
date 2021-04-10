@@ -1,0 +1,3 @@
+ins支持iPhone 12 Pro上传ProRAW照片：会转换为JPG格式
+东方财富网
+<p class='ori_titlesource'>原标题：ins支持iPhone 12 Pro上传ProRAW照片：会转换为JPG格式    来源：东方财富网</p><p cms-style="font-L">原标题：ins支持iPhone 12 Pro上传ProRAW照片：会转换为JPG格式</p><div class="img_wrapper"><img id="0" img-size="480,229" src="http://n.sinaimg.cn/spider20201220/709/w480h229/20201220/3955-kfnaptu3993978.png" style="max-width:640px"/><span class="img_descr"></span></div><p cms-style="font-L">钛媒体12月20日消息，ins近日推出了对新的ProRAW格式照片的支持，这些照片能够用iPhone 12 Pro和iPhone 12 Pro Max拍摄。</p><p cms-style="font-L">Instagram开发者Tim Johnsen在Twitter上分享了这一消息，他还表示，DNG 格式的ProRAW照片无法在Instagram上进行编辑。更多的细节还没有公布，但似乎Instagram会将ProRAW文件转换为在Instagram上显示的JPG格式。</p>

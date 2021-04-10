@@ -1,0 +1,34 @@
+一个小动作让扎克伯格怒了！脸书财路被断包广告声讨苹果
+每日经济新闻
+<!--article_adlist[<p cms-style="font-L"><font cms-style="font-L align-Center"></font></p><div class="img_wrapper"><font cms-style="font-L align-Center"><img cms-width="640" style="max-width:640px" id="0" src="http://n.sinaimg.cn/spider20201217/756/w640h116/20201217/b76f-kfnaptt4368559.png" img-code="0" img-size="640,116"/><span class="img_descr"></span></font></div>]article_adlist--><!--article_adlist[<p cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">新闻听着看，动态看，猛戳关注【每日经济新闻视频号】△△△</font></font></p>]article_adlist-->
+<p>　　<span style="font-family: KaiTi_GB2312, KaiTi;">原标题：“讨好”果粉，苹果一个小动作，扎克伯格却怒了！脸书财路被断，包整版广告声讨苹果</span></p>
+<p>　　苹果向前的一小步，却是Facebook倒退的一大步。财路被断的扎克伯格，再也忍不住了。</p>
+<p>　　最近，苹果和Facebook这两家硅谷巨头，在舆论场爆发了激烈的争斗。一贯强势的扎克伯格，带领脸书在美国《纽约时报》《华盛顿邮报》和《华尔街日报》这三大主流报纸上包下整版广告，“控诉”苹果在iOS 14上新的程序隐私政策——根据这项政策，当App需要搜集用户数据时，必须进行弹窗提示，而用户选择拒绝之后，就能切断App搜集自己数据的行为。</p>
+<div class="img_wrapper"><img id="0" src="http://n.sinaimg.cn/spider20201217/701/w332h369/20201217/0ad8-kfnaptt5219920.jpg" alt="图片来源：twitter"><span class="img_descr">图片来源：twitter</span></div>
+<p>　　2019年，Facebook的广告收入达到697亿美元，超过其总收入的98%。对依靠采集、分析用户数据获取广告收入的脸书来说，用户数据就是咽喉，绝不能任由苹果给紧紧攥住。为了体现自己的“正义性”，脸书还“连横”了众多的小商家，并在上述广告中指出，苹果iOS 14隐私政策的变化，将使企业定向投放广告的难度增加，进而摧毁那些依赖于广告平台产生销售额的小企业。</p>
+<p>　　脸书这样的舆论攻势，能动员起民意的力量，让苹果公司回心转意吗？</p>
+<p>　　<strong>新规可能对互联网广告平台造成打击</strong></p>
+<p>　　据科技媒体The Verge报道，苹果即将于明年推出新的移动设备操作系统iOS 14。在这一新系统下，如果开发者想获取用户数据用于定向广告，需先征求用户的允许。</p>
+<p>　　这一变化将影响Facebook的广告业务，特别是其针对开发者和小公司的广告平台，因为终端用户有很大的可能会拒绝追踪提示。</p>
+<p>　　Facebook称苹果隐私政策的改变，将摧毁那些依赖于广告平台产生销售额的小企业。在刊登于报纸的广告中，Facebook写道，“小企业应当被听到，我们倾听你们的担忧，我们和你们站在一起”，并在末尾附上了一个 “为小企业发声”的网页链接。</p>
+<div class="img_wrapper"><img id="2" src="http://n.sinaimg.cn/spider20201217/775/w554h221/20201217/8e69-kfnaptt5220148.png" alt="图片来源：Facebook官网"><span class="img_descr">图片来源：Facebook官网</span></div>
+<p>　　据新浪科技，Facebook此前告诉投资者，苹果的这项改变将给Facebook带来重大阻力，因为其广告客户大多是小企业。Facebook称：“虽然限制个性化广告的使用方式，确实会影响像我们这样的大公司，但这些变化将对小企业造成毁灭性的影响。”</p>
+<p>　　而苹果上个月则反击称，Facebook无视用户隐私。苹果高管Jane Hovarth曾表示：“Facebook高管已经明确表示，他们的意图是收集尽可能多的数据。这种对用户隐私的漠视还在继续扩大。”</p>
+<p>　　据路透社报道，Facebook广告和商业产品副总裁Dan Levy在接受媒体采访时表示：“苹果正利用他们对应用商店的控制进行反竞争性行为，利用创作者和小企业的钱为自己的底线买单。”</p>
+<p>　　作为对Facebook最新指责的回应，苹果称新规则不会要求Facebook改变其“追踪用户并创造定向广告的方式”，而是要求Facebook在苹果设备上给用户一个选择，是否允许这些行为。</p>
+<p>　　“我们相信，这是同我们的用户站在一起的简单做法。当他们的数据正在被收集，并且被分享到不同的应用和网站的时候，用户应该知道——而且他们应该有选择允许或拒绝的权力，”苹果在一份声明中称。</p>
+<p>　　在包括Facebook在内有数字广告业务的公司看来，绝大部分用户都会选择拒绝。</p>
+<p>　　不过，和其他将会受到影响的广告平台不同的是，根据Facebook在周三的一篇博客中的说法，苹果自己的个性化广告平台不会受到新规的约束。“他们没有按自己定下的规则行事，”Facebook称。</p>
+<p>　　尽管Facebook不同意苹果的做法，但Levy表示Facebook不得不遵守新的规则。“如果我们想让自己的应用在苹果应用商店上架的话，我们没有选择，”他说。</p>
+<p>　　<strong>苹果和Facebook的“冤源”由来已久</strong></p>
+<p>　　在主流大报上刊登整版广告，是两家科技巨头在隐私、政策等方面的最新一次公开口角。</p>
+<p>　　据The Verge报道， Facebook曾在今年8月猛烈抨击过苹果的App Store政策。当时为了通过苹果严格的应用商店批准程序，Facebook不得不移除了小游戏功能。</p>
+<p>　　在本周对欧盟新的《数字市场法案》（Digital Market Act）和《数字服务法案》（Digital Services Act）表示了欢迎态度的同时，Facebook也没有忘记“老冤家”。</p>
+<p>　　在给CNBC的一项声明中，Facebook发言人称，“我们希望《数字市场法案》也会为苹果设置界限。苹果控制了一整套生态系统，从设备到应用商店和应用，并且利用这一权力损害开发者和消费者以及像Facebook这样的大平台的权益。”</p>
+<p>　　苹果在iOS生态下利用垄断权力获取利润的做法，已经招致了众多开发者的批评和反对。</p>
+<p>　　据路透社报道，就在Facebook刊登报纸广告的同一天，代表《纽约时报》、《华盛顿邮报》等成员的数字媒体贸易协会Digital Content Next表示已经加入“应用程序公平联盟（Coalition for App Fairness）”。</p>
+<p>　　这家旨在让成员公司的应用以更公平的条件进入苹果和谷歌应用商店的非营利组织，成员包括游戏开发商Epic Games和音乐流媒体巨头Spotify等。</p>
+<p>　　应用程序公平联盟正在呼吁全球的监管部分打击“反竞争性”应用商店行为，比如饱受开发者诟病的“苹果税”，即用户在应用内购买产生的费用有30%会被苹果收走。</p>
+<p>　　上月中旬，苹果推出小企业开发者激励计划，将每年营收100万美元以下的小企业的“苹果税率”减半至15%。</p>
+<p>　　编辑|夏志坚&nbsp;杜恒峰</p>
+<!--article_adlist[<p cms-style="font-L align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">校对|</font></font><font cms-style="font-L align-Center">何小桃</font></p>]article_adlist--><!--article_adlist[<p cms-style="font-L align-Center"><font cms-style="font-L align-Center">每日经济新闻综合TheVerge、路透社、新浪科技等</font></p><p cms-style="font-L align-Center"><font cms-style="font-L align-Center">封面图片来源：视觉中国</font></p><p cms-style="font-L"><font cms-style="font-L">截至12月16日07:26，全球新冠肺炎确诊74087090例，死亡1646687</font><font cms-style="font-L">例。关注全球新冠肺炎疫情动态，请点击↓↓↓</font></p><p cms-style="font-L"><font cms-style="font-L"><font cms-style=""></font></font></p><div class="img_wrapper"><font cms-style="font-L"><font cms-style=""><img cms-width="479" style="max-width:640px" id="7" src="https://mmbiz.qpic.cn/mmbiz_png/CFF20LXzkOwaRcPDuGEeGB9bExJwELibPhibI4bCuEnNovxWygnObfLSgM2EzTEkbtU5SiaQiafy5aaz3XTqFKuicfg/640?wx_fmt=png" black-list="y"/><span class="img_descr"></span></font></font></div>]article_adlist--><!--article_adlist[<p cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">更多财经大事，猛戳下方视频关注！</font></font></p>]article_adlist--><!--article_adlist[<p cms-style="font-L align-Center"><font cms-style="font-L align-Center"><font cms-style="align-Center"></font></font></p><div class="img_wrapper"><font cms-style="font-L align-Center"><font cms-style="align-Center"><img cms-width="661" style="max-width:640px" id="11" src="http://n.sinaimg.cn/spider20201217/771/w1080h491/20201217/6a35-kffctcc8815299.png" img-code="0" img-size="1080,491"/><span class="img_descr"></span></font></font></div>]article_adlist-->

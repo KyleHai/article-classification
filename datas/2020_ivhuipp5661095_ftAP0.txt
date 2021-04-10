@@ -1,0 +1,23 @@
+期权市场交易发出暗示：科技股恐有更大下跌空间
+新浪财经-自媒体综合
+<p class="ori_titlesource">　　原标题：期权市场交易发出暗示：科技股恐有更大下跌空间 来源：英为财情</p>
+<p cms-style="font-L">　　自9月2日触顶以来，纳斯达克指数ETF的跌幅已超过10%，而且这种跌势可能会变得更加严重。</p>
+<p cms-style="font-L">　　期权市场再度活跃起来，一些大型科技股出现了明显的买入看跌期权和卖出看涨期权的行为，表明交易者预期股价下跌。</p>
+<p cms-style="font-L">　　我们上次看到这类市场行为是在8月28日左右，即市场见顶之前。</p>
+<p cms-style="font-L">　　在9月16日，Facebook、苹果、微软等多只大型科技股之间的价差交易激增。交易者们似乎在押注，押注10月中旬以前，这些股票将从当前价格下跌。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020921/408/w750h458/20200921/6fc3-izmihnu0125684.png" alt="QQQ日线图"><span class="img_descr">QQQ日线图</span></div>
+<p cms-style="font-L">　　科技板块一直是市场上最热门的板块之一，纳斯达克100指数ETF比3月份的低点上涨了60%以上，估值也达到了几十年来的最高水平。</p>
+<p cms-style="font-L">　　没有什么能比Snowflake Inc这个炙手可热的IPO更能说明科技股估值的高涨了，该股在上市首日就上涨了一倍以上，市值达到了其销售额的110倍左右。</p>
+<p cms-style="font-L strong-Bold">　　<font cms-style="font-L strong-Bold">押注科技股下跌</font></p>
+<p cms-style="font-L">　　Facebook在10月16日到期的270美元看跌和看涨期权未平仓合约分别增加了1.2万张合约左右。数据显示，看跌期权的购买价格约为每张合约12.55美元，看涨期权的出售价格约为每张合约13.10美元。</p>
+<p cms-style="font-L">　　这形成了一个看跌的价差交易，表明交易者押注在期权到期之前，Facebook的价格将低于270美元。</p>
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020921/191/w667h324/20200921/b916-izmihnu0125683.png" alt="Facebook期权未平仓合约"><span class="img_descr">Facebook期权未平仓合约</span></div>
+<p cms-style="font-L">　　此外，苹果也出现了类似的价差交易，也是10月16日到期的期权。苹果交易最活跃的是115美元的看跌和看涨期权，未平仓合约分别增加了3万张。</p>
+<p cms-style="font-L">　　同时，10月16日到期的微软期权合约也出现了类似交易，210美元的看跌期权和看涨期权分别增加了6000涨合约，交易员买入看跌期权的同时卖出看涨期权。</p>
+<p cms-style="font-L">　　这种看跌价差交易表明，要么交易员押注这些大型科技股下跌，要么在对冲其长期投资组合，以防指数突然下跌。</p>
+<p cms-style="font-L strong-Bold">　　<font cms-style="font-L strong-Bold">纳指ETF</font><font cms-style="font-L strong-Bold">上升趋势被打破</font></p>
+<p cms-style="font-L">　　从技术面角度来看，纳斯达克100指数ETF可能进一步下跌。该ETF下破了自4月初以来的重大上升趋势。这种情况首次出现在9月8日；上升趋势的下行突破可能表明该指数趋势发生重大变化。</p>
+<p cms-style="font-L">　　如果该ETF突破265美元的支撑位，接下来或进一步跌向250美元，跌幅高达7%。</p>
+<div class="img_wrapper"><img id="2" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020921/408/w750h458/20200921/9b24-izmihnu0125723.png" alt="QQQ日线图"><span class="img_descr">QQQ日线图</span></div>
+<p cms-style="font-L">　　该ETF和纳斯达克100指数已经回落了这么多，似乎很难想象还会再继续走低。但是，考虑到该股指中的许多股票估值仍处于很高的水平，并且之前从其低点急剧上升，因此，再次下跌其实非常合理。</p>
+<p cms-style="font-L">　　编辑/charlie</p>

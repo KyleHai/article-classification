@@ -1,0 +1,19 @@
+Mac虚拟机Parallels出手：M1芯片Mac今后能运行Win10了
+新浪数码
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/178/w630h348/20201218/c7f2-kfnaptt6673309.png" alt="M1芯片Mac今后能运行Win10了" data-link=""><span class="img_descr">M1芯片Mac今后能运行Win10了</span></div>
+<p>　　相关阅读：<a href="https://finance.sina.com.cn/tech/2020-12-17/doc-iiznezxs7400563.shtml" target="_blank" data-comos-dataid="comos:iznezxs7400563">发布一个月后 苹果M1芯片Mac的常用软件体验怎么样了？</a></p>
+<p>　　新浪数码讯 12月18日早间消息，Mac平台知名虚拟化软件Parallels宣布，新的Parallels Desktop 16 for M1 Mac技术预览版推出，这个软件不能运行基于 Intel x86 的操作系统，只能在ARM架构下使用，这意味着一些用户可以在M1芯片的Mac上使用Win 10了。</p>
+<p>　　Parallels是通过创建一个 “使用苹果M1 Mac 芯片硬件辅助虚拟化的新虚拟化引擎”，允许用户在虚拟机中运行基于ARM架构的操作系统，例如Windows。</p>
+<p>　　苹果在10月份的发布会上正式推出了基于M1处理器的MacBook，宣告了从x86指令集切换到ARM的决心。M1芯片Mac尽管有着续航、“性能”等方面的优势，但遗憾也不少，比如最高限制16GB内存、无法外接独显等，还有很关键的一点是，无法通过Boot Camp安装Win10了，这对于有些某些办公场景离不开Windows的用户来说还是很不方便。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/223/w630h393/20201218/a8d4-kfnaptt6674167.png" alt="Mac虚拟机Parallels出手" data-link=""><span class="img_descr">Mac虚拟机Parallels出手</span></div>
+<p>　　用户现可访问微软官网下载 Windows 的 Insider Preview 版，然后就可以在M1芯片Mac上使用 Win10了。如果未加入 Insider Preview 计划，则需要注册申请。</p>
+<p>　　在苹果发布M1芯片Mac不久，Parallels就宣布，将开发面向Apple Silicon处理器平台的Paralles版本。Demo显示，依靠Rosetta 2对x86版本的Paralles的编译，已经可以成功运行Linux，但公司还是决定开发通用代码的Parallels，使得软件工作效率更高。</p>
+<p>　　Parallels Desktop 16于8月首次发布，适用于基于英特尔的Mac，但此后更新了通用二进制，未来将逐步面向M1芯片Mac用户。</p>
+<p>　　需要指出的是，其实Win10 on ARM并非优化很充分的平台，ARM Mac装Win10恐怕也是小众需求。不过自从M1芯片Mac发布之后，微软公司的表现还是很积极的，很快推送了其Microsoft 365新版本，在更新之后，最核心的Office应用，包括Word、Excel、PowerPoint和OneNote现在能够在M1 Mac上运行得更流畅了。（于泽）</p>
+<p>　　不过现在Parallels 16 技术预览版 Beta1还有一些小问题主要包括 ：</p>
+<blockquote>
+<p>　　在虚拟机中无法安装或启动基于Intel x86 的操作系统。</p>
+<p>　　不可能挂起和恢复虚拟机，</p>
+<p>　　当虚拟机运行时，不可能使用 “关闭”按钮——而是关闭虚拟机。</p>
+<p>　　ARM32 应用程序不能在虚拟机中工作。</p>
+</blockquote>

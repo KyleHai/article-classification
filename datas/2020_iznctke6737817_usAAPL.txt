@@ -1,0 +1,91 @@
+苹果超强新功能上线！它打开了 iPhone 摄影的新大门
+爱范儿
+<p cms-style="font-L">　　对于 iPhone 来说，iOS 14.3 正式版的到来，应该是一个重要的里程碑。</p>
+<p cms-style="font-L">　　iOS 14.3 包含了诸多功能的改进，如空气质量指数回归、升级了基带版本、新增了 Safari 的搜索引擎 Ecosia 等等。其中最重要的升级，当属为 iPhone 12 Pro，以及 iPhone 12 Pro Max 系列新增的 ProRAW 格式。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/401/w720h481/20201216/520f-kffctcc5799721.png"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　iPhone 12 Pro 系列用户，只需要在设置页面中，找到‘相机’，再点击‘格式’，便可开启‘Apple ProRAW’。这时再返回相机应用，便可在右上角看到‘RAW’的开关标识。</p>
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/401/w720h481/20201216/4f6b-kffctcc5799718.png"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　点击‘RAW’，当其图标上的斜线消失时，便能够以 RAW 格式拍摄照片。不过每次退出相机应用再打开时，RAW 格式默认为关闭状态。</p>
+<div class="img_wrapper"><img id="2" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/401/w720h481/20201216/95e7-kffctcc5799778.png"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　如果你不想让相机应用重置你的设置，那么你可以在‘设置’-‘相机’-‘保留设置’里，将‘Apple ProRAW’的开关打开。如此一来，相机应用就会保留你对 RAW 格式的开启状态。</p>
+<div class="img_wrapper"><img id="3" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/401/w720h481/20201216/0c76-kffctcc5799777.png"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　在 iOS 14.3 正式版发布之前，我已经手持 iPhone 12 Pro Max，体验了近一个月的 Beta 版。在这段时间内，我对 ProRAW 格式进行了深度体验。可以说它的到来，是 iPhone 摄影发展史上最重要的升级之一。</p>
+<p cms-style="font-L strong-Bold">　　ProRAW 是什么？</p>
+<p cms-style="font-L">　　作为 iPhone 12 Pro 系列独享的功能，苹果在秋季新品发布会上，曾将这一功能作为主要卖点加以介绍。</p>
+<p cms-style="font-L">　　在了解 Apple ProRAW 之前，我们需要知道什么是 RAW 格式。</p>
+<p cms-style="font-L">　　RAW 格式的原名是‘RAW Image Format’，意思就是‘未经加工’。以 RAW 格式记录下来的图像，是影像传感器将捕捉到的光源信号，转化为数字信号的原始数据。</p>
+<div class="img_wrapper"><img id="4" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/371/w720h451/20201216/aa8e-kffctcc5799892.jpg" alt="▲ 图片来自：capture one"><span class="img_descr">▲ 图片来自：capture one</span></div>
+<p cms-style="font-L">　　其实不难理解。打个不恰当的比喻，你可以将拍摄照片的过程想象成买鸡腿的过程，使用 JPEG、HEIC 格式记录照片，就好比你买了一只炸好的熟鸡腿。而用 RAW 格式拍摄照片，就相当于你买回来一只生鸡腿，你可以按照自己的喜好，或卤、或炸、或做成手撕鸡。</p>
+<p cms-style="font-L">　　这就是 RAW 格式最大的优点，后期可调整空间巨大。</p>
+<div class="img_wrapper"><img id="5" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/367/w700h467/20201216/7ba5-kffctcc5799890.png" alt="▲图片来自：capture one"><span class="img_descr">▲图片来自：capture one</span></div>
+<p cms-style="font-L">　　以往我们用 JPEG 格式拍摄的照片，机器会自动压缩处理成一个体积小巧的文件进行储存。在编码压缩的过程中，图像的原始信息，如白平衡、感光度、快门速度等数据，被固定为具体的数值。</p>
+<p cms-style="font-L">　　如果我们不满意一张照片，觉得它过暗或者过亮，后期调整的时候，JPEG 格式的照片就可能会出现画质下降的情况，典型的表现就是噪点增多，色阶断层。</p>
+<p cms-style="font-L">　　而 RAW 格式虽然也会记录图像的原始信息，但它只是相当于一个锚点。打个形象点的比喻，它就像是一本书，各类原始数据都可以在一定范围的页码里随意调整，画质基本不会出现下降。JPEG 格式则像是一张纸，后期调整时被局限在‘一页’里，可操作性较低。</p>
+<div class="img_wrapper"><img id="6" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/326/w720h406/20201216/b846-kffctcc5799946.jpg" alt="▲ 进行相同的参数调整后，JPEG 格式的照片已经受损严重。 图片来自：Kunal Malhotra"><span class="img_descr">▲ 进行相同的参数调整后，JPEG 格式的照片已经受损严重。 图片来自：Kunal Malhotra</span></div>
+<p cms-style="font-L">　　虽然 RAW 格式已经不鲜见了，此前 iPhone 已经能在 RAW+、Halide 等第三方软件上，实现以 RAW 格式拍摄相片。那么 ProRAW 和第三方软件记录的 RAW 图像有何不同呢？</p>
+<p cms-style="font-L">　　据苹果在发布会上的介绍，ProRAW 可以让摄影爱好者既可以用 RAW 格式拍照，也可以使用苹果的计算摄影技术。它可以提供多帧图像处理和计算摄影的许多功能，比如深度融合（Deep Fusion）以及智能 HDR，并结合 RAW 格式的深度和宽容度。</p>
+<div class="img_wrapper"><img id="7" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/449/w800h449/20201216/a25d-kffctcc5800164.gif"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　为了实现这一点，苹果称他们建构了一个新的图像管线，将 CPU、GPU、ISP 和 NPU 处理的各种数据，合并到一个新的深度图像文件中。而像锐化、白平衡和色调映射等，则成为了照片参数，而非直接合成到照片中。这样用户可以对色彩、细节和动态范围全权进行创意处理。</p>
+<div class="img_wrapper"><img id="8" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/449/w800h449/20201216/8d8d-kffctcc5800200.gif"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　值得注意的是，iPhone 12 Pro 系列的四颗摄像头均支持 ProRAW，但使用人像模式时不支持。另外随着 A 系芯片性能的不断精进，在使用 ProRAW 时不会出现快门延迟的问题，RAW 文件会在拍照的瞬间计算生成。</p>
+<p cms-style="font-L">　　用一句话总结，就是和此前第三方软件拍摄的 RAW 文件相比，ProRAW 在其基础上加入了计算摄影的技术，理论上会得到画质更优秀的底片，留给创作者的可玩空间更大。</p>
+<div class="img_wrapper"><img id="9" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/449/w800h449/20201216/d08e-kffctcc5800212.gif"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　苹果也表示，他们为第三方 app 提供了一个 API，能够以 ProRAW 格式来拍照。但应该同样仅限于 iPhone 12 Pro 系列。</p>
+<p cms-style="font-L">　　一般来说，相机拍摄 RAW 格式的照片，主流水平是 12bit 和 14bit，一些高端的中画幅相机也可以达到 16bit。数字越大，意味着色彩深度越高，照片信息越丰富。不过相应的体积也会更大。</p>
+<p cms-style="font-L">　　ProRAW 可以实现 12bit 的色深，这对于手机等移动设备而言已经足够了，毕竟目前顶级的移动设备屏幕，也只能显示 10bit 的色深。另外考虑到手机的内存容量，ProRAW 一张照片大约是 25MB 左右，理论上 14bit 的照片数据量是 12bit 的四倍，体积也会相应增大。</p>
+<div class="img_wrapper"><img id="10" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/235/w720h315/20201216/505e-kffctcc5800267.png"><span class="img_descr"></span></div>
+<p cms-style="font-L strong-Bold">　　如何使用ProRAW？</p>
+<p cms-style="font-L">　　正如上文所述，在相机 app 界面的右上角，将 RAW 开关打开后，便可以使用 ProRAW 功能拍摄照片。</p>
+<p cms-style="font-L">　　那么拍摄完，如何快速找到 RAW 格式的照片呢？第一种方式是打开照片 app 后，下滑找到‘媒体类型’，其中有一栏就是‘RAW’，点开后便能浏览和编辑。</p>
+<div class="img_wrapper"><img id="11" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/401/w720h481/20201216/886e-kffctcc5800268.png"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　另一种方式，是在相册 app 里浏览照片时，观察其左上方有没有‘RAW’的标注。</p>
+<div class="img_wrapper"><img id="12" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/400/w720h480/20201216/c20e-kffctcc5800320.png"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　我在使用第三方修图 app 选择照片时，部分 app 也会将 RAW 格式的照片标注出来，方便用户挑选编辑。比如 Lightroom 会在图片的右上方标注‘DNG’，VSCO 会在图片右下角标注‘R’，泼辣修图则会直接在图片的左上角标注‘RAW’。</p>
+<div class="img_wrapper"><img id="13" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/439/w720h519/20201216/506a-kffctcc5800318.jpg" alt="▲ 左：Lightroom；中：VSCO；右：泼辣修图"><span class="img_descr">▲ 左：Lightroom；中：VSCO；右：泼辣修图</span></div>
+<p cms-style="font-L">　　需要解释的是，Lightroom 标注的‘DNG’，是 iPhone 拍摄 RAW 文件的后缀。每个品牌在记录 RAW 格式的文件时使用的技术编码不同，因此后缀名可能存在不一样的情况。比如索尼的后缀名是‘。ARW’，富士的后缀名是‘。RAF’，徕卡的后缀名是‘。DNG’，RAW 是这些名称的统称。</p>
+<p cms-style="font-L">　　在过去的近一个月，我在后期编辑 ProRAW 文件时，会使用两种方法。一是将选中的 RAW 照片隔空投送到电脑上，使用 Capture One 或者 Lightroom 进行编辑。二是直接在手机上编辑。常用的编辑 app 有 Lightroom、Snapseed、VSCO、泼辣修图。当然，iPhone 自带的相册 app 也可以编辑。</p>
+<p cms-style="font-L">　　相较起来，第二种方式更简便，实现的效果、可玩性和使用电脑处理基本无异。在使用这些 app 的过程中，我也对它们的易用性、功能性、使用成本进行了评估，以便为大家提供参考。</p>
+<div class="img_wrapper"><img id="14" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/250/w720h330/20201216/2e71-kffctcc5800349.png"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　易用性就是指上手难度的高低。</p>
+<p cms-style="font-L">　　在上述 app 里，最简单的当属使用 iPhone 自带的照片应用进行编辑。通过左右滑动，便可以调整照片的曝光、鲜明度、高光和阴影、对比度、色调、饱和度等基本参数。</p>
+<div class="img_wrapper"><img id="15" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/699/w720h779/20201216/66d8-kffctcc5800351.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　其次则是 VSCO，上手同样简单。而且 app 里提供了多种滤镜，如果懒得调整基本参数，直接套上滤镜，再进行微调即可。</p>
+<div class="img_wrapper"><img id="16" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/699/w720h779/20201216/0462-kffctcc5800387.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　接着是泼辣修图，相比前者，它对功能、参数的描述更加专业，普通用户初次使用有些门槛。</p>
+<div class="img_wrapper"><img id="17" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/699/w720h779/20201216/8392-kffctcc5800388.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　比较复杂的就是 Snapseed 和 Lightroom 了。其实操作上 Snapseed 并不复杂，属于极易上手的类型。那为什么说它复杂呢？这是因为它和 Lightroom 在打开 RAW 文件后，默认显示的是底片，和你在相册中看到的是两种状态。</p>
+<div class="img_wrapper"><img id="18" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/439/w720h519/20201216/0d45-kffctcc5800427.jpg" alt="▲ 中间是 Snapseed；右边是 Lightroom"><span class="img_descr">▲ 中间是 Snapseed；右边是 Lightroom</span></div>
+<p cms-style="font-L">　　肉眼可以明显看出，‘底片’的状态非常灰暗。如果用这两款软件，你需要有一定的修图基础，否则不太容易将 RAW 文件调整到最佳观感。</p>
+<p cms-style="font-L">　　接下来是功能性。</p>
+<p cms-style="font-L">　　综合来看，体验最好的当属 Lightroom，可以全程在 RAW 格式的基础上实现精细的操作，比如调整某一颜色的色相、饱和度、明亮度，增加遮罩等。</p>
+<div class="img_wrapper"><img id="19" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/699/w720h779/20201216/d284-kffctcc5800428.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　泼辣修图也有非常丰富的功能，不过在体验中我有点疑惑，该软件似乎是将 RAW 文件导入到 app 里时，已自动转化为 JPEG 格式，后期的操作都建立在 JPEG 格式的基础上，以至于照片调整的宽容度没有 RAW 好。</p>
+<div class="img_wrapper"><img id="20" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/699/w720h779/20201216/fe0a-kffctcc5800458.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　Snapseed 让我有些失望的是，在选择相片时，不会将 RAW 格式的照片标注出来。另外在修改 RAW 格式的照片时，只能调整曝光、高光、阴影、对比度、结构、饱和度、色温、着色这些基础参数。调整完毕后，app 就会自动将照片转成 JPEG 格式，只能在这个基础上进行更精细化的调整。</p>
+<div class="img_wrapper"><img id="21" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/439/w720h519/20201216/1189-kffctcc5800457.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　而 VSCO 的功能较少，主打的是精美滤镜。另外暂不知道是软件原因还是系统原因，修改 RAW 格式的图片时，预览窗口十分模糊，基本处于不可用的状态。</p>
+<div class="img_wrapper"><img id="22" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/439/w720h519/20201216/9a04-kffctcc5800494.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　手机自带的相册 app，虽然也可以进行基本操作，但同样局限于一些基本参数的调整，无法进行更多精细的操作。</p>
+<p cms-style="font-L">　　整体来看，当前的软件生态，对于 ProRAW 的支持还不够完善。目前包括 Lightroom 在内的后期软件，均无法调整苹果计算摄影的部分，这就无法发挥出 ProRAW 的强大优势。期待后续 app 的版本升级，可以提供相关的调整选项。</p>
+<p cms-style="font-L">　　价格方面，用自带相册 app 编辑，或使用 Snapseed、VSCO 编辑，都是免费的。不过 VSCO 里提供的许多滤镜需要加入会员才可以使用。</p>
+<div class="img_wrapper"><img id="23" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/699/w720h779/20201216/9726-kffctcc5800491.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　功能更全面的泼辣修图，则需要以 148 元/年，或 30 元/月的价格订阅才可使用。而目前对 ProRAW 支持最好的 Lightroom，虽然基础功能可以免费使用，但高级功能，比如编辑 RAW 格式的照片、选择性调整、修复画笔等，则需要订阅开通。价格是 35 元/月。</p>
+<p cms-style="font-L">　　综上，对于普通玩家来说，想体验 ProRAW 的美妙，使用免费的 app 即可。尤其是 Snapseed，可玩性比较高。</p>
+<p cms-style="font-L">　　如果你是摄影爱好者，那么不妨付费订阅更高级的 Lightroom 或泼辣修图，会让你的创作更加得心应手。</p>
+<div class="img_wrapper"><img id="24" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/699/w720h779/20201216/d0b8-kffctcc5800529.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L strong-Bold">　　今年可能是iPhone 摄影进步最大的一年</p>
+<p cms-style="font-L">　　从 iPhone 诞生至今，每一代都在摄影能力上有所进步，其中有四次比较瞩目。</p>
+<p cms-style="font-L">　　第一次，是 iPhone 4 上搭载的 iSight 摄像头，苹果首次将后置镜头升级到 500 万像素。不过苹果在 WWDC 的演讲中强调，拍出漂亮的照片不仅取决于摄像头的像素，透光率更为重要。因此 iSight 摄像头背后，还藏着一款新的 1/3.2 英寸背照式传感器，以提高感光水平。</p>
+<div class="img_wrapper"><img id="25" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/699/w720h779/20201216/a9b1-kffctcc5800526.jpg" alt="▲ INS 上用户用 iPhone 4 拍摄的照片"><span class="img_descr">▲ INS 上用户用 iPhone 4 拍摄的照片</span></div>
+<p cms-style="font-L">　　随着 iOS 4.1 推出 HDR 算法，iPhone 4 的摄影能力在当时智能手机中无疑是王者水平。即便以今天的眼光来看，iPhone 4 的摄影能力依旧颇具玩味。</p>
+<p cms-style="font-L">　　第二次，则是由 iPhone 7 Plus 开启的‘双摄时代’。新加入的等效 56mm、f/2.8 镜头，空前增加了 iPhone 的摄影可玩性。</p>
+<p cms-style="font-L">　　另外新加入的人像模式，通过机器学习，让 iPhone 模拟出了大底相机才拥有的浅景深，让被摄主体更加突出。在光线充足的情况下，无论是画质还是虚化效果，都可圈可点。</p>
+<div class="img_wrapper"><img id="26" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/257/w720h337/20201216/3f03-kffctcc5800552.jpg" alt="▲ 由 iPhone 7 Plus 的长焦镜头拍摄"><span class="img_descr">▲ 由 iPhone 7 Plus 的长焦镜头拍摄</span></div>
+<p cms-style="font-L">　　第三次，当属 iPhone 11 系列新增的超广角镜头。如何让一个平平无奇的场景变得不再平庸？超广角可以给出答案。等效 13mm 的镜头可为画面赋予更强的空间感和力量感。在拍建筑、风景等场景时，也可以获得更宽广的视野。</p>
+<div class="img_wrapper"><img id="27" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/211/w720h291/20201216/9b5f-kffctcc5800553.jpg" alt="▲ 由 iPhone 11 Pro 的超广角镜头拍摄 图片来自：austinmann"><span class="img_descr">▲ 由 iPhone 11 Pro 的超广角镜头拍摄 图片来自：austinmann</span></div>
+<p cms-style="font-L">　　时隔一年，iPhone 12 系列在影像方面迎来了重磅升级，这就是 iPhone 摄影体验的第四次革新。</p>
+<p cms-style="font-L">　　全系不光标配画质更好的超广角镜头，而且均支持杜比视界视频拍摄。Pro 系列独占的 LiDAR 激光雷达，可以提供更迅捷的对焦，这些在 Vlog 时代可视作里程碑式的升级。</p>
+<p cms-style="font-L">　　另外，iPhone 12 Pro Max 的广角摄像头也更换了面积更大、自带位移防抖技术的新传感器。另一个变化发生在长焦镜头上：由 52mm 更改为 65mm。这意味着可以拍得更远，压缩感更强。</p>
+<div class="img_wrapper"><img id="28" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/401/w720h481/20201216/228f-kffctcc5800586.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　除了硬件的诸多革新，软件上的进步更不容小觑，也就是上文提到的 ProRAW 功能。这象征着 iPhone 向专业影像创作设备的方向上，更进了一步。</p>
+<p cms-style="font-L">　　尽管 ProRAW 在 iOS 14.3 上，仍处于初步阶段，比如计算摄影的选项还无法调整等，但它的实际表现已经超出了我的预期。得益于此，iPhone 12 Pro 系列的影像能力和 iPhone 12 系列进一步拉开差距。这或许才是真正的‘Pro 如其名’。</p>

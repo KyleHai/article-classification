@@ -1,0 +1,22 @@
+Omdia：预计2020出货预输出给苹果iPhone面板出货量将达2.07亿片
+新浪科技
+<p cms-style="font-L">　　新浪科技讯 12月15日上午消息，根据Omdia最新的<font cms-style="font-L">《智能手机显示面板市场追踪报告》</font>，2020年出货给Apple智能手机的面板数量整体回升，并在近三年来有所增长。Omdia预计2020年，输出给苹果iPhone的面板出货量将达到2.07亿片，较2019年增长11%。</p>
+<p cms-style="font-L">　　<strong>以下为Omdia<font cms-style="font-L">《智能手机显示面板市场追踪报告》：</font></strong></p>
+<p cms-style="font-L">　　作者：BrianHuh（Principal Analyst）</p>
+<p cms-style="font-L">　　<font cms-style="font-L">LTPS TFT LCD iPhone需求持续下降，估计2020年其面板出货量将降至1.04亿片，下降16%。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">不过，由于新的iPhone 12系列，柔性AMOLED的出货量有望大幅增长85%，达到1.03亿片。</font></p>
+<p cms-style="font-L">　　根据Omdia最新的<font cms-style="font-L">《智能手机显示面板市场追踪报告》</font>，2020年出货给Apple智能手机的面板数量整体回升，并在近三年来有所增长。Omdia预计2020年，输出给苹果iPhone的面板出货量将达到2.07亿片，较2019年增长11%。如图1所示，LTPS TFT LCD iPhone的需求持续下降，其面板出货量预计将下降至1.04亿片，下降16%。虽然iPhone SE2于2020年上半年发布，并带动LTPS TFT LCD面板需求，但由于iPhone 6、7、8系列等老款iPhone产品的停产（EOL），以及2020年新品iPhone12系列没有采用TFT LCD的机型，导致了整体TFT LCD需求的减少。不过，由于新iPhone 12系列的推出，面板厂向苹果的柔性AMOLED的出货量有望大幅增加85%，达到1.03亿片。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">Figure 1: Smartphone panel shipments for Apple iPhones</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/25/w550h275/20201215/9cfa-kffctcc3043396.jpg" alt="Source:Omdia" data-link=""><span class="img_descr">Source:Omdia</span></div>
+<p cms-style="font-L">　　图2为各面板供应商给苹果手机的历史出货变化。供应LTPS TFT液晶面板的日本面板厂商的出货量有所下降。不过，得益于柔性AMOLED iPhone的需求，乐金显示和三星显示的出货量将有所增加。</p>
+<p cms-style="font-L">　　<font cms-style="font-L">日本显示器公司的LTPS TFT液晶面板出货量预计将同比减少15%（YoY），至5700万片。iPhone 6、7、8系列的4英寸和5.5英寸面板自2019年底起停产，6.1英寸面板出货量也有所减少。夏普的面板出货量也同比下降8%，至4800万片。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">尽管乐金显示供应iPhone的LTPS TFT LCD面板出货量减少，但其向苹果的手机面板出货量同比增长17%至5200万片。LTPS TFT LCD面板出货量预计将同比减少27%至2,800万片， AMOLED面板出货量却大幅增长至2,300万片，同比增长361%，这要归功于iPhone 12和iPhone 12 Pro的6.1英寸AMOLED出货量。乐金显示目前正将其智能手机业务从LTPS TFT LCD转向柔性AMOLED；预计LTPS TFT LCD业务将于2021年上半年内结束。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">三星显示供应iPhone的AMOLED面板出货量也将在2020年同比增长57%，达到7900万片。三星显示自2017年开始为AMOLED iPhone提供各类AMOLED面板，预计2020年出货量将大幅增加。</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">Figure 2: Apple iPhone panel shipments by supplier</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/73/w582h291/20201215/07f9-kffctcc3044064.jpg" alt="Source:Omdia" data-link=""><span class="img_descr">Source:Omdia</span></div>
+<p cms-style="font-L">　　如图3所示，AMOLED正在成为iPhone的主要显示技术，并将继续运用在2021年新款iPhone系列中。Apple特别要求2021年的机型采用低温多晶硅氧化物（LTPO）面板和薄膜封装（TFE）的on-cell触控面板等面板增强技术，因此面板厂商也纷纷计划LTPS面板产能转向LTPO，同时也为TFE的on-cell触控面板争取足够的产能。</p>
+<p cms-style="font-L">　　<font cms-style="font-L">三星显示目前正在迅速将面板产能从LTPS转换为LTPO。LTPO需要增加2-3道光罩，因此预计转换到LTPO的产能将下降10-15%。因此，三星显示用于苹果iPhone的柔性AMOLED产能预计将从2020年每月10.5万张LTPS基板变为2021年每月4.5万张LTPS基板以及5万张LTPO基板。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">乐金显示正在生产基于LTPS，add-on触控方案的柔性AMOLED，而目前台湾触控面板厂商正在为iPhone提供这种外挂触控。因此，乐金显示为2021年iPhone准备的首要任务不是LTPO解决方案，而是开发TFE上的on-cell触控面板。乐金显示正在为touch-on-TFE结构的AMOLED模组准备额外的产能，以配合LTPS AMOLED面板的产能。此外，乐金显示极有可能在2022年开始生产LTPO产品。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">京东方目前仍在研发6.1英寸面板，该公司下一步为2021年iPhone提供的解决方案也将是和乐金显示一样的touch-on-TFE触控面板。</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">Table 1: AMOLED panel shipments for iPhones</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/215/w550h465/20201215/7b90-kffctcc3044128.jpg" alt="Notes:Typ. = typical value Source: Omdia" data-link=""><span class="img_descr">Notes:Typ. = typical value Source: Omdia</span></div>

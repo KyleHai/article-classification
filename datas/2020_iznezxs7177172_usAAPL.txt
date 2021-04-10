@@ -1,0 +1,3 @@
+微软：新版Office程序将原生适配苹果M1 Mac
+DoNews
+<p cms-style="font-L">　　据外媒报道，微软正在推出与苹果M1芯片原生兼容的新版Office应用程序，该芯片是新款Macbook Air、Macbook Pro和Mac Mini的核心产品。升级的应用包括Outlook、Word、Excel、PowerPoint和OneNote。微软表示，因为是通用版，它们也将继续在配备英特尔芯片的Mac上正常运行。</p>

@@ -1,0 +1,58 @@
+那一年 台湾爆发期权史上金额最大违约案
+新浪财经-自媒体综合
+<p>　　来源：期权时代</p>
+<p>　　原标题：那一年，台湾爆发期权史上金额最大违约案，损失金额约一亿两千五百万元...</p>
+<p>　　期权具有保险合约的特性，影响其价值的关键要素是风险，期权的买方经由投保将风险移转出去，而卖方则承担买方所移转的风险，需强调的是，卖方风险必须进一步管理，绝不是赌风险不会发生。</p>
+<p>　　本文继续讨论期权风险管理的概念与操作，并列举几个实际发生案例，提醒读者风险处理的重要性。</p>
+<p><strong>　　01 期权的风险管理：移转与分散</strong></p>
+<p>　　经济学常用“甲与乙分苹果和梨”为例说明资源该如何分配。</p>
+<p>　　甲喜欢苹果、乙喜欢梨，苹果（梨）给甲（乙）带来的效用（Utility）较大，经济学基本（也是核心）原理：多分些苹果（梨）给甲（乙），社会整体效用比较大。</p>
+<p>　　金融学中，风险是可交易的商品，处理风险的方式与分苹果和梨的例子是一样的，只是风险产生的效用是负的（Disutility），正效用愈大愈好，效用为负时，则愈小愈好。</p>
+<p>　　由于财务状况、资产组合的内容与大小、使用金融工具降低风险的能力以及风险偏好（或态度）不一样，不同的人承担风险的能力有强、弱的差别，即便能力强的，承担风险时仍会产生负效用，但相对负的少些，就社会整体而言，这些人相对多承担些风险，总负效用比较小，当然，市场机制必须对这些人予以补偿（Risk premium）。</p>
+<p>　　日常生活中，对付风险的方法或工具有许多种，大致可分两类：风险移转和风险分散，实务上这两种风险管理方式通常搭配使用。</p>
+<p>　　图1先说明保险市场运作情况，图2再延伸到金融市场（含期权市场）。</p>
+<p>　　以房屋险为例，房屋持有人甲藉由投保将风险移转给乙，保险公司资产组合比较大，可能有几十万套房产参加保险，分散在不同的地区，同时发生事故的机会不大，只要收进来的保费大过理赔金额，保险公司仍有利润，也就是说，可以利用分散的方式降低风险。</p>
+<div class="img_wrapper"><img id="1" src="http://n.sinaimg.cn/sinakd2020530s/158/w497h461/20200530/94ba-iufmpmp4374875.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　乙在风险分散之外，还可向再保公司再买保险，将风险进一步移转给丙（资产组合更大，可能有几百万套房产或更多投保，且分散在不同的国度）。</p>
+<p>　　投资人甲（例如散户）向乙（可能是机构投资者或做市商）买期权，乙的资产组合较大（可能多、空部位都有），部位先在组合中相互冲销，无法冲销的部分可进一步移转给丙。</p>
+<p>　　另外，金融体系与市场提供了多项对付风险的工具或管道：远期合约、期货、期权、互换等等可资运用。</p>
+<p>　　以指数期权做市商为例，为发挥扮演市场相对方的功能，交易过程中有买、有卖，所以组合中多、空部位都有，本身可能冲销，不能完全冲销的部分可以通过“场内交易”或“场外交易”的方式进一步管理。</p>
+<p>　　假设收盘前五分钟该做市商组合Delta为0.1，快速将Delta降为0的方式为卖出Delta 等于0.1的沪深300指数期货（即图2中“场内交易”部分）。</p>
+<div class="img_wrapper"><img id="2" src="http://n.sinaimg.cn/sinakd2020530s/310/w663h447/20200530/112a-iufmpmp4374944.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　收市后，该做市商希望将Gamma也降为0（或Vega，概念与方式一样），Gamma 与Vega是非线性商品的特性，沪深300指数期货是线性产品，没有Gamma 或Vega（或Gamma 与Vega都为0），不要说在已收市的情况下，即便在收市前也帮不上忙。</p>
+<p>　　操作方式之一是，该做市商与国际银行量身定做并反向交易一个期权（图2中“场外交易”的部分），国际银行扮演的是图2中“丙”的角色。</p>
+<p>　　乙与丙因为具备必需的专业知识与人才、经营规模以及财力条件，分散不掉的风险还可以使用金融市场进一步作处理，以致于承担风险的意愿与能力比较强，负效用比较低，于是，甲将风险移转给乙（再间接移转给丙），社会整体负效用降低。</p>
+<p>　　甲本身可能不具备相关专业知识、碍于不符合市场进入的门槛条件，无法直接利用这些市场与工具，或虽然可以进入，但成本很高，所以图中用虚线表示。</p>
+<p>　　需要提醒注意的是，保险公司完整作业分前台、中台与后台，散户裸卖期权，充其量只有前台作业，缺少中、后台的支撑，而且前台作业规模往往不够大，上述风险分散的效果无从发挥或发挥的不全。</p>
+<p>　　下面讨论两个发生在台湾及一个在美国的期权风险事件，当事人心存侥幸，结果事与愿违，造成巨额损失，藉由这些实际发生的案例提醒读者卖方面临的情况与风险管理的重要。</p>
+<p>　<strong>　02 台湾的“两颗子弹事件”</strong></p>
+<p>　　台湾指数期权于2001年12月24日开始交易，刚开始一两年很多人买深度虚值期权，把期权当彩券，试试运气。</p>
+<p>　　但这个策略基本很难赚到钱，所以愈来愈多的交易人因赚不到钱而却步，进而退出期权市场，部分期货商为维持客户，告知卖期权就等同开保险公司，引导客户进场卖期权（2003年），有些交易人尝到甜头，部位愈建愈大。</p>
+<p>　　2000年，民进党第一次取得领导权；2004年改选前，普遍看好国民党，认为很有希望再度取回领导权，所以很多人买期权。但有买定有卖，做市商之外，一些胆大散户也进场扮演卖方，但大多数没有进一步规避风险。</p>
+<p>　　3月20日选举前一天（周五），收市后不久（下午两点左右）发生“两颗子弹事件”，隔天民进党以两万多票险胜，国民党方面认为选举不公，控诉选举无效。</p>
+<p>　　3月22日（周一）开盘，市场全面跌停锁死，卖权全面大幅跳升，以执行价6900合约为例，价格从200+点弹到800点附近，次日（3月23日）开盘再度全面跌停，相关单位怕市场出状况，盘中有力量介入，跌停打开。</p>
+<p>　　两个交易日中，许多部位因保证金不足招致强迫了结，损失非常惨重。</p>
+<p>　　表1列示卖权合约3月19日收盘价与3月23日最高价，涨幅从3到20倍，读者应可清楚感受到在动荡时期权价格的急剧变化与裸卖部位的风险。</p>
+<div class="img_wrapper"><img id="3" src="http://n.sinaimg.cn/sinakd2020530s/392/w729h463/20200530/3fd6-iufmpmp4374945.jpg" alt=""><span class="img_descr"></span></div>
+<p><strong>　　03 台湾期货史上最大违约事件</strong></p>
+<p>　　2011年8月，台湾爆发期货史上金额最大违约案，损失金额约人民币一亿两千五百万元（新台币六亿元），主角D先生在早年台湾股市算得上名见经传，尤其是外资尚未大规模进入台湾股市前（2002年左右之前），上世纪90年代，D先生曾带领台湾某券商挤入前五大，后升任该券商总裁。</p>
+<p>　　从事件发生的前几年开始，D先生自股市转入期权市场，主要采用多采裸卖方式且头几年获利不错。</p>
+<p>　　2010年9月到2011年8月近一年里，台湾股市基本在一个范围内整理，其中虽经历日本海啸引发的福岛核电厂事件（2011年3月），但因距离台湾有一段距离，市场有波动但不算大。</p>
+<p>　　在区间内整理的情况下，一头卖出买权、另一头卖出卖权，可以坐收两份权利金，胆大的D先生便持有数万单位的卖出勒式交易裸部位。</p>
+<p>　　期权时代注：勒式期权指的是购买或者出售基础工具和到期日相同的认沽和认购期权，但是两种期权的执行价格水平都位于价外。</p>
+<p>　　8月5日（星期五），受欧债事件影响，S&amp;P公司调降美国债信评等可能性越来越高，当天台北股市指数收跌6.3%（-464.14点），卖权一日涨升3-50倍不等。</p>
+<p>　　当天已经重创D先生，新台币三亿本金赔光外，还倒贴数千万元。但D先生误判情势，不仅没有停损了结部位，还再加码五千万元新部位。</p>
+<p>　　8月8日（星期一），股市再度大幅震荡，高低震幅6.3%，收盘跌2.7%（-300.33点），与最低点有3%以上差距。D先生因此大赔二亿八千万元，加上原本本金约三亿元，在这次股灾中赔近5.8亿元。</p>
+<p>　　台北时间8月8日晚间，美国星期一早晨，S&amp;P公司正式调降美国债信评等，从AAA+降为AA+，历史上头一回，道琼指数收跌6.3%。隔天（8月9日），台北股市开盘下跌4.3%，并瞬间再下跌至6.1%。</p>
+<p>　　表2列示卖权合约8月1日收盘价与8月9日最高价，涨幅从20到750倍。</p>
+<div class="img_wrapper"><img id="4" src="http://n.sinaimg.cn/sinakd2020530s/383/w727h456/20200530/6be5-iufmpmp4375001.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　这波股市急跌，受伤的当然不只D先生一人。</p>
+<p>　　据了解，股灾那几天共提报56个账户违约，其中还有股市浮沉多年的林姓金主等，只是金额没有D先生大，知名度不若D先生来得高，因此相对没有受到外界注意。</p>
+<p><strong>　　04 1985年春COMEX黄金事件</strong></p>
+<p>　　事件发生前很长的一段时间，黄金市场很沉闷，波动不大，几个在COMEX交易黄金期权的客户（都经由同一家结算公司）累积大量的市场中立（Delta neutral）虚值期权部位，获利丰硕。</p>
+<p>　　1985年春，黄金突然大幅上升，部位瞬间从Delta 中性变成负好几千的Deltas，造成客户巨额损失外，结算公司也被拖垮倒闭，连COMEX的清算机构都因此面临危机。</p>
+<p>　　期权时代注：Delta中性策略指的是构造一个含有期权头寸的组合，使其不受标的证券价格表动的影响，即始终保持投资组合的Delta为0，由于Delta为0，无论标的价格是涨还是跌，组合的价格将始终保持不变。</p>
+<p>　　三个案例有类似地方：事件发生前一段不短的时间，市场波动不大，系列文章第一篇曾强调，天下太平对卖方有利，采卖出期权的策略，风险基本不大，获利可能还蛮可观，部分交易人因而心存侥幸，胆子愈来愈大，部位愈建愈多，但市场岂会永远太平？</p>
+<!--article_adlist[<p cms-style="font-L align-Justify"><font cms-style="font-M align-Justify">期权时代注：相关阅读《</font><font cms-style="font-L align-Justify">期权卖方风控大法！我们可以学习保险公司</font><font cms-style="font-M align-Justify">》</font></p><p cms-style="font-L align-Justify"><font cms-style="font-M align-Justify">来源：《中国期权》</font></p><p cms-style="font-L align-Center"><font cms-style="font-M align-Center">【</font><font cms-style="font-L align-Center">免责声明</font><font cms-style="font-M align-Center">】</font></p><p cms-style="font-L align-Justify"><font cms-style="font-M align-Justify">本公众号对文中陈述、观点判断保持中立，不对所包含内容的准确性、可靠性或完整性提供任何明示或暗示的保证。</font><font cms-style="font-M align-Justify">不构成对任何人的投资建议，期权时代不对使用本微信涉及的内容所引发的任何直接或间接损失负任何责任！投资有风险，入市需谨慎。</font></p>]article_adlist--><!--article_adlist[<p cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">| 往期热文 |</font></font></p><p cms-style="font-L align-Center"><font cms-style="font-L align-Center"></font></p><div class="img_wrapper"><font cms-style="font-L align-Center"><img style="max-width:640px" id="5" src="https://mmbiz.qpic.cn/mmbiz_jpg/0oxMQnmh2bxFZNoCNnlko8mCJFL4znmriawPW3ibgLHcO5RdFVr8cPp9c2Dgj5fGnuXq2xPjh4f5X0rdw4Y7IBeA/640?wx_fmt=jpeg" black-list="y"/><span class="img_descr"></span></font></div>]article_adlist--><!--article_adlist[<p cms-style="font-L align-Center"><font cms-style="font-L align-Center"></font></p><div class="img_wrapper"><font cms-style="font-L align-Center"><img style="max-width:640px" id="6" src="http://n.sinaimg.cn/sinakd2020530s/0/w600h200/20200530/4505-iufmpmp4375064.jpg" img-size="600,200" img-code="0"/><span class="img_descr"></span></font></div>]article_adlist--><!--article_adlist[<p cms-style="font-L align-Center"><font cms-style="font-L align-Center"></font></p><div class="img_wrapper"><font cms-style="font-L align-Center"><img style="max-width:640px" id="7" src="http://n.sinaimg.cn/sinakd2020530s/0/w600h200/20200530/897b-iufmpmp4375067.jpg" img-size="600,200" img-code="0"/><span class="img_descr"></span></font></div>]article_adlist--><!--article_adlist[<p cms-style="font-L align-right"><font cms-style="font-L align-right">点“在看”的你最好看</font></p>]article_adlist-->
+<p><!--article_adlist[<img style="max-width:640px" id="8" src="https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_06.png" black-list="y"/>]article_adlist--></p>
+<p><!--article_adlist[<img style="max-width:640px" id="9" src="https://mmbiz.qpic.cn/mmbiz_gif/0oxMQnmh2byUt8ibFsAJiaLPwITAWYvQibwVOmrfOVO1eVy1OsDhnXFqh1zqTdnc4jLBpR1Snav0y0hISqgHDtuPA/640?wx_fmt=gif" black-list="y"/>]article_adlist--></p>

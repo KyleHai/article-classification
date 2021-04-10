@@ -1,0 +1,115 @@
+原油暴跌对能化、农产品、有色和黑金28个品种影响逻辑全梳理
+对冲研投
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/626/w1080h346/20200315/613f-iquxrui6598181.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　文 &nbsp;|&nbsp;&nbsp;高超商品策略团队 &nbsp;中信期货</p>
+<p cms-style="font-L align-Justify">　　在海外疫情恶化、OPEC+减产预期落空（近日价格战下多方计划增产）的影响下，海外股市、原油价格持续大幅下跌，而商品市场多个品种紧跟原油走弱。原油为何对商品市场影响如此之大？各商品板块间又存在哪些差异？近期商品市场存在哪些投资机会？本文将重点讨论以上几个问题，希望能够对读者有所启发。</p>
+<p cms-style="font-L align-Center strong-Bold">　　核心观点</p>
+<p cms-style="font-L align-Justify">　　原油与能化品：原油是多个能化品种的基础原料，产业联系最为紧密，原油对能化板块的影响也最大。但由于各品种中间原料的不同、生产工艺的差异及各自的供需情况等因素，原油与各化工品的相关强弱程度有所差异。其中，原油与燃料油、沥青相关性最强，与煤化工品种相关性较弱，同芳烃和烯烃品种相关性介于前两类之间。近期原油价格大幅下跌，成本下移对化工品驱动最强，重点关注成本坍塌+高库存的PTA、MEG、苯乙烯的做空机会；偏多配置关注原油对其成本影响较小的PVC。</p>
+<p cms-style="font-L align-Justify">　　原油与农产品：原油及其下游产品与多数农产品的生产、加工、运输、销售等环节有着千丝万缕的关系，原油价格的大幅波动总是能够影响到农产品的供需平衡，进而冲击到农产品价格的波动。原油价格与多数农产品的期货价格具有较强的相关性。其中与提供生物能源的油脂、美玉米、小麦及其相关商品的价格相关性最强，相关系数基本可以达到0.7；与连玉米、棉花、原糖、鸡蛋等品种的相关系数介于0.5-0.7之间；而原油与郑糖、苹果、NYMEX可可相关性较低。在原油持续走弱的驱动下，近期国内油脂、棉花或将继续偏弱运行，但需关注各国经济刺激政策带来的波动风险。</p>
+<p cms-style="font-L align-Justify">　　原油与金属品：从产业链的角度很难找到原油与金属商品的联系，但两类商品均是工业生产所需的基本材料，两类商品覆盖了国民经济的各行各业，原油与金属价格的波动周期与经济周期密切相关，从而使得两类商品价格的波动存在相关性。其中，原油与有色金属的相关性要强于黑色，原油与伦铜、沪铜的相关系数分别可达0.85和0.8；与高于同螺纹的相关系数则为0.58。目前，原油价格已处较低水平，多数有色金属已处成本线附近，而国内复工进度加快，在油价逐步止跌条件下，金属板块以把握做多的机会为主。</p>
+<p cms-style="font-L align-Justify strong-Bold">　　一、原油与化工产品期货的相关性</p>
+<p cms-style="font-L align-Justify strong-Bold">　　1.1、原油价格大幅下跌与各商品价格的走势</p>
+<p cms-style="font-L align-Justify">　　原油价格作为影响化工品走势的“矛”，其上涨和下跌关系着化工品价格的运行区间。从影响力度看，重油品种燃料油、沥青与油价的同步性最高，煤化工品种相对较弱，芳烃和烯烃品种鉴于二者之间。本文就芳烃和烯烃品种为分析对象（以下统一称“化工品”），研究其价格走势与原油价格走势的相关性情况。</p>
+<p cms-style="font-L align-Justify">　　长周期看，这些化工品与原油价格的走势具有较高的相关性，其中，原油与PTA和PP的相关性较高，其次是苯乙烯、MEG、LLDPE，而PVC与原油的相关性较低（具体数据见表1）。从2008年以来原油价格几次大幅下跌与化工品价格的走势看（2008年金融危机、2014年7月-15年初、2015年10月-2016年初、2018年10月-12月），化工品基本是呈现同步走弱的态势，但在跌幅的程度上表现有差异。2008年金融危机的下跌，化工品跟随油价创历史低点；但2014-2016年的油价下跌不断创历史新低的过程中，PTA、PP的同步性较好，而PVC的同步性较差，PE、苯乙烯、MEG也同步跟跌，但未较2008年的低点更甚。2020年3月原油价格再度跌破40美元，但化工品的跟跌再现差异，PTA、乙二醇、苯乙烯的弱势最明显，PVC较为抗跌，PP和PE则介于二者之间。</p>
+<div class="img_wrapper"><img id="2" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/67/w591h276/20200315/ad06-iquxrui6598228.png" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="3" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/288/w606h482/20200315/5e29-iquxrui6598227.png" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="4" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/27/w605h222/20200315/0c19-iquxrui6598308.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify strong-Bold">　　1.2、影响原油与化工品价格相关性的因素</p>
+<p cms-style="font-L align-Justify">　　影响化工品与原油价格相关性的因素：一是其直接原料与原油价格走势的相关性表现不同；二是成本定价中原料成本所占的比重不同；三是生产工艺或主流工艺占总供应的比重不同；四是品种各自的供需格局差异。</p>
+<div class="img_wrapper"><img id="5" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/64/w612h252/20200315/65da-iquxrui6598310.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify">　　首先，从化工品的直接原料看，石脑油、乙烯、丙烯、纯苯与原油价格的相关性显示，石脑油、丙烯与原油的相关性较高，均在90%以上，苯与原油相关性则次之，乙烯与原油的相关性则相对较低。这些原料对应的下游品种在成本定价的模式下，也将承袭其原料价格与原油相似的相关性。但承袭的程度将受各品种的原料占比程度的影响。</p>
+<p cms-style="font-L align-Justify">　　其次，从原料成本占比情况看，占比较高的是PP、PE，即1 吨PE需要消耗 1.01 吨乙烯，均聚PP和丙烯之间也几乎是1：1的关系，共聚PP的乙烯、丙烯消耗比例大约在2：8左右。苯乙烯次之，其原料苯的占比在0.79左右，同时还有0.29的乙烯，因此，苯乙烯的价格与苯价格的相关性更高。此外，油制乙二醇成本虽可以由石脑油价直接计算得到，但其作为乙烯下游衍生品的一种，单耗乙烯只有0.6左右，降低了其对原料价格的联动性。PVC作为乙烯下游衍生品的一种，单耗乙烯在0.5左右，影响了乙烯法PVC与原油价格的相关性，且国内PVC的主流供应并非乙烯法。可见，生产工艺占供应的情况也值得关注。</p>
+<p cms-style="font-L align-Justify">　　再次，从油制生产工艺占国内总供应的比例看，100%石油工艺路径的PTA较为突出，正是因其生产原料单一弥补了其在原料单耗并不高的情况下，PTA与原油价格的相关性却高于单耗较高的化工品与原油价格的相关性，如PE。</p>
+<p cms-style="font-L align-Justify">　　综合来看（见表2），当因素1-3达成共振时，则相应化工品价格与原油价格高相关性就越高，反之，相关性就会偏低。例如，PTA原料与原油相关性较高，且PTA生产工艺单一，尽管成本计算中占比不是最高的，但综合之下PTA与原油价格的相关性仍较高。PVC则由于主流供应非油制工艺，且乙烯与原油价格相关性和乙烯在PVC生产的单耗不高，即便是乙烯法PVC的价格与原油价格的相关性也不高，仅有58%左右。而因素4（化工品的供需情况）的作用，是影响其价格跟随原油价格大涨大跌的程度。</p>
+<div class="img_wrapper"><img id="6" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/42/w611h231/20200315/d73b-iquxrui6598374.png" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="7" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/702/w511h191/20200315/68c1-iquxrui6598368.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify strong-Bold">　　1.3、阶段性供需差异带来的多空配置机会</p>
+<p cms-style="font-L align-Justify">　　从长周期角度看，大炼化的投产带动了本轮化工品全产业链的产能大扩张，同时涉及芳烃、烯烃产业链的多个品种。其中，芳烃产业链到PTA，2020年计划新增产能分别高达1200万吨、860万吨；烯烃产业链则是从原料乙烯到下游衍生品的产能均有扩张，市场预计2019-2023年，中国将新增石化乙烯产能约950万吨，到2023年底合计达到2900万吨/年左右，同时，乙烯衍生品的产能也有大量的投产计划（详见表3），仅PVC的新增产能供应压力相对较小。虽然投产可能出现滞后，但终归将投放市场，且需求增速较为平稳的情况下，大部分品种或将呈现供需宽松的格局，仅产能投放相对偏少的PVC有望延续平衡状态。</p>
+<p cms-style="font-L align-Justify">　　长期策略上，可以把握由此引发化工品价格走势强弱分化后的多空配置机会。其中，芳烃产业链的PTA在原料和自身供应压力较大的情况下，适合长期逢高沽空的操作；PVC供需相对良性，可关注在成本线附近逢低布局战略多单的机会。PP、PE、苯乙烯、乙二醇以区间操作为主，关注成本坍塌和供需过剩共振下的逢高沽机会，或成本提振和阶段供需偏紧的短多机会。</p>
+<p cms-style="font-L align-Justify">　　中短期策略上，鉴于原油价格大幅下挫令化工品成本集体下移，加上1-2月化工品累库超同期水平，化工品整体偏弱。偏空操作主要关注成本坍塌+高库存的PTA、MEG、苯乙烯；偏多配置关注原油对其成本影响较小的PVC。</p>
+<p cms-style="font-L align-Justify strong-Bold">　　（1）PTA和乙二醇成本供需双双偏弱，适合逢高沽空。</p>
+<p cms-style="font-L align-Justify">　　从成本角度看，由于原油价格的下跌，本周PTA和乙二醇（油制）的成本线分别下移至3200元/吨左右、3000元/吨左右。从供需看，目前PTA和乙二醇的库存仍处于上升态势，库存分别在260万吨、90.64万吨。成本下移，而供需偏弱的背景下，PTA和乙二醇以跟跌原油为主。短期，原油价格缺乏利好支撑，将以低位震荡为主，PTA和乙二醇的成本暂难提升。供需方面，3月PTA检修有所增加，3月11日PTA开工环比6日下降2.1个百分点至84.06%，后期若福海创450万吨装置检修，开工率有望进一步下降。乙二醇负荷在68%附近，在高库存和煤制工艺生产利润压缩的情况下，煤制开工存下调可能，进而拖累乙二醇整体开工。需求方面，虽然下游聚酯产销有所恢复，聚酯品高库存出初显拐点，聚酯和织造负荷仍在回升过程中，但鉴于上下游高库存，供需改善未能立竿见影的扭转短期供需格局。</p>
+<p cms-style="font-L align-Justify">　　总体而言，原油利空未解除，成本端仍存偏空预期，供需虽有改善但未到质的改变。因此，PTA、乙二醇价格回升高度有限，短期操作仍以反弹沽空为主。</p>
+<div class="img_wrapper"><img id="8" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/24/w601h223/20200315/7354-iquxrui6598461.png" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="9" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/250/w605h445/20200315/57a0-iquxrui6598463.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify strong-Bold">　　（2）PVC多空博弈，但存潜在向上驱动，适合逢低做多。</p>
+<p cms-style="font-L align-Justify">　　近期，PVC市场仍处于多空博弈阶段，即短期原油拖累与成本支撑的博弈、国内宏观预期向好与高库存的博弈。首先，原油价格止跌，化工品走势有调整需求；且原油走势下跌实际上对国内以电石法定价的PVC来说影响有限。其次，PVC成本支撑作用仍存，目前氯碱企业的双吨价差在2500元/吨左右，处于2017年以来低点，氯碱企业利润的下降或对产成品价格有一定支撑；乙烯法PVC受益于原油价格下跌带来成本下移，但氯乙烯价格未同步走低，3-4月亚洲及美国区域装置检修，氯乙烯供应紧张，对外采氯乙烯的PVC生产企业来说利润将受挤压。再次，需求存改善预期，PVC需求受宏观经济影响较大，在国内新冠疫情预期改善，宏观、基建仍存发力预期之下，PVC需求改善可期；只是PVC高库存的拐点暂未出现，供需改善的实质利好仍需时日兑现。虽然高库存短期仍制约PVC的上行高度，但原油价格止跌后，国内宏观预期向好之下，PVC连同相关建材品大概率将止跌回升。</p>
+<p cms-style="font-L align-Justify">　　中长期看，成本支撑和供需格局相对平衡的大背景下，PVC深跌空间有限，PVC在化工品策略中可作为多配品种。在电石产能难大幅增长，而电石法PVC产能预期增长的情况下，电石维持偏紧格局，其价格易涨难跌，对PVC价格构成托底作用。</p>
+<p cms-style="font-L align-Justify">　　操作上，以回调买入对待为主，入场区间关注6150-6200。</p>
+<p cms-style="font-L align-Justify">　　风险因素：利空在于原油价格大幅下挫，下游恢复超预期缓慢，PVC新产能投放完全兑现，PVC地板出口大幅减少，房地产相关需求不及预期。</p>
+<div class="img_wrapper"><img id="10" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/297/w613h484/20200315/61af-iquxrui6598534.png" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="11" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/27/w604h223/20200315/a489-iquxrui6598531.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify strong-Bold">　　（3）苯乙烯成本下移，且供需偏弱，短期走势偏空。</p>
+<p cms-style="font-L align-Justify">　　阶段性看，成本端在原油价格下跌的带动下，令此前对苯乙烯有较强成本支撑的纯苯价格也大幅下调，苯乙烯成本出现松动，不过苯乙烯的价格的同步下跌，苯乙烯行业利润仍处于低位。但鉴于原油仍受偏空因素扰动较甚，成本端驱动向下，同时在供需无利好的情况下，成本支撑难发挥作用。供需方面，苯乙烯库存短期仍高位徘徊。目前下游恢复偏慢，开工低于去年同期，供应端虽然国内开工不高，但浙石化与恒力新增供应量陆续释放，日产量已同比持平；需求恢复难抵供应增量下，阶段性供需偏弱。</p>
+<p cms-style="font-L align-Justify">　　中长期看，在苯乙烯产能大扩张（2020-2030年国内合计有1220万吨苯乙烯产能等待释放，其中2020年有654万吨/年的产能投放计划），而下游产能跟进不足（2020-2021年下游整体产能计划投产349万吨，对应苯乙烯需求约288万吨）的情况下，苯乙烯供需将进入偏弱格局，价格将长期承压。</p>
+<p cms-style="font-L align-Justify">　　走势上，短期苯乙烯将跟随原油而表现偏弱，在油价偏弱格局未扭转前，操作上以偏空为主；中长期若产能投放兑现较好，且成本端支撑偏弱，则可继续维持逢高沽空思路。风险因素，若产能投放不及预期则苯乙烯价格或大幅波动。</p>
+<div class="img_wrapper"><img id="12" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/253/w607h446/20200315/d3ff-iquxrui6598605.png" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="13" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/26/w598h228/20200315/906c-iquxrui6598604.png" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="14" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/37/w612h225/20200315/209d-iquxrui6598721.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify strong-Bold">　　1.4、化工品操作策略</p>
+<p cms-style="font-L align-Justify">　　中短期策略上，鉴于原油价格大幅下挫令化工品成本集体下移，加上1-2月化工品累库超同期水平，化工品整体偏弱。偏空操作主要关注成本坍塌+高库存的PTA、MEG、苯乙烯；偏多配置关注原油对其成本影响较小的PVC。</p>
+<p cms-style="font-L align-Justify strong-Bold">　　二、原油与农产品期货的相关性</p>
+<p cms-style="font-L align-Justify">　　原油及其下游产品与多数农产品的生产、加工、运输、销售等环节有着千丝万缕的关系，原油价格的大幅波动总是能够影响到农产品的供需平衡，进而冲击到农产品价格的波动。原油价格与多数农产品的期货价格具有较强的相关性。其中与能够提供生物能源的油脂、食糖、玉米、小麦及其相关商品的价格相关性最强。由于国内外市场环境的差异，原油与郑糖的相关性低于原糖，原油与连棕的相关性高于同BMD毛棕油的相关性，原油与美玉米的相关性高于同大连玉米的相关性。此外，原油与大连鸡蛋的相关性也较强，而与苹果基本没有相关性。</p>
+<p cms-style="font-L align-Justify strong-Bold">　　2.1、WTI原油与农产品期货相关性概览</p>
+<p cms-style="font-L align-Justify">　　从WTI原油价格与国内外农产品期货收盘价的相关系数看，原油与国内豆二、豆粕、油脂以及美盘豆类的相关性最强，相关系数基本可以达到0.7；其次，原油与国内的豆一、菜粕、玉米、棉花、鸡蛋以及外盘的小麦、棉花、玉米和11号糖的相关性较强，相关系数基本介于0.5-0.7之间；而原油与郑糖、苹果、NYMEX可可相关性较低。此外，我们注意到无论是内盘的豆类还是美盘的豆类，其与原油价格相关性均较高；而棕榈油方面，原油与连棕的相关性明显要高于BMD毛棕油；原油与郑棉、美棉的相关性较为一致，相关系数均在0.55左右；此外，原油与11号糖的正相关性明显要强于郑糖。</p>
+<div class="img_wrapper"><img id="15" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/232/w599h433/20200315/6ff0-iquxrui6598723.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify strong-Bold">　　2.2、原油与油脂油料市场相关性</p>
+<p cms-style="font-L align-Justify">　　在农产品期货中，油脂油料板块与原油价格的相关性最强，即原油对油脂油料市场的影响也最大。原油对油脂油料市场影响的传导媒介为生物柴油，即当原油价格较高时，市场预期生物柴油的产销量增大，生物柴油对植物油的消费增加，油脂的供需平衡表收紧，油脂价格上涨动力增强；当原油价格较低时，市场预期生物柴油的产销将会受到抑制，生物柴油对植物油的需求降低，油脂供需趋向宽松，油脂价格下行压力增大。通常我们通过BOHO和POGO两个指标来判断生物柴油是否具有价格优势，当这两个指标处于较低水平或负值时，生物柴油价格优势增强；反之，生物柴油价格优势较弱。另外，生柴的产销量受当地政府政策影响较大，生柴对植物油的需求变动还需关注政府支持政策的变化。从以上产业逻辑可知，原油价格与豆油、棕油、菜油的价格具有较强的正相关性。</p>
+<div class="img_wrapper"><img id="16" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/308/w792h316/20200315/c478-iquxrui6598793.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify">　　近年，全球生物柴油产量逐步增加，生柴对植物油的需求量日益增多，生柴产销量的变动成为影响油脂供需平衡的重要因素。2019年马来、印尼、欧盟、阿根廷、巴西、美国等生物柴油主要产销国的生柴总产量为400亿升，同比增加6.32%。其中，2019年生柴消耗棕油1166万吨，占马来和印尼棕油总产量的18.72%；2019年生柴消耗豆油1015万吨，占全球豆油总产量的17.82%；2019年生柴消耗菜油556万吨，占全球菜油总量的20.59%。2019年全球生柴对三大植物油的消耗量占三大植物油总产量的比重可达20%。因此，生柴产销量的变动成为影响油脂供需平衡的重要因素。同样是作为动力燃料，原油及其相关产品与生物柴油具有较强的替代关系，原油价格的高低成为影响生柴产销量变动的重要因素，原油也进一步影响到油脂的供需平衡及其价格波动。</p>
+<p cms-style="font-L align-Justify">　　大豆和豆粕作为豆油的原料和重要相关品，其与原油价格的相关性也较强，另外大豆作为国际性商品，其生产、运输及加工环节均离不开原油及下游产品，故原油价格对整个油脂油料市场的价格影响较大。</p>
+<p cms-style="font-L align-Justify">　　目前，海外疫情继续恶化、OPEC+减产预期落空（价格战下多方计划增产），原油价格大幅下跌，市场对油脂的需求较为悲观，而油脂的供应端暂时缺乏故事。在疫情和油价的驱动下，预计近期油脂震荡偏空运行，而豆菜粕表现相对抗跌，油粕比在油脂走弱驱动下继续回落。但是，目前原油、油脂（特别是豆油）价格已处低位，需要警惕市场情绪修复及原油供应端预期反转带来的价格上行风险。</p>
+<div class="img_wrapper"><img id="17" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/128/w601h327/20200315/3c76-iquxrui6598791.png" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="18" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/337/w810h327/20200315/d88c-iquxrui6598851.png" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="19" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/263/w607h456/20200315/dee5-iquxrui6598845.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify strong-Bold">　　2.3、原油与棉花市场的相关性</p>
+<p cms-style="font-L align-Justify">　　原油与棉花市场产生联系的媒介主要是化纤。化纤的主要生产原料是PTA和MEG，而二者的最终上游原料则为原油，原油价格与PTA、MEG价格的相关系数分别为0.82和0.73，即原油与PTA、MEG具有较强的相关性。化纤与棉花主要用于生产纺织服装产品，二者具有较强的替代关系。由于化纤没有直接的期货品种，而MEG上市时间相对较短，我们通过分析PTA与棉花的相关性来判断原油对棉花市场的影响。棉花与PTA供应端是相互独立的，而郑棉与PTA价格的相关系数却达到了0.73，PTA与WTI原油价格的相关系数为0.82，通过简单的数学计算可得原油与棉花的相关系数为0.59。我们通过计算郑棉、美棉上市以来收盘价同WTI原油收盘价的相关系数，得到WTI原油与郑棉、美棉的相关系数分别为0.58和0.54。由以上数据可知，统计得到的原油与棉花的相关性，和通过计算棉花与PTA、原油与PTA相关系数得到的棉花与原油的相关性基本一致。通过以上分析，原油对棉花价格影响的媒介是化纤，即当原油价格较低时，化纤成本较低，化纤对棉花的替代性增强，棉花需求趋于下降，棉花价格下行压力增大；反之，则棉花价格的上涨动力增强。</p>
+<p cms-style="font-L align-Justify">　　当前影响棉花价格的主要因素为疫情和原油价格大幅下跌，短期供应端变化不大，后期关注新季棉花种植情况。在疫情好转、原油价格企稳前，预计棉价将继续承压。</p>
+<div class="img_wrapper"><img id="20" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/19/w597h222/20200315/8669-iquxrui6598940.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify strong-Bold">　　2.4、原油与白糖市场的相关性</p>
+<p cms-style="font-L align-Justify">　　原油与白糖市场产生联系的媒介是糖基乙醇，这与油脂生产的生物柴油、玉米生产的玉米酒精较为相似。白糖除了食用，还能生产乙醇，国内白糖主要在于食用，而国际原糖有相当一部分用于生产乙醇。巴西是全球最大的糖基乙醇生产国，2018/19年度巴西乙醇产量达到3035万m³。近些年巴西蔗糖制乙醇比率通常在50%以上，高的年份制乙醇比率可以达到60%，2018/19年度巴西醇糖比达到6.5：3.5，创下十五年以来的新高。而乙醇主要用于燃料，原油价格对燃料乙醇的产销量有较大的影响。当原油价格较低时，市场预期燃料乙醇产销量将会降低，企业将会增加制糖比，白糖供应趋向宽松，糖价下行压力增大；当原油价格较高时，市场预期燃料乙醇的产销量将会增加，企业通常增加乙醇产量，白糖供应趋向偏紧，糖价上行动力增强。即原油通过影响乙醇的产销量来调节原糖的供需平衡，故原油对原糖价格的影响较大。根据统计，WTI原油价格与11号糖价格的相关系数为0.52，表明二者具有较强的相关性。</p>
+<p cms-style="font-L align-Justify">　　然而，由于国内白糖主要在于食用，并且国内食糖供应以国产糖为主，近五年进口食糖占国内总供应量的比重在20%左右。因此，郑糖与原油价格的相关性较低，根据统计郑糖与WTI原油价格的相关系数仅为-0.07，表明二者基本是相互独立的。但是，近期原油价格大幅下跌，海外股市进入熊市，资本市场情绪较为悲观，而原糖价格持续走弱，在悲观情绪及原糖价格走弱驱动下，市场无视国内外食糖减产的利多，近日郑糖承压调整，关注下方整数关口能否起到有效支撑。在海外疫情好转及原油价格企稳调价下，错杀的白糖价格或迎来强势上涨。</p>
+<div class="img_wrapper"><img id="21" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/7/w596h211/20200315/c1e1-iquxrui6598939.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify strong-Bold">　　2.5、原油与玉米市场的相关性</p>
+<p cms-style="font-L align-Justify">　　玉米的主要用途为生产饲料、玉米淀粉、玉米酒精（燃料乙醇）等。例如，近年美国玉米消费中有35%-40%用于生产乙醇（燃料乙醇）。原油价格的变动对燃料乙醇的冲击较大，当原油价格下跌至较低水平时，市场预期燃料乙醇产销量将会降低，玉米需求将会减少，玉米价格下行压力增大；反之，则玉米需求预期增加，玉米价格上行动力增强。以上产业逻辑表明，原油价格的变动对玉米市场的供需平衡影响较大。从WTI原油价格与CBOT玉米价格相关性看，二者的相关系数达到了0.68，预示着原油价格与美玉米价格具有较强的相关性。而国内玉米方面，由于2015年之前国内玉米价格受政府政策影响较大，且国内玉米用于生产酒精的量相对较低，预计2019年国内生产酒精的玉米量在3000多万吨，占国内玉米消费总量的比重不到15%，且国内酒精用于燃料乙醇的比例较低，故原油价格与连玉米价格的相关性要低于美玉米，但二者的相关系数仍达到了0.57，表明原油与连玉米仍然具有较强的相关性。</p>
+<div class="img_wrapper"><img id="22" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/12/w596h216/20200315/10bd-iquxrui6598974.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify strong-Bold">　　2.6、原油与其他农产品市场的相关性</p>
+<p cms-style="font-L align-Justify">　　此外，原油与鸡蛋价格的相关性也较强，二者的相关系数达到了0.57。但是，原油与鸡蛋产业连很难找到交集，除了原油对鸡蛋的运输成本有较大影响外。但是，原油价格的大幅变动往往会改变整个商品市场的情绪，而鸡蛋价格大概率是受到整个商品市场情绪的影响而表现出与油价的较强相关性。由于苹果为自产自销品种，且上市时间较短。当前，苹果与原油价格较为独立，二者的相关系数仅为0.09，表明二者基本没有相关性。</p>
+<p cms-style="font-L align-Justify strong-Bold">　　三、原油与金属期货的相关性</p>
+<p cms-style="font-L align-Justify">　　原油与金属（本文指上市的有色和黑色金属）均是工业生产所需的基本材料，两类商品覆盖了国民经济的各行各业，原油与金属价格的波动周期与经济周期密切相关，从而使得两类商品价格的波动存在相关性。本文中，我们选择有色金属的铜、铝、锌、镍和黑色金属中的螺纹钢、热卷、铁矿、焦煤和焦炭等品种，研究其与原油价格的相关性。</p>
+<p cms-style="font-L align-Justify strong-Bold">　　3.1、原油与金属价格相关性概览</p>
+<p cms-style="font-L align-Justify">　　通过计算WTI原油与各金属品种期价的相关系数，我们发现有以下几个特征：</p>
+<p cms-style="font-L align-Justify">　　（1）原油价格与LME有色金属价格的相关性要强于上海有色金属；</p>
+<p cms-style="font-L align-Justify">　　（2）原油价格与锌的相关性较低，特别是2007年以来，二者还具有一定的负相关性，2007年以来WTI油价与LME锌、沪锌的相关系数分别为-0.09和-0.14；</p>
+<p cms-style="font-L align-Justify">　　（3）原油价格与LME铝的相关性强于沪铝，而LME铝与沪铝的相关系数仅为0.79，这两个市场中其他同品种的相关系数均在0.97以上；</p>
+<p cms-style="font-L align-Justify">　　（4）2015年以来原油与镍的相关性明显增强，例如2001年以来WTI油价与LME镍的相关系数仅为0.57，而2015年以来WTI油价与LME镍的相关系数达到了0.71，这与沪镍上市以来与WTI油价的相关系数一致；</p>
+<p cms-style="font-L align-Justify">　　（5）原油与黑色板块中的铁矿和螺纹的相关性较强，但油价与螺纹的相关性要低于和铜的相关性。</p>
+<p cms-style="font-L align-Justify">　　（6）原油与焦煤、焦炭的相关性不断增强，原油与焦煤、焦炭上市以来的相关系数分别仅为0.08和0.23，但2015年以来原油与二者的相关系数分别达到了0.57和0.66。</p>
+<div class="img_wrapper"><img id="23" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/129/w592h337/20200315/330b-iquxrui6598975.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify">　　（7）全球经济走弱、市场需求下降情景下，油价与金属价格波动具有较强的趋同性。例如，2008年8月至10月金融危机期间，原油价格自147美元/桶下跌至70美元/桶，跌幅52%；在此期间铜、铁矿和螺纹价格跌幅分别为66%、55%和34%。</p>
+<p cms-style="font-L align-Justify">　　原油供应端增产情景下，油价的下跌与金属价格的趋同性较弱。例如，2014年7月至2016年初美国页岩油和OPEC原油增产驱动下的油价下跌，在此期间原油价格自100元/桶之上，下跌至30美元左右，跌幅达70%；而同期铜、铁矿和螺纹的跌幅分别是36%、48%和39%。以上价格相关性强弱的差异与原油和金属供需的差异密切相关。</p>
+<div class="img_wrapper"><img id="24" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/304/w803h301/20200315/a465-iquxrui6599016.png" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="25" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/311/w815h296/20200315/b680-iquxrui6599018.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify strong-Bold">　　3.2、原油与有色金属价格相关性</p>
+<p cms-style="font-L align-Justify">　　有色金属的应用遍布各行各业，特别是机械制造、建筑安装、电力等行业，所以有色金属的价格与经济周期、货币周期的联系较为紧密。原油既是主要的能源基础原料，同时也是多数化工品的基础原料，原油的下游产品同样遍布各行各业，故原油价格与经济周期也密切相关。同样的经济周期将原油和有色金属联系起来，也使得二者的价格表现出较强的相关性。而有色板块内各品种与原油价格相关性强弱的差异，则与各自应用领域的广泛性及供应情况相关。</p>
+<p cms-style="font-L align-Justify">　　以锌为例，2014年至2015年原油价格大幅下跌，但此段时间锌供应较为紧张，锌价表现较强，在此期间LME锌与布油的相关系数为-0.36，即锌与油价呈现背离。因此，虽然原油和有色金属的相关性较强，但仍需重点考虑品种的供需关系，而非盲目的用原油价格推导有色金属的价格变化趋势。</p>
+<div class="img_wrapper"><img id="26" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/296/w799h297/20200315/a7c4-iquxrui6599071.png" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="27" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/298/w799h299/20200315/694b-iquxrui6599072.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify">　　本次油价下跌的主要驱动因素为：新冠疫情影响下市场对原油需求担忧的恐慌情绪和OPEC+原油价格战下的增产预期，其中后者对当前市场影响的比重更大。油价的下跌对工业品的影响主要在成本端，但成本对于有色金属的影响较小，而决定未来价格的仍是其供需情况。目前全球经济衰退仅仅是新冠疫情导致的预期，实际影响仍要看疫情的发展情况。</p>
+<p cms-style="font-L align-Justify">　　目前，有色金属的价格已经跌至成本线附近，已部分兑现疫情和原油下跌的影响。从当前有色金属的价格与成本来看，目前铜价受悲观情绪影响已经跌破5500美元（44000元）的重要支撑，短期内疫情和原油价格的下跌，会导致铜价有继续下探，寻求90分位成本5300美元（42500元）的支撑。目前锌价已经跌破国际锌企业90分位成本线约2000（16000元）美元/吨，如果海外疫情继续快速蔓延，锌价可能跌至75分位成本约1650~1700美元/吨（13000-14500元）附近。目前铝价已经处于历史较低水平，在1600美元得到明显的支撑，预计继续下跌的空间有限，极端情况下会考验50分位成本线约1200美元/吨。镍方面，按照当前LME的镍价已经跌破国内NPI的成本，预计短期内减产预期会对价格形成支撑，极端情况下会考验下方10000~11000美元/吨的成本。</p>
+<div class="img_wrapper"><img id="28" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/169/w772h197/20200315/b09e-iquxrui6599112.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify">　　从供需关系的角度来看，海外疫情集中爆发区域的消费占比和产量占比较为接近，疫情影响下或可内部对冲掉不利影响。而中国作为有色金属的消费大国，主要有色金属品种的消费占比可达50%以上，目前国内疫情已经基本得到控制，后期复产复工或将加速，对有色金属的消费也将逐步回升，整体驱动也在转强，并且当前价格在成本线之下，存在较高的安全边际，可逢低布局远月多单。</p>
+<p cms-style="font-L align-Justify strong-Bold">　　3.3、原油与黑色金属价格相关性</p>
+<p cms-style="font-L align-Justify">　　虽然同为金属，但黑色金属与有色金属不同，黑色金属主要应用于地产、基建和制造业，相对于有色金属应用领域更为集中。并且，我国钢材主要应用于国内市场，而有色金属的国际属性更强（原油的国际属性亦较强）。因此，黑色金属与原油价格的相关性要弱于有色金属，特别是弱于铜与油价的相关性。总体来看，黑色金属中铁矿和螺纹与原油价格的相关性较强。</p>
+<div class="img_wrapper"><img id="29" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/160/w612h348/20200315/2aba-iquxrui6599111.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify">　　另一方面，作为黑色金属的重要生产原料焦煤、焦炭和铁矿石，在其开采过程中，原油作为全球最重要的能源，是其重要的成本构成，而焦煤和铁矿又均属于大宗干散物资，需要全球范围内流动，海运费也是其成本的重要组成部分，而原油价格直接决定海运费。因此，原油在铁矿和焦煤的成本构成占比较大。例如，2015年铁矿石价格只有40多美金时，其中海运费就达15美金。然而，由于螺纹钢、热轧卷板以及焦炭，生产过程较为复杂，其价格组成中除了原料成本还有其他辅材、三项费用、利润等要素，故原油对其成本影响较小。但是，随着商品市场金融化程度的提高，2015年以来原油与焦煤、焦炭的相关性快速增强，2015年以来原油与二者的相关系数分别达到了0.57和0.66。</p>
+<div class="img_wrapper"><img id="30" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd2020315s/329/w804h325/20200315/5b7b-iquxrui6599170.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L align-Justify">　　当前油价的下跌对于黑色系商品的影响较小。从成本角度看，油价的下跌会传导至原料的开采成本，但时滞较长，短期内黑色系商品的原料价格仍主要受当前供需的影响。</p>
+<p cms-style="font-L align-Justify">　　从供需角度看，尽管短期钢材库存压力较大，但随着国内疫情得到控制，目前国内复工加快，且由于要弥补疫情期间的施工进度，完全复工后钢材消费或呈现爆发式的增长，本周建材日均成交量已经接近历史同期水平，供需关系边际好转，预计钢材价格震荡偏强。铁矿方面，近期受外部发运量偏低及港口低库存影响，铁矿或将震荡偏强运行。焦炭虽然供应快速回升，但在终端需求改善，钢矿价格走强的带动下，焦炭预计跟随成材运行。</p>
+<!--article_adlist[<p cms-style="align-Center font-M strong-Bold">－ END －</p><p cms-style="align-Center font-M strong-Bold">大宗商品脱水策略研报 V2.0版</p><p cms-style="align-Center font-M strong-Bold">观点梳理、逻辑深挖、事实验证、高频跟踪</p><p cms-style="align-Center font-M strong-Bold">“加量不加价”，2020全新升级</p><p cms-style="align-Center font-M strong-Bold">还是3180元/年，立享全年五大权益</p><p cms-style="font-M strong-Bold">1.1  脱水策略周报——筛选策略、解构逻辑</p><p cms-style="font-M strong-Bold">3月15日: 30美金原油锚定下，这个跌幅仅5%的品种可能仍被显著高估？</p><p cms-style="font-M strong-Bold">2月23日：蒙古国通关即将恢复，黑色系这个高利润高估值品种的交易机会来临</p><p cms-style="font-M strong-Bold">2月16日：这两个品种都到了上市以来最低区间，疫情高波动下继续交易双空还是多空价差？</p><p cms-style="font-M strong-Bold">1.2 【新增】热点专题报告——冷静寻找热点背后的真实</p><p cms-style="font-M strong-Bold">3月8日：这个低估值的“网红”品种值得参与吗，前期策略怎么看？兼谈一点宏观高波动市场的思考</p><p cms-style="font-M strong-Bold">2月1日：上帝与撒旦的两面：疫情蔓延下的危与机—大宗商品脱水策略研报春节特别篇</p><p cms-style="font-M strong-Bold">1.3  复盘监测日报——逻辑变没变？这份日报告诉你</p>]article_adlist-->
+<p cms-style="font-M strong-Bold align-Justify"><!--article_adlist[03月12日：国内疫情高峰已过，汽车产销大幅下降，黑色上涨独树一帜]article_adlist--></p>
+<p cms-style="font-M strong-Bold align-Justify"><!--article_adlist[03月11日：原油价格战升级，湖北推进企业复产，黑色库存再创新高]article_adlist--></p>
+<p cms-style="font-M strong-Bold"><!--article_adlist[03月06日：10年美债收益率跌破0.8%，原油跌超4%，焦炭5-9价差转结构]article_adlist--></p>
+<p cms-style="font-M strong-Bold"><!--article_adlist[03月05日：印度斋月需求开启，棕榈油终现大涨]article_adlist--></p>
+<p cms-style="font-M strong-Bold"><!--article_adlist[03月04日：黄金跳涨2%， 5月豆菜粕价差创年度新低]article_adlist--></p>
+<!--article_adlist[<p cms-style="font-M strong-Bold">1.3  大咖开讲：线上专题路演——我们也不懂？没关系，这些大咖驻场为你服务【新增】</p><p cms-style="font-M strong-Bold">3月14日：佘建跃：30美元是原油底部还是刚开始？</p><p cms-style="font-M strong-Bold">3月1日：付鹏：全球疫情危机，2008再现？</p><p cms-style="font-M strong-Bold">1.5  专属社群互动【新增】</p><p cms-style="font-M strong-Bold">你的需求，我们来解决</p><p cms-style="align-Center font-M strong-Bold">扫码或点击“阅读原文”了解详情</p>]article_adlist--><!--article_adlist[<p cms-style="align-Center font-M strong-Bold">获取试看报告？</p><p cms-style="align-Center font-M strong-Bold">添加客服号回复“脱水试看”</p>]article_adlist-->

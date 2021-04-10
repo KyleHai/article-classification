@@ -1,0 +1,162 @@
+论期货现货关系与供应端矛盾 一文看懂期货行情演变最本质原因
+新浪财经-自媒体综合
+<p>　　<font cms-style="font-L">来源：</font><font cms-style="font-L">资本小论</font>　</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold">导读：</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">很多人仅仅用现货的思维去做商品期货交易，具有一定的合理性；但如果仅仅从这方面去进行策略的制定，就会非常的不合理。原因在于期货和现货虽是同一体系下的内容，但却具有很大的不同。不同点简而言之，如下：</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">期货是：</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">你越有货，我越不买，价格跌，越跌越不买；</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">你越没货，我越要买，价格涨，越涨我越买；</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">你货不多不少，我就观望，就等你有货没货。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">现货是：</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">你有货，我想买；你愿意卖，我愿意买。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">说白了期货就是趁你病要你命；而现货就相对纯粹，愿打愿挨、任劳任怨；苦心经营、苦口孤诣；甘心情愿、真情无悔。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">本文主要对</font><font cms-style="font-L">期货与</font><font cms-style="font-L">现货的关系以及现货供</font><font cms-style="font-L">应端矛盾的发生和演绎进行</font><font cms-style="font-L">一个分析和解读~</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">基础依旧是：</font><font cms-style="font-L">期货为现货服务，金融为实体服务。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">一起来读今天为你推荐的这篇文章吧~</font></p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201110s/485/w1080h205/20201110/16e0-kcunqzc5969587.png" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">现货经营的秘诀</font></font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">我们能看到很多做实体现货的，往往大行情来的时候都不怎么赚钱，部分反而亏钱。其原因在于：<font cms-style="font-L">实体现货的参与者大多都着眼点在于眼前，需要解决更多当下的问题。</font></font><font cms-style="font-L">比如：近期的供货，近期的采购，资金库存配比调节等。同时，实体现货参与者的运营成本更大，风险控制完善，内部责权明确，追求资金周转等。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">这一方面可以促进现货经营的稳定和持续，但也使得做实体现货的着力点放在了经营之上，也就是力求解决当下的问题，对未来商品的走势判断并不重要。因为商品只是资本经营的媒介，而非核心。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以我们就可以去思考一个问题，现货经营赚的究竟是谁的钱？</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">在此个人觉得，现货贸易中的盈利点：</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">一是价差；</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">二是资金利息；</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">三是提升市场效率的正反馈；</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">四是其他外部方面，比如商品估值提升。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">但在实际上，对于风险偏好度中低的现货商，价差盈利这一块并不是那么容易获取，而且主要参与方式还是以套利的形式。所以大部分盈利点就只能在二三四这几方面了，而三四这属于整个产业链体系中的，也就是说，行情好的话，大家都赚钱。如电解铜，如果铜融资属性继续提升，那么它的估值就会提升，价格也会走高；如果国家去杠杆，那估值就会下降，价格走跌，这是对于整个市场上一致的。市场效率的正反馈亦如此。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以留给现货商很大一部分的盈利点就来自于第二方面——<font cms-style="font-L">资金利息收益。</font>那就比谁的资金成本低吧，</font><font cms-style="font-L">所以我们能看到长期存在于市场上都是那些经营稳定、资金成本低、心平气和的大型现货商。那些资金成本高、粗放的经营者一旦来了大行情（不管行情好坏），破产风险也紧随其后。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以当下的大宗类业务，分好几大流派：</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">一是扎根于上下游工厂的</font><font cms-style="font-L">，纯粹赚取价差的。通过与上下游工厂良好的关系和服务赚钱；当然，这个流派有很大一部分收益一样来源于资金利息。这个派别，用期权理论的观点就是通过大资金做期权的卖方。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">二是混迹于各类贸易商的</font><font cms-style="font-L">，分激进派和温和派。激进派喜欢囤货，赌市场行情变动的，天堂地狱一念之间，实质上是利用自己的判断进行产业性的投机。这里面也有温和派的，仔细认真寻找市场给的机会，利用每日期货价格波动大的特点，实现自身在产业链和市场中的价值。激进派小而分散，温和派大而保守。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">三是依托于各类贸易商通过其他途径获取或有收益的。</font><font cms-style="font-L">这部分属于贸易的衍生，可能不参与现货贸易，也可能部分参与。总而言之就是利用大宗贸易的“多快好省”的特点，获得了在其他领域的收益。典型的代表就是“供应链金融”，剩下的就是针对“税”、“银行”等业务。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">当然，任何一种参与方式都是可行合理的。实体现货的经营，找到自己的定位即可，按照既有的准则去经营和完善，赚取属于自己的那一份收益，这或许就是现货经营的秘诀。所以我们能看到，但凡倒下的，都是那些在原有路线偏离轨道的；走得远了，就走没了。</font></p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="2" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201110s/485/w1080h205/20201110/8d87-kcunqzc5969671.png" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">苍蝇不叮无缝的蛋</font></font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">产业链的外部势力并不会理会这个。产业外部因素正常情况下也不参与产业链的运作，更不参与个体的现货经营。毕竟<font cms-style="font-L">金融资本和产业资本的玩法是不一样的。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">对于金融资本而言，产业就像是一个蛋。正常情况下是只看看蛋的外观，是黄壳还是白壳；但一旦这个蛋出了问题，金融资本就像苍蝇一样的过来了。也就是：苍蝇盯上了这个有缝的蛋（这句话并不是贬义，而是在阐述一个事实）。至于苍蝇为什么找上它，就是产业本身出了问题。产业本身的问题会很多，最典型的：<font cms-style="font-L">利润问题、成本问题、相关品问题、供需矛盾问题等。</font>这些问题可能成为这个鸡蛋的缝，从而招来金融投机资本这只苍蝇。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">有人说期货投机就是研究各类品种，哪些品种已经出现缝了或者即将出现缝，进去，资金就是苍蝇。这是有道理的，也道出了投机资本（或者说部分金融资本）与产业资本的区别，产业资本就像是静静的湖水，相对而言追求平稳收益；在大行情来临的时候风险会加大，但也有部分产业资本能够抓住大行情，从而实现更大的收益；<font cms-style="font-L">而金融资本就像是某一天在湖中丢了一块大石头，使得平静的湖水瞬间波涛汹涌。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">但随着时间的推移，湖水在波涛汹涌，也终究归于平静。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以对于金融资本丢石头的时间点就需要好好把控了，就像上面说的——苍蝇不叮无缝的蛋一样。金融资本的入局肯定是会去衡量这个蛋的情况——什么时候这个蛋已经出现细缝了，什么时候布局，什么时候出场。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">那至于金融资本对产业的研究，也无非是内外两个方面。对内产业本身的主要矛盾：<font cms-style="font-L">产业内部矛盾能否解决，能解决就寻找下一个矛盾</font>；不能解决就重拳出击，如果你没货，我就越要买，越没货我越要买；如果你货非常多，我就让你货更多，货越多我越卖。如果你货正常，那我就不鸟你。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">这也就能够解释，在上涨的Backwardation结构不断扩大的情况下，价格越涨市场上货越少；Contango结构扩大的情况下，价格越跌货越多的原因；价格稳定的时候，成交就很少。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">对于产业外部，一般就比较集中于一些宏观多因素商品，比如铜、原油、白银等；<font cms-style="font-L">这一类商品既有商品因素，又有宏观因素。</font>也就是说，某一些情况下，商品因素能占据主导作用；某些情况下，宏观因素占据主导作用。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以我们能看到这种有意思的情况，明明原油都已经跌成个位数了，早就已经突破了原油的生产成本，但还能继续跌，最终跌到了-40多美金的价位；从产业视角来看，明明现阶段铜被高估了，但还是继续维持高位；白银居然能在半年内时间价格跌40%，然后又涨200%。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">这些就是外部因素影响的结果，所以很多情况下，金融资本对产业的研究既有产业本身，还有产业的外部因素，可以说是双拳出击。</font></p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="3" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201110s/485/w1080h205/20201110/f755-kcunqzc5969673.png" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center">囚徒困境</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">当然，<font cms-style="font-L">金融资本也不是万能的。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">在期货市场上，只有既有钱又有货的才有可能立于不败之地。很多时候，<font cms-style="font-L">金融资本只占据了一条——有钱；而产业资本长期占据了另一条——有货。</font>所以鹿死谁手还的确不好说，我们见过金融资本血洗产业资本的情况——多以黑色产业为主，也见过产业资本把金融资本拖垮的事情。但归根结底，都是二者在极端行情下的博弈，但从历史经验来看，胜者多以金融资本为主。究其原因，也同样在于开篇那里，产业资本运营成本高，破产概率更大，经不起这般折腾。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">产业内的囚徒困境。产业内问题一直很多，尤其是在商品价格运行到比较特殊的点时。比如市场行情处于Normal Contango甚至是Super Contango之时，基本上就是产业内的互殴与相互背叛。原因在于，在Contango结构下，现货商对价格会更加敏感，因为Contango结构意味着低价格和低利润，此时大家就不愿意一起挺价。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">一是Contango结构本身就适合做套期保值；二是现货商分歧很大，你在这挺价，别人就在盘面套保，所以大家都希望别人去挺价，自己去套保锁利润。大家的一致挺价是对产业链的最优结果，但对于每一个现货商而言，不挺价而是选择卖出套保是最优决策。这就是博弈论中的：个人最优决策与集体最优决策的一种矛盾。也是囚徒困境中的一种。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以我们能看到，在Flat Contango或者是Normal Contango结构的时候，成交量和持仓量往往并不是很高，因为里面的玩家都是产业套保盘；但一旦Contango结构扩大的时候，走向Super Contango结构的时候，市场的成交量和持仓量就会猛增，就是因为“狼来了”。他们熟知产业现货商在想什么，也知道他们害怕什么，也知道他们现在的主要矛盾是什么。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">清楚你有过多的货以后，我就让你的货更多，我也配合你一起做空，把价格打下去。所以剧本就是这样的：你越有货，我越不买；价格跌，越跌我越不买。或者可以这样理解：你货越多，卖不出去；我就通过做空的方式，让市场上货更多。这也说明了。为什么在Normal Contango或者Super Contango的结构的情况下，价格很喜欢动不动就暴跌的原因。看看当下最典型代表PTA、苹果、鸡蛋；再次之就是棉花、橡胶等。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">产业问题在另一个特殊事件点问题也很大。也就是在商品结构走向Backwardation结构的时候，此时代表这市场供需矛盾显现。但对于Backwardation结构而言，这种结构是不利于产业客户做套保的，或者说——不知道该怎样去做最优的套保决策。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以我们能看到，某一个商品转为Backwardation结构的时候，价格一般都是比较坚挺的，原因就在于此：产业客户比较容易一致去挺现货价格，然后买期货卖现货。里面的逻辑：一是Backwardation结构不是很利于产业客户做套保，二是能够把手上的现货套现出来，变成一部分的“现金流+盘面上的虚拟库存”。这样滚动操作，能够保证现货商既有现金流又有虚拟库存在手上。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">那此时，金融资本在干嘛呢？其实也是一样，也是在等这个蛋的缝裂开。通过天时地利人和的方法去分析商品的内外部环境和基本情况。如果的确产业矛盾激化，那就是一个非常好的入局点。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以就是这样的剧本：你越没货，我越要买，价格涨，越涨我越买。或者可以这样理解：市场上货越少，买不到货；我就通过做多的方式，让市场上货更少。这就说明了，为什么我们总是看到在Backwardation结构下，价格坚挺，且商品价格很喜欢无理由大幅拉涨的原因。看看当下的典型代表：三大油脂、锌铝、动力煤。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">总结之：<font cms-style="font-L">期货、金融资本就是趁你病要你命。现货、产业资本就相对纯粹，愿打愿挨、任劳任怨；苦心经营、苦口孤诣；甘心情愿、真情无悔。</font></font></p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="4" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201110s/485/w1080h205/20201110/0f96-kcunqzc5969763.png" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">产业故事是怎么讲的？</font></font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">（1）开篇</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">产业故事的讲法很多，但基本上万变不离其宗。一个期货商品的设计，本身就包含了潜在的产业故事。放眼国内所有期货品种，每年都有众多所谓的“明星品种”，但明星品种背后阐述的故事，却是大同小异。<font cms-style="font-L">这归根结底在于产业的故事就在于产业资本和投机资本的混合双打，两者相爱相杀；一见如故，唏嘘不已；斗嘴、争辩，不亦乐乎。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">产业故事书的开篇一般较为平静，但随着周期的转移。真正的故事应该从供应端说起，供应端是产业故事的开端，我们熟知的所有的商品期货的大行情，都起始于此，因为供应端的变化是一个中长周期行为，持续时间较长。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">我们熟知的，2020年的铁矿、菜油豆油棕榈油、电解铜；2019年的铁矿、电解镍、豆一；2018年的PTA、苹果；2016-2017年的锌锭、2017年的螺纹及双焦等等。这些都是当年的明星品种，也是当年市场上，抓住就是一波肥的投资品。他们的共同点就是：<font cms-style="font-L">供应端出现了问题。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">供应端出现问题了，市场就会炒作供应端，这是资本市场的一贯逻辑。一旦供应端出现问题，也就意味着蛋出现裂缝了，也就意味着苍蝇可能就来了。那后面的故事就很好讲了，市场上的真假消息也莫名其妙的多了，尤其是那些决策权不在国内的比如，甚至在国内的也一样如此。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">一会儿说冰雹对苹果影响不大，一会儿又说哪里哪里是重灾区；一会儿说印尼禁矿，一会儿又分析说不禁了；一会儿说Vall矿难，一会儿又说港口发运正常。这都是供应端引发的一系列故事，至于故事真假，恐怕也只有当事人清楚。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">根据此前的文章：商品期货的逼仓研究。在这种情况下，最好的方式是去研究这个矛盾的可能性，去论证分析是否具有“天时地利人和”这三大要素。如果都有了，那事情的确定性就很大了，此时我们就可以为下一步计划做准备，也可以用更多的方式去跟踪论证。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">此时是一个价格动能的初始积累阶段。所以此时我们要做的是就是：<font cms-style="font-L">论证。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">（2）徘徊</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">故事就是随着市场热点及市场热度的高涨进入了第二个阶段，这个阶段开始传导到现货期货上。虽然在前一个阶段市场已经炒作过一段时间了，但这归根结底是没有落地的，要等到真正落地了，做现货市场才会心安，判断对自身的影响，继续之前的公司运作。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">当然，此时是一个市场的真空期，由于靴子暂未落地，所以价格以有较大的波动。但肯定有一部分人能够做到对实地考察调研，判断事情真伪，这一部分人，往往以行动灵活且较有实力的金融机构、大户为主，代表的更多的也是金融资本。所以我们很清楚，<font cms-style="font-L">总是有一部分人是能够提前知道市场动向的，也肯定有一部分资金已经先入为主，这是可以理解的，人家占据地利。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">前两个阶段，商品期货的期限结构是会有变化的。由于供应端的影响，现货价格和近月合约期货价格会大涨，且现货价格往往涨幅会比近月期货合约更大，近月期货合约价格又往往比远月期货合约涨幅更大。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">里面的原因很简单，近月合约代表着当下的市场情况、供需矛盾，供应端的缩紧也无疑刺激了当前的矛盾；而远月合约则代表了预期状况，也即代表着供需矛盾会在未来的一段时间内得到解决，从而回归正常的期限结构。所以<font cms-style="font-L">供需矛盾的出现，也就意味着商品的期限结构会从Contango转变为Backwardation．</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">但从人性层面来看商品的期限结构，无非就一句话：<font cms-style="font-L">交易员都是对当前的悲观和对未来的乐观；或者是对当下的乐观和对远月的悲观，两者正好相反。</font>这句话可以这么去理解。如果是Contango结构，当下是悲观的，代表了库存高/价格低/利润低；但是对于远月合约就是持有乐观的心态，代表了格高利润高。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">如果是Backwardation结构，当下是乐观的，代表了高价格/高利润；但是对于远月而言，就是悲观的，代表着当下的行情不可持续，高利润高价格终究会回归正常。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">天下只有两种人。譬如一串葡萄到手，<font cms-style="font-L">一种人挑最好的先吃，另一种人把最好的留在最后吃。</font>照例第一种人应该乐观，因为他每吃一颗都是吃剩的葡萄里最好的；第二种人应该悲观，因为他每吃一颗都是吃剩的葡萄里最坏的。不过，第二种人还有希望，第一种人只有回忆。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">Backwardation结构就属于第一种情况，而Contango结构就属于第二种情况。所以我们能发现，商品的大部分时间都是处于Contango结构，只有少部分时间才是Backwardation结构。产业之所以能大部分时间处于悲观行情，正是有希望的存在。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">说到底，<font cms-style="font-L">产业就是在这种两种矛盾之中循环往复。</font>而前面两个阶段，就是凸显了这两个矛盾的主线。所以在产业研究中，我个人喜欢用的一种方法就是：抓住当前产业的主要矛盾。了解当下的市场主线，抓住当下的主要矛盾。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">如果现阶段市场走宏观路线，那就主要研究层面；如果当下走微观产业路线，那就跟踪产业数据。就比如当前市场，大部分商品走的就是宏观路线，那么我们就主要研究宏观政策变动，我们都知道当前宏观市场主题之一就是大放水；如果某些商品的基本面非常好，供需矛盾突出，那就是在上面的基础上多了一道保护。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以我们能看到今年的电解铜涨得这么好，所以我们能看到今年的铁矿涨的这么好，所以我们能看到今年的油脂也一样涨的这么好；当然，我们也能看到美联储的一举一动和这些品种关系也是非常大的。究其原因就是宏观层面的大前提的支持下叠加了微观产业的供需矛盾。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以我们看得出来，在这个徘徊阶段，其实也是一个价格动能的酝酿期。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">此时我们要做的事情就是：明辨。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">（3）延续</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">接着上面说的。有了供需矛盾后，市场就会对此炒作一番，可能是温和的炒作也可以是激烈的炒作。但无论结局怎样，只要市场对这个供需矛盾认可，期限结构就会转变，这是产业自身的因素，也是趋势的逐步形成。第一波炒作结束之后，市场就容易出现第一次分歧，此时盘面上表现为震荡，成交量和持仓量也表现得没有规律。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">接着就是等待靴子落地了。靴子落地后有两种可能，一种是证实供应端出现问题，一种是证伪但无论如何，都会引起行情的大变化。如果是证实，那会刺激这价格会继续走高；如果是证伪，那一般来说，价格从哪里来就会回到哪里去，最终泡沫一场空。<font cms-style="font-L">当供应端问题被证实后，趋势将继续延续，也就意味着Backwardation结构会继续扩大，形成良好的多头局势，此时不宜做空，也没有必要去摸顶。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">那么什么时候可以去试空呢？我个人觉得至少得具备这么几个条件，一是价格已经出现震荡了，表明市场分歧在加大；二是Backwardation结构明显松动或者是边际缩窄；三是成交量与持仓量出现异常。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">这些都可能意味着具有短暂性的机会。但我一直坚持一个观点，Backwardation结构的品种，尤其是价格一路走高的时候，千万不要随意做空，因为该结构下的商品价格很喜欢动不动就大幅拉涨；Contango结构下的品种，尤其是价格屡创新低的时候，千万不要随意抄底，因为该结构下的商品价格非常喜欢动不动就急跌。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">这也是商品期货为什么这么难做的原因：很多人看着价格一路走低，然后去抄底，但是没想到的是价格低后还有更低；很多人看着商品价格一路走高想去做空，但事实是高点后还有更高。再者就是市场上有一句话很真实：<font cms-style="font-L">空头不死，多头不止。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">这也是不建议在Backwardation结构下无理由摸顶的原因之一。同时，此时多头炒作对时间点的把握度很高：该结构行情都是配合现货一波走完下一波的，至少持续炒作到供需矛盾爆发点时的主力合约进入交割月。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以此时是一个价格动能的释放。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">故而，我们需要做的更多的是：</font><font cms-style="font-L">顺势。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">（4）盘整&nbsp;</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">人类至始至终都存在两种心理作用。<font cms-style="font-L">一是利己，二是随着环境的改变而改变。</font>这两者在这期货市场运行到此时就非常突出了。我们前面分析，在上一个阶段的时候，现货商的做法都是卖现货买期货，因为这样既有盈利，又有现金流；所以大家都是产业上的多头。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">然而当价格慢慢走高，慢慢的就有一批又一批的人动摇；这是利己心里在起作用。有的现货商觉得当前价格已经处于利润的历史高位了，所以会采用大规模保值的方式去操作。所以随着价格的一路走高，价格往上走的动能会越来越小；因为人至始至终都不能做到顺势，这是人会随着环境的改变而改变的原因。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以盘面上又会回归到徘徊阶段，此时波动率加大，成交量和持仓量会比较混乱。我一般喜欢称之为<font cms-style="font-L">“市场真空期”</font>。当然，此时依旧是Super Backwardation结构；但此时，结构边际变化很小，或者是一会儿扩大一会儿缩小。也一样代表了当前的震荡徘徊行情。此时试空是可以的，但必须要带着止损去操作，否则一样很容易出问题；继续做多也是可以的，但也是要带着止损去操作，不然也一样容易爆仓。因为此时就是大家都不清楚趋势在哪，也不知道趋势会怎么走。如果继续有消息刺激，那上涨趋势就会延续，结构也会走好价格走高；如果没有消息刺激，或者已经出现大利空，那继续上涨就遥遥无望，甚至结构也会走差。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">故而此时也是一个价格动能的酝酿期。&nbsp;所以这个阶段，我们做的也是：<font cms-style="font-L">明辨。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">（5）结局</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">接着上面说的。随着Backwardation结构一路走好，市场趁机炒作一番，价格一路走高。此时价格走高也往往意味着库存的隐性化，这一点在我的另外一篇论述库存周期的文章中详细分析过（商品期货的库存周期研究）。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">后面价格随着进入高位，价格的高位代表着利润的高位，而高利润是不可长期持续的。但高价格能维持多久，这个无人知晓。但可以肯定的是，这种不正常的结构肯定是要回归的。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">因为价格到了绝对高位后，<font cms-style="font-L">一方面产业链上游的套保需求扩大；另一方面高价格引起利润向上游端倾斜，导致下游需求降低，从而引发新的产业矛盾。</font>所以上去是正常的，下去也是合理的；商品期货这就是产业之间的博弈，时而发生的大行情，就是产业上下游之间矛盾引发的超级大博弈，而中间的贸易商，就是大博弈之间的囚徒。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">也是因为如此，我们能看到很多有意思的现象。比如农产品，要发生大的自然灾害或者是周期性自然灾害，农产品定价权就在农场主手上，但灾害总会过去，随着种植技术的提高农产品单产肯定提高，过了这个点农产品的定价权从农场主手上失去了；</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">比如有色金属，一旦某一金属的供应端出现问题，或者是减产周期来临，那问题期初或者是周期期初商品价格的定价权在转移到上游，但是随着时间的推移，资本主义自由市场基本上是一个过剩市场和买方市场，所以度过了这个阶段，商品定价权又转移到了其他的地方。这是相对长周期的一个理解，但其实短周期也是一样的，矛盾的开始和矛盾的解决分别导致定价权向两边转移。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以在此时矛盾的末端，一般产业上各种各样的问题就随之而来。比如发运量大增、港口类库、消费不及预期、供应量大增等等，这都是在这个时间点非常容易暴露出来的问题。同时，此时也是一个库存显性的过程。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">随着基本面无法继续改良，价格的下行动能就会随之爆发，并随着结构的缩窄一路走低。以上情况成立，我们就能看到，此时的结构变化是Super Backwardation变成Normal Backwardation，然后又变成Flat Backwardation；如果结构最终又回到了Contango，那么，供应端矛盾的故事就告一段落了。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">现阶段又是一个新的价格动能释放期。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以此时我们需要做的重点是顺势。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">（6）产业故事的总结</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">产业故事很多，但万变不离其宗。平时炒作什么需求端不行，或者需求端大增，其实都是比较无趣的点。真正讲产业故事的，都是从供应端说起；但凡大行情的到来，也是从供应端矛盾说起。近些年期货市场的“明星品种”中，大体皆是如此。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">故事的开端可能是青萍之末，察觉之人不多。但随着价格的慢慢走高，市场关注度就会来临；接着就是来到了第一个阶段，研究员们开始爆料品种出现供应问题，预计持续多久，此时市场已经走了一小个阶段了，价格走高，结构方面也边际性改良。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">对于交易者而言，此时需要做的就是熟悉这个品种，对这个品种进行深度研究，如果供应端矛盾的确存在，那它就是后面市场的主要矛盾，矛盾得不到解决，那就是金融资本眼中的一个“有缝的鸡蛋”。所以，此时，我们需要做的事情就是：<font cms-style="font-L">论证。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">随着时间的推移，市场进入徘徊阶段。在徘徊阶段市场上会流传着大量的真假信息。价格也是大波动状态，此时结构也没有很明显的趋势，由于更多的是交易者们筹码的互换，大家也并没有聚集成一股市场主流；产业客户也依旧维持着现有的运营。但此时，也往往有一部分研究人员去论证事件的真实性，去判断矛盾是否真实存在。所以在这个徘徊阶段以及市场真空期，我们需要做的事情就是：<font cms-style="font-L">明辨。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">供应端矛盾的真实性与否肯定会被暴露。但肯定也有大量投机资本和先知资本早早入场，这一点我们不去考量。我们只做跟随，在确定市场主线的前提下，去跟踪趋势。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">上述中的结构指标也无法做到预测效果，同样只能去跟踪趋势。矛盾的暴露就肯定会引发新的行情，而行情的到来也会带着结构的边际变化。我们在此只分析供应端矛盾被证实的情况，矛盾别证实，往往意味着逼仓行情的到来，此时近月期货和现货价格飙涨，远月价格涨幅相对更小，形成Super Backwardation结构；</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">此时产业客户也一样在挺价，原因在于反常的Backwardation结构不适合做保值，但如果采用买期货卖现货的方式，既能保证库存供应，手上又多了一份现金流，而且也一样保证盈利，所以在这个阶段市场上的参与者都是在做多头。此时没啥好说的，我们要做的就是：<font cms-style="font-L">顺势。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">在前一波大势走完后，市场又会重新进入盘整阶段。此时的盘整和上述徘徊是不一样的。徘徊是代表着趋势暂未形成，或者说不知道趋势在哪，甚至不知道趋势存不存在。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">而此时是不一样的，趋势已经走完一部分，只是不知道能不能继续往上走了。所以此时就是，往上和往下走的概率都存在，如果有消息的刺激货金融资本的逼仓，那结构和价格就会继续往上走。所以此时产业客户就没有像上一个阶段那么挺价格了，一是结构的缩窄会慢慢诱导产业客户采取保值措施，也利于保值；二是在有利润的情况下，如果利润处于产业的高位，会有越来越多的人选择去锁定利润。因为对于他们而言，在进行综合核算后，超出自己认知的那一部分盈利，可能就不属于自己的了。所以此时，我们的需要做的又回到：<font cms-style="font-L">明辨。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">最后，即使是再完美的逼仓；即使是再困难的供应端矛盾，也终究会缓和和解决，逼仓终究会失败；供应端矛盾也终究会得到解决。期货市场只是利用了金融资本这个因素加速了这个解决的进程。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">因为人总是瞻前顾后，根据当前的形势去判断未来；当前过得很好，就会联想到未来可能会不好；当前过得很差，也就会想到未来会更美好。很巧的是，期货市场也是符合这个想法，所以绝大部分商品都是漫长的Contango结构，偶偶来点Backwardation刺激一下产业人士的神经，告知他们未来还有希望。所以后来的故事就很简单了，Backwardation结构慢慢缩窄，价格回落，供应端矛盾得到解决；结构继续回落，最终回到了Contango结构。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">期间可能持续半年，也可能就一两个月，也可能更久。但往往，规模越大的品种，持续的也就越久。所以此时，我们需要做的就回到了：<font cms-style="font-L">顺势。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">自此，供应端矛盾故事结束。</font></p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="5" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201110s/485/w1080h205/20201110/e42f-kcunqzc5969764.png" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="strong-Bold font-L align-Center">　　<font cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">全文总结</font></font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【1】实体现货的参与者大多都着眼点在于眼前，需要解决更多当下的问题。这既是实体产业的优势，也是实体产业弱点。实体现货的经营，找到自己的定位即可，按照既有的准则去经营和完善，赚取属于自己的那一份收益，这或许就是现货经营的秘诀。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【2】有人说期货投机就是研究各类品种，哪些品种已经出现缝了或者即将出现缝，进去，资金就是苍蝇。产业资本就像是静静的湖水，相对而言追求平稳收益；在大行情来临的时候风险会加大，但也有部分产业资本能够抓住大行情，从而实现更大的收益；而金融资本就像是某一天在湖中丢了一块大石头，使得平静的湖水瞬间波涛汹涌。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【3】在期货市场上，只有既有钱又有货的才有可能立于不败之地。很多时候，金融资本只占据了一条——有钱；而产业资本长期占据了另一条——有货。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【4】期货、金融资本就是趁你病要你命。现货、产业资本就相对纯粹，愿打愿挨、任劳任怨；苦心经营、苦口孤诣；甘心情愿、真情无悔。期货和现货的区别言而言之体现在：期货是：你越有货，我越不买，价格跌，越跌越不买；你越没货，我越要买，价格涨，越涨我越买；你货不多不少，我就观望，就等你有货没货。现货是：你有货，我想买；你愿意卖，我愿意买。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【5】产业故事的讲法很多，但基本上万变不离其宗。一个期货商品的设计，本身就包含了潜在的产业故事。放眼国内所有期货品种，每年都有众多所谓的“明星品种”，但明星品种背后阐述的故事，却是大同小异。这归根结底在于产业的故事就在于产业资本和投机资本的混合双打，两者相爱相杀；一见如故，唏嘘不已；斗嘴、争辩，不亦乐乎。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【6】供应端矛盾的故事——开篇：一旦供应端出现问题，也就意味着蛋出现裂缝了，也就意味着苍蝇可能就来了。此时是一个价格动能的初始积累阶段，此时我们要做的是就是：论证。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【7】供应端矛盾的故事——徘徊：在徘徊阶段市场上会流传着大量的真假信息。价格也是大波动状态，此时结构也没有很明显的趋势，由于更多的是交易者们筹码的互换，大家也并没有聚集成一股市场主流；产业客户也依旧维持着现有的运营。此时我们要做的事就是：明辨。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【8】供应端矛盾的故事——延续：供应端矛盾被证实，意味着市场进入新的阶段，新阶段的市场以激烈的逼仓或者是温和的逼仓为主。空头慢慢退场，市场上多头主导。此时金融资本和产业资本在一条船上。此时我们要做的就是：顺势。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【9】供应端矛盾的故事——盘整：随着价格的上涨，供应端矛盾会逐步解决。此时市场分歧加大，一方面产业资本由于高利润的吸引会选择锁定利润的方法，另一方面部分不坚定的多头会选择撤退，此时回到了囚徒困境阶段。在盘面上也表现为震荡和盘整。当然，此时做多做空都是可以的，但都是有风险的。此时我们需要做的就是：明辨。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【10】供应端矛盾的故事——结局：结局很简单，因为供应端的矛盾终究会得到解决，逼仓终究会失败。所以随着Backwardation结构慢慢缩窄，价格的慢慢回落；结构继续回落，价格继续走低，最终回到了Contango结构，矛盾得到解决。期间可能持续半年，也可能就一两个月，也可能更久。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【11】我一直坚持一个观点，Backwardation结构的品种，尤其是价格一路走高的时候，千万不要随意做空，因为该结构下的商品价格很喜欢动不动就大幅拉涨；Contango结构下的品种，尤其是价格屡创新低的时候，千万不要随意抄底，因为该结构下的商品价格非常喜欢动不动就急跌。这也是商品期货为什么这么难做的原因：很多人看着价格一路走低，然后去抄底，但是没想到的是价格低后还有更低；很多人看着商品价格一路走高想去做空，但事实是高点后还有更高。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【12】交易员都是对当前的悲观和对未来的乐观；或者是对当下的乐观和对未来的悲观，两者正好相反；对当前的悲观和对未来同样的悲观或者是对当前的乐观和对未来同样的乐观这两种情况几乎不存在。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【13】正如天下只有两种人。譬如一串葡萄到手，一种人挑最好的先吃，另一种人把最好的留在最后吃。照例第一种人应该乐观，因为他每吃一颗都是吃剩的葡萄里最好的；第二种人应该悲观，因为他每吃一颗都是吃剩的葡萄里最坏的。不过，第二种人还有希望，第一种人只有回忆。Backwardation结构就属于第一种情况，而Contango结构就属于第二种情况。所以我们能发现，商品的大部分时间都是处于Contango结构，只有少部分时间才是Backwardation结构。产业之所以能大部分时间处于悲观行情，正是有希望的存在。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">【14】全文总结如下图：</font></p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="6" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201110s/169/w1080h689/20201110/f2a5-kcunqzc5969822.png" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="font-L">　　<font cms-style="font-L">References：</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[1]戴晓凤；曹建军．商品期货价格的期限结构：理论与实证的回顾[J]．金融经济．2007</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[2]何志刚；刘迪．商品期货价格期限结构隐含交易策略信息的实证研究．[J]．证券市场导报．2012</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L"><font cms-style="font-L">[</font><font cms-style="font-L">3]周玮．中国有色金属期货市场的期限结构实证研究[D]．复旦大学．2015</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[4]张璞．逼仓对商品期货市场定价的影响研究[D]． 华中科技大学．2009</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[5]吕筱萍；程大涛．期市逼仓的预测方法[J]．数量经济技术经济研究．1999</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[6]何怡静．我国商品期货市场基差波动率研究[D]．中南大学．2005</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[7]张磊．结合运用现货贸易和期货交易的探索[J]．江苏科技信息．2011</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[8]伍海军． 多阶段展期套期保值基差研究[J]．工业技术经济．2006</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[9]刘惠明．中国商品期货套期保值策略及最优套期保值率研究[D]．天津财经大学1995</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[10]钱钟书． 围城[M]． 人民文学出版社． 2007</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[11]JerryMa．教你炒期货：基于概率思维与逻辑思维的交易系统[M]．电子工业出版社．2019</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">[12]杨照东；汪琛德；宋娜娜．商品期货与现货价格关系研究综述[J]．经济师．2008</font></p>
+<!--article_adlist[<p cms-style="font-L align-Center">新用户扫码关注，领取新人福利大礼包哟！</p>]article_adlist--><!--article_adlist[<p cms-style="font-L legend"></p><p cms-style="font-L"><font cms-style="font-L strong-Bold align-Center"></font></p><p cms-style="strong-Bold font-L align-Center"><font cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center">点击下方</font></font><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">阅读原文，</font></font></p><p cms-style="strong-Bold font-L align-Center"><font cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center">进入官网</font></font></p><p cms-style="strong-Bold align-Center font-L align-right"><font cms-style="strong-Bold align-Center font-L align-right"><font cms-style="align-Center font-L strong-Bold align-right"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center"></font></font></font></font></font></font></p>]article_adlist-->

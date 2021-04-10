@@ -1,0 +1,9 @@
+明年Apple TV将登陆更多Google TV设备
+新浪科技
+<p>　　据报道，苹果和谷歌宣布，Apple TV应用程序将登陆谷歌安卓电视平台Google TV。这款新应用将于明年年初首次出现在谷歌最新的Chromecast Google TV流媒体平台上，之后也会陆续进入其他安卓电视设备。</p>
+<p>　　随着Apple TV的引入，Android电视与苹果的TVOS软件可以支持所有主流流媒体应用，包括Netflix、Hulu、Disney Plus、Amazon Prime Video、HBO Max、Peacock和Apple TV Plus。</p>
+<p>　　Roku和亚马逊的Fire TV是目前最大的两个流媒体平台，虽然它们都支持上述服务中的大部分服务，但Roku仍然不支持HBO Max的官方应用程序，亚马逊也没有Peacock应用程序。</p>
+<p>　　有了Apple TV应用程序，拥有Google TV的Chromecast用户将能够观看Apple TV Plus，以及他们订阅的Apple TV频道和从iTunes商店购买的内容。目前，苹果已经推出了安卓电视版的Apple TV应用程序，但仅限于运行安卓电视软件的索尼电视。</p>
+<p>　　Apple TV应用程序将能够在4K HDR和Dolby Vision和Atmos上进行流媒体播放，用户还可以通过Google Assistant在语音搜索结果中看到Apple TV内容。目前还不清楚Google Assistant是否能够在应用程序内处理搜索和回放控制。谷歌的发言人表示：“更多的细节将在应用程序正式可用时公布。”</p>
+<p>　　对于其他类型的Android电视设备（例如Android手机或平板电脑）是否可以使用Apple TV应用程序，谷歌并没有进行详细说明。谷歌也没有说明用户是否可以通过Google Play注册Apple TV Plus。</p>
+<p>　　对于这两家公司来说，将业务合作扩展到安卓电视是一项关系修复的最新举措。最近，这两家科技巨头正在搁置分歧，希望将苹果音乐引入谷歌的Nest智能音箱和显示器系列设备中。</p>

@@ -1,0 +1,5 @@
+AirPods Max的低功耗模式如何运作？苹果的说明来了
+界面新闻
+<p class="ori_titlesource">　　原标题：AirPods Max的低功耗模式如何运作？苹果的说明来了</p>
+<p>　　据Engadget中国版12月20日消息，由于未在AirPods Max上加入开关，部分消费者对于这款耳机的低功耗模式如何运作尚不清楚。针对这一问题，苹果发布一份文档进行详细说明。文档显示，除了放入Smart Case会即刻触发AirPods Max的低功耗模式外，当耳机在保护套外面的时候，只要待机5分钟后低功耗模式便会自动开启。</p>
+<p>　　此外，当AirPods Max离开Smart Case 72小时以后，设备就将启动强省电模式。它会把蓝牙和寻找耳机的功能都关掉，以尽可能帮助AirPods Max节省电量。而当耳机被装入Smart Case的情况下，只要18个小时后AirPods Max就会进入强力省电模式了。</p>

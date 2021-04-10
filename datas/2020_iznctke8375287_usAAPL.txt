@@ -1,0 +1,8 @@
+国内运营商针对iPhone 12系列“信号门”测试：掉线时网络无异常
+IT之家
+<div class="img_wrapper"><img id="0" src="http://n.sinaimg.cn/tech/crawl/179/w550h429/20201225/f041-kftfpiw0811303.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　IT之家12月25日消息&nbsp;此前外媒报道，部分用户苹果iPhone 12/Pro LTE和5G网络信号出现意外掉线问题，而且用户在开车或旅行时遇到的最多，Verizon和AT&amp;T最多用户似乎遇到了问题，但也有T-Mobile用户在发声。</p>
+<p cms-style="font-L">　　国内不少iPhone 12系列用户也成为信号故障躺枪者。</p>
+<p cms-style="font-L">　　据IT时报报道，中国某运营商已经对iPhone 12“信号门”进行专项测试，<font cms-style="font-L">结果发现，iPhone 12掉线时，网络并无异常</font>。有专家认为是网络匹配性不好，通过软件升级或可解决问题。</p>
+<p cms-style="font-L">　　一些用户称，自己购买的iPhone 12 Pro Max“信号显示是满格，但就是无法连网，找不到是什么原因。”直至关机重启，手机才恢复正常。IT之家获悉，还有用户表示，iPhone 12 在 WiFi 和蜂窝数据之间切换时比较迟钝，有时会切换失败。</p>
+<p cms-style="font-L">　　有专家分析称，iPhone 12信号问题和用哪家厂商的基带没有关系，主要是网络匹配性不够好，尤其是在5G网络还没有完全建设好的情况下，解决的方法只能通过软件升级。</p>

@@ -1,0 +1,9 @@
+iPhone新专利：支持多账号登陆，还有这个功能
+中关村在线
+<blockquote>
+<p>　　网友都说新浪众测不讲武德，数码新品说发就发，新奇好物说送就送。不怕你没想法，就怕你不行动，加入<a href="http://zhongce.sina.com.cn/about/app" target="_blank" data-comos-dataid="">新浪众测</a>，和数码大V一起聊产品，谈体验！</p>
+</blockquote>
+<p cms-style="font-L isIntable ">　　据外媒消息，苹果近日提交了一份专利，表示其正在开发允许多个用户登录同一台 iPhone 的功能。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201224/176/w640h336/20201224/1dfe-kftfpiw0038324.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L isIntable ">　　目前iPhone仅仅支持登录一个用户账号，进行切换账号的操作非常繁琐，且需要验证。未来让家人互相使用手机，苹果未来能够在一个iOS设备上登录多个Apple ID。苹果还将带来一项名为 “隐藏在熟悉的密码或者Face ID背后的安全措施”。</p>
+<p cms-style="font-L isIntable ">　　在保护隐私的基础上做到设备共享，苹果的专利旨在推动云端应用普及和设备协同能力提升。</p>

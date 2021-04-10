@@ -1,0 +1,9 @@
+微软Edge浏览器现已原生支持苹果M1 Mac
+IT之家
+<p cms-style="font-L">　　微软更新了其 Edge 浏览器，现已原生支持 Apple Silicon 处理器，为搭载 M1 芯片的 Mac 优化了性能。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201217/637/w864h573/20201217/5866-kfnaptt5729084.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　该更新是通过 Edge 官方开发者 Twitter 账户宣布的，<font cms-style="font-L">用户可从微软 Edge Insiders 网站的一个子网站——微软 Edge Canary 频道下载新版本</font>，但微软没有说明用户可以从 Edge 浏览器的 M1 优化版中获得什么样的性能提升。</p>
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201217/238/w709h329/20201217/25f8-kfnaptt5729085.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　本周早些时候，苹果分享了一份针对 M1 Mac 优化的热门应用清单，这些应用在 Mac 应用商店中可以下载，比如 Pixelmator Pro、Adobe Lightroom、Affinity Designer、Darkroom、Fantastical、OmniFocus、BBEdit、Instapaper 和 Twitter。苹果称，<font cms-style="font-L">针对 M1 芯片优化的应用能提供“改变游戏规则的速度和功能”。</font></p>
+<div class="img_wrapper"><img id="2" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201217/409/w867h342/20201217/30d2-kfnaptt5729205.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　IT之家了解到，上个月苹果发布了首批采用 M1 芯片的 Mac，包括新款 13 英寸 MacBook Pro、MacBook Air 和 Mac mini。</p>

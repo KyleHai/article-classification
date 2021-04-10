@@ -1,0 +1,293 @@
+李奇霖：2020年5月经济笔记
+新浪财经
+<p style="text-align: left;">　　<font cms-style="align-Justify">文/意见领袖专栏作家&nbsp;李奇霖</font></p>
+<p style="text-align: left;">　　<strong>前言：</strong>金融市场与各类宏观信息瞬息万变，为了及时记录与未来跟踪查询，我们未来将对每个月所发布的宏观数据与重点的政策事件做笔记评述。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/25/w550h275/20200114/3e08-imztzhn9059713.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p style="text-align: left;">　　<strong>1</strong>&nbsp;</p>
+<p style="text-align: left;">　　<strong>2020年5月7日：贸易数据</strong>&nbsp;&nbsp;</p>
+<p style="text-align: left;">　　今天备受市场关注的是进出口数据，疫情从3月开始在海外大幅扩散，随即全球经济陷入低迷，市场普遍开始预期外需会对中国经济产生较大的冲击。</p>
+<p style="text-align: left;">　　3月的出口数据超预期可以解释为是中国抗疫阶段积压的外需订单在复工后集中交付，如果外需真会受疫情扩散影响，4月出口应该会明显下降，但实际结果4月出口竟然保持着8.2%（人民币计价）的速度增长，大幅超过了市场的预期！</p>
+<p style="text-align: left;">　　这是为什么呢？如果这个数据真能反映出被市场遗漏的基本面信息，比如外需其实没那么糟糕，那么在后续财政发力的配合下，经济基本面悲观预期将很快修正，压制市场风险偏好的主要因素不复存在。</p>
+<p style="text-align: left;">　　如果把出口数据拉长来看，会发现出口增速是一个波动率很高的数据，经常出现异常值，所以，我们最好找一些能够反映真实趋势数据，看看外需的趋势项是否真有发生变化。</p>
+<p style="text-align: left;">　　1、4月PMI新出口订单从3月46.4%大幅下降至33.5%，历史经验显示PMI出口订单领先出口一个月，如果说4月PMI新出口订单大幅下降，是否隐含着5月出口可能会明显下滑，如果5月出口明显下滑，那仍会验证市场对外需冲击的担忧；</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/126/w550h376/20200601/ddb2-iumkapv9930419.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　2、如果看全球PMI数据，会发现全球经济确实受新冠疫情重创，尤其是服务业，所以全球经济惨淡的下行压力还是有可能波及到未来的外需；</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/129/w550h379/20200601/615a-iumkapv9930514.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　3、从出口的类别来看，对出口支撑力度最大的是与防疫相关的物资出口，比如纺织出口49.36%、医疗器械出口50.29%，较上个月均明显提升，与疫情相关的出口是不是具备可持续性，这一点也值得怀疑。</p>
+<p style="text-align: left;">　　从疫情控制到消费需求真正恢复有很长的长尾特征（中国疫情在3月初就看见了拐点，但至今也未见消费需求明显恢复）这意味着对非防疫部门的出口仍会较长时间在底部徘徊，而防疫相关的出口却无法持续推升出口增长。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/118/w550h368/20200601/e94d-iumkapv9930613.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　4、这一次出口同比增长超预期还有基数原因。一般来讲，春节后一个月因为要交付春节前的订单，出口会高增长，2019年春节是2月，3月出口高增长，然后4月出口会降下来，因此今年同比读数会有一个较低的基数。</p>
+<p style="text-align: left;">　　因此，对未来出口形势还是不能掉以轻心，5月的出口数据将是一个重要的观察窗口。</p>
+<p style="text-align: left;">　　疫情导致居家隔离，居家隔离必然减少消费，与消费品相关的出口会受到非常大幅度地冲击。从出口产品类别来看，服装衣着、箱包、玩具等产品出口负增长的趋势加深。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/131/w550h381/20200601/c65d-iumkapv9930682.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　疫情到经济需求的传导有非常明显的长尾特征，由海外消费需求导致出口订单低迷的状况可能要持续相当长一段时间。</p>
+<p style="text-align: left;">　　4月出口最大的亮点是自动数据处理设备，大幅增长至56.8%，可能的原因是线上办公需求猛增带动了相关电子产品的出口。类似地，越南电子零件、电脑及备件出口同样大幅增长至32%。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/98/w550h348/20200601/b822-iumkapv9930733.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　再来看进口，进口同比负增10.2%，明显又低于预期。</p>
+<p style="text-align: left;">　　但如果把进口拖累怪罪于内需低迷，恐怕并不合适，一方面我们看铁矿砂进口出现了明显反弹（23.48%），第二是疫情冲击之后，国内工地出现了加快赶工的迹象，从mysteel统计的234家建材贸易商的日均建材成交数据来看，在4月份，建材成交达到了23.45万吨，是近四年来的新高。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/141/w550h391/20200601/da5e-iumkapv9930783.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　我们认为导致进口低迷的两个因素：</p>
+<p style="text-align: left;">　　1）价格影响，尤其是油价暴跌以及全球通缩压力导致进口产品价格出现了较大幅度地下行，比如原油进口数量下行7.5%，但进口金额却暴跌49.33%；</p>
+<p style="text-align: left;">　　2）疫情海外扩散导致全球不少国家停工停产，无法进口。</p>
+<p style="text-align: left;">　　总结一下，从4月的贸易数据来看，需要关注的几个重点：</p>
+<p style="text-align: left;">　　1）劳动密集型出口产品服装、鞋靴等还将承受较大的压力，这些劳动密集型产业将后周期传导至就业，需要关注外需收缩会不会把内需也给带下去了；</p>
+<p style="text-align: left;">　　2）疫情冲击对部分产品有结构性拉动，主要体现在医疗物资和自动数据处理设备，但问题是产品类别不具普适性，且短期高增长对未来有透支；</p>
+<p style="text-align: left;">　　3）全球经济还处于确定的收缩周期，仍大概率会拖累出口。</p>
+<p style="text-align: left;">　　<strong>2</strong>&nbsp;</p>
+<p style="text-align: left;">　　<strong>2020年5月8日：债市大跌</strong>&nbsp;&nbsp;</p>
+<p style="text-align: left;">　　债券市场近期出现快速下跌，10年国债和10年国开分别从4月29日的低点上行12、15BP，国债期货也连续暴跌，债市这是怎么了？</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/114/w550h364/20200601/34c8-iumkapv9930826.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　首先必须指出的是债券的牛市完全依赖于疫情对经济基本面的冲击，市场信疫情对经济基本面伤害大，对后续货币宽松有信仰，这么低的收益率才能维持，年初到现在60-70个BP下行的行情是有的。相反，如果疫情对经济基本面的伤害不那么大，市场预期有修正，这么低的收益率是维持不了的。</p>
+<p style="text-align: left;">　　如果看股市行情，纳指已经接近收复失地，A股也连续反弹，可以验证的是，市场的风险偏好已经起来了，至少在权益市场这一端，已经在反映市场风险偏好恢复了。换句话说，在股票参与者眼里，疫情对经济的冲击，最惨的阶段已经过去了，不用继续大惊小怪了。</p>
+<p style="text-align: left;">　　如果按这个逻辑，这么低的收益率的水平是无法维持的。我们调研得知，不少公募基金都在猛推固收+的产品，为啥要做固收+，无非是客户对纯债这么低的收益率不满意呗。</p>
+<p style="text-align: left;">　　因此，收益率绝对低位+市场风险偏好缓慢修复（股票是慢慢涨上来的），本身就在给市场不断积累调整压力。</p>
+<p style="text-align: left;">　　而且从高频数据来看，经济也在缓慢爬坡恢复的，耗煤量同比转正，螺纹库存持续去化，房地产汽车销量明显好转，出口数据似乎也没那么糟糕，lh召开临近，财政积极的力度有多强也让市场有些担忧，这些都在消耗债券多头对经济增长动能不足的预期。</p>
+<p style="text-align: left;">　　看到经济缓慢恢复，央行的货币政策也开始谨慎些了。</p>
+<p style="text-align: left;">　　4月3日央行宣布调降IOER后，隔夜利率下降了一些，但一直没有下降到0.35%的水平，而且从4月中上旬开始，资金利率就不再下行了，利率互换也在4月8日后一直低位徘徊，下行趋势减缓来看。</p>
+<p style="text-align: left;">　　从央行的角度，一方面需要观察经济恢复的程度，反正至少目前经济是缓慢恢复的，另一方面也得关注过于宽松的资金面或资金面宽松预期是否会导致机构过快加杠杆呢？从数据看，隔夜回购成交量3月4月都不低。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/2/w1h1/20191206/0bd1-ikhvemy6856953.png" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　近期债券供给压力加大，应该是一个引爆点了。</p>
+<p style="text-align: left;">　　本周公告的下周关键期限国债供给继续加量，2年期650亿，5年期690亿，地方债发行量达到1714亿（上周还不到400亿），供给层面给了市场不小冲击。</p>
+<p style="text-align: left;">　　从全年来看，地方债供给前置，加上政金债与国债扩容，1-4月份利率债净融资达到了2.3万亿，要比过去三年同期均值多了近1万亿。更重要的是，10年及以上的期限比例超过了90%，要比过往年份更高大约40%。</p>
+<p style="text-align: left;">　　这无疑严重地抽离了大行和保险机构的配置资金，削弱了传统配置盘的力量。既然传统配置力量被供给端稀释了，很自然地，市场的参与主体就让渡给广义基金了，而广义基金偏高的负债成本不可能是配置盘，只能是交易盘。</p>
+<p style="text-align: left;">　　怎么能指望一个报价4%的理财产品对票息不到3%的品种最配置呢？只能通过交易增厚资本利得，来弥补票息的差距。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/28/w550h278/20200601/ae92-iumkapv9930892.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　一个没有配置盘而只有交易盘的市场天然是具有高波动特征的。下跌的过程当中不仅没有配置盘的缓冲垫还搞不好有更多的机构因为下跌而不得不止损进一步强化下跌。这也是市场调整会如此剧烈的一个重要原因。</p>
+<p style="text-align: left;">　　此外，还需要考虑经济恢复对市场流动性的冲击。</p>
+<p style="text-align: left;">　　在防疫阶段，我们能看到央行通过再贷款、再贴现、定向降准、降准以及调低LPR报价等多项措施支持实体经济，为的是引导金融机构加大对企业部门的信用支持。</p>
+<p style="text-align: left;">　　在疫情扩散之际，经济活动是停滞的。扩大对企业部门的流动性支持无非是要稳住企业的资产负债表，防止他因为还不起贷款、交不起房租、发不起工资而出现信用风险。又由于企业在疫情期间不怎么生产，这些流动性多数都会成为人员工资进行发放。</p>
+<p style="text-align: left;">　　1）这体现在M2的增速远高于M1，M2抬高至10%以上的增速，M1仅为5%，没有脱离近年来4.5-5.5%的运行中枢；</p>
+<p style="text-align: left;">　　2）一季度新增人民币存款新增8万亿，而居民部门的新增人民币存款就高达6.47万亿。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/133/w550h383/20200601/a204-iumkapv9930945.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　因此，金融对实体的支持多数都会以居民存款的形式发放到居民部门的手中。但由于疫情阶段，消费活动也是冻结的，这就有可能导致居民部门存款会以理财产品的形式沉淀在金融市场，尤其是债券市场。</p>
+<p style="text-align: left;">　　一旦消费、生产活动开始恢复，流动性就会从金融产品析出，尤其是股票缓慢上涨，必然加剧了对固收类产品的资金抽离，进而对债券市场产生了流动性冲击。</p>
+<p style="text-align: left;">　　而金融机构能做的，也只能通过加大固收产品的吸引力来留住资金，比如前面说的“固收+”策略。</p>
+<p style="text-align: left;">　　<strong>3</strong>&nbsp;</p>
+<p style="text-align: left;">　　<strong>2020年5月10日：央行一季度货币政策执行报告</strong>&nbsp;</p>
+<p style="text-align: left;">　　几个关注点：</p>
+<p style="text-align: left;">　　1、全球经济不确定性：缺乏强有力的国际协调，疫情蔓延阶段贸然复工复产或导致疫情在全球出现多次反复，可能引发经济社会运行的多次“暂停”，对我国的影响一个是外需反复，第二个是全球货币宽松跨境资本流动的问题。</p>
+<p style="text-align: left;">　　2、货币政策提到要加强逆周期调节，有两点需要关注：一是对后续工作重点做了排序，在六个稳和六个保后面还加上要处理：稳增长、保就业、调结构、防风险、控通胀的关系，稳增长和保就业很明显放在了更前面，可见央行更加关注增长与就业；二是首次提到“保持 M2 和社会融资规模增速与名义 GDP 增速基本匹配并略高”，而之前都是强调与名义GDP持平的。</p>
+<p style="text-align: left;">　　3、房地产方面继续强调房住不炒的定位，提出“不将房地产作为短期刺激经济的手段”要求，保持房地产金融政策的连续性、一致性、稳定性，这可能是为了稳住公众对房价上涨的预期，也是对小微企业住房抵押贷款炒房的回应，住房金融政策的一致性和稳定性也意味着后续房地产融资端的限制措施仍会延续。</p>
+<p style="text-align: left;">　　4、降存款基准可能比较难看到了。尽管提到了降息，配合政治局会议的思路，但大概率应该是继续引导LPR利率下行。关于存款利率，只提到了“发挥好市场利率定价自律机制作用，规范存款利率定价行为”，这意味着解决存款问题需要银行自己降低高息揽储的动力了，银行要主动引导存款利率下调稳住息差。</p>
+<p style="text-align: left;">　　不过银行拉存款似乎是为了解决监管指标问题的，这意味着对存款的需求还是刚性的，从结构性存款居高不下就可略知一二，可见银行负债成本压力还是偏大的，而光靠监管强压结构性存款效果似乎不尽如人意。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/118/w550h368/20200601/4e44-iumkapv9930992.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　<strong>4</strong>&nbsp;</p>
+<p style="text-align: left;">　　<strong>2020年5月11日：4月金融数据</strong>&nbsp;&nbsp;</p>
+<p style="text-align: left;">　　2020年4月社会融资规模增量为3.09万亿元，人民币贷款增加了1.7万亿元，均大超预期。</p>
+<p style="text-align: left;">　　如果看社融同比（老口径，扣除政府债券后）已经高达11.4%，而且前几个月的社融同比增速已经在不断抬升的趋势里，可以说，一轮信用扩张周期已经开启。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/2/w1h1/20191206/0bd1-ikhvemy6856953.png" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　看社融分项，会发现主要是贷款和债券贡献，表外环比贡献减弱了，但去年同期基数低，所以看同比贡献，表外也有些支撑。</p>
+<p style="text-align: left;">　　先来看贷款。</p>
+<p style="text-align: left;">　　新增贷款1.7万亿，拆开来看，企业中长期5500亿，大概占了三分之一；居民新增更高，有6500亿；剩下的是票据，新增3900亿，显著高于历史同期和3月增量。</p>
+<p style="text-align: left;">　　企业中长期之所以高增长，大概率是基建投资推动的，在疫情控制住后，政府开始干活，把稳增长看得更重一些。所以企业中长期贷款高增长可以解释为政府的政策目标已经开始转标，从防疫到稳增长，这也从4月与基建相关的大宗商品库存不断去化，价格表现相对强势，宏观总需求不弱可以看出来。</p>
+<p style="text-align: left;">　　央行已经将对制造业中长期企业纳入MPA考核，但这个很难产生立竿见影的效果，主要还是制造业投资需求不足，一方面是疫情海外扩散使得全球经济不确定性大增，另一方面制造业投资向上的周期源于设备更新的需求，整体需求低迷的背景下，增量产能扩张的诉求有限，制造业的有效融资需求不强制约了金融机构对其加大信贷投放的空间。</p>
+<p style="text-align: left;">　　企业短期贷款出现了负增62个亿，较前三个月出现了明显下滑，国内疫情已经得到了控制，正常的经济活动重启了，除了部分出口和影视文娱行业外，应对流动性周转的融资需求有限。</p>
+<p style="text-align: left;">　　企业复工重启后，和上下游正常的商业往来开始恢复，再加上应对前期积压的订单，现在开始赶工，所以带动了票据融资大幅反弹至3900亿。</p>
+<p style="text-align: left;">　　这么高的增量也不排除里面有部分套利的动机。比如由于票据贴现利率处于非常低的位置，理财收益和结构性存款的收益又比较高，且基本无风险，我们不能排除会有企业会去做金融套利，获取其中的利差。</p>
+<p style="text-align: left;">　　居民部门短期信贷新增2200亿，中长期信贷新增4300亿，已经基本恢复过去的平均水平。</p>
+<p style="text-align: left;">　　在2200亿居民短期贷款中，我们认为有一部分是受汽车消费驱动，4月份乘用车的销量就明显高于3月，也可能是因为疫情控制后正常的消费活动恢复带动了信用卡消费回升。</p>
+<p style="text-align: left;">　　4月居民存款减少7996亿元，而新增企业存款1.1万亿，这反映出居民消费行为开始恢复，流动性终于从居民部门向企业部门回流，当然，这个对债券市场来说并非福音，因为钱有可能从理财产品开始析出了。</p>
+<p style="text-align: left;">　　从居民的中长期贷款可以看出居民购房行为基本已经恢复，这与30城市房地产销售数据是一致的，部分房企采取了互联网销售策略并加大销售折扣，也可能与小微企业住房抵押贷款高增，并挪出信贷资金进入到了楼市有一定关系。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/2/w1h1/20191206/0bd1-ikhvemy6856953.png" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　债券融资超过9000亿，其中城投和国企是主要的融资对象。</p>
+<p style="text-align: left;">　　债券融资已经连续两个月的规模超过9000亿，这是近几年来的比较罕见的现象。</p>
+<p style="text-align: left;">　　这既反映了央行维持资金面宽松引导机构加大了对信用债的配置需求，也反映了居民理财化的趋势。</p>
+<p style="text-align: left;">　　在非常低的资金利率环境下，投资者也普遍采取加杠杆的策略，为信用债带来了更高的需求。3、4月质押式回购的成交量不断创下历史新高。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/121/w550h371/20200601/dee3-iumkapv9931038.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　当前理财、券商集合等金融产品收益率相对信用债收益率而言报价偏高，本身就存在较强的信用债配置需求。</p>
+<p style="text-align: left;">　　同时，也不排除在更低的融资利率吸引下，企业减少了贷款融资，而更多转向债券融资。</p>
+<p style="text-align: left;">　　从发行人的角度看，这一波债券融资放量的主力仍然是国企和城投，民企新增信用债融资的比重仅为6.3%。</p>
+<p style="text-align: left;">　　这既是金融机构因民企违约率较高采取的避险行为，减少对民企信用债的配置，也是民企自身在新冠疫情全球扩散的情景下，由于外需低迷，实体总需求没有恢复，担心未来前景的不确定性，债务扩张动力偏弱所致。</p>
+<p style="text-align: left;">　　最后来看看表外。</p>
+<p style="text-align: left;">　　表外三项的环比恶化，但如果仔细看分项，就会发现信托贷款+委托贷款增量实际有改善，这说明表外信用实际上是在扩张的。</p>
+<p style="text-align: left;">　　与3月的2800亿相比，4月表外票据新增仅577亿，是造成表外三项融资规模环比恶化的主要原因。</p>
+<p style="text-align: left;">　　委托贷款仍受委贷新规的限制，继续维持负增长，4月新增量为-580亿。资管产品不能当委托贷款人，这一块相当长的时间估计都没戏了。</p>
+<p style="text-align: left;">　　信托贷款本月小幅转正，新增23亿。从用益信托公布的集合资金信托的投向来看，基础产业、房地产是主要的贡献项。</p>
+<p style="text-align: left;">　　不过房地产受监管的影响较大，要看后续土地购置环节能否放松监管，可以的话房企信托还有戏，但今年的业务增长点无疑是要靠政信信托的。</p>
+<p style="text-align: left;">　　从大趋势看，信托贷款整体可能不容乐观。一方面，监管机构对多家信托公司进行了窗口指导，要求压缩具有影子银行特征的融资类信托业务，并制定压缩计划。</p>
+<p style="text-align: left;">　　另一方面，监管发布了对资金信托的监管条例，限制资金信托计划投向非标的比例，以及融资的集中度限制，可能会对不少信托公司的融资类业务的开展形成桎梏，对未来信托贷款的增量形成负面影响。</p>
+<p style="text-align: left;">　　总结来看：</p>
+<p style="text-align: left;">　　1、本次金融数据反映了信用周期再扩张的趋势，主要由政府基建和居民购房行为恢复驱动；</p>
+<p style="text-align: left;">　　2、也正是基建恢复和工地赶工期带动了实体经济总需求，与地产基建相关的大宗商品价格表现不弱，库存也在逐步去化；</p>
+<p style="text-align: left;">　　3、宽货币带动了信用债的配置需求，近期债券市场出现了调整，短期对信用债发行或有扰动，但货币宽松在趋势上还没有终结，预计信用债发行仍将维持较高规模的增长；</p>
+<p style="text-align: left;">　　4、表外融资在缓慢恢复，政信合作是信托业务未来的主要增量。</p>
+<p style="text-align: left;">　　<strong>5</strong>&nbsp;</p>
+<p style="text-align: left;">　　<strong>2020年5月12日：4月CPI</strong>&nbsp;</p>
+<p style="text-align: left;">　　4月CPI同比3.3%，较前值4.3%明显回落，也比市场预期的3.7%要低。</p>
+<p style="text-align: left;">　　看核心CPI（不包括食品和能源），已经跌落至1.1%了，除了今年2月以外，已是历史的新低，可见，通缩压力已经非常大了。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/119/w550h369/20200601/3a09-iumkapv9931090.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　CPI还能维持3.3%，主要靠的是猪肉，拉动CPI同比上涨2.36个百分点，贡献率达71.5%，但这已是老黄历了，纯粹就是基数原因。</p>
+<p style="text-align: left;">　　随着三四季度基数走高，同比读数会进一步往下走，不排除今年年底前能看到CPI负增长的可能性。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/143/w550h393/20200601/7914-iumkapv9931157.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　猪肉价格从3月以来就一直在跌，4月CPI猪肉项环比下跌了7.6%：一方面是生猪产能在陆续恢复，高利润驱动下，机构养殖在入场；更关键是，需求也确实不行，疫情冲击下，都不能在一起大范围聚餐了。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/2/w1h1/20191206/0bd1-ikhvemy6856953.png" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　鲜菜鲜果项已经没有什么好担心的了。交通物流打通后，加上天气转暖，鲜菜大量上市，鲜菜项环比在3月下跌12.2%的基础上，4月继续下跌8.0%；鲜果去年二季度有过一轮暴涨，基数较高，CPI鲜果项同比跌幅，从3月的6.1%扩大至10.5%。</p>
+<p style="text-align: left;">　　非食品项里，交通和通信项的同比从-3.8%下滑至-4.9%，其中交通工具用燃料项同比从-14.6%大跌到-20.5%，应该是原油价格下跌所致。</p>
+<p style="text-align: left;">　　其它用品和服务同比4.8%，是除食品烟酒项外的七大项中同比涨幅最大的，该项从2018年年中开始就一直在上涨，结构性原因可能因劳动力供给收紧有关，疫情加剧了劳动力供给紧缺，3月该项一度上涨5.3%。4月该项同比回落，环比负增，虽然因基数原因仍维持高位，但也反映出疫情控制后，劳动力供应的约束在缓解。</p>
+<p style="text-align: left;">　　不过从趋势上看，除非总需求出现更快的收缩，否则在劳动力供应趋势性收缩的大背景下，该项上涨的压力仍存。</p>
+<p style="text-align: left;">　　看PPI会发现工业品通缩压力是更大的，4月PPI环比-1.3%，同比-3.1%，两者的跌幅都在扩大。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/115/w550h365/20200601/8826-iumkapv9931219.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　这里面有油价下跌的因素，比如采掘环比跌幅高达7.2%，原材料环比也继续下跌了3.3%。但更重要的是，PPI下跌也反映了总需求不足的矛盾，加工工业环比也下降了0.7%，这还是在建筑工地赶工的情景下发生的：</p>
+<p style="text-align: left;">　　一方面，相比于需求，生产端恢复得更快（因为积压了一些订单），截至4月25日全国大中型企业复工率为98.5%，但高达57.7%的企业都反映订单不足。</p>
+<p style="text-align: left;">　　其次，赶工需求是否具备可持续性，如果后续没有基建投资加码，赶工需求是昙花一现的。</p>
+<p style="text-align: left;">　　最后，出口对总需求的传导还没有结束，疫情冲击下全球经济低迷，疫情对总需求的传导有长尾效应，也不排除在疫情扩散阶段贸然复工导致全球经济再度停摆。4月韩国出口-24%，5月前10日韩国出口同比增速，从前值-18.9%大跌到-46.3%。</p>
+<p style="text-align: left;">　　总之，当前总需求不足是经济运行的核心矛盾，但纠结的是房价现在有一定上涨压力，这又制约了总量刺激政策的空间，如果总需求的刺激政策相对克制，通缩的趋势是比较确定的。</p>
+<p style="text-align: left;">　　<strong>6</strong>&nbsp;</p>
+<p style="text-align: left;">　　<strong>2020年5月15日：4月经济增长数据</strong>&nbsp;&nbsp;</p>
+<p style="text-align: left;">　　4月工业增加值3.9%，终于转正了，三个大类别里制造业增加值反弹幅度最大，同比从-1.8%增至5.0%，制造业增加值的增速已经比去年个别月份高了，去年4月也是5%的增长，恢复得可以说相当不错。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/139/w550h389/20200601/4b36-iumkapv9931255.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　制造业类别里，高技术产业同比一直处于加速的状态，高技术产业同比走势与计算机、通信和其他电子设备制造业的同比走势几乎是完全一致的。因此，高技术产业的高增长可能是受益于疫情，疫情冲击下线上办公的需求激增，进而带动了计算机、通信和其他电子设备制造业的增加值。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/117/w550h367/20200601/7728-iumkapv9931293.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　分行业来看，和3月份相比，4月工业增加值改善最明显的行业当属汽车了，从3月的-22.4%大幅回升到5.8%，这可能与疫情后汽车消费需求集中释放有关（乘联社的汽车消费数据也大幅反弹了）。疫情也让消费者意识到了，关键时候有车和没车差别还是挺大的。</p>
+<p style="text-align: left;">　　另外就是疫情结束后，制约汽车生产的零部件、人员、物流环节开始打通了，比如汽车零部件重镇武汉开始复工了。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/2/w1h1/20191206/0bd1-ikhvemy6856953.png" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　不过汽车集中消费释放后的持续性还有待观察，5月第一周汽车轮胎半钢胎开工率从前值52.6%大跌到28.3%，一些轮胎厂开始停工，后续汽车制造业增加值同比有较大概率回落。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/157/w550h407/20200601/a98e-iumkapv9931345.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　其他几项的生产反弹要么受益于国内工地赶工期和基建（有色、黑色、非金属、金属、运输），要么受益于海外疫情扩散导致的防疫品出口需求（纺织、橡胶塑料），要么受益于复工和海外疫情扩散下对部分零部件进口替代需求（通用、专业和电气机械）。</p>
+<p style="text-align: left;">　　但可以确定的是，除非是后续实体总需求能持续回升，否则上述几个生产反弹的逻辑都没什么持续性。</p>
+<p style="text-align: left;">　　我们再来看需求。</p>
+<p style="text-align: left;">　　固定资产投资回升最明显的是应该是房地产和基建了，制造业投资也有回升，不过仍然是主要的拖累项。</p>
+<p style="text-align: left;">　　房地产应该是赶工期需求最强的。房地产去年是一轮明显的施工周期，而今年开发商有交房压力，是一轮明显的竣工周期。在疫情冲击和交房压力的双重冲击之下，开发商必须得加快工期，确保房子交付。</p>
+<p style="text-align: left;">　　从数据来看，房屋新开工面积单月同比增速从-10.5%回升到-1.3%，地产投资也继续修复，累计增速从-7.7%回升到-3.3%，而单月增速从1.1%回升到7.0%，成为了支撑固投的核心因素。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/116/w550h366/20200601/93b0-iumkapv9931417.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　1-4月，商品房销售面积增速从-26.3%提高到-19.3%，销售金额增速从-24.7%提高到-18.6%，当月值分别反弹至-2.14%、-4.99%，已与往年水平接近，这一点也能获得高频数据验证，30城市房地产销售套数和面积与过去三年的均值水平接近。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/128/w550h378/20200601/3cf4-iumkapv9931471.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　房地产销售之所以恢复，有几个原因：1）小微企业想获取廉价的信贷成本，得拿房子押；2）部分房企流动性压力采取了降价和互联网销售的措施；3）有经济刺激预期也就有看涨房产的预期。</p>
+<p style="text-align: left;">　　从这几点看，放松房地产政策没太有必要。房地产销售数据显现的是全社会对房地产看涨的热情没有消退，银行愿意让小微企业用房产抵押本身也是对房子未来看好，觉得房子够“硬”。开发商赶工期，土地购置面积单月同比从-12.2%大幅反弹到13.8%，这创下2019年3月以来的新高，这也反映出房企流动性压力并不大。</p>
+<p style="text-align: left;">　　前4个月制造业投资累计同比-18.8%，前值-25.2%，单月增速从-20.6%提高到-6.7%。可见，制造业投资还是有很明显改善的，但是这一改善可能缺乏持续性。</p>
+<p style="text-align: left;">　　制造业投资分项里表现好的与工业增加值类似，都与防疫相关，比如计算机、通信和其他电子设备制造业的投资增速为1.1%，医药制造业累计增速为-2.7%，不仅绝对增速较高，而且均较3月明显改善，前者受益于线上办公替代的需求，后者因口罩、呼吸机等医疗物资需求猛增有关。</p>
+<p style="text-align: left;">　　疫情已经开始在全球扩散了，企业对未来需求预期不乐观，这个时候制造业企业都是比较谨慎的。更别谈疫情冲击后，企业积累了一大批库存没走完，需求短期反弹企业的第一要务肯定是去库存，回笼现金，还顾不上投资。因此，在需求没有明显转好，库存没有明显去化，预期没有发生积极改变之前，制造业低迷的趋势可能还将延续。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/131/w550h381/20200601/d1ac-iumkapv9931536.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　比如，我们发现汽车工业增加值和销量4月都有明显好转，但汽车制造业投资仅为-22.9%，仍处于深度负增长的状态。可见，汽车制造商对未来的需求还是偏谨慎的，即使需求变好，生产加码了，汽车制造商也不敢随意扩大资本开支。</p>
+<p style="text-align: left;">　　房地产即将步入竣工周期，制造业投资一时半会起不来，而且制造业投资起不起来是要看需求的，在外需低迷的背景下，能指望的也只剩下基建了。</p>
+<p style="text-align: left;">　　从4月数据看，全口径基建投资累计增速从-16.4%回升到-8.8%，单月增速从-8.0%提高到4.8%，可见，基建是有明显恢复的。毕竟政府工作重心在逐步转移，防疫结束后，自然要抓基建，专项债也明显加码，lh后确定了赤字率、特别国债和专项债额度后，积极财政肯定还要继续落地，基建投资还有回升的空间。现在唯一的疑问是基建投资的剂量能否对冲后续总需求不足的问题。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/119/w550h369/20200601/5453-iumkapv9930423.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　最后来看下消费。</p>
+<p style="text-align: left;">　　消费数据实际值回升得比名义值好，这说明物价已经开始出现下行的压力。从数据看，社会消费品零售总额名义增速从-15.8%回升到-7.5%，实际增速从-18.1%回升至-9.1%。商品零售价格指数同比从2.8%下滑到1.7%，这是2019年3月以来的最低水平，物价风险正快速从通胀转为通缩。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/125/w550h375/20200601/16aa-iumkapv9930535.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　必选消费仍然好于可选消费。4月粮油和食品类同比增长18.2%，饮料类同比增长12.9%，增速在所有行业中位居前两位。</p>
+<p style="text-align: left;">　　耐用品里面通讯器材类同比从6.5%上升至12.2%，有基数原因，也与线上办公常态化有关；汽车同比从-18.1%大幅回升到0%，主要因为积压的需求集中释放。</p>
+<p style="text-align: left;">　　值得关注的是4月服装鞋帽、针纺织品类同比-18.5%，该项的出口也是大幅负增长，这反映疫情对消费的冲击还未终结，更重要的是该数据反映了在海外疫情扩散阶段，这部分劳动密集型出口转内销难度较大。</p>
+<p style="text-align: left;">　　后续消费需求有集中释放的可能性吗？</p>
+<p style="text-align: left;">　　目前看，难度较大：1）外需低迷，出口产业链对就业的滞后影响会逐步显现；2）假期窗口少了，春节没有第二回，暑假也要泡汤；3）居民杠杆率不低，没有了收入，就没有钱消费，政府的救助措施最多也只能刺激下必选消费（米面粮油醋一类的）。</p>
+<p style="text-align: left;">　　总体来看，尽管复工恢复良好，赶工需求集中释放了一波，而且正好赶上了基建复苏，导致4月数据恢复得还不错，但后续仍要关注总需求不及预期的可能性（出口低迷、消费滞后传导、制造业投资低迷、房地产竣工周期、基建独木难支）。</p>
+<p style="text-align: left;">　　<strong>7</strong>&nbsp;</p>
+<p style="text-align: left;">　　<strong>2020年5月15日：MLF利率没有调整</strong>&nbsp;&nbsp;</p>
+<p style="text-align: left;">　　14日到期的2000亿MLF，没有续作，15号续作，但也只是续作1000亿，最关键的是MLF利率没有调。</p>
+<p style="text-align: left;">　　为什么只续作1000亿，这个到好理解，，因为15号降准资金落地了，资金面也宽松，实在没有必要在MLF上放大钱。</p>
+<p style="text-align: left;">　　从银行的视角来看，因为流动性充裕，同业负债利率已经处于非常低的位置，国股行1年期同业存单的发行利率早已处于2%以下，而MLF现在竟然要2.95%，银行肯定也不想要这笔钱。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/128/w550h378/20200601/3cfc-iumkapv9930630.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　既然银行不愿意要这笔钱是因为MLF贵，MLF利率为什么不做出调整呢？</p>
+<p style="text-align: left;">　　这里可能反映出未来货币政策的重要性可能要让位于财政政策。</p>
+<p style="text-align: left;">　　原因很简单，在疫情扩散阶段，实体活动被彻底冻结，这个时候第一要务是防范企业部门的资产负债表危机！没有经营性现金流了，需要筹资性现金流，让企业稳住，不去大规模裁员，不形成大规模坏账，这个时候最好的办法是货币宽松。</p>
+<p style="text-align: left;">　　而且财政积极在疫情扩散阶段没什么作用，因为当时各级政府的KPI是防疫，而不是拉动基建，财政政策也是通过降低企业税负，化解资产负债表风险服务的，不是拉动增量经济。</p>
+<p style="text-align: left;">　　到了现在，疫情已经得到很好的控制，经济的主要矛盾是需要不足的问题，这个时候财政积极就非常有用了。货币政策要开始让位于财政，主要起的是财政政策辅助支持的作用。</p>
+<p style="text-align: left;">　　在防疫阶段，防范企业的资产负债表风险是最重要的。这个时候当然需要货币宽松，对于货币宽松后的代价，金融杠杆上升，套利活动频繁，央行可能也是容忍的。从数据看，最近两个月以来，金融市场加杠杆现象越来越普遍，银行间质押式回购的隔夜成交量已经达到了90万亿的历史新高。</p>
+<p style="text-align: left;">　　但是，到了稳增长阶段，央行可能更看重的是宽货币对宽信用的传导。因此，对于资金面宽松太强的预期，引发套利行为，央行的容忍度开始不那么强。因此，央行可能也有意通过制造资金面预期的波动，降低金融加杠杆的规模和程度。实际上，从4月中旬，我们就注意到央行不再引导资金利率往下走了，可见，纯粹的宽货币行为已经告一段落。</p>
+<p style="text-align: left;">　　<strong>8</strong>&nbsp;</p>
+<p style="text-align: left;">　　<strong>2020年5月18日：财政数据、财政货币化争论与社会主义市场经济体制</strong>&nbsp;&nbsp;</p>
+<p style="text-align: left;">　　今天债券又大跌了，股票表现不错，螺纹等黑色大宗也在上涨，市场风险偏好很强。</p>
+<p style="text-align: left;">　　如果看高炉开工数据，今年已经是近几年来的新高，供给端如此充裕的时候，价格还能维持强势，这只能说明一点，经济的需求不赖。</p>
+<p style="text-align: left;">　　一方面，这与基建加码对冲疫情冲击有关；更重要的是，他反映了房地产的赶工期的需求。不管是什么原因，都说明实体总需求的强劲是无法被证伪的。</p>
+<p style="text-align: left;">　　货币政策是走一步看一步的，是根据实体经济的运行状况做出相应反映的。疫情对经济影响最大的时候是2月-3月中上旬，既然在经济最悲观的时候货币政策没有给出极端措辞，在经济内生动力逐步修复采取极端措施，似乎不符合逻辑。</p>
+<p style="text-align: left;">　　如果疫情还在扩散阶段，采取些极端措施也是无可厚非的，毕竟在实体骤停的时候，需要政府来创造现金流，稳住居民和企业的资产负债表，所以需要直升机撒钱的动作。</p>
+<p style="text-align: left;">　　我们虽然当时没做财政货币化，但通过货币宽松加强了金融机构对债券的配置能力，也通过再贷款、再贴现支持了缺钱的小微企业，这些钱在生产停滞期也可以转化为居民收入，防范各个部门的资产负债表风险。</p>
+<p style="text-align: left;">　　现在既然疫情冲击最强烈的时候已经结束了，经济也开始好起来了，现在更应该考虑的是此前过于宽松的流动性退出问题了吧？毕竟，疫情扩散印钱是用来应急的，是用来防范资产负债表风险，这个时候印钱不会有通胀，因为没有增量的总需求。但疫情控制后，既然经济活动已经恢复了，经济活动可以正常赚钱了，为什么还需要向实体注入过剩的流动性呢？反而要考虑把前期流动性投放给收回的问题了吧。</p>
+<p style="text-align: left;">　　所以，这个时候，我们认为正常的关注点应该是政策退出问题，而不是更极端的操作措施。况且，常规化的货币操作都没打完，直接出台非常规化的政策操作，好像也没什么必要性。</p>
+<p style="text-align: left;">　　马骏的回应肯定了经济复苏，也强调了央行的独立性，再加上当天资金紧了，还是让市场吓了一跳，毕竟债券供给压力很大，这个月还有6000多亿专项债，资金紧市场很难消化，有财政货币化的考虑，会不会提高货币政策的操作成本也不得而知。总之，债券明显下跌。</p>
+<p style="text-align: left;">　　当然，这也说明了前期低位都是交易盘刷出来的。</p>
+<p style="text-align: left;">　　后面的话就看这轮需求扩张有没持续性了，这点我们一直是怀疑的，所以，债券跌到2.7%以上也许还有机会。</p>
+<p style="text-align: left;">　　今天公布了财政数据。从数据来看，财政确实压力不小，前四个月财政缺口高达1.14万亿，基金预算缺口近8000亿，肯定都是历史同期最大缺口了。这个可能是财科所提财政货币化的促因？</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/111/w550h361/20200601/7a24-iumkapv9930703.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/2/w1h1/20191206/0bd1-ikhvemy6856953.png" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　1-4月财政收入累计同比下降14.5%，看收入分项，拖累最大的当属增值税了，同比-24.4%。这可能源于两个原因：1）疫情对正常的经济活动产生了较大的影响，导致税基减少；2）疫情期间对企业减免税费，降低了增值税收入。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/130/w550h380/20200601/8d19-iumkapv9930749.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　1-4月财政支出整体累计2.7%的负增长，社会保障财政支出同比恢复较快，从上月累计-0.7%的增长恢复至3.5%，医疗卫生同比维持7.2%的高增长，与基建相关的城乡社区事务、交通运输、节能环比仍处于-18.3%、-16.2%、-9.3%的负增长，拖累较大。可见，财政缺课对基建发力的空间是有拖累的，今年基建投资更依赖专项债的资本金支持和融资端的扩张。</p>
+<p style="text-align: left;">　　财政缺口补充一般靠赤字、预算基金调入、国有资本经营预算等途径来弥补。</p>
+<p style="text-align: left;">　　从发债数据看，1-4月国债净新增2142亿，一般债新增5435亿，离1.14万亿的财政缺口还差3823亿。</p>
+<p style="text-align: left;">　　基金预算缺口近8000亿，专项债新增1.19万亿，假设专项债新增能全部调入基金预算，这块可以新增3900亿。</p>
+<p style="text-align: left;">　　暂时不考虑国有资本经营预算补充，1-4月份的财政仅能非常勉强的达到平衡状态。</p>
+<p style="text-align: left;">　　如果财政收支缺口继续扩大，可以确定的是：1）专项债规模发行需要进一步扩大；2）特定的财政支出可能需要特别国债来满足了。</p>
+<p style="text-align: left;">　　目前看，债券收益率曲线非常陡峭，反映出市场对供给端压力开始有点难以消化了。从这点看，后续货币确实需要宽松一些，以提高金融机构债券配置能力。特别国债从历史惯例来看，央行都会做一些流动性对冲，专项债、国债和一般债需要央行投放一些长期流动性来满足了。</p>
+<p style="text-align: left;">　　今天还发布了社会主义市场经济体制的意见。1万多字文件稿，内容非常丰富，不过市场关注的是细节，看看后面文件怎么落地吧。</p>
+<p style="text-align: left;">　　仅从文件本身看，有几个亮点是可以关注的：</p>
+<p style="text-align: left;">　　1）做强做优做大国有资本而不是做强做优做大国有企业。很明显，这是对过去“国进民退”的纠偏，所以后面也强调了非公企业同等对待，公平竞争，放宽准入；</p>
+<p style="text-align: left;">　　2）市场竞争可以倒逼国企效率提升，与此同时，辅之以建立骨干员工持股、上市公司股权激励、科技型企业股权和分红激励等中长期激励机制可以提高国企效率，但一切得在公有制的框架下来，国有资本得继续保值增值，并严防国有资本流失。</p>
+<p style="text-align: left;">　　3）对外开放部分提到了要降低关税，更加开放，这是非常积极的信号。因为海外在民粹主义加持下，逆全球化已经从思潮变为实际行动，都在举贸易保护的旗帜。在这样的背景下，中国继续加快对外开放，将推动从商品和要素流动型开放向规则等制度型开放转变，继续捍卫全球化。全球化最好的时候已经过去，逆全球化大概率会愈演愈烈，但中国加大对外开放，一方面能团结需要中国市场的国家和地区，更重要的是也能倒逼国内产业升级和市场化改革。</p>
+<p style="text-align: left;">　　4）本次文件增加了“探索实行城市群内户口通迁、居住证互认制度”的提法，2013年后中国城镇化的思路发生调整，淡化了以往强调区域均衡发展的旧式均衡主义思路，以人为本，更加重视人口向珠三角、长三角地区，从低行政级别的农村、区县，向地级市和省会城市迁移趋势所带来的变化。公共资源按实际服务管理人口规模配置，城市群内户口通迁、居住证互认，都将进一步促进人口向粤港澳大湾区、长三角等城市群迁移。</p>
+<p style="text-align: left;">　　5）房产税的定调是“稳妥推进房地产税立法”。2013年明确指出要“加快房地产税立法并适时推进改革”，2016年将房地产税立法列入第一类的立法项目。但2018年和2019年zf工作报告中还有这次就提到了“稳妥”，那也就是还需要想想，房产税的预期没那么强了。</p>
+<p style="text-align: left;">　　6）民企金融支持。民企的支持看起来有了很好的进展，银行在争夺优质小微企业的时候打了价格战，不少小微企业已经可以获得 3-4%的利率支持，但前提是要抵押房子，可见，房子才是“硬通货”，中小微企业的产权不是，这也是后续的改革重点。民企金融支持不足也不仅仅是金融机构多样化不够的问题。至于说民企的直接融资支持不够，主要还是民企没有刚兑，违约率显著高于城投，市场是理性的，宁愿拿高票息城投或者损失些票息加点杠杆拿城投，也不会去碰民企。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/196/w550h446/20200601/7722-iumkapv9930827.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　<strong>9</strong>&nbsp;</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/216/w181h35/20200601/c5a0-iumkapv9930890.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/2/w1h1/20191206/0bd1-ikhvemy6856953.png" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/transform/2/w1h1/20191206/0bd1-ikhvemy6856953.png" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/94/w550h344/20200601/28c5-iumkapv9930948.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/690/w550h140/20200601/f3a8-iumkapv9931278.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　<strong>10</strong>&nbsp;</p>
+<p style="text-align: left;">　　<strong>2020年5月26日：央行100亿逆回购，利率未变</strong>&nbsp;&nbsp;</p>
+<p style="text-align: left;">　　这次逆回购备受关注，上一次逆回购还是3月30日的时候，这一下已经过了一两个月了才重启。</p>
+<p style="text-align: left;">　　这周为什么需要逆回购呢？一个是本周有财政存款上缴，第二个是专项债发行也集中于本周，大概有8000亿左右的规模。</p>
+<p style="text-align: left;">　　而且自从疫情以来，我们可以看到市场的资金利率早已在逆回购政策利率之下，逆回购政策利率如果能够下调，那市场资金利率还有中枢下移的可能；如果不调，那可以反映出央行认为现在资金利率太低了，需要修正。</p>
+<p style="text-align: left;">　　因此，这次逆回购重启主要有两个看点：1）绝对规模；2）逆回购的政策利率。</p>
+<p style="text-align: left;">　　结果出乎市场意料，逆回购投放规模仅100亿，逆回购的利率也没有下调，这个逆回购明显超过了市场预期的，这似乎是货币政策宽松终结的信号。</p>
+<p style="text-align: left;">　　此次的逆回购政策一出，市场的资金利率果然明显上行了。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/119/w550h369/20200601/d164-iumkapv9931339.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　前几天zf工作报告好像还释放了货币宽松的信号：“稳健的货币政策要更加灵活适度。综合运用降准降息、再贷款等手段，引导广义货币供应量和社会融资规模增速明显高于去年。”</p>
+<p style="text-align: left;">　　怎么刚提到要降准降息、再贷款和引导广义货币供应量和社会融资规模增速明显高于去年，逆回购就画风突变呢？</p>
+<p style="text-align: left;">　　我们认为未来要实现“六个保、六个稳”还有需要宽松的，但宽松的同时又需要严防金融套利，所以，宽松的时机和宽松方法可能会发生一些变化。</p>
+<p style="text-align: left;">　　宽松的前提是不能滋生套利活动。我们之前提到过，现在理财收益率差不多在4%左右，但好一点的债券，发行票息连3%都不到。这种倒挂是怎么形成的呢？是因为投资者可以买3%不到的债，然后抵押去加杠杆，只要资金利率够便宜，投资者还是可以给理财设置4%的回报。</p>
+<p style="text-align: left;">　　如果说投资者认为货币宽松是确定的趋势，那么这个套利就可以有恃不恐的进行，所以我们能看到3、4月质押式回购成交金额大幅上升（前面的部分画过图，这里不重复画了）。</p>
+<p style="text-align: left;">　　对企业来讲，拿到这么便宜的资金，在疫情阶段他又没什么订单，把资金用于生产的积极性不高，于是完全可以把这笔用2.8%募集的资金投资于同期限或期限稍短的理财，获得4%的收益，赚这120BP利差。</p>
+<p style="text-align: left;">　　我们可以看一下结构化存款，由于结构性存款收益率一般会比照理财作为揽储的工具，近几个月，受监管打压的结构化存款规模竟在不断上涨，这说明套利行为绝不是子虚乌有的。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/123/w550h373/20200601/65f6-iumkapv9931364.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　因此，要解决套利问题的核心就是：1）资金利率不能太低；2）资金利率的预期不能太稳定，需要有些资金面的波动才行。</p>
+<p style="text-align: left;">　　虽然后续大方向还是宽松，但是我们认为后续宽松的方式可能会有些变化，因为货币宽松的目的是要引导信用宽松，是要体现在社融和M2上，用来降低社会融资成本。</p>
+<p style="text-align: left;">　　既然公开市场操作投放过剩的流动性容易引发套利，那为什么不创设类似PSL的工具，让流动性直达实体经济呢？</p>
+<p style="text-align: left;">　　zf工作报告里也提到了：“创新直达实体经济的货币政策工具，务必推动企业便利获得贷款，推动利率持续下行。”</p>
+<p style="text-align: left;">　　当然，如果真是这个操作方式，对债券市场就不太友好了，虽然宽松不会退出，经济还有压力，但可以确定的是利率看不到趋势性下行了，形势再糟也糟不过一季度。未来10年期国债的运行中枢会有所上移，回归至2.7%-3%，要把握震荡的交易性机会，信用债考虑票息为王。</p>
+<p style="text-align: left;">　　<strong>11</strong>&nbsp;</p>
+<p style="text-align: left;">　　<strong>2020年5月27日：工业企业利润</strong>&nbsp;&nbsp;</p>
+<p style="text-align: left;">　　统计局公布了1-4月的工业企业营收和利润数据，从数据看，不管是营收还是利润，降幅都有明显收窄。1-4月营收-9.9%，前值是-15.1%；1-4利润-27.4%，前值是-36.7%。</p>
+<p style="text-align: left;">　　如果看4月单月的利润数据，要比1-4月累计值还要更乐观一些，同比仅下滑7.3%，而营收单月同比转正了，有0.4%的正增长，这意味着企业营收基本恢复到疫情前了。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/136/w550h386/20200601/2cf6-iumkapv9931413.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　如果看4月的PPI无论是同比还是环比都是明显下行的，可以推论出4月的企业营收和利润的改善主要是生产环节改善推动的，价格是拖累项，这也与工业增长值恢复到3%以上的趋势是一致的。</p>
+<p style="text-align: left;">　　从行业看，上游还是压力很大，比如煤炭及其他燃料加工业，降幅还在走阔，这可能是和油价大幅下跌有些关系。中下游无论是高技术制造业、电气机械和器材制造、专用设备、汽车等利润都有了明显改善。</p>
+<p style="text-align: left;">　　逻辑与工业增长值恢复的大同小异，这里不再展开，仅略提一下：1）疫情控制后耐用品消费恢复；2）疫情期间积压的订单在加速赶工；3）海外和国内线上办公需求激增带动了高技术制造业。</p>
+<p style="text-align: left;">　　如果看高频数据，5月工业企业利润数据有望继续改善，上游最惨的时刻已过去了，5月油价有一轮明显修复；中下游的景气度仍在恢复，比如耗煤量就超过了去年的同期；商品价格也在恢复，螺纹钢、铜、水泥都有见底迹象。</p>
+<p style="text-align: left;">　　当前生产端是已经确定恢复了，积压的订单也已释放完毕，后续生产以及未来企业利润还能不能继续维持景气度关键要看需求恢复的强度了，不过需求的恢复短期看还没有证伪，需要更多的高频数据验证。</p>
+<p style="text-align: left;">　　<strong>12</strong>&nbsp;</p>
+<p style="text-align: left;">　　<strong>2020年5月31日：5月PMI</strong>&nbsp;&nbsp;</p>
+<p style="text-align: left;">　　5月制造业PMI从50.8下滑到50.6，非制造业PMI从53.2上升到53.6，综合PMI持平在53.4。</p>
+<p style="text-align: left;">　　从5月的PMI数据看，经济恢复得还不错，尤其是非制造业还处在加速恢复期。</p>
+<p style="text-align: left;">　　可喜的是，5月份经济的需求端有明显回暖。</p>
+<p style="text-align: left;">　　海外疫情扩散，外需是低迷的，这一点毋庸置疑，新出口订单35.3，明显低于枯荣线，但比上个月反弹了1.8个点，可能防疫相关的产品出口对外需还有支撑，线上办公的需求也带动了高科技制造业出口。</p>
+<p style="text-align: left;">　　新订单指数虽然从50.2回升到50.9，5月的新订单比4月反弹了0.7个点，而且看产成品库存从上个月的49.3下降到47.3，出厂价格从42.2反弹到48.7，看南华工业品价格指数5月也是明显反弹的，涨了7.38%。</p>
+<p style="text-align: left;">　　产成品库存下降，产成品出厂价格在上涨，这种组合只能说明需求很强劲，可以消化生产出来的产品。</p>
+<p style="text-align: left;">　　再看5月制造业PMI主要原材料购进价格指数、非制造业PMI投入品价格指数，分别从42.5和49.0，回升到51.6和52.0，都恢复到了荣枯线之上，连原材料价格也都开始上涨，一方面是上游的钢材、有色等涨价，5月这两个行业的价格指数都明显回升，高于55.0%，另一方面则是国际油价低位反弹，5月布伦特原油期货活跃合约均价相比于4月上涨了20.4。</p>
+<p style="text-align: left;">　　这都可以说明经济的需求至少在5月是有明显好转的。</p>
+<p style="text-align: left;">　　所以，5月商品涨、股票涨但债券跌是有基本面支撑的。</p>
+<p style="text-align: left;">　　那么，经济需求的核心动力来源于哪呢？</p>
+<p style="text-align: left;">　　1）房地产处于一个赶工周期。因为前几年房企跑马圈地的快周转战略到了今年要竣工了，房子要到期交付，之前因为疫情耽误了工期，现在要赶工，所以目前是集中赶工施工的状态；</p>
+<p style="text-align: left;">　　2）地方政府KPI从防疫开始转向稳增长，随着专项债大规模发行，基建开始恢复甚至加速了，与企业中长期贷款高增长的趋势是一致的；</p>
+<p style="text-align: left;">　　这两点与非制造业的PMI看出来，4月份的建筑业新订单指数已经很高了，但5月建筑业新订单指数竟然提高到了58.0，比4月继续提高了4.8。</p>
+<p style="text-align: left;">　　3）外需似乎没有想象中的那么糟糕，虽然海外疫情扩散不可避免地冲击了消费品出口，其中不少还是劳动密集型的，但是线上办公需求和防疫需求激增以及出口份额向中国集中（因为生产受疫情的影响小），对出口还是有稳定作用；</p>
+<p style="text-align: left;">　　4）疫情控制后，消费活动也开始有些回暖，虽然和去年同期还是没法比，但环比是改善的。</p>
+<p style="text-align: left;">　　此外，还需考虑“五一”的假日消费效应。今年“五一”放了5天，是2011年以来最长的一次。“五一”长假带动零售、餐饮、铁路和航空运输等行业需求的释放，5月这些行业的商务活动指数都在55.0%以上，意味着它们的需求也有较快恢复。</p>
+<p style="text-align: left;">　　现在有点不确定是，生产指数还能不能维持这么高的增长。5月的制造业PMI生产指数虽从53.7下滑到53.2，但还是维持在一个较高的水平，比去年同期要好得多。</p>
+<p style="text-align: left;">　　这也和高频指标一致。5大发电集团日均耗煤，从4月的46.36万吨提高到5月的54.18万吨，环比回升16.87%，同比则从-10.94%大幅上升到17.41%。4月制造业工业增加值同比5.0%，已经基本恢复正常，从发电耗煤数据看，5月制造业工业增加值同比增速大概率会高于4月。</p>
+<p style="text-align: left;">　　根据国家统计局数据，截至5月25日全国采购经理调查企业中，有81.2%的企业已经达到正常生产水平的八成以上，高于上月3.9个百分点。</p>
+<div class="img_wrapper" style="text-align: left;"><div class="img_wrapper"><img src="http://n.sinaimg.cn/finance/crawl/175/w550h425/20200601/6687-iumkapv9931453.jpg" alt=""><span class="img_descr"></span></div><span class="img_descr"></span></div>
+<p style="text-align: left;">　　生产为什么还在保持一个较高的读数呢？</p>
+<p style="text-align: left;">　　最近几个月生产强，和企业手里有前期积压的订单有关。之前疫情冲击导致停产，有些订单压着没做，复工后就把这些订单给做了，但很明显，这块对生产的支撑没有持续性，因为这些订单已经或正在被消化。</p>
+<p style="text-align: left;">　　如果看工业企业利润的数据，产成品库存增速虽然有所下降，但还是维持了两位数的增长，可见，企业产成品库存还是有积压，未来还是有去化压力。</p>
+<p style="text-align: left;">　　如果需求的改善不可持续，或者不及预期，企业库存不能持续消化，未来生产动力仍然不会太强，所以，需求是经济能否持续改善的核心驱动因素。</p>
+<p style="text-align: left;">　　不过看生产的领先指标采购量指数和原材料库存指数，5月都在下降，这也似乎在说明当前的需求还是支撑不了这么强的生产的。</p>
+<p style="text-align: left;">　　所以，现在需求好，但需求是不是能够持续让库存去化，进而维持生产的景气度，是后续观察经济非常重要的视角。</p>
+<p style="text-align: left;">　　去年11月到今年1月，市场都在讨论新一轮弱的经济复苏启动，当时的制造业新订单指数在51.2-51.4之间小幅波动。今年在疫情冲击、需求冻结后，制造业新订单的恢复到50.7，还是要弱于正常经济周期复苏阶段的初期还要慢。</p>
+<p style="text-align: left;">　　展望未来，需求还有哪些不确定呢？</p>
+<p style="text-align: left;">　　1）房地产即将步入竣工周期，赶工产生的短期繁荣是不可持续的。</p>
+<p style="text-align: left;">　　2）制造业投资一时半会起不来，因为库存还比较高，数据来看，库存一般去化在5%以下才能看到制造业投资的企稳，而且制造业投资起不起来是要看需求的。</p>
+<p style="text-align: left;">　　3）消费恢复也存有一定的压力，一方面出口产业链对就业的滞后影响会逐步显现，而且居民杠杆率不低，没有了收入，就没有钱消费。另一方面，假期窗口少了，春节没有第二回，暑假时间也会减少。政府后续救助消费的措施主要聚集于必选消费，米面粮油醋一类的，相关标的物的价格在A股上已有反映。</p>
+<p style="text-align: left;">　　因此，并不能对新订单指数从50.2回升到50.9，给予乐观评价，当前制造业企业面临的需求不足问题，依然很严峻。当前的需求好只是因为房地产赶工需求集中释放了，还正好赶上了基建的复苏，导致5月数据看起来不错。</p>
+<p style="text-align: left;">　　后续总需求的支撑主要得靠基建投资了。lh后确定了赤字率、特别国债和专项债额度，疫情控制后，地方也会加码基建，积极财政肯定还要继续落地，基建投资还有继续回升的空间，这点是确定的。但是zf工作报告仅强调“稳”，唯一的不确定就是在基建投资能否对冲后续总需求不足的问题了。</p>

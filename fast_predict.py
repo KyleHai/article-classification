@@ -289,7 +289,7 @@ if __name__ == '__main__':
     flags.DEFINE_bool("do_train", False, "执行训练模式")
     flags.DEFINE_bool("do_predict", True, "执行预测模式")
     # 设置要用的模型版本
-    flags.DEFINE_string("pretrain_checkpoint", "out_put1/model.ckpt-7210", "预训练好的模型")
+    flags.DEFINE_string("pretrain_checkpoint", "out_put/model.ckpt-7210", "预训练好的模型")
 
     # 设置测试目录
     flags.DEFINE_string("data_dir", 'test_datas', "数据目录")

@@ -1,0 +1,3 @@
+苹果发布自带越狱的特殊版 iPhone
+腾讯新闻
+<p class='ori_titlesource'>原标题：苹果发布自带越狱的特殊版 iPhone    来源：腾讯新闻</p><p cms-style="font-L">为了研究安装iOS系统的手机安全，出现了“越狱”版iPhone。苹果公司介绍了这一款特殊版本的智能手机。</p><div class="img_wrapper"><img id="0" img-size="480,260" src="http://n.sinaimg.cn/spider20201224/740/w480h260/20201224/b851-kftfpiv8914804.jpg" style="max-width:640px"/><span class="img_descr"></span></div><p cms-style="font-L">苹果公司将“越狱”版智能手机发送给数据安全专家。这些手机尽可能接近可以在商店购买到的iPhone。</p><p cms-style="font-L">这些设备有助于发现并修复iOS中的新漏洞，苹果将安全研究装置（Security Research Device）交给开发者，使用期限为1年，条件是智能手机不能离开研究实验室。</p><p cms-style="font-L">开展这一项目的同时，苹果公司准备向iOS漏洞发现者支付150万美元（约合980万元人民币）。</p>

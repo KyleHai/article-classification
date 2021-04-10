@@ -1,0 +1,99 @@
+打架打上纽约时报 苹果这次更新怎么把Facebook惹毛了？
+观察者网
+<p>　　原标题：打架打上纽约时报，苹果这次更新怎么把Facebook惹毛了？</p>
+<p>　　来源：差评&nbsp;</p>
+<p>　　作者：差评君</p>
+<p>　　差友们，你们觉得科技公司巨头如今互相最喜欢干啥？</p>
+<p>　　在我看来，毫无疑问的，就是。。。撕逼。</p>
+<p>　　最近<strong>苹果和 Facebook 就又打了起来</strong>。这个事儿还得从 iOS 最近的一次更新说起。</p>
+<p>　　苹果前几天推送了 iOS 14.3 的更新，修了一堆有的没的 bug ，总算是给用户们一个完整稳定的 iOS 14 系统了。。。</p>
+<p>　　不过，这次更新除了支持新硬件和新增照片功能外，苹果还在 App Store 中引入了&nbsp;“&nbsp;隐私&nbsp;”&nbsp;信息。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/341/w600h541/20201223/5ee5-kftfpiv3902252.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　更新后的 App Store 发生了一点小变化，每款应用都会详细说明使用了客户的哪些隐私数据，而且用户在安装应用时也可以主动选择关闭个性化广告推送。</p>
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/219/w1080h2339/20201223/a064-kftfpiv3902255.png" alt=""><span class="img_descr"></span></div>
+<p>　　这个小小的变化，引起了一些互联网公司的强烈不满，其中最不满的 Facebook 直接在《&nbsp;纽约时报&nbsp;》上刊登广告 diss 苹果。</p>
+<div class="img_wrapper"><img id="2" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/386/w750h1236/20201223/ae1c-kftfpiv3902392.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　这份通告的大致意思是，根据德勤的数据显示有 44%&nbsp;的中小企业在新冠疫情期间增加了社交媒体个性化广告的投放。</p>
+<p>　　<strong>如果没有这些个性化广告投放，这些中小企业将会减少 60%&nbsp;的销售额。</strong></p>
+<p>　　苹果的政策变化对我们这样的大公司都有一定影响，那中小企业就更难了。</p>
+<p>　　总结起来一句话，本来就不好过的中小企业在疫情期间只能靠着个性化广告带来的业务量维持生计，苹果的隐私新政一出摆明就是想弄死他们。</p>
+<div class="img_wrapper"><img id="3" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/219/w620h399/20201223/4c7d-kftfpiv3902391.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　个性化广告用国内的互联网黑话说就是千人千面，利用大数据把不同的广告推给不同的人群，实现精准投放，从而降低广告成本。</p>
+<p>　　举个例子，在众多个性化广告推广模式中，有一种推广方式叫 CPM ，全称是 Cost Per Mille ，是一种按照千次曝光进行计算收费的方式。</p>
+<div class="img_wrapper"><img id="4" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/700/w960h540/20201223/24e8-kftfpiv3902462.png" alt=""><span class="img_descr"></span></div>
+<p>　　假定每一千个人看见推广广告是 1 块钱，那么五千个人看见推广广告就需要 5 块钱。</p>
+<p>　　剃须刀厂商来投 CPM 广告，他肯定是希望经常刮胡子的人看到自己的广告。</p>
+<p>　　个性化广告可以较为精确的找出一千个刮胡子的人，这样他只需要花一块钱，而最终产生的导购效果可能差不多。</p>
+<p>　　这样一来，商家们的性价比就打上去了，<strong>科技改变世界，诚不欺我~</strong></p>
+<p>　　但是如果没有个性化加持，广告商就无法准确判断出目标人群，很有可能一个单身女性也收到男士剃须刀广告。</p>
+<p>　　那对于剃须刀厂商来说，想要有要想让更多的目标人群看到这类广告就得投放更多的广告，原本 1 块钱搞定的事情，变成了 5 块钱。</p>
+<div class="img_wrapper"><img id="5" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/143/w600h343/20201223/e7a6-kftfpiv3902463.png" alt=""><span class="img_descr"></span></div>
+<p>　　不仅是 CPM 这一种方式，许多广告推广方式都受到了苹果的影响。</p>
+<p>　　<strong>总的来说，广告效果没变，但是预算增加了。</strong></p>
+<p>　　于是中小型企业卖货的投放成本成倍上升，痛不欲生，疫情当下很可能挨不住。。。</p>
+<p>　　于是 Facebook 就发声了：苹果你这么搞是要让小老板们跳楼，你坏坏。</p>
+<p>　　虽然本着这一层考虑‘&nbsp;为民请命&nbsp;’没啥太大问题，但 Facebook 其实自己也是利益相关方。</p>
+<p>　　你想想，小扎自己的业务是啥？</p>
+<p>　　<strong>不就社交媒体么！苹果这么一搞，他自家广告生意影响很大啊。。。</strong></p>
+<div class="img_wrapper"><img id="6" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/339/w700h439/20201223/4eec-kftfpiv3902530.png" alt=""><span class="img_descr"></span></div>
+<p>　　对于广告投放渠道来说，没有个性化广告的数据，无法得到有效的反馈数据，工作精度和效率也都降低了。</p>
+<p>　　中小企业的个性化广告还不是在 Facebook 平台投放较多，你苹果这么一搅合我 Facebook 还怎么接广告？</p>
+<div class="img_wrapper"><img id="7" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/721/w441h280/20201223/e91a-kftfpiv3902529.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　厨子也不是啥怂人，看到 Facebook 的广告后立马在推特上怼了回去。</p>
+<div class="img_wrapper"><img id="8" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/219/w1080h2339/20201223/5bb1-kftfpiv3902617.png" alt=""><span class="img_descr"></span></div>
+<p>　　厨子说：我们认为用户应该对他们数据的收集和使用有一个选择权， Facebook 一样可以像以前一样追踪客户的数据，现在只是要经过用户的同意而已。</p>
+<p>　　言外之意：你要是光明磊落你怕啥？</p>
+<p>　　让我们再回头看看这次 App Store 升级多出来的信息。</p>
+<div class="img_wrapper"><img id="9" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/219/w1080h2339/20201223/a064-kftfpiv3902255.png" alt=""><span class="img_descr"></span></div>
+<p>　　这个 App 隐私板块相当于为应用添加了一份数据使用说明，列出了这款应用可能会使用你哪些数据信息，比如地理位置，流量和浏览记录等等。</p>
+<p>　　可是这么多数据，用户一时哪能分得清？不慌，苹果也想到了这个问题。</p>
+<p>　　苹果把所有的隐私信息分为了三类。‘&nbsp;用于追踪您的数据&nbsp;’、‘&nbsp;关联到您的数据&nbsp;’与‘&nbsp;不会与您关联的数据&nbsp;’。</p>
+<div class="img_wrapper"><img id="10" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/798/w500h298/20201223/f291-kftfpiv3902766.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　这样用户就可以很清晰的了解到这款应用可以用到自己的哪些数据，哪些数据会涉及到隐私，以及用这些数据做了些什么。</p>
+<p>　　苹果要求开发者要告知用户所使用的数据，说明数据的用途，并且重新规范了哪些数据可以拿哪些数据不能拿，别动不动就乱拿用户的数据，拿去干嘛谁也不知道。</p>
+<p>　　这回好了，所有应用都需要开发者填写隐私权限说明，主动申报。</p>
+<p>　　为了防止开发者们谎报军情，苹果成立了专门负责审核的团队，防止出现申报权限和实际权限不符的情况。</p>
+<div class="img_wrapper"><img id="11" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/149/w1080h669/20201223/e14c-kftfpiv3902768.png" alt=""><span class="img_descr"></span></div>
+<p>　　差评君觉得苹果这波操作对 iPhone 用户是针不戳，而且只是公开了数据用途和使用权限也并不影响个性化广告。</p>
+<p>　　如果仅此而已，这波对于 Facebook 来说，更新个 App Store 也就还顶得住。</p>
+<p>　　但是随着这次隐私更新，其中一个关键选项：<strong>IDFA 也变成了默认关闭的状态</strong>，这对于个性化广告来说就很伤了。</p>
+<div class="img_wrapper"><img id="12" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/597/w1080h1117/20201223/e491-kftfpiv3902905.png" alt=""><span class="img_descr"></span></div>
+<p>　　IDFA 全称 Identifier For Advertising ，翻译过来叫广告标识符，是苹果创造的一个在 iOS 系统中的识别用户的代码，主要是用来代替 UDID 用的。</p>
+<div class="img_wrapper"><img id="13" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/87/w519h368/20201223/2755-kftfpiv3902904.png" alt=""><span class="img_descr"></span></div>
+<p>　　UDID 指的是设备的唯一设备识别符。说的简单点， UDID 就像设备的身份证号码一样，唯一，且不重复。</p>
+<p>　　iOS 6 之前，也就是 2012 年前，个性化广告都靠 UDID 来优化数据，但是这样有一个弊端，个人信息容易暴露。</p>
+<div class="img_wrapper"><img id="14" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/57/w557h300/20201223/06cc-kftfpiv3903025.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　你的用户行为习惯和设备关联，再通过设备找到你的个人信息，那你整个人就相当于一丝不挂的在网上冲浪。</p>
+<p>　　时间越长你的用户画像越清晰。比如你叫张三，爱好打麻将，家住成都，家里有猫等等。这些信息要是让不怀好意的人知道那可太危险了。</p>
+<p>　　苹果一看这也不行啊，我弄个 IDFA 吧。于是用户的信息被隐藏起来了，只知道有个人爱打麻将，家里有猫，至于是谁？不知道。</p>
+<p>　　IDFA 是一个虚拟识别符，只能搜集用户的行为信息，但是不能对号入座。</p>
+<div class="img_wrapper"><img id="15" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/100/w500h400/20201223/e8ce-kftfpiv3903023.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　<strong>这就意味着个性化广告在不知道你是谁的前提下，仍然可以给你推荐个性化的广告。</strong></p>
+<p>　　你可以看到你喜欢看的广告，广告主也能提高转化率，你好我好大家好。</p>
+<p>　　而且 IDFA 可以手动更改或关闭，看腻了不用换设备就能取消个性化广告。</p>
+<div class="img_wrapper"><img id="16" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/54/w750h904/20201223/f8ee-kftfpiv3903163.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　原先的 IDFA 是默认开启的，要想关闭也挺不好找，所以普通用户轻易不会关闭 IDFA 。</p>
+<p>　　但是这次苹果的更新直接让 IDFA 默认关闭了，想要开启也挺不好找。。。</p>
+<p>　　而且苹果还要求应用在第一次打开时一定要向客户说明：我可以给你推个性化广告吗？</p>
+<div class="img_wrapper"><img id="17" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/219/w1080h2339/20201223/b0ea-kftfpiv3903167.png" alt=""><span class="img_descr"></span></div>
+<p>　　其实你点不同意，看到的广告数量也是一样多，用户体验也是一样糟糕的。。。</p>
+<p>　　但是，你跑到我脸上来问愿不愿意推点相关广告，<strong>我一看到‘&nbsp;广告&nbsp;’两个字，这果断就没什么好脸色，给它关了。</strong></p>
+<p>　　如此一来，广告商原地裂开：没有了个性化广告，那广告投放成本不就增加了。</p>
+<p>　　所以小扎 diss 苹果的点在这呢，<strong>你这么整活也不能提升用户体验</strong>，为什么还要关闭 IDFA ，给条活路行不行。</p>
+<div class="img_wrapper"><img id="18" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/776/w496h280/20201223/c321-kftfpiv3903318.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　对啊。。。用户体验没改变，还一个劲儿搞厂商，为啥呢？？？</p>
+<p>　　<strong>因为这条路，苹果可能要自己走。</strong></p>
+<p>　　其实苹果也有自己的广告平台， SKadnetwork 2.0&nbsp;。</p>
+<p>　　SKadnetwork 2.0&nbsp;在保持用户隐私的同时，为 App 做推广，差不多就是 IDFA +&nbsp;一般广告平台。</p>
+<p>　　这个平台可以通过 App ID 准确识别出用户是通过哪个 App 被引导至 App Store 安装了受推广的 App ，既精准又利于统计。</p>
+<div class="img_wrapper"><img id="19" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/595/w820h575/20201223/fbda-kftfpiv3903320.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　当 IDFA 关闭后其他推广渠道效果下降，苹果的官方推广渠道自然可能成为商家首选，于是这一波流量钱就从 Facebook 进了苹果的口袋。。。</p>
+<p>　　所以 Facebook 那一长串 diss 咱们再简单翻译一下，可以总结为四个字：<strong>这是抢劫！！！</strong></p>
+<p>　　不得不承认，苹果这次更新的应用隐私协议确实是好事一件，但默认关闭 IDFA 这手操作，造成的结果确实如差评君前面提到的那样：</p>
+<p>　　<strong>用户体验没提升，就是单纯动其他厂商的蛋糕了。。。</strong></p>
+<p>　　有些关闭个性化广告的设置，</p>
+<p>　　会清楚讲明白不会减少广告数量▼</p>
+<div class="img_wrapper"><img id="20" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201223s/395/w553h642/20201223/3607-kftfpiv3903436.png" alt=""><span class="img_descr"></span></div>
+<p>　　看似保护咱们，其实体验上也没啥提升，总结来说不算什么高尚的动作，<strong>正常商业竞争罢了。</strong></p>
+<p>　　但是小扎又能怎么办呢？<strong>有本事 Facebook 别装 iPhone 上呀</strong>。。。</p>
+<p>　　总之，差评君觉得在苹果这种趋势下，安卓平台可能也会很快跟进，行业巨头的围墙会建的更高，一些中小企业更加难以生存。</p>

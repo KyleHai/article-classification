@@ -1,0 +1,47 @@
+曝微软将仿效苹果自研ARM芯片，用于Surface和服务器
+创事记
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/799/w550h249/20201220/18fa-kfnaptu3870628.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　<span style="font-family: 楷体, 楷体_gb2312, simkai;">欢迎关注“创事记”的微信订阅号：sinachuangshiji</span>　</p>
+<p>　　文/外媒</p>
+<p>　　来源：新智元（ID：AI_era）</p>
+<!--article_adlist[<p cms-style="font-L">  新智元报道  </p><p cms-style="font-L align-Center"><font cms-style="font-L align-Center">来源：外媒</font></p><p cms-style="font-L align-Center"><font cms-style="font-L align-Center">编辑：Q</font></p><p cms-style="font-L"><font cms-style="font-L"><font cms-style="font-L strong-Bold">【新智元导读】</font>微软目前使用基于英特尔的处理器为其 Azure 云服务提供大部分服务，而且该公司的大部分 Surface 产品线也使用英特尔芯片。但有消息称，微软将为服务器和PC设计自己的芯片。<font cms-style="font-L strong-Bold"></font></font></p>]article_adlist-->
+<p cms-style="strong-Bold font-L">　　<font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">继苹果之后，微软也宣布将自己设计芯片。</font></font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">早在2018年，就有报道称微软曾考虑在最初的 Surface Go 中使用基于ARM的芯片，但在英特尔请愿反对这一想法后，微软最终选择了不这么做。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">目前，微软几乎完全使用基于英特尔的处理器来支持其 Azure 云服务。但据报道称，微软计划为其Surface笔记本电脑、台式机以及服务器设计自己的芯片，这一消息导致英特尔的股价在当天收盘前下跌约6.3% 。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">自2017年以来，微软一直在推出 ARM 风格的 Windows 操作系统，但迄今为止，它只在高通处理器上运行，前两代产品都是改造过的智能手机芯片，包括 Snapdragon 835和基于 Snapdragon 845的 Snapdragon 850。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/63/w550h313/20201220/9b9c-kfnaptu3857900.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">英特尔目前在服务器领域占据主导地位，占据90%的市场份额。</font></font><font cms-style="font-L">尽管 Surface 设备在个人电脑市场中所占份额相对较小，但微软决定为其电脑和服务器开发自己的芯片，仍将对英特尔构成一定程度上的打击。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">微软的芯片也是基于ARM的技术，而不同于英特尔主要使用的x86，英特尔未来发展或将更加困难。</font></p>
+<p cms-style="font-L strong-Bold">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">为自己造芯，或先用于Azure云服务器</font></font></p>
+<p cms-style="font-L">　　<strong><font cms-style="font-L">据彭博社报道，微软正在为服务器设计自己的基于ARM的处理器，未来可能还会推出对应的 Surface 设备。微软也在探索为其部分 Surface 设备使用另一种芯片，但尚不清楚这是否会发展成最终产品。</font></strong></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/715/w550h165/20201220/0b07-kfnaptu3858125.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">微软目前使用基于英特尔的处理器为其 Azure 云服务提供大部分服务，而且大部分 Surface 产品线也使用了英特尔芯片。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">不过，微软也已经与 AMD 和高通合作，为其 Surface Laptop 3和 Surface Pro X 设备定制芯片，这表明微软愿意放弃英特尔。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">8cx 是第一款为PC设计的产品，由高通公司与微软公司合作开发。之后，Surface Pro X发布了一个稍微修改过的 Snapdragon 8cx 版本，但这一次，芯片打上了微软的品牌：微软 SQ1中的 SQ 代表 Surface-Qualcomm。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/9/w550h259/20201222/bfed-kfnaptv0400480.png" alt="图：微软定制芯片" data-link=""><span class="img_descr">图：微软定制芯片</span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">年初，微软又开发了一款 SQ2处理器，SQ2是基于高通公司的 Snapdragon 8cx Gen 25g 芯片设计的，高通公司认为7W的芯片将以39% 的优势击败15W的10代英特尔酷睿 i5，微软很可能以同样的方式加速 SQ2，因为SQ1本质上是一个加速的 Snapdragon 8cx。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/42/w550h292/20201220/550b-kfnaptu3858550.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="strong-Bold font-L">　　<font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">微软转换到到ARM 的服务器端是重要信号，特别是对于英特尔来说。</font></font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">英特尔的服务器芯片目前主宰着服务器市场，而 AMD 已经用自己的 EPYC 处理器在这个利润丰厚的市场上一点点蚕食。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">微软主要的云计算竞争对手亚马逊似乎也对英特尔和 AMD 构成了重大威胁。</font></p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/82/w550h332/20201220/bb60-kfnaptu3858738.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="font-L">　　<font cms-style="font-L">亚马逊一年前在 AWS 上推出了自己的基于ARM 的 Graviton2 处理器。然而，基于 ARM 的服务器目前只是市场的一小部分，尽管它们可以提供更好的性能和成本效益。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">有外国媒体联系了微软对这些自己制造芯片的传言进行评论，微软并没有否认这些传言：“由于硅是技术的基石，我们将继续在设计、制造和工具等领域投资自己的能力，同时还将培育和加强与各种芯片供应商的伙伴关系”。</font></p>
+<p cms-style="font-L strong-Bold">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">与M1类似，兼容性也是面临的大问题</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">苹果已经发出信号，不再为其 Mac 产品使用英特尔芯片，而是使用基于 ARM 设计的 M1芯片。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/37/w550h287/20201220/9770-kfnaptu3859004.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">这种由苹果研发的处理器芯片与以往 Mac 搭载的 Intel 处理器存在处理器架构上的差异。Intel 推出的处理器采用 X86 架构，使用 x86_64 指令集，而 Apple M1 芯片基于 ARM 架构，使用 arm64 指令集。指令集的差异使得为 x86_64 指令集编译的程序无法直接在基于 Apple M1 芯片上运行。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/46/w550h296/20201220/27b9-kfnaptu3859348.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">Rosetta 2 就是苹果于 macOS 上推出的指令集转译程序，它允许用户在M1芯片上运行包含 x86_64 指令集的程序。通过 Rosetta 2 这项技术，能够使用户在开发者未提供面向 Apple silicon 准备的程序时，将这些程序运行于 Mac 中。</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">类似地，微软也会面临这样的兼容性问题。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">到目前为止，任何遵循 Windows on Arm的处理器和设备，如 Surface Pro x ，可以原生运行32位和64位的ARM代码。运行在32位 X86 模式下的传统 PC 编写的代码可以由 ARM 处理器进行解释，但会带来一定程度的性能损失。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/27/w550h277/20201220/826a-kfnaptu3859570.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">绝大多数传统PC也可以运行为X86编写的64位代码。然而，目前这段代码根本不能在 ARM 芯片上运行。这种不兼容性仍然是 Windows-on-Arm PC 的一个重要弱点。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">微软正在解决这一特殊问题，并将发布代码，允许 Windows on Arm 仿效64位x86应用程序。该代码将首先分发给微软的 Windows 内部测试版程序的成员。然而，在 ARM 上运行64位x86应用程序仍然会对性能造成冲击，而微软对此的回应是致力于开发针对 ARM 架构的流行应用程序的更优化版本。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/793/w550h243/20201220/d46f-kfnaptu3859795.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">这些应用程序显然包括期待已久的基于 Arm64 的谷歌 Chrome 版本，以及现有的 Firefox 浏览器和 WhatsApp 的优化版本。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">微软还表示，它将继续使用 Edge 浏览器为 ARM 处理器进行优化，并宣布计划专门为 ARM 开发一个微软团队版本。Visual Studio 也已经针对 Windows on ARM 进行了优化。总而言之，数以千计的现有 Windows 应用程序现在运行在 Surface Pro x 上，可以通过本地运行，也可以通过仿真运行。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">近年来，微软也加大了对处理器工程师的招聘力度。微软等英特尔曾经的客户越来越多地转向其它解决方案，以理解云计算和智能手机产生的海量数据，采用人工智能将这一过程自动化。</font><font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold">像 Office 365 这样的服务背后的巨型数据中心的最大的担忧是为不断增长的硬件需求提供电力的成本，而基于ARM的芯片通常更加节能。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">总之，自研芯片的大门已经打开，未来之路走向何方，让我们拭目以待。</font></p>

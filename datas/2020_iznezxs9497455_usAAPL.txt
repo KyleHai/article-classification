@@ -1,0 +1,81 @@
+苹果造车：一场没有惊喜的心智战争
+创事记
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/59/w550h309/20201229/28c8-kfxsuvw6675767.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　<span style="font-family: 楷体, 楷体_gb2312, simkai;">欢迎关注“创事记”的微信订阅号：sinachuangshiji</span>　</p>
+<p>　　文/九监&nbsp;&nbsp;&nbsp;</p>
+<p>　　来源：锦缎（ID：jinduan006）</p>
+<p cms-style="font-L">　　<font cms-style="font-L">苹果</font>造车是个公开的秘密。2016年，几位在硅谷服务于美国大厂的机器学习或视觉算法的华人科学家朋友，便曾与苹果“ secret Project ”组的人力接触过。当然，更广为人知的是，苹果专攻自动驾驶的“Project Titan”，早在2014年就立项了。</p>
+<p cms-style="font-L">　　<font cms-style="font-L">从首发专利的维度看，苹果也是最早布局与智能汽车相关技术的全球科技巨头之一，可追溯到2011年，甚至早于谷歌与百度，几乎与华为持平。迄今苹果在汽车上的最深烙印，是2014年就已面世的“CarPlay”车载系统，这是当前中高端进口车的标配。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/78/w550h328/20201229/10d5-kfxsuvw6657895.png" alt="图1：苹果最早与汽车相关的专利示意图之一。来源：USPTO" data-link=""><span class="img_descr">图1：苹果最早与汽车相关的专利示意图之一。来源：USPTO</span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">尽管锚定智能汽车已有近10年历史，但种种迹象表明，当前传出的最早或将于明年秋季发布并于2022年的“Apple car”（</font><font cms-style="font-L">可信度非常低</font><font cms-style="font-L">），很可能不会有太大惊喜——虽然，它势必将对产业标准走向带来重大冲击。</font></p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="strong-Bold font-L"><font cms-style="strong-Bold font-L"><font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">01&nbsp;</font></font></font></font></font><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">没有惊喜</font></font></strong></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">最重要的，我们要知道“Apple car”为何而来。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">现在有个说法：智能汽车是智能手机的自然延伸，是“加了4个轮子的智能手机”。尤其背后还有极具说服力的数据支持：后者的规模远大于前者——以2019年市场规模比较来看，全球手机市场规模为5021亿美元，而同年全球汽车500强总营收超过2.8万亿美元（</font><font cms-style="font-L">但很少有人提及的是它们的利润率只有个位数，而iPhone利润率则超过60%</font><font cms-style="font-L">）。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/146/w550h396/20201229/38e2-kfxsuvw6651620.png" alt="图2：全球15家主流汽车制造商2019财报数据。来源：盖世汽车" data-link=""><span class="img_descr">图2：全球15家主流汽车制造商2019财报数据。来源：盖世汽车</span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">所以就有了结论：Apple car作为苹果未来20年的新成长曲线，将复制iPhone神话，在消费市场势如破竹。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">这一线性外推式思考模式的直接结果就是，每当苹果造车传出风吹草动，距离消息源越远，舆论便越亢奋，越对苹果神话深信不疑。这样的现象，对二级市场投资不啻于一种扰乱。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">实际上，仅从常识维度出发，我们便不难窥探苹果造车的意图与现状：智能汽车的研发制造路径，无非是电动化+智能座舱+自动驾驶。以这三重递进式分层逻辑为刻度，可以清晰测量苹果造车的时态。</font></p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">【1】&nbsp;电动化维度：电池技术上限无法突破</font></font></strong></p>
+<p cms-style="font-L">　　<font cms-style="font-L">一辆电动车的核心功能性零部件是“三电”系统。经过过去10年发展，以韩中日电池厂商+欧美功率半导体厂商为产业核心的动力电池系统+电驱/电机系统解决方案，目前已经对全球电动车产业形成冗余性支撑（</font><font cms-style="font-L">当前芯片短缺现象属于前期挤兑+疫情干扰导致的短期偶发性问题</font><font cms-style="font-L">）。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">在此基础上，我们看到了特斯拉(</font><font cms-style="font-L">NASDAQ:TSLA</font><font cms-style="font-L">)入门级车型全球性交付同时，价格不断下探；我们也看到了蔚来(</font><font cms-style="font-L">NYSE:NIO</font><font cms-style="font-L">)、理想(</font><font cms-style="font-L">NASDAQ:LI</font><font cms-style="font-L">)甚至小鹏(</font><font cms-style="font-L">NYSE:XPEV</font><font cms-style="font-L">)，均在短短的数年时间，从一个“铁·门外汉”摇身一变成为中国市场的主流玩家；我们还看到了传统车企纷纷制定了明晰的电动车规模性量产时间表，反扑窗口期将在2022年-2023年全面开启。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">这些基本事实都证明了一件事，在2020年研发制造一辆电动车，万事具备，唯一的门槛是资金。</font></font><font cms-style="font-L">苹果当前手握1.3万亿人民币现金流的储备，踏平这个门槛轻而易举——这也是舆论对苹果造车极其乐观的主要原因。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">但是，最为核心的现实问题在于，基础设施的齐备只是电动车研发制造的下限，决定其上限的仍然是它的心脏——电池技术本身。对此，市场中流传着一个段子，虽戏谑却直通本质：<font cms-style="font-L strong-Bold">特斯拉是一家能源公司，电动车只是附属产品。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">对于动力电池技术的发展，我们有着长期的跟踪：2020这一年，电池（</font><font cms-style="font-L">甚至是电动车产业</font><font cms-style="font-L">）的最大技术进步在于“物理异构”层面的突破，较大幅度提升了单一车辆的电池额定容量（</font><font cms-style="font-L">提升幅度接近或超过50%</font><font cms-style="font-L">）——从比亚迪(</font><font cms-style="font-L">SZ:002594</font><font cms-style="font-L">)的刀片电池，到宁德时代(</font><font cms-style="font-L">SZ:300750</font><font cms-style="font-L">)的CTP技术，再到特斯拉的4680无极耳电池，莫不如此。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/28/w550h278/20201229/b8c4-kfxsuvw6651646.jpg" alt="图3：特斯拉4680无极耳电池模组内部。来源：网络" data-link=""><span class="img_descr">图3：特斯拉4680无极耳电池模组内部。来源：网络</span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">但即使是这样，当前全球所有量产电动车的电池系统能量密度普遍亦只有160wh/kg。这样的能量密度只有再翻升1.5倍，即达到到400wh/kg，其续航能力才能与燃油车持平，才是电动车彻底取代燃油车的开始。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">但以当前的实验室进展判断，单纯依靠物理异构方式，理论上不足以实现上述电池能量密度的跃迁。业界当前正将筹码下注于化学异构的技术突破，即固态电池之上——而根据谨慎性原则，它的商业化落地至少要在2025年之后。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">当前曝出的消息称，“Apple Car将可能搭载苹果自家研发的具有突破性优势的磷酸铁锂电池技术”。这不禁让人哑然失笑：如果赶在刀片电池和CTP电池之前发布这项所谓的“黑科技”，还能令业界感到惊喜——君不见特斯拉的大号电池——“4680无极耳电池”发布时是如何让人感到意兴阑珊的？（</font><font cms-style="font-L">详见</font><font cms-style="font-L">《特斯拉立功了，比亚迪很欣慰，蔚来小鹏泪眼婆娑》</font><font cms-style="font-L">）</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">实际上，从常识角度判断，Apple Car所谓的“具有突破性优势的磷酸铁锂电池技术”，基本上可以被判定为具有高水平热管理（</font><font cms-style="font-L strong-Bold">BMS</font><font cms-style="font-L strong-Bold">）技艺的类CTP型磷酸铁锂电池技术</font></font><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">（</font><font cms-style="font-L strong-Bold">之所以选用磷酸铁锂路线主要是出于安全性考虑，也体现出了苹果造车本就谨小慎微</font><font cms-style="font-L strong-Bold">）。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">故而，电池技术上限无法突破，是我们认为Apple Car没有惊喜的第一个原因。</font></p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">【2】&nbsp;智能座舱维度：茶壶里的风暴</font></font></strong></p>
+<p cms-style="font-L">　　<font cms-style="font-L">梳理苹果智能汽车相关专利可知，智能座舱将是其最有发挥余地，同时也是与对手拉开竞争差距的比较优势所在。这些技术包括且不限于：</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">◆娱乐系统：以“CarPlay”为核心，还包括沉浸式VR技术；</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">◆智能天窗：通过改变透明度，以兼顾视野与隐私；</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">◆智能玻璃：附着AR技术；</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">◆以语音及手势为核心的智能交互系统：Siri与动作追踪技术。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">◆介于工业设计与艺术级别之间的座椅系统，以及具有眼球识别功能的多联屏。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">……</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/795/w458h337/20201229/6f01-kfxsuvw6651669.jpg" alt="图4：苹果2020年申请的智能天窗相关专利。来源：USPTO" data-link=""><span class="img_descr">图4：苹果2020年申请的智能天窗相关专利。来源：USPTO</span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">基本上，当今人类对于美好生活的向往，都能在苹果已公布以及未来将公布的相关智能座舱相关专利技术中找到答案。</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">但问题是，美好生活的代价都是高昂的，每项技术的实现都需要对价。所以，Apple Car顶配智能座舱的成本一定是不菲的，这在客观上便引申出一个特别重要的问题：这辆车如何定价？这也间接决定了，苹果造车，是为谁造车（</font><font cms-style="font-L strong-Bold">事关销量</font><font cms-style="font-L strong-Bold">）？</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">众所周知，以入门版车型model3为销量核心的特斯拉，基于极简式坐仓的成本竞争优势，于2020年上半年共计卖出31.68万辆电动车，利润率亦只有2.72%（</font><font cms-style="font-L">当然，相当大的成本都用于了自动驾驶技术的研发上，后续会讲这个问题</font><font cms-style="font-L">）。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">如果苹果在首代量产车型上选择在智能座舱维度极尽奢华，那我们大可不必对它的销量感到乐观——辅以苹果的品牌调性加成，这意味着对标的车企将是保时捷。而这家已有72年历史的豪华乘用车品牌，2019年全球销量尚不足30万台。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">所以我们倾向认为，即便在最大幅度压制产业链利润率基础上，首代Apple Car——如果能在两年内量产的话——其智能座舱的大部分功能也将是属于选配范畴，进而正面压制特斯拉Model S/Model X系列（</font><font cms-style="font-L">当前美国本土售价8万美元上下</font><font cms-style="font-L">）以及宝马i4(</font><font cms-style="font-L">预计2021年夏季首发，售价预期为人民币50万左右</font><font cms-style="font-L">)。否则从销量角度预判，其将难以在竞争日益加剧的电动车产业拥有竞争力。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">当然，同时不排除首代Apple Car将推出两款车型的可能，也就是包括另一款下探至35万-40万人民币区间内的介于A级与B级车之间的车型作为主力款（</font><font cms-style="font-L">类似于Mini iPhone12</font><font cms-style="font-L">），不过如果这样，我们对于智能座舱的预期还须进一步放低。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">如是，因受制于现实成本，如果真如传言所称那样2021年秋季便正式发布，那么智能座舱之于Apple Car而言，大概率是茶壶里的风暴——翻不了天。</font></p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">【3】自动驾驶：还未走出“PPT”</font></font></strong></p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">自动驾驶与固态电池并称为下一代智能电动车技术的两颗明珠。</font></font><font cms-style="font-L">有乐观观点认为，Apple Car将携自动驾驶功能而来，为智能电动车产业树立新的标杆。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">在我们看来，这样的观点没有任何事实根据，完全是不现实的。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">一个基本常识是，完全自动驾驶（</font><font cms-style="font-L">L5</font><font cms-style="font-L">）的最终实现，是基于数据、算法、传感器以及专用芯片的共同协作，通过数以万计小时的开放式真实路况测试，方有一定几率以接近99.9999……%的概率所最终实现的。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">以在自动驾驶领域最为激进且技术较为领先的Waymo公司为参照，坚持robotaxi（</font><font cms-style="font-L">无人驾驶出租车</font><font cms-style="font-L">）路径的它，由谷歌于2009年孵化，至少烧掉了40亿美元研发投入，养活了1500人的研发及运营团队，累计路测里程达超过500万英里，迄今仍在L4级别的门口徘徊。</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">反观苹果，2017年第二季度才拿到自动驾驶测试牌照，自动驾驶研发团队建了又拆、拆了又建，基本不具备开放式真实路况的数据处理经验，使得仿真环境中的算法并不天然具有实操性——如此种种，在当前时间节点，能教我们对它的自动驾驶技术存乎怎样的期待？</font></font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/116/w550h366/20201229/881f-kfxsuvw6651694.jpg" alt="图5：苹果2017年上路测试的27辆自动驾驶车辆之一。来源：网络" data-link=""><span class="img_descr">图5：苹果2017年上路测试的27辆自动驾驶车辆之一。来源：网络</span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">在自动驾驶领域，当前苹果最显性的优势在于专用芯片的预期上：</font><font cms-style="font-L">其今年11月最新推出的M1芯片，除了常规逻辑计算单元外，还集成了GPU、深度学习加速器，据评测对许多特定应用的性能提升相当大。</font><font cms-style="font-L">这意味着，这款芯片具有天然适配自动驾驶专用芯片的潜能。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">归根结底，无论对于苹果还是任何一家造车新势力，解决自动驾驶难点——软硬件的鲁棒性、系统的冗余性、测试的完整性等——都还有很长的路要走，10%的长尾问题需要百倍的精力加持。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">毕竟，即使一家车企能处理99.9%的现实路况，也只是达到自动驾驶目标的一小部分，因为它时刻都有可能面临最即时的极端路况（</font><font cms-style="font-L">corner case</font><font cms-style="font-L">）挑战。最乐观估计，出现第一家完全自动驾驶功能的车企，也要在2030年之后。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">以上，对于苹果自动驾驶技术最现实的期待，还是希望它能在两三年内实现L3级别的突破罢了。</font></p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="strong-Bold font-L"><font cms-style="strong-Bold font-L"><font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">02&nbsp;</font></font></font></font></font><font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">心智战争</font></font></font></strong></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">苹果造车，大概率是没有什么惊喜的，但它为何又如此重要？</font></font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">原因一言以蔽：这是一场不得不发的心智战争。</font></font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">在我们看来，牵引苹果加速造车的力量主要有三重：</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">一则</font></font><font cms-style="font-L">是之于智能电动车产业，特斯拉越来越被符号化，苹果如不能尽快介入很可能沦为智能手机时代的三星所扮演的角色；</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">二则</font></font><font cms-style="font-L">在以中国为核心的新兴国家市场，也是电动车产业最为发达的市场，华为正在主导一场车联网操作系统标准，苹果6年前便寄望于“CarPlay”之上的野心可能会付之东流；</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">三——也是最重要的</font></font><font cms-style="font-L">，则是没有规模性交付的量产智能电动车，苹果的自动驾驶梦只是镜中月、水中花（</font><font cms-style="font-L">这也是百度、阿里甚至华为最终不得不下场造车的核心原因</font><font cms-style="font-L">）。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">前两重都是字面意思，很容易理解；关于第三重的具体逻辑，可以参见我们此前的报告《自动驾驶的残酷终局：特斯拉、蔚来、小鹏、滴滴，谁能成为历史注脚？》，此处也不再赘述。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">只是这里特别提及一笔的是，当前市场对于苹果可能使用<font cms-style="font-L strong-Bold">激光雷达</font>作为辅助实现自动驾驶技术的传感器而感到鼓舞，甚至一时鸡犬升天。其实这是一个“潜规则”，与华为当前力推激光雷达逻辑如出一辙：</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">因为自动驾驶是一个“销金窟”，最终累计投入以数百亿计，各大厂商都希望能有商业化手段去支撑长期的研发投入，而激光雷达正是当前一支可行性极强的商业化路径——要知道为了支撑研发，Waymo也都计划研发出售激光雷达产品了。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">另外值得注意的是，激光雷达不仅是单纯的视觉传感器，同时也配套着数据采集处理系统，其间是否存乎巨头对于数据的野心也未可知。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/54/w550h304/20201229/0150-kfxsuvw6666520.jpg" alt="图6：华为激光雷达解决方案的相关参数。来源：网络" data-link=""><span class="img_descr">图6：华为激光雷达解决方案的相关参数。来源：网络</span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">最后这部分，<font cms-style="font-L strong-Bold">我们再来探讨下苹果造车对于产业标准的潜在冲击</font>，鉴于篇幅，此处仅涉及结论不做深入展开：</font></p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">1. Apple Car的问世，将在全球现代工业体系范畴首度确立“信息+能源”混合智能制造标准。</font></font></strong></p>
+<p cms-style="font-L">　　<font cms-style="font-L">翻阅过去10年苹果的发明专利演进，最大的成就在于它正从一家单纯的先进智能软硬件厂商向通迅信技术公司“增维”。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">通俗来说，在原有智能操作系统及智能手机等核心优势基础上，苹果研发了大量与通信相关的底层技术，使其信息通信技术能力大幅增强（</font><font cms-style="font-L">某种意义的“华为化”，也可以说华为过去十年是在“苹果化”</font><font cms-style="font-L">）。最直接的例证是：苹果已经启动基带芯片的自研计划（</font><font cms-style="font-L">基带芯片具有极高的通信专利壁垒</font><font cms-style="font-L">）。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">此处特别提一句，中国另一家智能手机公司小米(</font><font cms-style="font-L">HK:01810</font><font cms-style="font-L">)，也正努力步苹果后尘走在“华为化”——或者说降低下预期，因为基础差很多——“中兴化”的路径上，如果顺利，可能在6G时期能够展示出初步的竞争力。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">在通信技术维度上，特斯拉的功力相对是极其“浅薄”的。所以我们可以说，如果“华为Car”不能赶在Apple Car之前发布的话，全球第一家确立“信息+能源”混合智能制造标准公司将是苹果。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">如是，尽管总体上不会有太大惊喜，但Apple Car基于通信技术的智能化水平将有望是全球领先的。</font></p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">2. 以边缘计算为核心的通信技术有望真正崛起，取代融合计算成为视觉学习技术的有益补充，对于自动驾驶技术的向上跃迁及最终实现发挥重大作用。</font></font></strong></p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">3. 语音控制技术有望成为智能电动车智能交互系统的核心权重。</font></font></strong></p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">4. 自动驾驶SOC芯片进入7纳米甚至5纳米制程。</font></font></strong></p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">5.电动车上市公司的估值模型将重构，估值泡沫将因PS估值体系失效而戳破：因为你不能指望苹果赔钱卖车。</font></font></strong></p>
+<p cms-style="font-L">　　<font cms-style="font-L">以上，仅为我们当前阶段对于苹果造车的主要观察结论，谬误之处欢迎各位文后留言指正讨论。</font></p>
+<p>　　本文基于公开资料撰写，仅作为信息交流之用，不构成任何投资建议。</p>

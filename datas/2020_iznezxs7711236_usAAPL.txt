@@ -1,0 +1,9 @@
+消息称iPhone 13网速会更快：苹果要支持WiFi 6E
+快科技
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/54/w550h304/20201219/2978-kfnaptt9809916.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　据外媒最新报道称，明年要登场的iPhone 13，有望支持WiFi 6E，其会带来更快的网速。</p>
+<p>　　报道中提到，iPhone 13机型可能支持WiFi 6E，为射频芯片制造商Skyworks提供了机会。</p>
+<p>　　行业人士表示，WiFi 6发展到6GHz频谱是一个游戏规则的改变，原因有两个--额外信道的可用性和最终将160MHz用于AR和VR等高带宽应用的能力，"思科高管Jayanthi Srinivasan说。</p>
+<p>　　iPhone 11和iPhone 12系列都支持标准的、非6GHz版本的WiFi 6，第二代iPhone SE也是如此。该分析师还表示，音频芯片制造商Cirrus Logic将至少为部分iPhone 13机型提供新的电源转换芯片，不过目前还不清楚此举是否会有明显的面向消费者的好处。</p>
+<p>　　WiFi 6E是WiFi 6技术进入的一个全新领域——将WiFi 6扩展至6GHz频段。今年年初，WiFi联盟正式将这一全新的WiFi 6技术领域命名为WiFi 6E。换言之，将WiFi 6扩展至6GHz频段就可以被称作WiFi 6E，这是一次技术的迭代。</p>
+<p>　　WiFi 6E相比现有WiFi 6而言，好处就是6GHz频段引入后的提升，这提供了更加丰富的频谱资源。打个比方，大家熟知的马路，分为4车道、6车道、8车道，而频谱就好比是信号传输用的“车道”，更加丰富的频谱资源，也就意味着“车道”更多了，传输的效率也就相应提升了。</p>

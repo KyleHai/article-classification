@@ -1,0 +1,50 @@
+Mac颜值秒杀Win10？五款神器让Win10化身macOS
+新浪科技综合
+<p cms-style="font-L">　　本文来自太平洋电脑网</p>
+<p cms-style="font-L">　　微软在Win10上捣鼓已经不是一天两天了，可结果……还是难以令人满意，特别是不伦不类的UI！其实Win10的底子还是不错的，新技术用了不少，外观也比之前更有颜值，但……总感觉缺了点什么！</p>
+<p cms-style="font-L">　　有没有羡慕隔壁的Mac界面的整齐划一？以下这五款神器，就能让你的Win10瞬间变身macOS。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201214/137/w600h337/20201214/4990-kffctca8925763.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L align-Center">　　Win10 or macOS</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">1。 My Dock</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">下载地址：https：//www.microsoft.com/zh-cn/p/my-dock/9n156vjrft53</font></p>
+<p cms-style="font-L">　　Dock栏绝对是Mac系统的最大看点，不光是方便，那独特的颜值也无时无刻吸引着很多人。My Dock是一款高度模仿Mac Dock的小工具，简单来说，它能模仿两大功能。一是底部Dock栏，二是窗口动效。</p>
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201214/57/w600h257/20201214/5acd-kffctca8925764.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L align-Center">　　逼真感腻人的Dock栏</p>
+<p cms-style="font-L">　　My Dock的Dock栏绝对能和真正的苹果一拼高下。鼠标划过会有动态缩放，缩略图也和真正的Dock一模一样。左侧是应用程序，右侧是已打开窗口。除了各种Windows程序外，你还可以在里面找到Finder、日历、时钟、天气、Siri、Launchpad这些“原汁原味”的Mac元素。</p>
+<p cms-style="font-L">　　当然仅仅是图标而已，真正的功能还是由Win10里的相关模块承担。</p>
+<div class="img_wrapper"><img id="2" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201214/118/w600h318/20201214/5ccd-kffctca8925781.png"><span class="img_descr"></span></div>
+<p cms-style="font-L align-Center">　　各种动画</p>
+<p cms-style="font-L">　　动态效果对标Mac，包含最小化、还原，以及程序启动。整个过程没有卡顿，就像真正的Mac电脑一样丝滑柔顺。而且这个动效并不仅限于文档，只要是窗口，无论程序还是系统，在执行上述操作时，都能看到动画的出现。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">2。 My Finder</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">下载地址：https：//www.mydockfinder.com/</font></p>
+<p cms-style="font-L">　　如果说My Dock解决的是任务栏问题，那么My Finder处理的就是Mac顶部的菜单栏了。Mac顶栏是一个类似于Win10任务栏一样的东东，却可以根据当前所打开的程序自动变化。</p>
+<p cms-style="font-L">　　比方说当你启动Word软件后，顶栏会显示出一些与Word有关的菜单项，而当打开Photoshop后，这里又会变成PS里的相关命令。</p>
+<div class="img_wrapper"><img id="3" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201214/137/w600h337/20201214/c912-kffctca8925780.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L align-Center">　　模拟Mac顶部菜单栏</p>
+<p cms-style="font-L">　　顶栏右上角是系统参数显示区，类似于Win10的系统托盘。这里你能看到很多与Mac外观相近的元素，比如日期、时间、内存、CPU占用率等，甚至还有和Mac一模一样的通知提醒以及音量指示条。</p>
+<div class="img_wrapper"><img id="4" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201214/114/w600h314/20201214/901d-kffctca8925796.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L align-Center">　　原汁原味的Mac版“提示条”</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">3。 WinDynamicDesktop</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">下载地址：https：//www.microsoft.com/zh-cn/p/windynamicdesktop/9nm8n7dq3z5f</font></p>
+<p cms-style="font-L">　　WinDynamicDesktop是一款能够跟随时间自动变化的壁纸程序，用以模仿MacOS里另一项神奇功能——动态桌面。首次启动后，我们需要授予软件定位权，以便它能根据我们当前所处的位置，实时确定日出日落时间。</p>
+<p cms-style="font-L">　　和Mac里的同款功能一样，WinDynamicDesktop也并非简单地跟随时间自动切换壁纸，而是根据用户所在地的季节变化，再结合时间进行切换。简单来说，就是你那里天黑了，电脑桌面也会天黑！</p>
+<div class="img_wrapper"><img id="5" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201214/110/w600h310/20201214/4072-kffctca8925794.png"><span class="img_descr"></span></div>
+<p cms-style="font-L align-Center">　　随时间自动变化的壁纸</p>
+<p cms-style="font-L">　　遗憾的是，WinDynamicDesktop本身并没有内置壁纸，需要我们手工下载。而且由于服务器在国外，因此下载速度非常非常非常……慢。而这，也就是这款软件最大的遗憾了！</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">4。 MacType</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">下载地址：https：//www.mactype.net/</font></p>
+<p cms-style="font-L">　　光从软件名称上看，相信大家已经猜出它是做什么的了。众所周知，Windows的字体渲染一直是个老大难问题，特别是在2K、4K这样的高分辨率屏幕上，与Mac的字体渲染完全不是一回事。MacType就是一款能在Windows上，模仿Mac字体渲染风格的小软件。</p>
+<div class="img_wrapper"><img id="6" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201214/256/w600h456/20201214/fb74-kffctca8925819.jpg"><span class="img_descr"></span></div>
+<!--article_adlist[<p cms-style="font-L align-Center">开启MacType前后对比（点击看大图）</p>]article_adlist-->
+<p cms-style="font-L">　　软件使用简单，直接安装即可。这里考虑到不同用户间的设备差异，自带了若干配置文件。不过个人感觉默认（Default）的效果就已经很好了，如果没有特殊需求，保持现状即可。实际效果参看上图。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">5。 Listary</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">下载地址：https：//www.listary.com</font></p>
+<p cms-style="font-L">　　用过Mac系统的童鞋，一定会对它的“聚焦搜索”（Spotlight）赞不绝口。的确，相比之下Windows的自带搜索简直太烂了。Listary是一款类似于Spotlight的全局搜索工具，同样支持热键调出（双击两次Ctrl键）。</p>
+<p cms-style="font-L">　　你可以通过输入框，任意搜索你想要的程序或文档，哪怕只记得其中的几个字。</p>
+<div class="img_wrapper"><img id="7" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201214/226/w600h426/20201214/88ee-kffctca8925820.png"><span class="img_descr"></span></div>
+<p cms-style="font-L align-Center">　　媲美Spotlight的Listary</p>
+<p cms-style="font-L">　　除了搜索功能外，Listary也支持简单的数学运算，以及窗口空白处双击，来调出快捷菜单。相比Spotlight，Listary无论在外观还是功能方面，都毫不逊色。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">写在最后</font></p>
+<p cms-style="font-L">　　以上就是本期要给大家推荐的几款小软件，尽管捣鼓的过程可能略显繁琐，但完成后的效果，绝对值得你折腾一番！</p>
+<div class="img_wrapper"><img id="8" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201214/137/w600h337/20201214/4755-kffctca8925846.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L align-Center">　　欣赏你那美如画的“macOS”吧</p>

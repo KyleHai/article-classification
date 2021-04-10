@@ -1,0 +1,68 @@
+苹果刚刚推出的Apple Fitness+服务，会成为Keep杀手吗？
+爱范儿
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/58/w550h308/20201216/976b-kffctcc7608969.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　在今年9月的苹果发布会上，库克宣布推出AppleFitness+计划（下面简称Fitness+），而12月14日也就是今天，这项健康增值服务正式上线。</p>
+<p>　　首批享受到这项服务的国家有美国、英国、澳大利亚、加拿大、爱尔兰和新西兰。</p>
+<p>　　咱们国内尚未能用上Fitness+这项服务，有些许可惜，但好奇宝宝们不妨先来了解一番。</p>
+<p>　　<strong>苹果Fitness+是什么？</strong></p>
+<p>　　Fitness+在原本‘Fitness’（国内名称是健身）应用基础上进行扩展，把手表的运动记录投射到iPhone、iPad、AppleTV等（相对的）大屏幕上，用户可以专注于跟随屏幕上的运动教程，无需经常抬起手腕看心率、时长等数据。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/12/w550h262/20201216/e1dd-kffctcc7576592.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　现在打开健身App，只能看到两个Tab：概要和共享，加入计划之后，界面中会多出来一个Fitness+的Tab。原本已有‘健身’App的用户不用重复安装，但若想在iPad和AppleTV上，还是得另行下载‘健身’。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/52/w550h302/20201216/bf34-kffctcc7577096.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　在Fitness+这个Tab里面，可以看到大量的体能训练教程。目前有十种课程类型，包含HIIT、普拉提、瑜伽、核心训练、划船、骑车等，且大部分课程都无需借助器械即可跟练。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/202/w550h452/20201216/2a95-kffctcc7577517.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　每一节都有真人教练指导，大部分用户对此类内容都不会陌生，毕竟国内许多运动App都有类似课程。</p>
+<p>　　每项课程都有三位教练同时进行动作指导，仔细看会发现，每位教练的动作幅度和频率都不一样，有快有慢，方便不同基础的人跟上步伐。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/177/w550h427/20201216/b06f-kffctcc7626108.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　另外为了照顾初次接触这类健身课程的入门用户，Fitness+还专门推出了时长在10-20分钟之间的中短课程，</p>
+<p>　　可以看出Fitness+的核心在于跟练，更准确地说是跟着真人教练一起练。</p>
+<p>　　尤其是如今疫情当下，健身爱好者只能困在家中，在家跟着课程做运动，或许是不错的权宜之计。</p>
+<p>　　因此，苹果找来一簇专业人士来帮你增肌/减脂，包括瑜伽达人、私人教练、武术家、体操运动员、铁人冠军、马拉松运动员、健身俱乐部创办人等等，为了营造出专业的感觉，他们的名字会出现在课程的显眼位置上。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/11/w550h261/20201216/9994-kffctcc7578414.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　等到你能叫出他们的名字时，你可能会意识到自己已经跟着Fitness+练了很长一段时间了，教练们似乎已经成了你的伙伴。</p>
+<p>　　苹果把AppleMusic也整合进了Fitness+中，解决了锻炼前先花半小时寻找运动歌单的问题。</p>
+<p>　　目前能看到，苹果想把打造AppleTV+的那一套方法，放在Fitness+上面，通过内容去绑定用户，让人们更多地运动，更多地使用AppleWatch。</p>
+<p>　　所以说，Fitness+将来会出现在你的iPhone、iPad、电视上，但核心还是你戴在手腕上的那块苹果表。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/12/w550h262/20201216/91e1-kffctcc7578768.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　我作为AppleWatch的老用户，经历了它从‘小型智能手机’到‘运动管理机器’的一系列转变，而我选择它的核心需求，也正是用来记录一次次运动。不论是跑步、划船还是撸铁。</p>
+<p>　　我愿意相信这块方屏上显示的数据是贴近真实的。有个词叫‘经验之谈’，穿戴设备对运动监测的结果准确与否，同样取决于经验。</p>
+<p>　　经验是对人而言的，对于机器，则是用大量的数据，通过训练，最终可以‘凭经验’推算出尽可能准确的数据。</p>
+<p>　　据IDC最新报告指出，今年第三季度AppleWatch出货量达1180万台，市场上整体的保有量更是可观，在这个量级上进行AI训练而得到的锻炼数据，足以让人信服。</p>
+<p>　　所以当我们跟着屏幕上的教练一起燃烧卡路里时，大可相信左上角的卡路里、心率数据都是准确的，从而调整自己的运动频率和强度，达到事半功倍的效果。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/57/w550h307/20201216/7f56-kffctcc7628577.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　苹果这一波软硬兼施，会有多少用户买单还不好说，但资本市场对此已有了反应。苹果宣布Fitness+上线日期的当日，知名运动厂商Peloton的股价应声下跌了2%。</p>
+<p>　　不过Peloton的CEOJohnFoley对Fitness+礼貌性地送上了来自同行的祝福，表示期待苹果对家用健身市场的推动作用。</p>
+<p>　　好在Fitness+的价格还算亲民，9.99美元/月，或者是79.99美元/年，买新款AppleWatch可免费使用三个月。</p>
+<p>　　Fitness+还与AppleMusic、AppleTV+、AppleArcade、iCloud（2TB）、AppleNews+共计6项苹果增值服务，一同打包进AppleOne全家桶套餐中，每月给苹果交上29.95美元，即可享受，算是蛮有竞争力的价格了。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/116/w550h366/20201216/99a4-kffctcc7579409.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　<strong>Keep们得小心喽</strong></p>
+<p>　　最早的运动跟练课程，或许是上世纪80年代火爆全美，在电视上播放的健身操节目。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/80/w550h330/20201216/a0cb-kffctcc7579730.png" alt="▲皮卡丘带你跳健美操" data-link=""><span class="img_descr">▲皮卡丘带你跳健美操</span></div>
+<p>　　人们在电视面前跟着锻炼挥汗如雨的样子，跟如今照着手机屏幕跟练的人似乎没有太大区别，唯一的区别就是运动种类变多了，而且可以自主选择锻炼的项目。</p>
+<p>　　国外已经有许多类似的运动App，譬如NikeTrainingClub、Peloton等，还有YouTube上面各大博主制作的健身视频。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/203/w550h453/20201216/49bd-kffctcc7580066.png" alt="▲Peloton骑车" data-link=""><span class="img_descr">▲Peloton骑车</span></div>
+<p>　　国内相关竞品也不少，Keep、咕咚、小米运动、超级猩猩、乐刻之类的，可以说无论是国内或国外，运动领域已有不少摸爬滚打多年的头部公司，苹果如今入局运动内容，都得叫他们一声‘老大哥’。</p>
+<p>　　这类运动App表面上比的是内容广度和深度，其实内容只是基础，真正能让用户坚持使用的，是背后的社群文化。</p>
+<p>　　运动这件事本就是反人性的，独自一人坚持健身锻炼就更难了。要是能有一群志同道合的爱好者陪着你、鼓励你，这事会轻松很多。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/60/w550h310/20201216/3729-kffctcc7630514.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　Keep的首页是社区，用户在上面记录健身成果的同时，也是分享心的；在B站看健身视频，评论区里多是良性讨论，互相鼓励。</p>
+<p>　　国外火爆的Peloton运动文化，本质上也是同好的集合。很少听到有人会谈论Peloton的产品多么多么好，然而用户们常说自己在Peloton社区里结识了很多朋友，感受到了家人般的温暖。</p>
+<p>　　照Peloton和Keep的路线看来，苹果或许能借助Fitness+，使得AppleWatch用户之间形成更强的绑定。</p>
+<p>　　其实苹果‘健身’App中，早已有好友PK的玩法。它被藏在‘共享’Tab里，用户可以向好友发起竞赛挑战，一周时间内，分数高的那一方获胜。</p>
+<p>　　取得分数的方式很简单：圆环每合上百分之一得1分。理论上只要把卡路里的目标设的足够低，合上圆环的速度就越快，得分也就越高，这就是所谓的开挂吧，但这样子做可能会没有朋友。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/296/w550h546/20201216/1489-kffctcc7580703.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　有了PK的玩法之后，还得有吸引用户玩下去的动力，目前仅靠自身对运动的喜爱，粘性自然不够，在Fitness+推出之后，再结合竞赛玩法，或许会对Keep一类运动App的社群文化造成冲击。</p>
+<p>　　但苹果的重点并不在于跟运动App们抢生意，推出Fitness+的背后逻辑，说到底还是为了让AppleWatch变得更有吸引力，把壁垒砌得高一点，再高一点。</p>
+<p>　　<strong>苹果在大健康领域持续发力</strong></p>
+<p>　　一面是运动，一面是健康，AppleWatch几乎承载了苹果对健康管理领域的全部布局，这块表就是苹果用来叩开大健康领域大门的一把钥匙，其意义不亚于手机之于移动互联网，电视之于智能家居。</p>
+<p>　　近期曝光的AppleWatch新专利，预示了未来这块腕表可实现持续性的血压监测功能，‘通过脉搏测算由左心室泵出的血液所产生的血压脉冲何时抵达腕部’，做到无创、无气泵测量血压。</p>
+<p>　　届时AppleWatch将集齐实时心率、心电、血氧、血压多种健康指标的监测功能，这是初代AppleWatch所无法想象到的，足不出户，在家就能完成部分常规体验项目，人们对健康的掌控变得更加及时。</p>
+<p>　　从最简单的计步功能做起，发展至今，AppleWatch已经做到可对90+种类型的运动进行监测，Fitness+所提供的课程，都能在‘健身-体能训练’中找到对应的监测项目。</p>
+<p>　　为了配合Fitness+的上线，苹果还在美国官网AppleStore中上架了第三方瑜伽垫等商品，不过售价依旧很‘苹果’。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/6/w550h256/20201216/4974-kffctcc7580873.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　苹果推出Fitness+或许只是锦上添花，但它同时也是苹果构筑‘健康生态圈’的最新一环，后续发展如何，还得看内容更新速率、交互方式、社群搭建等多个维度的建设。</p>
+<p>　　让我们把视线回到标题上，AppleFitness+会成为Keep杀手吗？</p>
+<p>　　纵观苹果之前推出的几款服务，涵盖了音乐、流媒体、新闻、游戏、网盘等多个领域，那些服务初上线之时，也有不少唱衰行业的声音。</p>
+<p>　　今天再看看Spotify、Netflix等公司，不都活得好好的，苹果入局甚至激起了该领域的‘鲇鱼效应’，让原本死气沉沉的市场变得活跃，玩法层出不强，盘子越来越大，皆大欢喜。再看看苹果此次选择的运动领域，远未到零和博弈的局面，多一个苹果又何妨。</p>
+<p>　　而且别忘了Fitness+一定得配合AppleWatch使用，无疑提高了普通用户选择Fitness+的门槛。Fitness+不仅不会杀死Keep们，还能让运动内容市场迸发出新的活力。</p>
+<p>　　新玩家的加入，不论对市场或普通用户而言，都是好事。</p>

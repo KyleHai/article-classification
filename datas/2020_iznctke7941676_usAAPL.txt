@@ -1,0 +1,75 @@
+被AMD赶超，被苹果、微软抛弃：四面楚歌的英特尔要对自己动刀了
+雷锋网
+<div class="img_wrapper"><img id="0" src="http://n.sinaimg.cn/tech/crawl/59/w550h309/20201222/1b22-kftfpiv3168309.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　原标题：英特尔要对自己动刀了</p>
+<p cms-style="font-L">　　<font cms-style="font-L">作者&nbsp;／ 李帅飞</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">Intel 正在寻找一位新的 CEO。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">近日，据外媒 HEXUS 报道，一位名为 uzzi38 的 Reddit 用户公布了一份投资者和分析师会议实录，该会议由知名投资机构 SIG (Susquehanna International Group, LLP) 举办——在这次会上，SIG 传出了上述消息。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">报道认为，这个消息颇为可靠，虽然它并非是官方声明。</font></p>
+<div class="img_wrapper"><img id="1" src="http://n.sinaimg.cn/tech/crawl/764/w550h214/20201222/5540-kftfpiv3168341.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">雷锋网在 Reddit 查询到，根据实录内容，在新任 CEO 的选择上，Intel 已经否定了其中一个选择，但它还有其他三位候选人——不仅如此，该内容还宣称，在明年 1 月份财报公布之后，Intel 会做出最终的决定。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">那么，如今的 Intel，需要一位新的 CEO 吗？</font></p>
+<p cms-style="font-L">　　<strong><font cms-style="font-L">Bob Swan：财务出身，临时受命</font></strong></p>
+<p cms-style="font-L">　　Intel CEO 这个角色，无论是对于 Intel 本身来说，还是对于整个半导体科技行业来说，都是一个举足轻重的角色——如今，这一角色正由 Bob Swan 在承担。</p>
+<p cms-style="font-L">　　<font cms-style="font-L">有趣的是，Bob Swan 接任 Intel CEO，与发生在 Intel 公司的一个桃色事件有关。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">2018 年 6 月 21 日，Intel 在官网发布声明，因与公司内部的某位员工有违背公司政策的亲密关系，时任 Intel CEO 兼董事 Brian Krzanich 将不再担任 CEO 职位。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">与此同时，时任 Intel CFO Bob Swan 担任 Intel 临时 CEO，即刻生效。</font></p>
+<div class="img_wrapper"><img id="2" src="http://n.sinaimg.cn/tech/crawl/116/w550h366/20201222/485f-kftfpiv3168356.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">那么，Bob Swan 究竟是何许人也？</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">雷锋网了解到，Bob Swan 于 1960 年 5 月 9 日出生在美国纽约州的 Syracuse，他拥有布法罗大学工商管理学士学位和宾厄姆顿大学 MBA 学位。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">他于 1985 年在通用电气开始了自己的职业生涯，并在 15 间担任各种高级金融管理职务；后来他还曾经担任多家企业的财务副总裁或 CFO，其中包括在 eBay 和惠普企业服务担任 CFO——他还曾经在泛大西洋投资（General Atlantic）担任运营合作人。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">而 Bob Swan 加入 Intel ，是在 2016 年 10 月，担任的依然是 CFO 一职。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">不过因为 2018 年的上述桃色事件，他转任 Intel 临时 CEO——就这样，有着丰富财务管理经验的 Bob Swan，成为 Intel 这条半导体大船的临时掌舵者。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">值得一提的是，此后不久，Bob Swan 曾表示并不希望自己长久担任 CEO 这个职务。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">然而，世事难料——2019 年 1 月 31 日，在担任 Intel 临时 CEO 七个月后，Bob Swan 却正式就任 Intel CEO 一职。</font></p>
+<div class="img_wrapper"><img id="3" src="http://n.sinaimg.cn/tech/crawl/150/w550h400/20201222/9118-kftfpiv3168381.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">在这一消息宣布之后，Bob Swan 写了一封公开信：“我们必须勇敢无畏。Intel 团队的技术和战略愿景，足以塑造科技的未来。我们的志向从未如此远大，但在 Intel 史上最大的目标市场中，我们所占的份额还相对较小。这个世界正逐渐以数据为中心，所有的数据都需要被处理、传输、存储和分析。”</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">通过这封信，Bob Swan 试图鼓舞 Intel 公司上下的士气。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">值得一提的是，在 Intel 成立以来的 52 年中，它一共经历了 7 任 CEO；在现任 Bob Swan 之前，所有的 Intel CEO 都或多或少拥有工程师经验或技术背景。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">而 Bob Swan 是唯一一个财务出身的 Intel CEO。</font></p>
+<p cms-style="font-L">　　<strong><font cms-style="font-L">Bob Swan新官上任后的三把刀</font></strong></p>
+<p cms-style="font-L">　　<font cms-style="font-L">作为 CFO 出身的 CEO，Bob Swan 更善于从财务角度看待问题。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">实际上，在转正 CEO 之后，Bob Swan 在 Intel 业务发展的道路上进行了多方面大刀阔斧式的变革，其中比较引人关注的就是他的三把刀。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">其中，他在新官上任后的第一把刀，就是砍掉了 Intel 的 5G 基带业务。</font></p>
+<div class="img_wrapper"><img id="4" src="http://n.sinaimg.cn/tech/crawl/116/w550h366/20201222/2f2c-kftfpiv3168407.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">雷锋网了解到，2019 年 4 月 16 日，就在苹果宣布与高通达成和解协议当天，Intel 就立刻宣布退出 5G &nbsp;智能手机调制解调器业务——此前，Intel 与苹果在 4G 基带业务上的合作没有赚到什么钱，而且 5G 基带也已经难产。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">当时，在接受采访时，Bob Swan 表示：Intel 放弃调制解调器业务是因为苹果与高通已达成和解，没有苹果这个大客户，Intel 看不到前进的方向。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">不仅如此，Intel 还很快将约 8500 项与蜂窝网络连接有关的知识产权专利拍卖，其中包括 3G/4G/5G 相关专利——最后在 7 月份以 10 亿美元的价格被苹果收入麾下。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">这番操作，颇有及时止损、快速变现的意味。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">同样的操作，也出现在 Intel 对 Nervana AI 芯片的放弃上——该芯片于 2016 年被 Intel 收购，但后来在技术开发、产品表现和商用方面一直不如人意，最后在 2020 年 2 月，Intel 宣布放弃 Nervana，转而支持最新收购的 Habana Labs 产品，引起业界一片哗然。</font></p>
+<div class="img_wrapper"><img id="5" src="http://n.sinaimg.cn/tech/crawl/18/w550h268/20201222/0ff0-kftfpiv3168428.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">值得一提的是，从 20 亿美元收购 Habana Labs 到用它来取代 Nervana，Intel 用了不到两个月的时间——对于 Intel 这样的大公司来说，在如此短的时间里做出决策，堪称是神速。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">而在 Bob Swan 治下，Intel 也在 2020 年 10 月挥出了第三把刀，以 90 亿美元的价格，砍掉了 Intel 的 NAND 闪存业务——值得一提的是，在这笔交易中，Intel 还出售了位于中国大连的 NAND 闪存制造工厂。</font></p>
+<p cms-style="font-L">　　实际上，这是 Intel 在亚洲的唯一的晶圆制造工厂。</p>
+<div class="img_wrapper"><img id="6" src="http://n.sinaimg.cn/tech/crawl/55/w550h305/20201222/6bcb-kftfpiv3168455.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">对此，Bob Swan 表示：这次交易能让我们更加专注于投资具有差异化特点的技术，从而令我们在客户的成功中扮演更重要的角色，并且为我们的投资者产出可观的回报。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">从这番话语来看，这笔交易的确很符合 Bob Swan 的做事风格。</font></p>
+<p cms-style="font-L">　　<strong><font cms-style="font-L">Intel的2020 年，过得并不好</font></strong></p>
+<p cms-style="font-L">　　<font cms-style="font-L">Bob Swan 无疑是一个经验丰富的领导者；但对于 Intel 这样的巨无霸科技企业来说，他也存在短板。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">实际上，早在 2019 年 5 月，就有行业人士担忧，Bob Swan 能否带领这家硅谷知名的科技公司面对市场的机会及挑战。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">比如说，Martinwolf 分析师 Marty Wolf 认为，Bob Swan 也许是很好的员工，但是 Intel 需要的是强大的技术领导人；而 Wedbush 科技产业分析师 Joel Kulina 也表示，不论是过去或现在，Intel 需要的都是有着科技背景，对执行事务很有一套的人。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">而 Bernstein Research 分析师 Stacy Rasgon 则表示：英特尔前任 CEO 留下了很多烂摊子给 Swan 收拾，说明了技术导向的领导人不见得一定会比较好；不过，Swan在做技术相关决定时也必须要承认，自己并不具备评断的能力，应该交由技术团队判断。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">分析师的意见值得参考，但真正能够检验 Bob Swan 实力的，是 Intel 的业务发展状况——从目前的情况来看，Intel 的业务发展并不算顺利。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">其中最受人诟病就是制程技术的延宕。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">实际上，在 10nm 芯片的研发和量产上，Intel 本来就已经拖延了数年，导致 AMD 在台积电的快车上大行其道——2019 年 5 月，在 Intel 投资者日上，Bob Swan 表示 Intel 将在 2019 年 10nm 芯片，并将在 2021 年生产并推出一款 7nm 产品。</font></p>
+<div class="img_wrapper"><img id="7" src="http://n.sinaimg.cn/tech/crawl/36/w550h286/20201222/e858-kftfpiv3168483.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">然而，10nm的问题解决了，7nm 却遭遇了严重的难产问题。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">2020 年 7 月，在 Intel &nbsp;Q2 财报后，Bob Swan 却公布了一个负面消息：因为 7nm 工艺出现严重的良率问题，公司在制造方面落后了 12 个月；虽然可以通过更加灵活的芯片设计将延迟时间减半到 6 个月，但最早也要在 2022 年末量产 7nm。</font></p>
+<p cms-style="font-L">　　要知道，隔壁的 AMD 已经搭上台积电的便车，在 7nm 处理器上做得风生水起；但 Intel 却依旧在是否将处理器制造外包这个问题上犹豫不决。</p>
+<p cms-style="font-L">　　<font cms-style="font-L">消息一出，Intel 股价直接暴跌 16.24%——别忘了，它的 Q2 业绩其实很好。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">特别值得一提的是，就在 Intel 这一次股价暴跌前后，AMD 的股价还超越了 Intel。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">后来到了 Q3，Intel 的财务表现再次出现问题——其营收和净利润分别下降了 4% 和 28.6%；由于不及预期，导致 Intel 的股价下跌了 10.58%，市值一夜蒸发 242 亿美元。</font></p>
+<div class="img_wrapper"><img id="8" src="http://n.sinaimg.cn/tech/crawl/158/w550h408/20201222/fe95-kftfpiv3168535.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">实际上，如果用当下的 Intel 股价（今年 12 月 21 日， 46.36）和 Bob Swan 刚刚转正时的股价（去年 2 月 1 日，48.73）进行对比，会发现基本上维持在同一水平，略有下降——作为对比，在同一时间区间内，AMD 的股价几乎翻了四倍（从 24.51 到 95.94）。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">从这个角度来看，Bob Swan 并未能拯救 Intel 的股价。</font></p>
+<p cms-style="font-L">　　<strong><font cms-style="font-L">小结</font></strong></p>
+<p cms-style="font-L">　　<font cms-style="font-L">当然，股价变化只是评判企业领导者带领企业走向未来的一个外在评价尺度。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">对于 Intel 这艘巨轮来说，真正重要的是，作为领导者的 Bob Swan 是否能够带领它走出 7nm 制程工艺落后的泥潭，并且在技术和业务发展方向上取得突破，跟上乃至引领历史前进的步伐。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">但从目前的情况来看，Intel 在 2020 年过得并不如意。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">不仅如此，就在近日，市场上还传来一个坏消息：在苹果 Mac 转投自家 M1 芯片之后，Intel 的老盟友微软也在针对服务器和 Surface 设备研发基于 ARM 的自研芯片，这直接导致 Intel 股价下跌超过 6%。</font></p>
+<div class="img_wrapper"><img id="9" src="http://n.sinaimg.cn/tech/crawl/59/w550h309/20201222/69bf-kftfpiv3168568.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">恐怕Bob Swan 在听到这个消息后，并不会很好受。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">但无论如何，作为世界级的芯片巨头，Intel 依然有巨大的技术实力和固有优势，同时也有足够多的机会，来实现面向未来的成功转型。Intel 真正需要的，其实正是微软 CEO Satya Nadella 在《刷新》一书所谈的变革。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">而在企业变革过程中，CEO 的角色无疑极为是关键的，正如 Satya Nadella 对如今的微软很重要一样。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">不过，无论外界怎么看，对于 CEO 的选择，Intel 最终会做出自己的决策，现在去评价 Bob Swan 恐怕还为时过早。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">且让时间给 Intel 一个答案。</font></p>

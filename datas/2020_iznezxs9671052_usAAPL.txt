@@ -1,0 +1,3 @@
+苹果败诉：指控iOS虚拟机开发商侵犯版权被驳回
+老虎证券
+<p class='ori_titlesource'>原标题：苹果败诉：指控iOS虚拟机开发商侵犯版权被驳回    来源：老虎证券</p><p cms-style="font-L">【苹果败诉：指控iOS虚拟机开发商侵犯版权被驳回】美港电讯APP 30日讯，美国佛罗里达州地方法官Rodney Smith周二驳回了苹果(AAPL.O)对佛罗里达虚拟机开发商Corellium的侵犯版权指控。Corellium的软件能够帮助软件研究员发现iPhone等苹果产品漏洞。苹果指控Corellium实际上是在复制iOS系统来打造“虚拟”iOS设备，唯一功能就是在非苹果硬件上运行未经授权的系统副本。Smith作出了有利于Corellium的判决，认为Corellium用于模拟iOS系统的软件相当于“合理使用”，因为系统已经发生“变化”，帮助开发者寻找安全漏洞。</p>

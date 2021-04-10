@@ -1,0 +1,196 @@
+苹果二次复兴：大象又开始跳舞了
+界面新闻
+<p class="ori_titlesource">　　原标题：苹果二次复兴：大象又开始跳舞了</p>
+<p cms-style="font-L">　　文|市值风云&nbsp; 小鑫</p>
+<p cms-style="font-L">　　流程编辑 |小白</p>
+<p cms-style="font-L">　　苹果是各位老铁们再熟悉不过的一家公司。</p>
+<p cms-style="font-L">　　2018年8月，风云君曾经写过一篇讲述当时热门的FAANG五大科技公司的长文，《万字重磅 | 深度解剖美股五大花旦：Apple 、Facebook、Google 、Amazon、Netflix》。</p>
+<p cms-style="font-L">　　当时，苹果已经从2016年收入下滑的困境中走出来。风云君在文章中对苹果从成长性、盈利性、供应链管理效率多个方面进行了分析，结论是苹果增长趋缓、盈利指标仍维持在高位、同时运营效率非常优秀。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/166/w580h386/20200220/b448-ipvnsze1038637.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　又过了一年，风云君决定回来看看这位老朋友。</p>
+<p cms-style="font-L">　　不过这次要换个角度，先从大家最熟悉的iPhone说起。</p>
+<p cms-style="font-L strong-Bold">　　一、iPhone真正涨价其实是这几年的事</p>
+<p cms-style="font-L">　　风云君整理了历代iPhone在美国地区的首发不含税价格（注：均为最低存储配置），并将其分为基本款、高配款和尊享款。</p>
+<p cms-style="font-L">　　iPhone 5c和iPhone SE由于没有后继产品，这里列入其他。</p>
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/64/w580h284/20200220/3ad3-ipvnsze1038636.jpg" alt="（来源：网络数据，市值风云整理）"><span class="img_descr">（来源：网络数据，市值风云整理）</span></div>
+<p cms-style="font-L">　　iPhone的发展可以分为三个阶段：</p>
+<p cms-style="font-L">　　单iPhone时代：从2007年的初代iPhone到2013年的iPhone 5s；</p>
+<p cms-style="font-L">　　双iPhone时代：从2014年的iPhone 6、iPhone 6 Plus到2016年的iPhone 7、iPhone 7 Plus；</p>
+<p cms-style="font-L">　　三iPhone时代：从2017年的iPhone 8、iPhone8 Plus、iPhone X到2019年的iPhone 11、iPhone 11 Pro、iPhone 11 Pro Max。</p>
+<p cms-style="font-L">　　可以清楚得看到，iPhone售价的全面提高是从2017年的“三iPhone时代”开始的。</p>
+<p cms-style="font-L">　　在这之前的2011-2016年，基本款的iPhone价格一直维持在649美元。</p>
+<div class="img_wrapper"><img id="2" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/129/w580h349/20200220/b318-ipvnsze1038683.jpg" alt="（来源：网络数据；市值风云整理）"><span class="img_descr">（来源：网络数据；市值风云整理）</span></div>
+<p cms-style="font-L">　　而2017年，基本款的iPhone 8发售价达到699美元，比上代的iPhone 7贵了50美元；高配款的iPhone 8 Plus比iPhone 7 Plus贵了30美元，达到799美元；新推出的iPhone X售价更是高达999美元。</p>
+<div class="img_wrapper"><img id="3" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/105/w580h325/20200220/2c41-ipvnsze1038682.jpg" alt="（2017年发售的iPhone 8和iPhone 8 Plus）"><span class="img_descr">（2017年发售的iPhone 8和iPhone 8 Plus）</span></div>
+<p cms-style="font-L">　　售价变高的同时，成本也变高了。</p>
+<p cms-style="font-L">　　根据IHS Markit（INFO.O）的数据，iPhone X的成本达到370.25美元，远高于此前iPhone 7、iPhone 7 Plus的219.80、270.88美元；iPhone X的物料成本占售价的比例为37.1%，也高于iPhone 7、iPhone 7 Plus的33.9%、35.2%。</p>
+<p cms-style="font-L">　　高配款iPhone从2014年一经推出，物料成本占比就不断上升；基本款则至少是从iPhone 7发售的2016年，物料成本占比开始明显上升的。</p>
+<p cms-style="font-L">　　iPhone XS Max则是近年来成本最高的一款机型，合计物料成本高达390美元，占售价的比重达到35.5%。</p>
+<p cms-style="font-L">　　2019年最新款iPhone的物料成本数据暂时没有找到。</p>
+<div class="img_wrapper"><img id="4" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/169/w580h389/20200220/9d00-ipvnsze1038729.jpg" alt="（来源：IHS Markit）"><span class="img_descr">（来源：IHS Markit）</span></div>
+<div class="img_wrapper"><img id="5" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/112/w580h332/20200220/b82f-ipvnsze1038728.jpg" alt="（来源：IHS Markit，市值风云整理）"><span class="img_descr">（来源：IHS Markit，市值风云整理）</span></div>
+<p cms-style="font-L strong-Bold">　　二、iPhone的“涨价魔咒”</p>
+<p cms-style="font-L">　　下面我们来看看iPhone的销售数据。</p>
+<p cms-style="font-L">　　每个财年的一季度（注：苹果的财年从上一年10月初至当年9月底）是苹果9月新品发布会之后的首个季度。再加上圣诞假期的影响，当季的销售额占全年很大比例，比如说近两年平均要占到全年销售额的36.8%。</p>
+<p cms-style="font-L">　　“三iPhone时代”开启的2017年，对应的是2018财年一季度（注：开始于2017年10月的季度）。</p>
+<p cms-style="font-L">　　可以看到，从这时开始到2018财年四季度，iPhone销售额同比增速不断加快，但销量几乎没有增长，反映出了iPhone平均售价的提高。</p>
+<p cms-style="font-L">　　紧接着2019财年一季度，苹果进一步提高三款新发售iPhone的售价，销量和销售额却分别下滑11.5%和14.9%，并在二季度进一步下滑。</p>
+<p cms-style="font-L">　　类似的情况在3年前也发生过一次。</p>
+<p cms-style="font-L">　　2015财年，苹果进入了“双iPhone时代”，iPhone 6相比5s虽然没涨价，新的iPhone 6 Plus却要贵100美元，从而拉高了平均售价。</p>
+<p cms-style="font-L">　　这就导致当时的销售额增速也要明显高于销量增速。</p>
+<p cms-style="font-L">　　而且接下来的2016财年也是销售额和销量双双下滑。</p>
+<div class="img_wrapper"><img id="6" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/120/w580h340/20200220/670c-ipvnsze1038781.jpg" alt="（注：2019财年起苹果不再公布销量，这里取的是IDC数据）"><span class="img_descr">（注：2019财年起苹果不再公布销量，这里取的是IDC数据）</span></div>
+<p cms-style="font-L">　　这难道就是iPhone的“涨价魔咒“？</p>
+<div class="img_wrapper"><img id="7" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/166/w580h386/20200220/bba5-ipvnsze1038784.jpg" alt="（起售价接近1000美元的iPhone X）"><span class="img_descr">（起售价接近1000美元的iPhone X）</span></div>
+<p cms-style="font-L strong-Bold">　　三、详细盘点这一次探底的过程</p>
+<p cms-style="font-L">　　回到2019财年的这次业绩下滑。</p>
+<p cms-style="font-L">　　早在一季报发布之前的1月2日，苹果就下调了当季的指引，给投资者打了一剂预防针。其中收入指引由原来的890亿-930亿美元降至840亿美元，比上年同期下滑4.9%。</p>
+<div class="img_wrapper"><img id="8" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/8/w580h228/20200220/f5b9-ipvnsze1038843.jpg" alt="（来源：Seeking Alpha）"><span class="img_descr">（来源：Seeking Alpha）</span></div>
+<p cms-style="font-L">　　库克解释说这是由于新iPhone的销量低于预期，特别是在中国的销量。</p>
+<div class="img_wrapper"><img id="9" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/70/w580h290/20200220/d5e8-ipvnsze1038842.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　第二天的1月3日，苹果股价大跌了10.21%。</p>
+<p cms-style="font-L">　　当时风云君都觉得苹果的时代可能要过去了。此后，苹果手机降价的新闻不绝于耳。</p>
+<p cms-style="font-L">　　先是1月份电商平台降价幅度超过1000元。</p>
+<div class="img_wrapper"><img id="10" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/745/w580h165/20200220/5dd6-ipvnsze1038889.jpg" alt="（来源：新京报）"><span class="img_descr">（来源：新京报）</span></div>
+<p cms-style="font-L">　　后来的2月和3月又有两轮降价，部分电商平台降价幅度甚至超过2000元。</p>
+<div class="img_wrapper"><img id="11" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/159/w580h379/20200220/c812-ipvnsze1038891.jpg" alt="（来源：新京报）"><span class="img_descr">（来源：新京报）</span></div>
+<p cms-style="font-L">　　这一段时间，苹果的股价已经恢复上涨趋势。</p>
+<div class="img_wrapper"><img id="12" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/53/w580h273/20200220/31f1-ipvnsze1038960.jpg" alt="（来源：东方财富choice）"><span class="img_descr">（来源：东方财富choice）</span></div>
+<p cms-style="font-L">　　紧接着2019年5月，苹果发布第二财季业绩，老铁们可以翻看风云君当时翻译的《苹果二季报电话会议实录》。</p>
+<p cms-style="font-L">　　这个季度，苹果收入又同比下滑了5.1%，库克在电话会议中多次提到降价和以旧换新。</p>
+<p cms-style="font-L">　　这时候也差不多是苹果业绩的拐点。</p>
+<div class="img_wrapper"><img id="13" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/11/w580h231/20200220/17ba-ipvnsze1038959.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　这之后，出人意料的事情发生了！</p>
+<p cms-style="font-L">　　9月份，苹果发布最新的iPhone 11系列。浴霸镜头、没有5G又引发了大家的吐槽，然而电商平台的预售销量却翻了四倍！</p>
+<div class="img_wrapper"><img id="14" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/113/w580h333/20200220/4c0d-ipvnsze1039022.jpg" alt="（来源：第一财经）"><span class="img_descr">（来源：第一财经）</span></div>
+<p cms-style="font-L">　　就在我们以为这只是一时现象的时候，苹果公布了2020财年一季报：营收达到创纪录的918.19亿美元，同比增长8.9%，净利润达到222.36亿美元，同比增长11.4%。</p>
+<p cms-style="font-L">　　大象又开始跳舞了。</p>
+<p cms-style="font-L">　　风云君感叹那个曾经的苹果又回来了。</p>
+<p cms-style="font-L strong-Bold">　　四、两次增长危机，复苏各有不同</p>
+<p cms-style="font-L">　　2019财年就只是三年前的一次重演吗？</p>
+<p cms-style="font-L">　　各位不妨坐上风云君的时空穿梭机回去看看。</p>
+<p cms-style="font-L">　　2014财年一季度至今，苹果的季度收入一共经历了2次负增长：</p>
+<p cms-style="font-L">　　第一次是2016财年的二季度到四季度，季度同比增速分别为-12.8%、-14.6%、-9.0%；</p>
+<p cms-style="font-L">　　第二次是2019财年一季度至二季度，季度同比增速分别为-4.5%、-5.1%。</p>
+<div class="img_wrapper"><img id="15" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/133/w580h353/20200220/c41e-ipvnsze1039020.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　同时期，iPhone季度销售额占苹果总收入的比例始终在60%上下。</p>
+<p cms-style="font-L">　　而且，iPhone季度销售额同比增速为正的时候，苹果收入同比增速也为正，反之亦然。</p>
+<p cms-style="font-L">　　这体现了iPhone对苹果整体业绩的拉动作用。</p>
+<p cms-style="font-L">　　唯一的一次例外出现在2019财年三季度和四季度。这两个财季iPhone销售额同比增速分别为-11.8%、-9.2%，而苹果的收入增速分别为1.0%、1.8%。</p>
+<p cms-style="font-L">　　这段时期对业绩起到拉动作用的不是iPhone，那会是什么呢？</p>
+<div class="img_wrapper"><img id="16" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/130/w580h350/20200220/fd13-ipvnsze1039058.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　翻出近两个财年的分部收入季度增速，可以看出，2019财年三季度和四季度均保持正增长的有三项业务：可穿戴、家庭和配件收入，服务收入，以及Mac。</p>
+<div class="img_wrapper"><img id="17" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/184/w580h404/20200220/affd-ipvnsze1039059.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　再结合2019财年三季度收入占比来看，可穿戴、家庭和配件收入占比10.3%，增速48%；服务收入占比21.3%，增速12.6%；Mac占比10.8%，增速10.7%。</p>
+<p cms-style="font-L">　　拉动2019财年三季度增长的首先是可穿戴、家庭和配件收入，其次就是服务收入。风云君在后面还会再提到这两项业务。</p>
+<div class="img_wrapper"><img id="18" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/127/w580h347/20200220/34ef-ipvnsze1039092.jpg" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="19" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/167/w580h387/20200220/f12e-ipvnsze1039094.jpg" alt="（苹果的可穿戴设备之一AirPods Pro）"><span class="img_descr">（苹果的可穿戴设备之一AirPods Pro）</span></div>
+<p cms-style="font-L">　　而三年前的2016财年，同样是连续的负增长，但最终走出低谷靠的是iPhone。</p>
+<div class="img_wrapper"><img id="20" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/127/w580h347/20200220/4b26-ipvnsze1039144.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　比如说2017财年一季度，苹果的收入增速刚恢复到正数。当季iPhone收入占比69.4%，同比增长5.3%，对增长的贡献最大。其次的贡献来自服务收入和Mac，其他业务仍处于负增长。</p>
+<div class="img_wrapper"><img id="21" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/189/w580h409/20200220/a5ee-ipvnsze1039151.jpg" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="22" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/70/w580h290/20200220/6822-ipvnsze1039199.jpg" alt="（2016年发售的iPhone 7 Plus）"><span class="img_descr">（2016年发售的iPhone 7 Plus）</span></div>
+<p cms-style="font-L">　　iPhone对于苹果重要性的下降，就是2019年的苹果与三年前不同的地方。</p>
+<p cms-style="font-L">　　而这背后，则是毛利率的压力。</p>
+<p cms-style="font-L strong-Bold">　　五、由硬件转向服务，背后是毛利率下降的压力</p>
+<p cms-style="font-L">　　我们先上一张图。</p>
+<div class="img_wrapper"><img id="23" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/181/w580h401/20200220/b489-ipvnsze1039202.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　苹果的毛利率在2012和2015财年分别达到两次高点：</p>
+<p cms-style="font-L">　　其中，2012财年的毛利率为43.9%，与iPhone销售额占比提高，以及大宗商品价格波动导致的成本降低有关；</p>
+<p cms-style="font-L">　　2015财年的毛利率达到40.1%，主要与2014年发布的iPhone 6 Plus物料成本占比更低有关。</p>
+<p cms-style="font-L">　　可见iPhone对于苹果的重要性。</p>
+<p cms-style="font-L">　　但是！但是！苹果在iPhone上的“挤牙膏式”创新越来越难以拉高毛利率了。</p>
+<p cms-style="font-L">　　这背后的原因表面上是iPhone物料成本占比的提高，更深层次的原因则是智能手机整体创新乏力，市场竞争加剧。</p>
+<div class="img_wrapper"><img id="24" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/606/w580h26/20200220/5479-ipvnsze1039248.png" alt="（来源：2012财年年报）"><span class="img_descr">（来源：2012财年年报）</span></div>
+<div class="img_wrapper"><img id="25" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/604/w580h24/20200220/7342-ipvnsze1039246.png" alt="（来源：2015财年年报）"><span class="img_descr">（来源：2015财年年报）</span></div>
+<p cms-style="font-L">　　这怎么办呢？当然是转型毛利更高的服务啊~</p>
+<p cms-style="font-L">　　苹果的服务收入包括App Store等数字内容商店、流媒体服务、AppleCare，以及授权等服务。</p>
+<div class="img_wrapper"><img id="26" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/528/w580h748/20200220/cc3c-ipvnsze1039290.jpg" alt="（App Store）"><span class="img_descr">（App Store）</span></div>
+<p cms-style="font-L">　　近三个财年，苹果的产品毛利率从35.7%下降到32.2%，降幅为3.5个百分点；服务毛利率则提高了8.7个百分点至63.7%。</p>
+<div class="img_wrapper"><img id="27" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/125/w580h345/20200220/8f97-ipvnsze1039287.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　高毛利的服务收入占比在近三个财年由14.3%提高至17.8%，增速快于公司整体增速。</p>
+<div class="img_wrapper"><img id="28" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/122/w580h342/20200220/118d-ipvnsze1039342.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　不仅如此，还要牺牲部分硬件毛利率，来换取服务收入的增长。</p>
+<p cms-style="font-L">　　2019财年，苹果在部分地区降价以及推出以旧换新服务。</p>
+<p cms-style="font-L">　　降价的故事风云君在前面已经讲过了，接下来我们谈谈以旧换新。</p>
+<p cms-style="font-L strong-Bold">　　六、以旧换新</p>
+<p cms-style="font-L">　　从2019财年一季度电话会议开始，苹果开始频繁提到以旧换新项目。比如当季度，在推出iPhone以旧换新活动之后，以旧换新的数量同比增长了一倍以上。</p>
+<div class="img_wrapper"><img id="29" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/645/w580h65/20200220/230b-ipvnsze1039338.jpg" alt="（苹果2019财年一季度电话会议，来源：fool.com）"><span class="img_descr">（苹果2019财年一季度电话会议，来源：fool.com）</span></div>
+<p cms-style="font-L">　　接下来的二季度到四季度，同比增速分别在300%、400%、400%以上，创造了新的纪录。</p>
+<div class="img_wrapper"><img id="30" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/645/w580h65/20200220/6a88-ipvnsze1039374.jpg" alt="（苹果2019财年二季度电话会议，来源：fool.com）"><span class="img_descr">（苹果2019财年二季度电话会议，来源：fool.com）</span></div>
+<div class="img_wrapper"><img id="31" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/647/w580h67/20200220/f350-ipvnsze1039375.jpg" alt="（苹果2019财年四季度电话会议，来源：fool.com）"><span class="img_descr">（苹果2019财年四季度电话会议，来源：fool.com）</span></div>
+<p cms-style="font-L">　　而且苹果在2019财年还把地图、Siri、免费iCloud空间等原来包含在产品中的部分收入重新归类至服务收入，并重述了此前两个财年的业绩。</p>
+<p cms-style="font-L">　　这使得2017和2018两个财年重述后的服务收入比原来分别提高了6.9%、9.1%。</p>
+<p cms-style="font-L">　　风云君不得不感慨，会计行业真是任人打扮的小姑娘，怎么好看怎么来。</p>
+<p cms-style="font-L">　　类似的转型，风云君在《股价一年翻4倍的Roku：占领你的客厅，然后卖广告！？| 海外风云》中也有提到。</p>
+<p cms-style="font-L">　　Roku（ROKU.O）通过销售比竞争对手更廉价的流媒体播放器，以及向第三方提供操作系统Roku OS来扩大用户基数，然后通过广告等增值服务赚钱。</p>
+<p cms-style="font-L">　　苹果会逐渐转变成这种模式吗？</p>
+<p cms-style="font-L strong-Bold">　　七、转型的挑战</p>
+<p cms-style="font-L">　　目前看来，苹果想要增加高毛利的服务收入，势必要扩大iOS生态系统的覆盖范围。</p>
+<p cms-style="font-L">　　而iOS系统绝大多数情况下仍然只在苹果自己的硬件上使用。</p>
+<p cms-style="font-L">　　根据苹果披露的数据，活跃设备数（不包括耳机）在2018年四季度超过14亿，其中iPhone活跃设备数为9亿。</p>
+<p cms-style="font-L">　　而苹果的活跃设备数在2015年四季度刚超过10亿。粗略地计算一下，这期间活跃设备数的CAGR为11.9%，增速还不错。</p>
+<div class="img_wrapper"><img id="32" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/109/w580h329/20200220/faf8-ipvnsze1039430.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　除了iPhone、Mac、iPad这些存量场景，我们来看看iOS还有哪些增量场景。</p>
+<p cms-style="font-L">　　汽车场景中，苹果的CarPlay支持500多款车型，但是与汽车制造商绑定也就意味着用户数取决于汽车的销量。而且CarPlay目前只支持有限的第三方App，与iOS丰富多彩的生态相比附加值显然要小得多。</p>
+<div class="img_wrapper"><img id="33" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/202/w580h422/20200220/165e-ipvnsze1039429.jpg" alt="（来源：官网）"><span class="img_descr">（来源：官网）</span></div>
+<div class="img_wrapper"><img id="34" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/55/w580h275/20200220/db6c-ipvnsze1039495.jpg" alt="（来源：官网）"><span class="img_descr">（来源：官网）</span></div>
+<div class="img_wrapper"><img id="35" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/54/w580h274/20200220/07af-ipvnsze1039498.jpg" alt="（来源：官网）"><span class="img_descr">（来源：官网）</span></div>
+<p cms-style="font-L">　　而自己造车显然不是那么容易的。</p>
+<p cms-style="font-L">　　这背后的原因，风云君在《独家重磅 | 金融丛林里的科学狂人：与狼共舞马斯克，一骑绝尘特斯拉》中曾经讲过：</p>
+<p cms-style="font-L">　　“谷歌旗下Waymo被认为是自动驾驶领域的最先进代表，智能程度达到L4-L5，但目前远不及特斯拉这套系统实际应用广泛。</p>
+<p cms-style="font-L">　　显然，没有庞大的应用数据库的积累，代价颇为沉重：复杂多样的真实路况驾驶数据无疑会使特斯拉的这套系统更快迭代，成为竞争对手们越来越难以企及的竞争壁垒。”</p>
+<div class="img_wrapper"><img id="36" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/133/w580h353/20200220/cc73-ipvnsze1039537.jpg" alt="（特斯拉的有限无人驾驶技术已经大规模上路）"><span class="img_descr">（特斯拉的有限无人驾驶技术已经大规模上路）</span></div>
+<p cms-style="font-L">　　家庭场景又可以细分为智能音箱（又称为智能语音助手）和智能电视两大生态。</p>
+<p cms-style="font-L">　　智能音箱有亚马逊（AMZN.O）的Alexa，谷歌（GOOGL.O）的Google Home，百度（BIDU.O）的小度智能音箱、阿里巴巴（BABA.N，09988.HK）的天猫精灵等等。</p>
+<p cms-style="font-L">　　2019年四季度，全球智能音箱出货量前五的分别是亚马逊、谷歌、百度、阿里巴巴、小米（01810.HK），合计市场份额达到82.0%。</p>
+<p cms-style="font-L">　　而苹果仅排名第六，市场份额为4.7%。</p>
+<div class="img_wrapper"><img id="37" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/744/w580h164/20200220/4101-ipvnsze1039536.jpg" alt="（来源：Strategy Analytics）"><span class="img_descr">（来源：Strategy Analytics）</span></div>
+<p cms-style="font-L">　　智能电视领域有Roku的Roku TV，亚马逊Fire TV、谷歌的Chromecast、苹果Apple TV等。</p>
+<p cms-style="font-L">　　2015年一季度到2019年一季度，Roku的市场份额（注：以已安装的设备为基数）从33%增长到39%，亚马逊Fire TV的市场份额从13%增长到30%，分别占据一二位。</p>
+<p cms-style="font-L">　　同时期，苹果Apple TV的市场份额保持在16%左右。</p>
+<div class="img_wrapper"><img id="38" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/222/w580h442/20200220/6d79-ipvnsze1039576.jpg" alt="（来源：Parks Associates）"><span class="img_descr">（来源：Parks Associates）</span></div>
+<div class="img_wrapper"><img id="39" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/94/w580h314/20200220/be0c-ipvnsze1039574.jpg" alt="（Apple TV）"><span class="img_descr">（Apple TV）</span></div>
+<p cms-style="font-L">　　家庭场景中，苹果表现只能说是中规中矩。</p>
+<p cms-style="font-L">　　不过，苹果最近已经开始在内容方面发力，比如推出的大量自制剧，以及苹果新闻。</p>
+<div class="img_wrapper"><img id="40" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/91/w580h311/20200220/6e6a-ipvnsze1039607.jpg" alt="（来源：官网）"><span class="img_descr">（来源：官网）</span></div>
+<div class="img_wrapper"><img id="41" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/453/w556h697/20200220/2f21-ipvnsze1039609.jpg" alt="（来源：官网）"><span class="img_descr">（来源：官网）</span></div>
+<p cms-style="font-L">　　这些都可以看作是苹果丰富iOS生态，从而提供更多附加值的努力。</p>
+<p cms-style="font-L">　　另一个苹果做的还不错的领域是可穿戴设备。</p>
+<div class="img_wrapper"><img id="42" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/212/w580h432/20200220/6599-ipvnsze1039657.jpg" alt="（Apple Watch）"><span class="img_descr">（Apple Watch）</span></div>
+<p cms-style="font-L">　　根据IDC的数据，2019年三季度全球可穿戴设备出货量前五名分别是苹果、小米、三星、华为、Fitbit（FIT.N）。其中Fitbit已经被谷歌以21亿美元收购。</p>
+<p cms-style="font-L">　　三季度苹果的出货量达到2950万，同比增长195.5%，高于整体市场增速的94.6%。苹果的市场份额由上年同期的23%扩大至35%。</p>
+<div class="img_wrapper"><img id="43" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/176/w580h396/20200220/a99b-ipvnsze1039655.jpg" alt="（来源：IDC）"><span class="img_descr">（来源：IDC）</span></div>
+<p cms-style="font-L">　　最后，苹果除了要尽可能地留住并扩大iOS生态的用户，还需要做的就是提高“苹果税”了。</p>
+<p cms-style="font-L">　　比如，对苹果设备账号的严格管理，以及非官方渠道下载的APP的限制。另一个我们能更直接感受到的就是苹果和微信（00700.HK）曾经的内容打赏抽成之争：30%的抽成枷锁现在已经强加于诸君之颈项。</p>
+<div class="img_wrapper"><img id="44" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/54/w580h274/20200220/b36a-ipvnsze1039699.jpg" alt="（来源：澎湃新闻，2017.09.18）"><span class="img_descr">（来源：澎湃新闻，2017.09.18）</span></div>
+<p cms-style="font-L strong-Bold">　　八、现金流、股东回报和负债</p>
+<p cms-style="font-L">　　最后，我们来看下现金流和股东回报，作为苹果这道“法式大餐”的甜点。</p>
+<p cms-style="font-L">　　2019财年，苹果公司的经营活动净现金流为693.9亿美元，净现比为125.6%。</p>
+<p cms-style="font-L">　　近十个财年的净现比始终在120%以上，公司的盈利质量非常高。</p>
+<div class="img_wrapper"><img id="45" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/130/w580h350/20200220/ad13-ipvnsze1039700.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　同时，公司购买固定资产的现金支出比较稳定，每年都不超过经营活动净现金流的20%，而且公司也很少进行收购。</p>
+<p cms-style="font-L">　　近十年来唯一一笔较大的收购发生在2014财年，当时苹果以26亿美元的价格收购了Beats。</p>
+<div class="img_wrapper"><img id="46" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/126/w580h346/20200220/6591-ipvnsze1039743.jpg" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="47" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/623/w580h43/20200220/ba3c-ipvnsze1039742.png" alt="（来源：2014年年报）"><span class="img_descr">（来源：2014年年报）</span></div>
+<p cms-style="font-L">　　公司把剩余的大部分现金流都回馈给了股东。</p>
+<p cms-style="font-L">　　2010财年到2020财年一季度，苹果累计净回购股份耗资3193.5亿美元，累计支付股息920.3亿美元，累计的与股权奖励净结算相关的税款支付达到160.6亿美元，合计的股东回报达到4274.4亿美元。</p>
+<p cms-style="font-L">　　与股权奖励净结算相关的税款支付说的是，在员工用股票来支付与股权奖励有关的税款时，公司一般会从员工手里回购这部分股票，从而让员工用现金去支付税款。</p>
+<p cms-style="font-L">　　这也被认为是股东回报的一种方式。</p>
+<p cms-style="font-L">　　同时期，累计的经调整广义经营活动现金流（注：剔出了有价证券买卖等项目）为5049.7亿美元，累计股东回报占累计经调整广义经营活动现金流的比例为84.6%。</p>
+<p cms-style="font-L">　　即使不考虑与股权奖励净结算相关的税款支付，累计股东回报占累计经调整广义经营活动现金流的比例也达到81.5%。</p>
+<div class="img_wrapper"><img id="48" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/660/w580h80/20200220/62cb-ipvnsze1039773.jpg" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="49" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/644/w580h64/20200220/132b-ipvnsze1039774.png" alt="（来源：fool.com）"><span class="img_descr">（来源：fool.com）</span></div>
+<p cms-style="font-L">　　作为投资者，一定会爱死这样的公司了。</p>
+<p cms-style="font-L">　　而且苹果在2018和2019财年的股东回报分别达到883.1亿、830.6亿美元，显著高于此前几年500亿美元左右的水平。</p>
+<div class="img_wrapper"><img id="50" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/166/w580h386/20200220/c45b-ipvnsze1039827.jpg" alt="（Apple Park）"><span class="img_descr">（Apple Park）</span></div>
+<p cms-style="font-L">　　这与苹果提出的“净现金平衡”（net cash neutral position）有关。净现金是指现金及现金等价物、短期投资、长期投资之和，减去所有的有息负债。</p>
+<p cms-style="font-L">　　“净现金平衡”的目标最早出现在苹果2018财年一季报电话会议中，当时苹果的净现金为1630亿美元。公司的CFO Luca Maestri称要在长期内使净现金变为0。</p>
+<p cms-style="font-L">　　在这之后的2018财年和2019财年末，苹果的净现金分别降至1226.2亿、978.4亿美元。</p>
+<p cms-style="font-L">　　而减少净现金的主要方式就是通过股票回购和分红。</p>
+<div class="img_wrapper"><img id="51" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/125/w580h345/20200220/0b68-ipvnsze1039829.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　截至2020财年一季度末，苹果的资产负债率为73.7%，其中有息负债占总资产的比例为31.8%。</p>
+<p cms-style="font-L">　　资产负债率从2013年开始逐渐上升，这当中的主要驱动力是有息负债占总资产比例的增加。经营性负债占总资产的比例从2012财年末的32.9%提高到2020财年一季度末的41.9%，上升幅度相对较小。</p>
+<div class="img_wrapper"><img id="52" style="max-width: 640px;" src="http://n.sinaimg.cn/spider2020220/136/w580h356/20200220/d062-ipvnsze1039919.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　在这篇文章中，风云君梳理了苹果2019财年一季度以来的增长困境、背后的深层次原因、化解的办法，以及苹果的转型之路。</p>
+<p cms-style="font-L">　　最后再对这样一家伟大的科技公司致以敬意。</p>

@@ -1,0 +1,3 @@
+美国联邦法院驳回苹果对Corellium的侵权指控
+PingWest品玩
+<p class='ori_titlesource'>原标题：美国联邦法院驳回苹果对Corellium的侵权指控    来源：PingWest品玩</p><p cms-style="font-L">品玩12月30日讯，据路透社消息，周二，佛罗里达州的一位联邦法官驳回了苹果公司对初创公司Corellium的版权侵权指控，该公司的软件帮助安全研究人员发现包括iPhone在内的苹果产品的漏洞。</p><p cms-style="font-L">苹果指控Corellium实质上是复制iOS来创建“虚拟的”iOS操作设备，其“唯一功能”是在非苹果硬件上运行未经授权的系统拷贝。</p><p cms-style="font-L">但是，地区法官罗德尼·史密斯（Rodney Smith）做出了有利于Corellium 的裁决，称其模仿iPhone和iPad上运行的iOS操作系统的软件相当于“合理使用”，因为它具有“变革性”，有助于开发者发现安全缺陷。Corellium通过让用户看到并停止运行进程、拍摄实时快照以及执行其他操作，“为iOS增添了新的内容”。</p><p cms-style="font-L">史密斯称：“Corellium的盈利动机不会损害其合理使用辩护，特别是考虑到产品的公共利益。”</p><p cms-style="font-L">对于这些消息，苹果没有立即回应置评请求。</p>

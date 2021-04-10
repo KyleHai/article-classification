@@ -1,0 +1,11 @@
+苹果激进！消息称iPad未来将换装M系列处理器：或从3nm开始
+快科技
+<p>　　作者 万南</p>
+<p>　　尽管A14处理器已经问世，但就GPU性能而言，它仍在A12X/A12Z之下，由此可见苹果对iPad的重视。</p>
+<p>　　业内最新消息传出，iPad将在未来引入M系列处理器。</p>
+<p>　　就目前披露的信息来看，时间点最晚是2022或者2023，也就是3nm制程时代。当然，不排除明年上半年更新的iPad Pro上，苹果配备M1或者M1X的可能。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/spider20201223/137/w600h337/20201223/f84b-kftfpiv3844743.jpg" alt="图为民间PS，仅供参考" data-link=""><span class="img_descr">图为民间PS，仅供参考</span></div>
+<p>　　也有分析人士，M1不经过调试的话用在iPad上不现实，因为其密集计算负载下的功耗能超过20瓦，显然会是iPad的电老虎。</p>
+<p>　　目前，A12Z处理器iPad Pro在GeekBench 5的多和跑分为4650，M1版MacBook Air是18086，由此可见性能方面的巨大差异。另外，iPad上马M系处理器后，不得不让人联想iPad和Mac硬件的融合趋势。</p>
+<p>　　需要注意的是，本次的消息源被AT标记的综合可信度只有36%，还请谨慎看待。</p>
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201223/261/w600h461/20201223/9b64-kftfpiv3844742.png" alt=""><span class="img_descr"></span></div>

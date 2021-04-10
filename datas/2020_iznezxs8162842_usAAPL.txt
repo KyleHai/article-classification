@@ -1,0 +1,99 @@
+为什么富可敌国的苹果并不热衷于大规模收购？
+创事记
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/116/w550h366/20201221/6312-kfnaptu8002446.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　<span style="font-family: 楷体, 楷体_gb2312, simkai;">欢迎关注“创事记”的微信订阅号：sinachuangshiji</span>　</p>
+<p>　　文/卫夕</p>
+<p>　　来源：卫夕指北（ID：weixizhibei）</p>
+<p cms-style="font-L">　　苹果到底有多有钱？</p>
+<p cms-style="font-L">　　市值2万亿美元是一个衡量标准，2万亿美元是什么概念呢？如果它是一个经济体，那么它在全球排名第<font cms-style="font-L strong-Bold">9</font>名，排在<font cms-style="font-L strong-Bold">意大利</font>和<font cms-style="font-L strong-Bold">巴西</font>之间。</p>
+<p cms-style="font-L">　　市值毕竟是账面指标，除了市值，我们看一个更实际的指标——<font cms-style="font-L strong-Bold">现金及现金等价物，即公司实际可以直接支配的资金</font>，根据最新发布的苹果财报，苹果目前的现金及现金等价物高达1909亿美元，如果将此看成一个经济体，也在全球排在第<font cms-style="font-L strong-Bold">56</font>位。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">从这个意义上，称苹果富可敌国并不夸张。</font></p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/122/w550h372/20201221/7383-kfnaptu7994466.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　然而，和其他热衷并购的科技巨头不同，苹果在并购方面的表现和它巨额的现金储备形成了鲜明的对比，<font cms-style="font-L strong-Bold">富可敌国的</font><font cms-style="font-L strong-Bold">苹果并没有大规模买买买。</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">它的收购策略在全球科技公司中都显得非常另类——出手的次数并不少，但金额和规模非常小。</font></p>
+<p cms-style="font-L">　　一个简单的证明是——苹果历史上最高的一笔收购也仅花了30亿美元，那还是6年前收购耳机品牌Beats。</p>
+<p cms-style="font-L">　　作为对比，其他科技巨头出手则阔绰得多——</p>
+<p cms-style="font-L">　　1.微软265亿美元收购LinkedIn，75亿美元收购GitHub，85亿美元收购Skype，72亿美元收购诺基亚；</p>
+<p cms-style="font-L">　　2.谷歌125亿美元收购摩托罗拉，32亿美元收购Nest，31亿美元收doubleclick，16亿美元收购YouTube；</p>
+<p cms-style="font-L">　　3.Facebook190亿美元收购WhatsApp，20亿美元收购Oculus，10亿美元收购Instagram；</p>
+<p cms-style="font-L">　　4.亚马逊137亿美元收购全食超市，11亿美元收购Twitch，12亿美元收购Zoox，9亿美元收购Zappos；</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">即便是中国的科技巨头，在投资和并购方面比苹果也显得更加激进——</font>阿里95亿美元收购饿了么，腾讯86亿美元收购游戏公司Supercell。</p>
+<p cms-style="font-L">　　对比下来，苹果最大的一笔收购也仅仅花30亿美元，的确显得非常保守，那么问题就来了——</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">苹果保守的收购策略背后的逻辑是什么？</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">为什么它并不愿意花大价钱收购某一领域的竞争对手？</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">它和谷歌、微软、Facebook等巨头在收购逻辑上有什么异同？</font></p>
+<p cms-style="font-L">　　今天卫夕就和大家一起来聊一聊这个问题——</p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="1" src="http://n.sinaimg.cn/tech/crawl/93/w550h343/20201221/0178-kfnaptu7975205.jpg" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="font-L strong-Bold">我们先来看苹果收购策略的几个特征——</font></strong></p>
+<p cms-style="font-L">　　1.苹果几乎从来都不直接并购竞争对手</p>
+<p cms-style="font-L">　　2.苹果的收购主要以掌握某个技术的小公司为主要目标</p>
+<p cms-style="font-L">　　3.苹果收购的出手次数其实并不少</p>
+<p cms-style="font-L">　　这三个特征我们一一来看：</p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">1.苹果几乎从来都不直接并购竞争对手</font></font></font></strong></p>
+<p cms-style="font-L">　　自80年代创立以来，苹果的主营业务一直在发生变化，从PC到MP3、智能手机、平板电脑、可穿戴设备等，回顾苹果的收购，我们会发现苹果几乎并不会收购直接的竞争对手，它几乎从未收购另一家有竞争力的PC公司、MP3公司、智能手机公司或平板电脑公司。</p>
+<p cms-style="font-L">　　90年代收购出走的乔布斯自己创办的NeXT公司是个例外，但苹果看重NeXT也并非它的市场份额，<font cms-style="font-L strong-Bold">而是NeXT的另一项核心资产——软件，以完善自己的macOS的生态与能力，</font>当然，还有乔布斯本人这一更核心的资产。</p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">2.苹果的收购主要以掌握某个技术的小公司为主要目标</font></font></font></strong></p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">苹果收购的出发点基本围绕如何构建自身产品核心竞争力展开，</font>比如Siri，Siri本来是2007年由挪威人Dag Kittlaus创建的一家语音助手创业公司，规模非常小，但当时正值iPhone想要进军语音助手领域，于是就迅速将公司收购，同时将服务整合进了iPhone 4S。</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">我们后来熟悉苹果推出的多项创新背后都有收购的影子</font>——Touch ID是2012年苹果收购了一家名为AuthenTec的主打指纹识别公司之后推出的。</p>
+<p cms-style="font-L">　　而Face ID则更为夸张，它并非由收购的某一家单一公司演进而来，而是集成了苹果收购的多家公司的结果——面部识别、空间感知、结构光组件分别来自收购的RealFace、Faceshift和PrimeSense公司。</p>
+<p cms-style="font-L">　　很多硬件行业的分析师在预测新款iPhone的新功能时，会专门去分析过去两年苹果收购了哪些新的公司。</p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">3.苹果收购的出手次数其实并不少</font></font></font></strong></p>
+<p cms-style="font-L">　　2017年库克接受采访时称<font cms-style="font-L strong-Bold">“我们大约每两周左右就会收购一家公司”</font>，据此可以推算苹果一年约收购20至30家公司，这个出手次数在科技公司中其实并不算少，2020年，据公开报道，苹果至少已经收购了11家公司， 包括人工智能公司Xnor.ai，虚拟现实公司Next VR等。</p>
+<p cms-style="font-L">　　由于有些收购金额相对苹果的规模太小，构成不了监管机构“重大投资收购事件”的标准，因此苹果并不一定会全部公告披露。</p>
+<p cms-style="font-L">　　据连线的报道，苹果兼并收购团队由副总裁 Adrian Perica 负责，非常精干，团队仅有10多位成员，他们会定期和苹果核心工程团队会面，结合苹果重要项目开发进展及战略，共同确定收购对象，决策速度非常迅速。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/56/w550h306/20201221/dfe7-kfnaptu7975255.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="font-L strong-Bold">那么，苹果如此保守的收购策略背后的逻辑到底是什么呢？</font></strong></p>
+<p cms-style="font-L">　　背后的原因其实错综复杂的，总结下来主要原因有以下三个——</p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">答案之一：出于减轻反垄断的压力</font></font></font></strong></p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="font-L strong-Bold">是滴，苹果害怕反垄断调查。</font></strong></p>
+<p cms-style="font-L">　　库克在2020年7月在接受CNBC采访时表述的非常清晰——</p>
+<p cms-style="font-L">　　“如果您仔细查看众议院反托拉斯对大型科技公司（指Facebook、谷歌等）调查背后的具体内容，你会发现众议院调查的焦点是这些公司近些年的收购事件，而对于我们的收购事件则没有任何疑问，<font cms-style="font-L strong-Bold">因为我们的收购策略一直是收购领先的知识产权公司，而非竞争对手</font>。”</p>
+<p cms-style="font-L">　　库克所言不虚，今年的10月9日，美国众议院司法委员会发布了一份长达449页的报告，该报告详细记录了过去16个月对美国四大科技巨头苹果、亚马逊、谷歌和Facebook的反垄断调查。</p>
+<p cms-style="font-L">　　报告的结果的确非常有意思，可以发现，对谷歌、Facebook、亚马逊的调查焦点的确集中在使用“致命收购”打压对手，比如Facebook收购WhatsApp、Instagram等。</p>
+<p cms-style="font-L">　　很多读者不理解为什么Tik Tok在美国政府强制要求卖出的时候看不到Facebook、谷歌这些公司出手，反而是甲骨文、沃尔玛这类基本不沾边的公司来竞购，<font cms-style="font-L strong-Bold">背后的原因就在于Facebook、谷歌头上早已被带上了反垄断的紧箍咒。</font></p>
+<p cms-style="font-L">　　美国众议院对苹果的反垄断调查则集中在软件收费策略上，主要批评苹果依靠iOS操作系统的领先地位抽取AppStore付费下载费及内购项目的30%，苹果会利用其对App store的控制力来排挤竞争对手。</p>
+<p cms-style="font-L">　　对于不听话的开发者，苹果会威胁将其App从应用商店中下架，使其失去在iOS系统上架应用程序的唯一途径。</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">可以看到，苹果保守的收购策略的确在一定程度上缓解了它面临“通过收购打压竞争对手”的反垄断压力</font>，要知道，美国的反垄断调查可并非儿戏，在历史上多次拆分多家处于垄断地位的公司，苹果非常清楚其中的利害关键，收购保守就不足为奇。</p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">答案之二：硬件厂商的独特性也让它不需要大规模收购</font></font></font></strong></p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="font-L strong-Bold">硬件厂商的独特属性其实也是苹果不愿意直接收购竞争对手的一个重要原因。</font></strong></p>
+<p cms-style="font-L">　　为什么这么说呢？</p>
+<p cms-style="font-L">　　我们先来看软件和互联网行业的收购逻辑，比如为什么Facebook要花190亿的巨资收购WhatsApp？</p>
+<p cms-style="font-L">　　要知道Facebook收购Instagram也只花了10亿美元，<font cms-style="font-L strong-Bold">背后的原因就在于互联网行业极其可怕的马太效应</font>。</p>
+<p cms-style="font-L">　　因为Facebook知道自己如果不收购WhatsApp，那么在强者愈强的马太效应的作用下，自己就可能要输掉即时通讯这一战略赛道了，甚至连自己的Facebook Messager的市场份额也可能最终被WhatsApp全部侵蚀掉，输掉这场战争的代价可能远超190亿美元，这是Facebook作为社交巨头不能容忍的。</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">因此，从这个意义上说，这种190亿美元的收购就是值得的</font>，扎克伯格当时拍板这一收购决定时候甚至没有来得及通知董事会。</p>
+<p cms-style="font-L">　　反观苹果所在的硬件行业，尽管也有硬件生态，但很显然，和互联网产品的强马太效应不同，硬件产品的转换成本是相对低的，网络效应会弱很多，所以先发优势就显得并不那么明显。</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">硬件是有生命周期的，当你的下一代产品不够好，用户可以低成本地转换到竞争对手，硬件产品要持续领先，就必须每一代产品都保持足够的吸引力，</font>而不像软件或互联网产品一样，只要占据了赛道，几乎没有被颠覆的可能性——Windows如此、微信如此。</p>
+<p cms-style="font-L">　　因此，收购硬件企业的市场份额意义并不大，因为它几乎形成不了网络效应，同时由于收购的产品和原有产品本身存在差异，甚至规模效应也几乎没有，因此在硬件市场，单纯收购市场份额意义并不多大，关键在于持续领先的技术和体验。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">所以，苹果的策略就变成了通过收购独特的技术来增强每一代产品的竞争力。</font></p>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">答案之三：苹果对自己定义产品的能力有足够强的自信</font></font></font></strong></p>
+<p cms-style="font-L">　　苹果的确有一项独特的能力，这项能力构成了苹果最核心的竞争力——<font cms-style="font-L strong-Bold">定义产品的能力</font>。</p>
+<p cms-style="font-L">　　事实上，苹果超40多年的历史上，它几乎很少第一个发明某一产品，但它能神奇地整合业界最领先的技术，将他们转化成体验极优的产品——iPod、iPhone、iPad、AirPods、Apple Watch莫不如此。</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">如今，业界不得不承认，苹果似乎有一种独特的定义未来的能力</font>——一个产品苹果在苹果率先发布的时候，很多用户总是关注它的缺点：iPhone续航短、易碎，iPad笨重、不支持flash，AirPods易丢、音质差........</p>
+<p cms-style="font-L">　　但用户神奇地发现，这些抱怨在随后的时间竟然悄悄地自动消失了，而行业的竞品基本在产品上层面会逐渐向苹果靠拢，这就是定义未来的能力。</p>
+<p cms-style="font-L">　　所以从这个意义上也可以解释苹果为什么不愿意直接收购竞争对手以获得市场份额——<font cms-style="font-L strong-Bold">因为看不上</font>，在苹果眼中，自己是这个星球上在硬件产品层面对用户理解最为深刻的公司，从苹果的历史表现看，它的确配得上这份自信。</p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="3" src="http://n.sinaimg.cn/tech/crawl/20/w500h320/20201221/9970-kfnaptu7975299.jpg" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="font-L">　　分析完这个背景，我们再来看Apple为什么会收购Beats，苹果真的看中了Beats的产品吗？</p>
+<p cms-style="font-L">　　我看未必，苹果看重Beats的更重要的是音乐这个生态，Beats的创始人吉米·艾欧文本身就是音乐界极具号召力的音乐家，在音乐圈有着极其广泛的影响力和人脉，同时Beats在年轻人中的号召力对苹果音乐生态有足够多的吸引力。</p>
+<p cms-style="font-L">　　事实上，在苹果收购Beats之前，Beats就已经推出了自己的音乐流媒体服务——Beats Music，所以很显然，苹果的第一目的并非要把Beats收过来卖耳机，我们看到像Beats X等产品的芯片其实是苹果用AirPods芯片反哺的，再看AirPods Max产品力上显然也是吊打Beats Studio的。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">所以，<strong>苹果收购Beats的真正目的是为了更好地构建Apple Music这一战略生态。</strong></font></p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="4" src="http://n.sinaimg.cn/tech/crawl/96/w550h346/20201221/f34a-kfnaptu7975335.jpg" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="strong-Bold font-L">　　<strong><font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">隐忧：苹果保守的收购策略在新战场中还能继续凑效吗？</font></font></font></strong></p>
+<p cms-style="font-L">　　苹果的这套收购策略的确在过去被证明非常有效，但苹果今天的处境已经在悄然发生变化，其中最核心的变化是以iPhone为代表的硬件产品对收入和利润的增长贡献度在下降，即完全依靠硬件就很难将苹果的营收再带上一个台阶，然而增长又是必然要求，<font cms-style="font-L strong-Bold">于是苹果的策略在最近几年明显将重心转向了软件、服务和互联网产品。</font></p>
+<p cms-style="font-L">　　一个典型的标志性时间就是——2019年3月26日，苹果罕见地开了一次没有任何硬件产品发布的发布会，一口气推出了四项服务产品——新闻服务 Apple News，云游戏服务 Apple Arcade，金融服务 Apple Card 和电视流媒体服务 Apple TV+。</p>
+<p cms-style="font-L">　　没错，在硬件边际增长递减的背景下，苹果未来的增长重心将变成<font cms-style="font-L strong-Bold">软件服务和互联网服务</font>，这意味着苹果战场的转移，新的战场意味着新的游戏规则，上述三大保守策略逻辑中的后两条很显然就已经不再适用了——</p>
+<p cms-style="font-L">　　以Apple TV+和Apple Music为代表的内容产品为例，苹果在内容行业的背景并不深厚，在流媒体和音乐两个领域面临着Netflix和Spotify的强烈竞争，并不占优。</p>
+<p cms-style="font-L">　　早在三年前的2017年就有彭博社的分析师建议苹果应该激进地买下Netflix或迪士尼，以巩固其在内容行业的领先地位，但当时的苹果显然不感兴趣。</p>
+<p cms-style="font-L">　　今天，Netflix或迪士尼的市值分别为2100亿美元和2600亿美元，即便是富可敌国的苹果也很难轻松地一口吞下这两个巨无霸了。</p>
+<div class="img_wrapper">
+<div class="img_wrapper"><img id="5" src="http://n.sinaimg.cn/tech/crawl/47/w550h297/20201221/72cf-kfnaptu7975366.jpg" alt=""><span class="img_descr"></span></div>
+</div>
+<p cms-style="font-L">　　是滴，互联网产品和内容产品的收购从来都是激进的，这一点从迪士尼以极大的决心连续收购皮克斯、卢卡斯影业、漫威和21世纪福克斯可以看出端倪。</p>
+<p cms-style="font-L">　　很显然，通过收购足够强势建护城河是互联网和内容产业的重要策略之一。</p>
+<p cms-style="font-L">　　在新的战场，苹果保守的收购策略还能继续发挥作用吗？</p>
+<p cms-style="font-L">　　<font cms-style="font-L">我们把答案交给时间。</font></p>

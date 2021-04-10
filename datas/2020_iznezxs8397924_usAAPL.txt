@@ -1,0 +1,75 @@
+这6款macOS小组件，让你的苹果电脑更高效
+爱范儿
+<blockquote>
+<p>　　新品拿到手软，好物天天推荐，<a href="http://zhongce.sina.com.cn/" target="_blank" data-comos-dataid="">新浪众测</a>等你加入。在这里，你也能成为数码大V；在这里，产品好坏你说了算。[<a href="http://zhongce.sina.com.cn/about/app#page1" target="_blank" data-comos-dataid="">玩转新奇好物，来新浪众测</a>]</p>
+</blockquote>
+<p>　　圆角矩形的 app 图标、间距更大的顶部状态栏、眼熟的控制中心，macOS Big Sur 带给我的，是浓浓的 iOS 风。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/29/w550h279/20201223/c1cc-kftfpiv3916598.png" alt=""><span class="img_descr"></span></div>
+<p>　　作为 iOS 14 在外观上的最大更新，从如何使用小组件，让 iPhone 更加实用，到美化主屏、让iPhone 更加个性好看，APPSO 都做了非常详细的教程与分享。而与 iOS 14 外观逐渐相似&nbsp;macOS Big Sur，也加入了小组件功能。</p>
+<p>　　点按菜单栏中的日期或者时间，或者用两根手指从触控板的右侧边缘向左清扫，就可以看到全新的通知中心了，除了各类 app 的通知，在这里还能添加各类 app 的小组件，以便快速使用关键功能，了解重要信息。</p>
+<div class="img_wrapper"><img src="http://f.sinaimg.cn/tech/gif_image/568/w640h1528/20201223/f964-kftfpiv3916654.gif" alt=""><span class="img_descr"></span></div>
+<p>　　那么，macOS Big Sur 的小组件要如何设置，又有哪些小组件值得一试呢？一起来看看吧！</p>
+<p>　　<strong>三种尺寸，全面搭配你的小组件</strong></p>
+<p>　　macOS 与 iPadOS 类似，小组件并不能添加到主屏幕上，只能在通知中心里进行排布，相比 iPhone来说，可玩性就少了许多。</p>
+<p>　　将 macOS 的通知中心上划到底部就可以看到‘编辑小组件’的选项，点击进入编辑界面，左侧是提供小组件的 app，中间是 app 对应的小组件，右侧是你通知中心的排布情况。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/173/w550h423/20201223/a0f6-kftfpiv3916780.png" alt=""><span class="img_descr"></span></div>
+<p>　　设置好的小组件与 iOS 上的小组件类似，macOS 的小组件同样不能进行复杂操作，只能用来展示信息。macOS 提供了大、中、小三种尺寸，你可以选择适合的尺寸，将它们拖动到通知中心列表中，在列表中随意拖动，就能调整它们的位置。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/gif_image/276/w640h436/20201223/70ed-kftfpiv3916815.gif" alt=""><span class="img_descr"></span></div>
+<p>　　通过在通知中心搭配不同尺寸的小组件，就能获得不同的使用体验。比如，将时间与日期的小尺寸小组件并排摆放，时刻掌握时间，或者将多个习惯放在一起，随时提醒自己要继续努力。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/746/w380h366/20201223/2968-kftfpiv3916871.png" alt="▲ 小组件来自：Fantastical、时钟、HabitMinder"><span class="img_descr">▲ 小组件来自：Fantastical、时钟、HabitMinder</span></div>
+<p>　　中尺寸的小组件会占用两个小尺寸小组件的位置，适合摆放待办或者笔记类的 app 小组件，方便看到每天的任务安排、最近的笔记概要，当然，用来看电脑使用时长也很不错。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/122/w376h546/20201223/2005-kftfpiv3916904.png" alt="▲ 小组件来自：Fantastical、屏幕使用时间、Agenda"><span class="img_descr">▲ 小组件来自：Fantastical、屏幕使用时间、Agenda</span></div>
+<p>　　最大尺寸的小组件可以展示最多的信息，你可以用来让微博热搜多一行，可以让日历显示一整月，也可以同时让 7 个思维导图待命。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/321/w377h744/20201223/6e74-kftfpiv3916936.png" alt="▲ 小组件来自：MindNode、只是日历"><span class="img_descr">▲ 小组件来自：MindNode、只是日历</span></div>
+<p>　　双指在触控板边缘轻轻左划，就可以看到微博热搜、待办事项，也可以通过小组件进入思维导图，快速开启工作流程，相比在程序坞和启动台中寻找 app 图标，小组件不仅更高效，也更直观。</p>
+<p>　　<strong>在 macOS 上，这些小组件值得一试</strong></p>
+<p>　　通过叠放小组件，iOS&nbsp;可以在有限的屏幕空间里搭配出无穷的新花样，利用《快捷指令》为 app 设置自定义图标的快捷方式，更让 iPhone 的主屏幕个性化达到了一个非常高的水准。</p>
+<p>　　而不能叠放、不能放在桌面、不能搭配壁纸产生反应的 macOS 小组件，更侧重于实用性。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/116/w550h366/20201223/1844-kftfpiv3916977.png" alt=""><span class="img_descr"></span></div>
+<p>　　那么，该如何高效的利用通知中心的小组件？随着 macOS Big Sur 正式发布，越来越多第三方的 app也为我们提供了小组件，今天 A 君就将和大家分享一些 App Store 里有趣、实用且新增全新小组件的 app：</p>
+<p>　　<strong>只是日历：没错，它真的只是日历</strong></p>
+<p>　　在刚入手 MacBook 时，不能像 Windows 一样在通知中心显示日历让我难受了很久。毕竟 macOS 自带的日历更像是一个待办 app。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/162/w550h412/20201223/3e2d-kftfpiv3917004.png" alt=""><span class="img_descr"></span></div>
+<p>　　正是因为我对‘通知中心必须要有日历’这个需求的执着，《只是日历》便成了我购买的第一款macOS 应用。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/25/w550h275/20201223/47eb-kftfpiv3917036.png" alt=""><span class="img_descr"></span></div>
+<p>　　这是一款没什么好介绍的 app，因为它的名字已经完美的诠释了它的功能：只是日历。不能添加待办、不能查看农历、不能计算日期差，它只是一个日历。《只是日历》用不同的尺寸小组件来显示单月、双月、四月以及最大尺寸的单月日历共 4 种小组件，如果你像我一样只是想在通知中心添加一个日历的话，那《只是日历》不会让你失望。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/28/w550h278/20201223/30e0-kftfpiv3917059.png" alt=""><span class="img_descr"></span></div>
+<p>　　当然了，如果你想让日历的功能更丰富一些，那你可以尝试一下《Fantastical》的小组件，既有单月双月日历，也能显示一天的待办。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/199/w550h449/20201223/edfd-kftfpiv3917092.png" alt=""><span class="img_descr"></span></div>
+<p>　　<strong>Age Clock：今天的我 26.675130 岁</strong></p>
+<p>　　《只是日历》的功能只是日历，而《Age Clock》的功能只是计算年龄。虽然它的功能非常简单，但我觉着很适合放在通知中心里，随时告诉你，今天的你有几岁。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/2/w550h252/20201223/aab2-kftfpiv3917138.png" alt=""><span class="img_descr"></span></div>
+<p>　　在《Age Clock》中输入你的出生日期及时间，app 顶部就会自动计算出你现在的年龄，精确到小数点后 10 位，也就是千分之三秒，看着 app 界面，你可以非常明显的感受到生命的流逝。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/gif_image/150/w640h310/20201223/104c-kftfpiv3917168.gif" alt=""><span class="img_descr"></span></div>
+<p>　　《Age Clock》提供了三个尺寸的小数点后 10 位年龄小组件和三个尺寸按秒计算的年龄小组件。把小组件放在通知中心 ，虽然并没有太大的实际作用，但当别人问你年龄时，就可以打开通知中心，反问一句：‘你想让我精确到几位小数呢？’</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/18/w550h268/20201223/7945-kftfpiv3917276.png" alt=""><span class="img_descr"></span></div>
+<p>　　<strong>Day One：你的日记，随时陪伴</strong></p>
+<p>　　《Day One》这款日记 app 共为用户提供了 4 中不同的小组件类型，它们分别是可以为你展现那年今日的‘On This Day’、提醒你每天写日记的‘Streak’、展示今天日记内容的‘Today’以及为你提供日记灵感的‘Daily Prompt’。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/727/w363h364/20201223/61ef-kftfpiv3917306.png" alt=""><span class="img_descr"></span></div>
+<p>　　每个类型的小组件，《Day One》都提供了小、中、大三种尺寸可供选择，如果你是一个喜欢记录生活的日记达人，可以尝试用《Day One》来记录你的每一天。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/280/w550h530/20201223/4c95-kftfpiv3917352.png" alt=""><span class="img_descr"></span></div>
+<p>　　<strong>HabitMinder：你的习惯我知道</strong></p>
+<p>　　《HabitMinder》是一款习惯养成 app，它功能简单、朴实无华，却像一个朋友一样，随时提醒你‘还有一个任务没有完成’。</p>
+<p>　　《HabitMinder》内置了超过 50 种习惯，从身体到思想，从学习到感恩，你也可以自定义专属习惯，满足你追求提高的心。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/446/w550h696/20201223/4ede-kftfpiv3917406.png" alt=""><span class="img_descr"></span></div>
+<p>　　四种类型的小组件，可以用来展示单一习惯的完成情况或者展示多个习惯的列表，让你对自己今天的任务时刻有数，通过点击小组件就可以进入《HabitMinder》app 中，对习惯的进展进行编辑。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/286/w550h536/20201223/ace7-kftfpiv3917453.png" alt=""><span class="img_descr"></span></div>
+<p>　　<strong>Maipo：今天的热搜有这些</strong></p>
+<p>　　第三方微博 app《Maipo》也推出了它的小组件，功能简单且实用，那就是展示近期的热门微博。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/127/w378h549/20201223/7b1f-kftfpiv3917521.png" alt=""><span class="img_descr"></span></div>
+<p>　　《Maipo》一共提供了三种尺寸的小组件，可以展示单条、两条和五条热门微博内容，上班学习的过程中，打开通知中心看看热门微博，劳逸结合才能更快提高嘛。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/gif_image/345/w640h505/20201223/c5f8-kftfpiv3916604.gif" alt=""><span class="img_descr"></span></div>
+<p>　　<strong>WaterMinder：快，该喝水了！</strong></p>
+<p>　　与手机端的小组件类似，《WaterMinder》一同提供了五种小组件可供选择，用人体、水桶、水环等形式提示我们今天还应该喝多少水。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/293/w550h543/20201223/2c75-kftfpiv3916639.png" alt=""><span class="img_descr"></span></div>
+<p>　　如果点击小组件上不同容量的水杯，就会自动打开 app，并为你加上对应的喝水量，同时也支持通过iCloud 与 iOS 同步，非常方便。</p>
+<p>　　除了上面提到的这些，还有许多 app 提供了 macOS 的小组件：笔记 app《Agenda》可以在通知中心展示近期的笔记列表；去色调色 app《Pastel》能在你的通知中心里放一个色板；思维导图 app《MindNode》可以让你在通知中心快速打开近期工作……</p>
+<p>　　现在就打开通知中心，进入编辑小组件，看看你常用的 app，有哪些值得尝试的小组件吧！</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/gif_image/276/w640h436/20201223/e02d-kftfpiv3916695.gif" alt=""><span class="img_descr"></span></div>
+<p>　　<strong>小组件的背后，可能是苹果的新方向</strong></p>
+<p>　　从开发者大会发布 macOS Big Sur 至今，关于新系统设计的吐槽就一直没停过：圆角矩形的图标、宽松的通知栏设计、和 iOS 如出一辙的控制中心，macOS 变成了一个不能触控 iOS。</p>
+<p>　　不过关注苹果的每个人都知道，苹果在努力的让所有平台的设计变得统一，不论是圆角矩形的设计，还是全新的控制中心、通知中心，都更像 iOS 了。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/gif_image/437/w640h597/20201223/b4e3-kftfpiv3916778.gif" alt=""><span class="img_descr"></span></div>
+<p>　　近期，有开发者在 Mac App Store 上发现了一张带有触摸元素的动画图片，不过这张图片很快就被换掉了。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/157/w550h407/20201223/8409-kftfpiv3916817.png" alt="▲ 上为更换前图片，下为正式上线图片"><span class="img_descr">▲ 上为更换前图片，下为正式上线图片</span></div>
+<p>　　统一的设计风格、更适合触控的通知栏和控制中心设计以及与 iOS 类似的全新 macOS 小组件，再加上可以运行 iOS app 的全新 M1 芯片系列 Mac 电脑……或许，这将是 macOS 引入触摸操作的第一步。</p>

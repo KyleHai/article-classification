@@ -1,0 +1,16 @@
+市场鼓吹科技泡沫之际，巴菲特再次押注科技公司
+金十数据
+<p class="ori_titlesource">　　原标题：市场鼓吹科技泡沫之际，巴菲特再次押注科技公司</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider202099/655/w2000h1055/20200909/f190-iyywcsy7814273.png" alt="图源：子图网"><span class="img_descr"><font cms-style="font-L align-Center">图源：</font><font cms-style="font-L align-Center">子图网</font></span></div>
+<p cms-style="font-L">　　巴菲特旗下伯克希尔哈撒韦公司将向硅谷成长速度最快的云计算服务公司Snowflake投资逾5.7亿美元。这是巴菲特在押注IBM失败后罕见地进军科技股。</p>
+<p cms-style="font-L">　　长期以来，巴菲特一直很少投资科技股，但<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">这并不意味着他不看好科技股，而是他秉持着“不懂不买”的原理。</font></font></p>
+<p cms-style="font-L">　　曾经有人问巴菲特为何不投资科技产业。巴菲特表示科技股不是他的优势。对科技公司认识最深刻的人中，他可能在全世界的前一千、前一万名都排不到。他很清楚自己的优势，世界上有成千上万个公司，<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">他一般会把公司分为三类：“好的公司”、“不好的公司”，以及“很难的公司”。</font></font></p>
+<p cms-style="font-L">　　好的公司、不好的公司，是他花半天时间就能够看出来的，而那些花了半天时间看不出来的，他也不会强迫自己花半个多月时间去看。他认为自己不是天才，但是在某一些领域比别人更聪明更有见解。他建议他人要呆在自己有优势的领域，不要随便走到别的领域去。</p>
+<p cms-style="font-L">　　然而在2011年，他打破了自己一贯的作风，大笔押注IBM。当时，IBM声称，已建立了一种稳健的商业模式，使其能够预测未来5年的收益，以及避免行业的正常波动。</p>
+<p cms-style="font-L">　　事与愿违的是，IBM随后在云计算领域败下阵来，目前的股价已经比巴菲特首次投资时低了约30%。巴菲特随后抛售了IBM的所有股票转而增持苹果的股票。</p>
+<p cms-style="font-L">　　根据今日公布的全球最赚钱的100家企业榜单，巴菲特旗下的伯克希尔哈撒伟高居榜首，第二财季净利润达262.95亿美元，该公司所持的苹果等股票自4月起大幅上涨，帮助其账面收益增加。</p>
+<p cms-style="font-L">　　此次巴菲特再次进军科技股，可见Snowflake公司大有来头。Snowflake成立于2012年，Snowflake销售的数据库软件能在亚马逊的云端运行，为企业提供高性能、易扩张的环境去存储大规模的信息，用以机器学习算法等应用的处理。</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">Snowflake的收入在最近一个季度增长了121%，远高于行业中的竞争对手。</font></font>此外，它是数据分析市场上同类产品中的佼佼者，<font cms-style="strong-Bold font-L"><font cms-style="font-L strong-Bold">正处于向云计算过渡的初期阶段，这预示它未来的收入可能会有更强劲的增长。</font></font></p>
+<p cms-style="font-L">　　Snowflake公司日前更新招股书，并公布发行区间。<font cms-style="font-L strong-Bold"><font cms-style="font-L strong-Bold">Snowflake准备发行2800万股，预计发行区间为75到85美元，募集资金将超过20亿美元。</font></font>若完全行使超配权，最高可募资27亿美元，这也意味着Snowflake的估值高达237亿美元。</p>
+<p cms-style="font-L">　　过去一周，科技股大幅下挫，在该背景下Snowflake的估值目标如此之高，表明外界对该公司寄予了很高的期望。</p>
+<p cms-style="font-L">　　招股书中还提到，Snowflake此次上市获巴菲特旗下伯克希尔哈撒韦公司及软件巨头Salesforce的加持，两家准备各投2.5亿美元。此外，巴菲特的公司还将从该公司的一位投资者手中另外购买超过3.2亿美元的股票。</p>

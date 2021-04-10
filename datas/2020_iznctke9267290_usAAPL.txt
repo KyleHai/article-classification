@@ -1,0 +1,18 @@
+法院认定在电脑上仿真iPhone的Corellium公司不侵权 苹果败诉
+快科技
+<p class="ori_titlesource">　　原标题：法院认定在电脑上仿真iPhone的Corellium公司不侵权：苹果败诉&nbsp;</p>
+<p cms-style="font-L">　　北京时间12月30日早间消息，美国佛罗里达州的一名联邦法官驳回了苹果公司（以下简称“苹果”）对安全研究公司Corellium的指控，此前该公司的软件被控违反版权法，这种软件可以帮助安全研究人员发现苹果产品的缺陷和安全漏洞。</p>
+<p cms-style="font-L">　　Corellium由克里斯·韦德（Chris Wade）和阿曼达·戈顿（Amanda Gorton）夫妇于2017年联手创立，在安全研究界被视为一大突破，原因是该公司开发的软件能让用户在台式机上运行“虚拟”iPhone。Corellium软件不使用实体iPhone来对苹果iOS移动操作系统进行分析，而是简化了这一过程。</p>
+<p cms-style="font-L">　　负责该案的法官裁定，Corellium使用虚拟iPhone并不侵犯版权，部分原因是该软件旨在帮助提高所有iPhone用户的安全性。Corellium并没有创造出与iPhone竞争的消费者产品，而只是提供一种仅有少数用户会使用的研究工具。</p>
+<p cms-style="font-L">　　Cole， Scott &amp; Kissane律师事务所的首席律师贾斯汀·莱文（ustin Levine）表示：“我们认为，法院在本案中发布了合理的命令，并就（虚拟iPhone的）合理使用做出了适当的裁决。”</p>
+<p cms-style="font-L">　　苹果尚未就此置评，该公司此前辩称，如果Corellium的产品落入坏人手中，那就可能带来风险，因为Corellium发现的安全漏洞可能会被用来攻击iPhone。另外，苹果还指称Corellium毫无顾忌地销售其产品，但后者否认了这一指控。</p>
+<p cms-style="font-L">　　法官罗德尼·史密斯（Rodney Smith）表示，苹果的上述论点“令人费解，甚至有点不真诚”。他指出，Corellium在销售产品之前使用了审查程序。</p>
+<p cms-style="font-L">　　从以往历史来看，苹果等公司通常会在此类版权案中获胜，因此史密斯的这一裁决让有些律师颇感意外。</p>
+<p cms-style="font-L">　　不过，在过去一年时间里，随着美国国会和监管机构对科技行业的行为展开调查，科技巨头面临着越来越严格的审查。谷歌、Facebook、苹果和亚马逊的CEO都已由于这些公司涉嫌从事反竞争行为而被迫向美国国会作证，而谷歌和Facebook还因此面临监管机构和各州总检察官的指控。</p>
+<p cms-style="font-L">　　苹果在本案中进行辩护时表示，用户安全和隐私是其最关心的问题。</p>
+<p cms-style="font-L">　　而在安全研究界，许多从业人士都对史密斯法官的裁决表示赞赏。安全研究人员威尔·斯特拉法赫（Will Strafach）表示：“我们安全研究人员希望让苹果的设备变得更安全，因此对我们来说，这是一次重大的胜利。这是个非常积极的信号，表明如果有人做了苹果不认同的事情，那么苹果想要欺凌这些人可能不是那么容易了。”</p>
+<p cms-style="font-L">　　法庭记录显示，苹果最初曾试图在2018年收购Corellium，但双方之间的收购谈判陷入僵局，随后苹果在去年对该公司提出起诉，称其虚拟iPhone构成了触犯版权法的行为。</p>
+<p cms-style="font-L">　　但在实际上，虚拟iPhone只包含安全研究所必需的基本功能。苹果还指控Corellium在开发这种软件时规避了该公司的安全措施，因此违反了《数字千年版权法》（DMCA），这一指控并未被驳回。</p>
+<p cms-style="font-L">　　史密斯在周二颁布的命令中写道：“法院权衡考量了所有的必要因素，认为Corellium已经履行了确保合理使用的责任。因此，该公司将IOS与Corellium产品结合使用是可被允许的。”</p>
+<p cms-style="font-L">　　在上周末，《福布斯》刚刚将Corellium评为年度最佳网络安全产品。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201230/279/w683h396/20201230/a973-kfxsuvw9850317.png" alt=""><span class="img_descr"></span></div>

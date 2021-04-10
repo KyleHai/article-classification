@@ -1,0 +1,41 @@
+发布一个月后 苹果M1芯片Mac的常用软件体验怎么样了？
+新浪数码
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/341/w630h511/20201217/3034-kfnaptt4298075.png" alt="国外一家网站实时统计应用支持M1芯片的情况" data-link=""><span class="img_descr">国外一家网站实时统计应用支持M1芯片的情况</span></div>
+<p>　　新浪数码 晓光 苏航　　</p>
+<p>　　昨天，有“苹果优秀开发者”之称的微软公司，推送了其Microsoft 365新版本，这次更新的最主要变化，就是支持了苹果的M1芯片，让这套中国用户人人皆知的办公必备软件（Office系列）支持了新电脑。</p>
+<p>　　在更新之后，最核心的Office应用，包括Word、Excel、PowerPoint和OneNote现在能够在M1 Mac上运行得更流畅了。微软使用了Universal，也就是通用程序，所以这些软件也将继续在英特尔芯片的Mac上正常运行。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/198/w630h368/20201217/f655-kfnaptt4331394.png" alt="微软Office应用成为通用应用" data-link=""><span class="img_descr">微软Office应用成为通用应用</span></div>
+<p>　　那么，除了微软Office，我们日常使用的软件，哪些已经适配了M1芯片，使用体验有如何呢？ 新浪数码帮您大致盘点了一下，按我们日常使用的类型来进行简单分类：</p>
+<p>　　<strong>一、社交通讯类</strong></p>
+<p>　　社交应用早已成为我们日常生活中不可取少的部分，QQ和微信其中的代表。在M1芯片的MacBook Pro上，微信和QQ都能顺利运行，并且日常使用畅通无阻。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/120/w630h290/20201217/8643-kfnaptt4337575.png" alt="QQ已经是通用应用，微信还不是" data-link=""><span class="img_descr">QQ已经是通用应用，微信还不是</span></div>
+<p>　　不过这两款应用还有所区别，QQ是通用应用，也就是专为M1芯片优化过，原生支持M1芯片。而微信还是Intel应用，通过Rosetta 2转译过来。虽然M1芯片的MacBook Pro运行微信不成问题，但是有时打开别人发过来的较大的图片或分享的文章，会有卡顿的情况出现。</p>
+<p>　　微博App原本没有Mac App，但是由于M1芯片的特殊性，让iOS和iPadOS上的应用可以在Mac上运行，所以我们也尝试了为iPad设计的微博App。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/788/w626h962/20201217/7ae7-kfnaptt4342844.png" alt="在Mac上运行微博App" width="366" height="562" data-link=""><span class="img_descr">在Mac上运行微博App</span></div>
+<p>　　这款应用在M1芯片MacBook Pro上可以流畅运行，日常发发微博完全没问题。它的窗口大小可以任意拖动，不过无限拉长之后，UI会显得不太自然。让我意外的是，由于iCloud同步了iPhone上的照片，所以电脑上的微博App可以直接选择手机里的照片发布。</p>
+<p>　　<strong>二、日常办公类</strong></p>
+<p>　　许多用户购买Mac就是为了生产、办公，所以生产力工具能否顺利运行，很大程度上决定了M1芯片Mac是否成功。作为数码编辑，我们常用的办公软件包括微软Office或WPS、Photoshop、Final Cut Pro等等。</p>
+<p>　　文章开头我们已经提到，微软Office全家桶已经可以在M1芯片MacBook Pro上流畅运行，它们也都从Intel应用升级成了通用应用。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/195/w630h365/20201217/c541-kfnaptt4346480.png" alt="Photoshop测试版已经支持M1芯片" data-link=""><span class="img_descr">Photoshop测试版已经支持M1芯片</span></div>
+<p>　　Photoshop对于设计小伙伴来说是必不可少的工具。Photoshop测试版目前已经为M1芯片优化，而其他版本还是Intel应用。我自己使用的不是为M1优化的测试版，在导出文件时偶尔会出现卡顿，让人觉得很闹心。</p>
+<p>　　苹果自家的Final Cut Pro剪辑工具就不用多说了，在这阵子使用过程中，一切都很流畅、自然。</p>
+<p>　　浏览器我们也放在这个类别，平常最常用的包括Chrome、火狐和Edge。先说最常用的Chrome，谷歌早已将之升级为通用应用，不仅流畅运行，而且感觉比以前Intel版本还快，窗口多开也不会卡顿。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/98/w599h299/20201217/6724-kfnaptt4350287.png" alt="Chrome早已支持M1芯片" data-link=""><span class="img_descr">Chrome早已支持M1芯片</span></div>
+<p>　　火狐浏览器也已经是通用应用，可以很好的在M1芯片Mac上运行。微软的Edge浏览器还是Intel应用，我日常将它做为备用浏览器，不会开太多标签页。到目前为止，运行比较顺畅，没发现严重的问题。</p>
+<p>　　<strong>三、影音娱乐类</strong></p>
+<p>　　视频类应用我比较常用爱奇艺和腾讯视频，这两款中爱奇艺是通用应用，腾讯视频是Intel应用。和大多数Intel应用一样，腾讯视频的一些功能初次运行会卡顿一下，应该是后台在进行转译工作，随后就能正常使用了。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/222/w630h392/20201217/ec47-kfnaptt4353549.png" alt="爱奇艺运行完全没问题" data-link=""><span class="img_descr">爱奇艺运行完全没问题</span></div>
+<p>　　网易云音乐和QQ音乐，目前还是Intel应用，两款App日常体验也都没什么问题。视频播放器我选择的是IINA，它被称为“macOS”最受欢迎的视频播放器，目前也是Intel应用，并且可以正常运行。</p>
+<p>　　<strong>四、游戏类</strong></p>
+<p>　　实话说，Mac用户打游戏的机会不多。我自己几乎不在Mac上玩任何游戏，不过作为曾经的PC玩家，我还是安装了Steam客户端，结果自然是没有问题。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/230/w630h400/20201217/cdb5-kfnaptt4367422.jpg" alt="试了试Steam客户端" data-link=""><span class="img_descr">试了试Steam客户端</span></div>
+<p>　　还有一些让人意外的App，例如饿了么，以及上文提到的微博App——这种本身不是给电脑设计的软件，现在也能在M1芯片Mac上运行了。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/244/w630h414/20201217/1aff-kfnaptt4633838.png" alt="饿了么" data-link=""><span class="img_descr">饿了么</span></div>
+<p>　　跟它们类似的还有：纪念碑谷、美图秀秀、百度贴吧这样的原生在手机伤的应用在M1芯片Mac上运行都没有问题，但是交互需要习惯一下。就拿把“百度贴吧”和“百度贴吧HD”来说，它们的操作逻辑依然是触屏的逻辑，在某些栏目（比如“进吧”）不支持鼠标滚轮，只能点击拖动翻页（就跟触屏操作一样）。</p>
+<p>　　而像王者荣耀这样的游戏，大家就不用幻想了，它的玩法和操作逻辑实在不适合在电脑上操作，所以也就没有在App Store上线。</p>
+<p>　　<strong>总结：M1芯片Mac已经成功了一大半</strong></p>
+<p>　　苹果这颗Arm架构的电脑芯片成了年终黑科技产品，除了5纳米的领先工艺，它也成了苹果“软硬合一”概念的重新解读——实际上其他厂商早就制作过Arm芯片的电脑，但认知度很低，主要原因是没什么软件。</p>
+<p>　　而苹果准备这颗芯片时候，就想好了这个问题的解决方案。除了凭借自己的生态号召力让开发者更新适配版本，也准备了Rosetta，作为App翻译的它，可以将暂时没有适配M1的软件转译成可运行的版本，基本上保证了大部分用户的使用体验，并且这种翻译的过程无感，对用来来说只是第一次启动时间会长十几秒而已。</p>
+<p>　　就日常使用来说，M1芯片MacBook Pro完全没有问题，甚至还能做到Intel芯片Mac不能做的事（运行iOS和iPadOS应用）。</p>
+<p>　　我们在拿到这款产品的时候，本身对它的期望没有那么高——能满足日常使用需求就算成功。但是现在看来，苹果的M1芯片MacBook Pro完全超出预期。如今我自己很愉快地在使用这款产品办公，虽然偶尔还是会遇到兼容性问题，但都是些小问题，不影响大局。</p>
+<p>　　这和之前微软的ARM芯片产品的体验完全不同，甚至我认为再给苹果和开发者一些时间，完善M1芯片的生态，它或许真的可以完全取代Intel，给PC行业带来新的机会。</p>

@@ -1,0 +1,17 @@
+法院立案：因取消支付宝渠道，美团遭遇反垄断诉讼
+新浪科技综合
+<p cms-style="font-L">　　来源：中国经济周刊</p>
+<p cms-style="font-L">　　<font cms-style="font-L">中国经济周刊-经济网讯（记者周琦）12月28日，《中国经济周刊》记者获悉，美团遭遇反垄断诉讼，北京知识产权法院已立案审理。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">北京知识产权法院民事案件受理通知书（2020）京73民初888号显示，王某诉被告北京三快科技有限公司、北京三快信息科技有限公司滥用市场支配地位纠纷案，经审查，符合《中华人民共和国民事诉讼法》规定的受理条件，北京知识产权法院决定立案审理。落款时间为2020年10月29日。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">12月28日，王某的委托人北京实景律师事务所律师陈鹏飞介绍，北京三快科技有限公司、北京三快信息科技有限公司在其旗下的美团App、美团点评App等，利用其市场支配地位，取消支付宝渠道，使得消费者无法在上述App中通过支付宝进行支付。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">今年7月底，有媒体报道称，部分用户在使用美团支付时发现，美团月付和银行卡支付占据优先位置，微信支付、Apple Pay也在支付选择列表上，只是不再显示支付宝支付。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">王某的诉讼，正是针对7月底的这次事件。如今，这样的情况是否依旧存在？</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">12月28日，《中国经济周刊》记者登录美团外卖App，其显示外卖下单后，可以使用支付宝支付，不过其支付页面被隐藏折叠。未折叠隐藏的支付方式包括美团支付、微信支付和Apple Pay，只有支付宝被隐藏。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">据一位长期使用美团外卖App的用户介绍，此前美团外卖确实有一段时间无法使用支付宝支付，那段时间她不得不使用其他外卖平台。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">有意思的是，iPhone 12（系统版本14.1）上最新版本的美团外卖、大众点评，目前在支付方式中仍只有美团支付、微信支付和Apple Pay，没有支付宝支付方式。而iPhone XS MAX、iPhone7等系列手机最新版本的上述App，则是支付宝渠道被折叠隐藏。</font></p>
+<div class="img_wrapper"><img id="0" src="http://n.sinaimg.cn/tech/crawl/149/w300h649/20201229/6203-kfxsuvw8817995.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">12月28日晚，iPhone12的美团外卖支付界面，没有支付宝选项</font></p>
+<div class="img_wrapper"><img id="1" src="http://n.sinaimg.cn/tech/crawl/33/w300h533/20201229/4e89-kfxsuvw8818016.jpg" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　<font cms-style="font-L">在iPhone XS MAX、iPhone7等系列手机的美团外卖App，是支付宝渠道存在，不过被折叠隐藏</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">第三方大数据研究机构Trustdata的数据显示，美团在中国外卖行业的市场份额，由2019年第一季度的63.4%，至2020年第二季度上升至68.2%。饿了么、饿了么星选及其他平台市场份额共计31.8%。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">11月30日美团发布的2020年第三季度业绩数据显示，整体营收同比增长28.8%至354亿元，餐饮外卖交易额达1522亿元，到店、酒旅业务板块收入达65亿元。美团年度活跃商户数增长至650万，年度交易用户数达4.8亿。</font></p>

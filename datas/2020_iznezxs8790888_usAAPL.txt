@@ -1,0 +1,186 @@
+从数据看中国半导体在全球版图中的位置
+观察者网
+<p cms-style="font-L">　　原标题：从数据看中国半导体在全球版图中的位置</p>
+<p cms-style="font-L">　　下面这张图来自IC Insights 官网，是按照各国（地区）的芯片企业的营收，</p>
+<p cms-style="font-L">　　进行了一个全球份额的排名。</p>
+<p cms-style="font-L">　　注意这里说的是芯片设计企业，也就是英特尔，博通，高通，三星，SK海力士，海思，索尼，联发科之类，包括了Fabless（无工厂，纯设计）和IDM（设计制造一体化）企业。纯芯片制造类的企业，包括台积电，格罗方德，联电，中芯国际之类是不算在里面的。</p>
+<p cms-style="font-L">　　可以理解成就是智能手机的苹果，三星，华为，小米， OPPO， VIVO的品牌份额排名，上游代工厂不加入计算。</p>
+<p cms-style="font-L">　　先看全球总的芯片份额排名，</p>
+<p cms-style="font-L">　　美国2018年是52%，2019年上升到55%，排名世界第一；</p>
+<p cms-style="font-L">　　韩国2018年是27%，2019年是22%，排名世界第二；</p>
+<p cms-style="font-L">　　欧洲2018年是7%，2019年还是7%，排名世界第三；</p>
+<p cms-style="font-L">　　中国台湾2018年是6%，2019年还是6%，排名世界第四；</p>
+<p cms-style="font-L">　　日本2018年是7%， 2019年下降到6%，排名世界第五；</p>
+<p cms-style="font-L">　　中国2018年3%，2019年上升到5%，排名世界第六。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/784/w468h316/20201225/9fc6-kftfpiw0758912.png" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/26/w554h272/20201225/9be5-kftfpiw0758911.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　如果做成表格的话，就是如下，我们2019年是全球第六。</p>
+<div class="img_wrapper"><img id="2" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/739/w554h185/20201225/48b6-kftfpiw0759000.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　非常明显的可以看出来，中国大陆的芯片发展势头是最猛的，</p>
+<p cms-style="font-L">　　下图可以看的非常明显，2019年相比2018年的销售额增速，</p>
+<p cms-style="font-L">　　中国大陆是增长10%，是唯一增长的，其他主要区域的芯片公司销售额都是负增长。</p>
+<p cms-style="font-L">　　欧洲下降2%，台湾下降3%，美国下降9%，日本下降24%，韩国下降32%。</p>
+<div class="img_wrapper"><img id="3" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/8/w500h308/20201225/538e-kftfpiw0759001.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　这下大家感觉很奇怪了，为什么日本和韩国下降会那么大呢？</p>
+<p cms-style="font-L">　　这跟韩国和日本的半导体产业结构高度集中化在存储器等少数领域有关系，</p>
+<p cms-style="font-L">　　下面这个图相信大家都看到过，也是来自于IC insight，</p>
+<p cms-style="font-L">　　这个排名是把半导体产业链所有的企业（包括了设计，制造，封测各个环节）的营收进行一个排名，看全球前15强，简单的说就是把台积电之类的纯代工厂也加入进来一起计算。</p>
+<div class="img_wrapper"><img id="4" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/69/w554h315/20201225/7214-kftfpiw0759114.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　韩国虽然芯片份额（按照销售额算）2019年稳居全球第二，<font cms-style="font-L strong-Bold">但是韩国半导体的产出主要集中在三星和</font><font cms-style="font-L strong-Bold">SK</font><font cms-style="font-L strong-Bold">海力士的存储器（DRAM</font><font cms-style="font-L strong-Bold">内存和NAND FLASH</font><font cms-style="font-L strong-Bold">闪存），</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">看上图的全球15</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">强，韩国就是三星和海力士两家， &nbsp;</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">而且三星排全球第二，海力士排全球第四。 &nbsp;</font></p>
+<p cms-style="font-L">　　你要说出韩国除了这两家之外的第三大芯片公司是谁，结果就是面面相觑大家都说不出来。</p>
+<p cms-style="font-L">　　存储颗粒我们都知道是周期性的产业，价格波动很大，所以价格猛涨时能造成销售额和利润猛增，能让三星一跃成为全球第一大芯片公司。</p>
+<p cms-style="font-L">　　但是价格下跌时也能让三星和海力士的销售额大幅下降。</p>
+<p cms-style="font-L">　　日本的半导体结构比韩国要好一点，</p>
+<p cms-style="font-L">　　日本第一大半导体公司是铠侠（就是以前的东芝），主要做NAND FLASH闪存，跟三星和SK海力士是同行，2019年排全球第9位。</p>
+<p cms-style="font-L">　　日本第二大半导体公司是索尼，营收主要来源是旗下的CMOS图像传感器业务，2019年排全球第11位。</p>
+<p cms-style="font-L">　　日本第三大半导体公司是瑞萨，经营范围是汽车芯片，没在上面的全球前15强里面，但是也在全球前二十的水平。</p>
+<p cms-style="font-L">　　日本的半导体产业，这三家占据了绝大部分，尤其是铠侠是老大，所以铠侠的存储器业务如果因为市场价格波动下滑，就会带动日本半导体产业销售额下滑。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">在芯片领域，中国的中长期主要赶超对手就是美国和韩国。 &nbsp;</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">2019</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">年按照份额来看，欧洲7%， </font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">日本6%</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">，中国台湾6%</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">，中国大陆5%</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">，按照中国大陆芯片产业的高速发展，预计2022</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">年就能在份额上面超过前面的三个区域。 &nbsp;</font></p>
+<p cms-style="font-L">　　目前国内的海思，汇顶科技（指纹识别芯片），韦尔股份（旗下豪威科技的CMOS图像传感器），兆易创新，长江存储的NAND FLASH，长鑫存储的DRAM都已经在各自领域脱颖而出，得到了比较大的发展。</p>
+<p cms-style="font-L">　　像韦尔股份和索尼，三星一起，是全球CMOS图像传感器三强，</p>
+<p cms-style="font-L">　　2020</p>
+<p cms-style="font-L">　　年前三季度实现营业总收入139.69亿元，同比增长48.51%；归属母公司股东净利润17.27亿元，同比增长1177.75%；</p>
+<p cms-style="font-L">　　接下来我们再细分下，芯片公司可以分成两种，</p>
+<p cms-style="font-L">　　一种是自己做制造的，也就是IDM，2019年全球最大的10家IDM公司是：</p>
+<p cms-style="font-L">　　美国英特尔，韩国三星，韩国SK海力士，美国美光，美国德州仪器，日本铠侠，日本索尼，意法半导体，德国英飞凌，荷兰恩智浦。</p>
+<p cms-style="font-L">　　目前全球从营业额来看，还是IDM公司占据主导地位，2019年全球芯片公司前四名都是IDM公司（英特尔，三星，SK海力士，美光）。</p>
+<p cms-style="font-L">　　欧洲最大的三家芯片公司也都是IDM公司（意法半导体，英飞凌，恩智浦）</p>
+<p cms-style="font-L">　　我们还是根据本文最开始IC Insight的图，2019年全球各国（区域）IDM公司营收的份额和排名如下，美国占了全球51%，韩国占了29%，欧洲和日本各占了9%。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">可以看出我国缺乏IDM</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">公司是巨大的短板，全球份额低于1%</font><font cms-style="font-L strong-Bold">。 &nbsp;</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">不够有意思的是我国台湾地区的IDM</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">公司也不强，全球份额只有2%</font><font cms-style="font-L strong-Bold">。 &nbsp;</font></p>
+<div class="img_wrapper"><img id="5" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/681/w554h127/20201225/9065-kftfpiw0759112.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　从营收上看，目前中国最大的半导体IDM公司是闻泰旗下的安世半导体，做二极管等分立器件，MOSFET等，2019年营业收入为103.07亿元人民币，上年同期为104.31亿元；2019年净利润12.58亿元，上年同期为13.40亿元。</p>
+<p cms-style="font-L">　　不过安世半导体是从欧洲NXP的标准件部门收购而来，其实还是一家欧洲公司，晶圆生产分别位于德国汉堡和英国曼彻斯特。</p>
+<p cms-style="font-L">　　尽管闻泰获得了安世董事长的职位，公司的管理运营团队还是欧洲团队在负责，具有较高的独立性。</p>
+<p cms-style="font-L">　　所以可以说，目前中国最大的IDM半导体工厂是华润微电子。</p>
+<p cms-style="font-L">　　2019年公司实现营业收入57.43亿元，同比下降8.42%；</p>
+<p cms-style="font-L">　　实现净利润4.01亿元，同比下降6.68%；</p>
+<p cms-style="font-L">　　当然其实华润微电子旗下也有代工业务，而且占比还不小，</p>
+<p cms-style="font-L">　　但是一般说纯</p>
+<p cms-style="font-L">　　代工厂还是看</p>
+<p cms-style="font-L">　　中芯国际和华虹。</p>
+<p cms-style="font-L">　　中国第二大IDM工厂是杭州士兰微，2019年实现营收31.1057亿元，同比增长2.80%；归属于母公司股东的净利润1453.2万元，同比下滑91.47%</p>
+<p cms-style="font-L">　　当然了，最近几年我国新建了长江存储和长鑫存储两个大型IDM工厂，2020年都开始放量了，这两家公司在2019年开始量产后，2020年是其开始真正的逐渐规模上量的第一年。</p>
+<p cms-style="font-L">　　以后这两家会是我国最大的IDM工厂。</p>
+<p cms-style="font-L">　　2020年7月13日，合肥城建发布公告称，公司近日与合肥长鑫集成电路有限责任公司（以下简称“长鑫集成”）签订了项目合作框架协议。</p>
+<p cms-style="font-L">　　为长鑫集成提供厂区、办公区、生活区等专业化项目代建等服务，致力于打造一流的企业生产、工作、生活环境。而长鑫集成旗下的睿力集成拥有长鑫存储100%的股权，因此长鑫集成是长鑫存储的母公司。</p>
+<p cms-style="font-L">　　由于合肥城建和长鑫集成两个公司的股东都有合肥产投集团，形成了关联交易，所以披露了长鑫集成一季度的营收，为2.5519亿人民币，净利润为亏损9708.86万元。</p>
+<div class="img_wrapper"><img id="6" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/602/w430h172/20201225/b684-kftfpiw0759233.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　长鑫集成并没有说明这个销售额多少是来自DRAM产品销售，不过按照这个数据的话，今年合肥长鑫第一次变得有规模了，长江存储也是如此，今年有了较快的发展，</p>
+<p cms-style="font-L">　　因此在该领域中国大陆的排名将会出现上升。</p>
+<p cms-style="font-L">　　另外我国的华为海思公司，我认为很有可能也会进入IDM领域，我一直坚持这个判断，因为从逻辑上判断，如果华为不自己搞，那么将会非常被动，不利于自己的生存。</p>
+<p cms-style="font-L">　　一种是只做设计的，也就是Fabless，2020年Q1全球最大的五家是高通，博通，英伟达，联发科，AMD，下图来自拓璞产业研究院，看看全球十强。</p>
+<div class="img_wrapper"><img id="7" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/21/w554h267/20201225/cdad-kftfpiw0759234.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　但是实际上普遍估计在2020年Q1海思的营收已经超过联发科位居全球第四了，只是因为没有单独披露营收，不过现在说这个也没啥意义，因为海思暂时无法找到芯片制造供应了，会逐渐下滑。</p>
+<p cms-style="font-L">　　另外这里面苹果也没有算进去，估计是因为苹果没有单独披露芯片业务营收。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">按照纯芯片设计公司份额计算， &nbsp;</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">2019</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">年美国65%</font></p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">，全球第一遥遥领先，几乎是全球其他地区总和的两倍， &nbsp;</font></p>
+<p cms-style="font-L">　　高通，博通，英伟达三巨头不用说了，除此之外还有AMD（超微半导体）， Xilinx（赛灵思），Marvell（美满电子），其中AMD在2020年10月27日宣布以350亿美元收购了赛灵思。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">那么纯芯片设计公司全球前四就是：博通，高通，英伟达，AMD</font></p>
+<p cms-style="strong-Bold font-L">　　，都是美国公司，实际上还应该加上苹果，那就是全球前五位都是美国公司。&nbsp;</p>
+<p cms-style="font-L">　　中国台湾的fabless公司全球份额2019年为17%，排名全球第二，</p>
+<p cms-style="font-L">　　中国大陆2019年排在全球第三位，份额为15%，</p>
+<p cms-style="font-L">　　相比之下，全球其他地区，欧洲，日本，韩国的纯芯片设计公司的全球份额都很小，欧洲2%，韩国1%，日本连1%都不到。</p>
+<div class="img_wrapper"><img id="8" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/717/w554h163/20201225/d711-kftfpiw0759341.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　预计中国大陆将在2021-2022年间超过台湾地区，位居全球第二位。</p>
+<p cms-style="font-L">　　综上，在芯片领域，不管是自己设计并且制造芯片的IDM芯片公司，</p>
+<p cms-style="font-L">　　还是只做设计的Fabless芯片公司，还是两者综合，美国都是遥遥领先，都占了全球50%以上的份额。</p>
+<p cms-style="font-L">　　在这个领域，实际上是可以简述为一超多强的态势。</p>
+<p cms-style="font-L">　　看完了芯片公司的市场份额，接下来我们看半导体制造，</p>
+<p cms-style="font-L">　　这是目前我国在半导体领域最大的短板，也是目前被卡脖子的主要领域。</p>
+<p cms-style="font-L">　　用下图会比较清楚，下图是2019年12月全球半导体制造厂的晶圆产能排名，包括了IDM厂和纯代工厂，是按照8寸晶圆折算。</p>
+<p cms-style="font-L">　　我们可以看到全球第一是三星，产能为293.4万片每月，占了全球15%</p>
+<p cms-style="font-L">　　全球第二是台积电，产能是243.9万片每月，占全球12.8%</p>
+<p cms-style="font-L">　　全球第三是美光，产能168.5万片每月，占全球9.4%</p>
+<p cms-style="font-L">　　全球第四是SK海力士，产能163万片每月，占全球8.9%</p>
+<p cms-style="font-L">　　全球第五是铠侠，产能136.1万片每月，占全球7.2%</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">因此从公司的层面来看，三星是全球第一大芯片生产厂，台积电是第二位。 &nbsp;</font></p>
+<div class="img_wrapper"><img id="9" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/698/w525h173/20201225/7931-kftfpiw0759342.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　但是为什么我们习惯说台积电是全球第一呢，</p>
+<p cms-style="font-L">　　因为一般我们说半导体制造厂，都是指纯代工厂。</p>
+<p cms-style="font-L">　　像是IDM芯片公司，包括英特尔，三星，SK海力士，美光，铠侠之类，自己就有工厂，</p>
+<p cms-style="font-L">　　一般就不会把芯片交给代工厂去生产。</p>
+<p cms-style="font-L">　　但是市场有大量的芯片公司是没有自己的工厂的，叫做fabless，所以要交给代工厂去生产。</p>
+<p cms-style="font-L">　　我们看下图，来自拓璞产业研究院，</p>
+<p cms-style="font-L">　　2020年Q3的全球芯片代工厂营收排名，</p>
+<p cms-style="font-L">　　台积电世界第一，份额53.9%；</p>
+<p cms-style="font-L">　　三星世界第二，份额17.4%</p>
+<p cms-style="font-L">　　格芯世界第三，份额7%；</p>
+<p cms-style="font-L">　　联电世界第四，份额7%</p>
+<p cms-style="font-L">　　中芯国际世界第五，份额4.5%</p>
+<div class="img_wrapper"><img id="10" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/102/w535h367/20201225/e2de-kftfpiw0759423.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　在芯片代工排名里面，三星是只计算代工业务+system LSI（large scale integration）业务的收入。并不计算其存储器部门的收入。</p>
+<p cms-style="font-L">　　在三星官网这个System LSI是这样描述的：System LSI Business offers a full range of portfolio for mobileindustry including mobile processor， image sensor， Bio-processor， security anddisplay solution。简单的说就是提供三星手机处理器，图像传感器，生物芯片处理器，显示驱动芯片等移动电子产品芯片的部门。</p>
+<p cms-style="font-L">　　也就是说，在芯片代工领域，以台积电为核心的台湾是当之无愧的王者，占了全球芯片代工市场一大半的份额，fabless的华为，由于没有自己的芯片制造工厂，也必须依靠芯片代工厂来生产芯片。</p>
+<p cms-style="font-L">　　好了我们可以做下总结，</p>
+<p cms-style="font-L">　　在芯片的份额来看，</p>
+<p cms-style="font-L">　　美国毫无疑问是最强的，而且在新技术方面处于引领的态势，美国的芯片公司，博通，高通，英特尔，AMD，苹果，英伟达，德州仪器，似乎每一家都看起来有种不可战胜的感觉。</p>
+<p cms-style="font-L">　　在芯片份额方面，韩国由于在存储器方面的极高全球份额，因此总份额上位于全球第二。</p>
+<p cms-style="font-L">　　而全球其他区域，中国大陆，中国台湾，欧洲，日本2019年的份额都在5%-7%之间，</p>
+<p cms-style="font-L">　　因此中国很快将脱颖而出，在2023年之前会位居全球第三。</p>
+<p cms-style="font-L">　　当然了估计直到2025年我们应该还会是全球第三位，仅次于美国和韩国，2025-2030年之间超过韩国跃居世界第二位，2030年之后才有可能超过美国。</p>
+<p cms-style="font-L">　　在芯片制造领域，如果是看公司总部所在地区的产能排名，</p>
+<p cms-style="font-L">　　韩国由于三星和SK海力士的巨大产能，因此韩国是世界第一，</p>
+<p cms-style="font-L">　　我国台湾（台积电，联电等）是世界第二</p>
+<p cms-style="font-L">　　但是由于韩国这两家大厂，把大量的存储器业务放在中国进行生产，</p>
+<p cms-style="font-L">　　三星的西安工厂，海力士的无锡工厂都拥有巨大的产能；</p>
+<p cms-style="font-L">　　而相比之下，由于台湾当局对于半导体制造投资大陆严防死守，台积电在中国大陆的南京厂和上海厂的产能都非常小，主要还是在台湾生产。</p>
+<p cms-style="font-L">　　因此如果按照工厂所在的地理位置看的话，台湾是全球最大的半导体生产基地。</p>
+<p cms-style="font-L">　　下图是IC insight公布的2019年12月的全球晶圆产能分布（按照地理位置），</p>
+<p cms-style="font-L">　　中国台湾全球第一，占比21.6%；</p>
+<p cms-style="font-L">　　韩国全球第二，占比20.9%，</p>
+<p cms-style="font-L">　　日本全球第三，占比16%</p>
+<p cms-style="font-L">　　中国大陆全球第四，占比13.9%</p>
+<p cms-style="font-L">　　美国全球第五，占比12.8%</p>
+<p cms-style="font-L">　　欧洲全球第六，占比5.8%</p>
+<p cms-style="font-L">　　全球其他地区占比为9.0%</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">注意中国大陆的芯片产能已经超过了美国（但是原因是中国大陆很多产能属于外资工厂） &nbsp;</font></p>
+<div class="img_wrapper"><img id="11" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/797/w523h274/20201225/ea72-kftfpiw0759421.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　在制造领域，中国也在快速进步。</p>
+<p cms-style="font-L">　　因此我做了个图，对比下2015年12月到2019年12月的全球晶圆产能变化，用的是IC insight的数据。</p>
+<p cms-style="font-L">　　从2015年到2019年，中国大陆的晶圆产能全球份额从9.7%增加到了13.9%，上升了4.2个百分点，2019年位居全球第四位，仅次于中国台湾，韩国和日本。</p>
+<div class="img_wrapper"><img id="12" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/685/w554h131/20201225/8424-kftfpiw0759503.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　2015-2019年，全球晶圆产能六大玩家中，</p>
+<p cms-style="font-L">　　北美，欧洲，日本的晶圆产能份额都呈现下降趋势，</p>
+<p cms-style="font-L">　　中国大陆和韩国分别上升4.2个百分点和0.4个百分点，</p>
+<p cms-style="font-L">　　台湾则是持平，当然了中国大陆是上升最快的。</p>
+<p cms-style="font-L">　　非常明显，中国大陆的晶圆产能最快在2022-2023年就能超过日本，跃居全球第三。只不过我们要注意了，这个晶圆产能是包括了外资在华半导体制造厂的产能。&nbsp;</p>
+<p cms-style="font-L">　　当然有人问了，2019年中国大陆总的晶圆产能份额是全球13.9%，那么只算中国大陆自己的工厂呢？份额能占多少？看这个才更有意义。</p>
+<p cms-style="font-L">　　下图来自中国半导体行业协会，2019年中国前十大半导体制造厂，有五家是外资，其中前两名是三星（西安）和英特尔大连厂，规模都比中芯国际要大。</p>
+<p cms-style="font-L">　　前四名里面三家是外资厂，尤其是三星西安工厂，在不断扩产，是全球最大的存储器工厂之一，</p>
+<p cms-style="font-L">　　非常容易看出来，中国</p>
+<p cms-style="font-L">　　大陆的大部分产能是来自于外资工厂，我们的本土工厂产能全球份额估计就是5%不到。</p>
+<div class="img_wrapper"><img id="13" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/723/w1080h443/20201225/9747-kftfpiw0759504.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　因此到2025年，我们的本土工厂的全球产能份额估计也就能超过欧洲（实际估计2023年之前就能超过），排在中国台湾，韩国，日本，美国之后排全球第五位。</p>
+<p cms-style="font-L">　　好，我们简单的做个总结，</p>
+<p cms-style="font-L">　　1：芯片公司份额领域，美国是绝对的霸主，全球占比50%以上。</p>
+<p cms-style="font-L">　　2019年我们全球份额5%，排名世界第六，预计在三年内能超过日本，欧洲和中国台湾，</p>
+<p cms-style="font-L">　　跃居全球第三，仅次于美国和韩国。</p>
+<p cms-style="font-L">　　超过韩国预计要到2025—2030年。</p>
+<p cms-style="font-L">　　2：芯片制造厂领域，2019年中国大陆公司的全球产能份额不到5%，</p>
+<p cms-style="font-L">　　到了2025年，预计中国大陆公司产能到时候是排在全球第五名，能超过欧洲，依然落后于中国台湾，韩国，日本，美国，但是距离将会拉近。</p>
+<p cms-style="font-L">　　看下图，我在本文前面贴过，韩国三星，台湾台积电这种全球产能占比超过10%的巨头就不说了，美国光是美光的产能就占全球9.4%，还有德州仪器，英特尔等工厂呢。</p>
+<p cms-style="font-L">　　日本光是铠侠的产能就占全球7.2%，还有索尼，瑞萨。</p>
+<div class="img_wrapper"><img id="14" style="max-width: 640px;" src="http://n.sinaimg.cn/sinakd20201225s/698/w525h173/20201225/7931-kftfpiw0759342.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　因此我们的本土制造厂2019年全球大约5%不到的产能，即使五年内翻一倍，赶上台湾，韩国，美国，日本还是有点困难。</p>
+<p cms-style="font-L">　　这还是按照产能算，按照金额计算我国估计会更低，</p>
+<p cms-style="font-L">　　因为在制程和技术上落后。</p>
+<p cms-style="font-L">　　我们能够在三年内完成28nm的国产化，已经是极大的进步了，就先不要谈追赶世界领先的问题。我们对半导体制造的领域需要补的课是太多，而不是太少。</p>
+<p cms-style="font-L">　　而且更为致命的是，我国在半导体制造领域的排头兵中芯国际，华虹，长江存储，长鑫存储四家，目前看中芯国际内部始终还是没有理顺，华虹发展缓慢，长鑫存储做的DRAM技术复杂还需要时间积累，就长江存储目前总体比较稳，但是规模也还太小。</p>
+<p cms-style="font-L">　　因此需要更多强力玩家入局，我还是那个判断，华为需要会进入IDM领域，自己制造芯片，我认为华为也最终会这样做，原因很简单，现有的国内代工厂中芯国际和华虹都不太能打，不能够支撑华为在未来重新走向领先。</p>
+<p cms-style="font-L">　　最后，</p>
+<p cms-style="font-L">　　我们再经过三年的努力，到2023年我们的芯片份额能够上升到全球第三位，而我们的本土芯片工厂的制造产能到2023年有可能超过欧洲，次于台湾，韩国，美国，日本位居世界第五位（当然到2025年预计还是这个排名），但是更大的意义在于28nm的国产化或者说去美化产线搭建，一旦实现了这个目标，我想比产能的提升意义还大。</p>

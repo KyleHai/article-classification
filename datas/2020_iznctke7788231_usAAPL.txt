@@ -1,0 +1,10 @@
+苹果：App Store和Apple Pay即将支持“强客户认证”
+IT之家
+<blockquote>
+<p>　　听人描述，不如自己上手！你也想试试最新、最炫数码产品？还等什么，赶紧<a href="http://zhongce.sina.com.cn/about/app" target="_blank" data-comos-dataid="">加入新浪众测</a>。在这里不仅好玩意儿拿到手软，还有一群志同道合的伙伴与你畅聊数码。</p>
+</blockquote>
+<p>　　今日凌晨，苹果面向开发者表示，欧洲经济区用户的在线购买流程可能会受到欧盟即将颁布的 “强客户认证”要求的影响。</p>
+<p>　　苹果指出，今年12月31日起，欧盟立法对欧洲经济区（EEA）的用户引入了强客户认证要求，这可能会影响他们完成网上购物的方式。</p>
+<div class="img_wrapper"><img id="0" src="http://n.sinaimg.cn/tech/crawl/25/w550h275/20201222/448c-kfnaptu8847027.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　IT之家了解到，App&nbsp;Store和Apple&nbsp;Pay即将支持 “强客户认证”。苹果建议开发者对 App中的StoreKit和Apple&nbsp;Pay配置做好检查，确保其能正确地处理购买流程。</p>
+<p>　　据悉，欧盟支付服务修订法案第二版（Payment Services Directive 2，简称PSD2）要求对某些网上购物进行 “强客户认证”，以防止欺诈。当用户在网站、应用程序或应用商店通过信用卡或借记卡发起特定交易时，必须经过银行或支付服务提供商的认证才能完成交易。</p>

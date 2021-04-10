@@ -418,6 +418,7 @@ def main(_):
         # 训练样本和训练步数传入评估器的train函数中，开始进行训练
         estimator.train(input_fn=train_input_fn, max_steps=num_train_steps)
 
+
 if __name__ == "__main__":
     # 训练
     flags.DEFINE_bool("do_train", True, "执行训练模式")

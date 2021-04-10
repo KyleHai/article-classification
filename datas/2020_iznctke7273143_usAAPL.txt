@@ -1,0 +1,14 @@
+库克回应Facebook抨击：新数据政策没他们说的那么可怕
+新浪科技
+<div class="img_wrapper"><img src="https://n.sinaimg.cn/tech/transform/208/w630h378/20201218/95f5-kfnaptt9282987.png" alt=""><span class="img_descr"></span></div>
+<p>　　据报道，针对<span><a href="http://stock.finance.sina.com.cn/usstock/quotes/FB.html" target="_blank">Facebook</a></span>的抨击，<span><a href="http://stock.finance.sina.com.cn/usstock/quotes/AAPL.html" target="_blank">苹果</a></span>公司CEO蒂姆·库克（Tim Cook）今日回应称，苹果即将推出的新数据政策仍允许Facebook继续追踪用户，只不过要提前征得用户同意。</p>
+<p>　　本周三，Facebook在《纽约时报》、《华尔街日报》和《华盛顿邮报》这些报纸上刊登了一系列整版广告来抨击苹果，称苹果在数据收集和定向广告方面的新变化对小企业不利。</p>
+<p>　　广告称，这些小企业关注苹果iOS 14移动操作系统即将做出的改变，这些改变将限制Facebook等公司收集移动用户数据并向他们投放广告的能力。众所周知，Facebook正是通过销售有针对性的广告来赚取令人难以想象的利润。</p>
+<p>　　Facebook还称：“虽然限制个性化广告的使用方式，确实会影响像我们这样的大公司，但这些变化将对小企业造成毁灭性的影响。”</p>
+<p>　　今年早些时候，苹果宣布将推出一项名为“App Tracking Transparency”（应用程序追踪透明化）的功能，让人们能够更好地控制自己的数据。至关重要的是，该功能允许用户选择不收集数据，并选择广告客户是否可以跟踪其活动。</p>
+<p>　　新功能原计划在今年与iOS 14一同上线，如今，苹果已经将该功能推迟到明年，以便让开发者有时间做好准备。</p>
+<p>　　对于Facebook的抨击，苹果CEO库克今日在<span><a href="http://stock.finance.sina.com.cn/usstock/quotes/TWTR.html" target="_blank">Twitter</a></span>上回应称：“我们认为，对于所收集的数据、以及如何使用这些数据，用户拥有选择权。Facebook可以继续像以前一样，跨应用和网站追踪用户，iOS 14中的‘应用追踪透明化’只是要求他们先征求用户的同意。”</p>
+<p>　　事实上，Facebook与苹果近日的“你来我往”，也只是两家公司之间公开争斗的最新案例。</p>
+<p>　　严格意义上讲，这两家公司并不是真正的竞争对手。Facebook几乎所有的收入都来自广告，只为苹果贡献着一小部分收入，而苹果的大部分收入来自设备及其App Store应用商店。</p>
+<p>　　但多年来，两家公司之间的关系并不太友好。苹果CEO库克一直表示，Facebook将用户视为一种产品，从广告中赚钱，并玩弄他们的隐私。</p>
+<p>　　与此同时，Facebook CEO马克·扎克伯格（Mark Zuckerberg）则表示，苹果的产品价格昂贵，批评Facebook是别有用心。此外，Facebook还批评了苹果应用商店收取30%佣金的行为。</p>

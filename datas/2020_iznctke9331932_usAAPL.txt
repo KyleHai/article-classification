@@ -1,0 +1,3 @@
+苹果败诉 美法院裁定安卓机也能合法用iOS
+PingWest品玩
+<p class='ori_titlesource'>原标题：苹果败诉 美法院裁定安卓机也能合法用iOS    来源：PingWest品玩</p><p cms-style="font-L">品玩12月30日讯，据techcrunch报道，美国佛罗里达州地方法院于当地时间星期二驳回了苹果对 Corellium 的版权侵权诉讼。</p><p cms-style="font-L">此前苹果曾对 Corellium 提起过诉讼，指控对方侵犯苹果 iOS 系统的版权条例。在经历一年多的诉讼后，苹果提起的指控全部被法官驳回。 Corellium 曾推出过让用户可以在台式机和安卓机上运行的虚拟 iOS 系统。苹果认为此行为触犯版权法。佛罗里达州西棕榈滩地区法官 Rodney Smith 近日判定，Corellium公司的营业行为符合版权法的范畴。因为该公司只是以苹果公司的iOS系统为基础创造了一个虚拟化平台，新增了iOS设备所不具备的安全研究功能，该软件旨在提高iPhone用户的产品安全性，并没有创造出与iPhone竞争的消费产品，因此并不侵犯苹果的版权。</p>

@@ -1,0 +1,46 @@
+期权异动：机构12月期权仓位的轮动
+新浪财经-自媒体综合
+<p class="ori_titlesource">　　原标题：期权异动 | 机构12月期权仓位的轮动 来源：富途资讯</p>
+<p cms-style="font-L">　　本文为您总结了期权市场上的最新大单异动情况。</p>
+<p cms-style="font-L">　　通过监测这些市场数据，投资者可以利用这些常常被忽视的信息并制定投资策略。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">悄悄说一句：本周五晚21:00花姐直播间见哦！</font></p>
+<p cms-style="font-L">　　周二期权市场涨跌不一，仍有一部分买盘情绪激进，$苹果(AAPL.US)$, $美国超微公司(AMD.US)$, $百度(BIDU.US)$还有拜登普涨概念（鉴于参议院共和党领导人Mitch McConnell承认大选事实）太阳能新能源电动及其周边都出现很大异动。当然有部分资金也将火力瞄准向了$维视图像(MVIS.US)$等中小盘股。</p>
+<p cms-style="font-L">　　除了个股看涨看跌两侧的异动，周二市场还有两个趋势：</p>
+<p cms-style="font-L">　　第一就是持续增加ETF（$标普500指数ETF-SPDR(SPY.US)$，$纳指100ETF(QQQ.US)$）Put一侧的保护订单，目的自然在于利用Put对冲整体市场潜在的下行风险从而保护看涨买入的个股操作。</p>
+<p cms-style="font-L">　　第二就是联储48小时魔咒期间将目前持有的个股仓位（多头仓位）roll over进行调仓（近期到远期，价外到更高价外等）。</p>
+<p cms-style="font-L strong-Bold">　　12月15日大盘ETF期权异动</p>
+<p cms-style="font-L">　　周一期权市场成交量达到3,300万份合约，较以往平均成交水平低4%，其中认购量略高于认沽量（9:5）。单只股票和期指产品成交量相对较多，而ETF流向温和。</p>
+<div class="img_wrapper"><img id="1" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/578/w1086h1092/20201216/ebe7-kffctcc8092895.png" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="2" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/34/w1088h1346/20201216/617a-kffctcc8092966.png" alt=""><span class="img_descr"></span></div>
+<div class="img_wrapper"><img id="3" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/681/w1088h393/20201216/f021-kffctcc8092969.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L strong-Bold">　　12月15日各个板块的个股期权异动</p>
+<p cms-style="font-L">　　最活跃的板块包括科技，公共事业及工业板块而周期消费成交量则相对平静。</p>
+<p cms-style="font-L">　　在3,664只有上市期权的股票中，2,864只（78%）收盘上涨，620只（17%）收跌。在500只流动性最高的单只股票中，30日隐含波动率较高的有121只，较低的有339只。检测到成交异动个股包括：$苹果(AAPL.US)$，$LUMINAR TECHNOLOGIES INC(LAZR.US)$，$百度(BIDU.US)$，$维视图像(MVIS.US)$，$Dropbox, Inc.(DBX.US)$等。</p>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">科技股</font></p>
+<div class="img_wrapper"><img id="4" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/34/w1088h2946/20201216/f146-kffctcc8093068.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">工业股</font></p>
+<div class="img_wrapper"><img id="5" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/165/w1088h677/20201216/adde-kffctcc8093071.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">周期型消费股</font></p>
+<div class="img_wrapper"><img id="6" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/140/w1088h1452/20201216/60ad-kffctcc8093182.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">金融股</font></p>
+<div class="img_wrapper"><img id="7" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/603/w1088h1115/20201216/7f31-kffctcc8093184.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">通讯股</font></p>
+<div class="img_wrapper"><img id="8" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/680/w1088h1192/20201216/153c-kffctcc8093320.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">医疗健康股</font></p>
+<div class="img_wrapper"><img id="9" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/90/w1089h601/20201216/d0d8-kffctcc8093314.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">能源股</font></p>
+<div class="img_wrapper"><img id="10" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/759/w1088h471/20201216/f578-kffctcc8093473.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">房地产股</font></p>
+<div class="img_wrapper"><img id="11" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/397/w1088h109/20201216/ef07-kffctcc8093470.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">建材股</font></p>
+<div class="img_wrapper"><img id="12" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/629/w1088h341/20201216/3f58-kffctcc8093585.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">防御型消费股</font></p>
+<div class="img_wrapper"><img id="13" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/500/w1088h212/20201216/b089-kffctcc8093584.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="strong-Bold font-L">　　<font cms-style="font-L strong-Bold">公共事业股</font></p>
+<div class="img_wrapper"><img id="14" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/500/w1088h212/20201216/bd11-kffctcc8093722.png" alt=""><span class="img_descr"></span></div>
+<p cms-style="font-L">　　期权工具灵活好用，它被认为是至今为止金融市场上最完美的交易工具，小资金可以通过精准的判断利用非线性的杠杆迅速积累财富，大资金可以通过多种策略综合应用横跨牛熊兼震荡市获得稳定回报。但我们也要看到期权的买方风险（普通投资者慎做期权卖方，收益有限亏损无限）：</p>
+<p cms-style="font-L">　　1､ 非线性巨大杠杆面临着做错方向的话会巨亏。</p>
+<p cms-style="font-L">　　2､ 波动率下降，做对方向也可能亏钱。</p>
+<p cms-style="font-L">　　3､ 波动大心态容易失衡。</p>
+<p cms-style="font-L">　　4､ 时间是期权买方的敌人。</p>
+<p cms-style="font-L">　　5､ 股票思维严重。股票思维就是只想做多，不会做空，跌多了就想抄底，套住了就不理等反弹，甚至还有人加仓摊低成本，结果越陷越深直至归零。思维上不转变过来，做期权很危险。</p>

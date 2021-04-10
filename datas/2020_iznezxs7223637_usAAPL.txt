@@ -1,0 +1,9 @@
+韩媒：苹果决定从2022年开始为iPad使用OLED面板
+IT之家
+<p cms-style="font-L">　　众所周知，Apple Watch 和 iPhone 已经采用了 OLED 屏幕面板。韩国媒体电子日报称，苹果向三星和 LG 下单，请求将 OLED 面板应用于 iPad 系列产品，新品将在 2022 年发布。</p>
+<p cms-style="font-L">　　此外，苹果计划使用比普通 OLED 面板更薄的混合 OLED 面板，充分结合刚性 OLED 和柔性 OLED 的特点，三星显示可在 2022 年供应，而 LG 显示可在 2023 年供应。</p>
+<div class="img_wrapper"><img id="0" style="max-width: 640px;" src="http://n.sinaimg.cn/spider20201216/400/w1200h800/20201216/75ef-kffctcc6990119.jpg"><span class="img_descr"></span></div>
+<p cms-style="font-L">　　据介绍，这种 OLED 使用刚性玻璃作为 TFT（薄膜晶体管）基板因此具有刚性 OLED 的特性，并结合了 TFE（薄膜封装）技术（TFE 技术当前用于柔性 OLED 中），并且将使用薄膜代替当前用于封装的玻璃。</p>
+<p cms-style="font-L">　　就结果而言，这种新 OLED 技术能够减小面板的整体厚度。三星 Display 和 LG Display 分别称其为 “ UT（超薄）”面板和 “ ATO（高薄 OLED）”面板。</p>
+<p cms-style="font-L">　　一位高管表示，三星已经开始为必要的设施和设备做准备，预计在 2022 年开始，在 2023 年全面供应其面板。</p>
+<p cms-style="font-L">　　IT之家了解到，这是苹果 iPad 系列首次使用 OLED 面板。而此这之前，也就是明年上半年，苹果还将推出采用 miniLED （LCD）的 iPad Pro。三星 Display&nbsp;和 LG Display 对此均表示，<font cms-style="font-L">无法透露与客户有关的任何信息</font>。</p>

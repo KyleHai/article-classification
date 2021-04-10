@@ -1,0 +1,3 @@
+微软力挺苹果M1处理器：悄悄制作特供版Win10予以适配
+腾讯新闻
+<p class='ori_titlesource'>原标题：微软力挺苹果M1处理器：悄悄制作特供版Win10予以适配    来源：腾讯新闻</p><p cms-style="font-L">纳德拉治下的微软更加开放，且深刻明白作为一家软件公司的使命，尤其是很多产品不再绑定Win平台，不遗余力地为非Win平台优化。</p><p cms-style="font-L">从Office套件、Edge浏览器适配苹果M1处理器就能看出一些端倪，没想到微软私下里还在默默支持，这次是为了让Win10运行在M1 Mac上。</p><p cms-style="font-L">日前，Parallels发布了适配M1 Mac的测试版软件（Parallels Desktop 16 for Mac技术预览版），这款知名模拟软件终于实现了对M1运行Win10的支持。</p><p cms-style="font-L">不同于之前我们介绍过的QEMU模拟，Parallels采用的是Win10正版授权。</p><p cms-style="font-L">由于当前的Windows 10 on ARM仅绑定特定的高通硬件，且没有公开零售版，<font cms-style="font-L strong-Bold">微软OneDrive副总裁Omar Shahine透露，为了帮助Parallels开发，微软下发了特定的Win10 ARM版本予以支持</font>。</p><p cms-style="font-L">不过，就MacRumors的体验来看，刚开始还行，运行一小时后就开始出现各种报错，可谓糟透了。</p>

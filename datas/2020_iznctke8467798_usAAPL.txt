@@ -1,0 +1,11 @@
+苹果给用户发邮件：价格乌龙订单将被取消
+IT之家
+<blockquote>
+<p>　　新品拿到手软，好物天天推荐，<a href="http://zhongce.sina.com.cn/" target="_blank" data-comos-dataid="">新浪众测</a>等你加入。在这里，你也能成为数码大V；在这里，产品好坏你说了算。【<a href="http://zhongce.sina.com.cn/about/app#page1" target="_blank" data-comos-dataid="">玩转新奇好物，来新浪众测</a>】</p>
+</blockquote>
+<p>　　近日苹果官网部分产品出现了标价错误的问题，上千元的产品只卖一两百，不少用户趁机 “薅羊毛”，然而，根据苹果给下单的用户发送的一封邮件显示，这些订单将被取消。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/crawl/101/w550h351/20201225/be23-kftfpiw2427578.jpg" alt=""><span class="img_descr"></span></div>
+<p>　　邮件内容如上图，苹果称 “我们在处理你的订单时意外发现其中商品价格存在问题。这些商品并没有进行任何的促销活动，但价格不准确，因此我们将取消这个订单。对于由此可能造成的任何不便，我们深表歉意。如果你已经完成付款，我们将退款至你的原支付方式。”</p>
+<p>　　从用户反馈，苹果这款产品也出现了超卖的情况，下单成功的订单信息还出现了售完的状态。</p>
+<p>　　IT之家了解到，23 日下午，Apple Store 中国官网商城多个第三方配件商品出现 Bug 价格，一千多元的儿童积木套件被标价不足 150 元，消息传开后，很多人开始购买&nbsp;公开信息显示：比如，Shure MOTIV MV88 Digital 立体声电容式麦克风配件，正常售价 1288 元，而 Bug 价格是 235 元；UBTECH Jimu Astrobot Cosmos 机器人套件，正常售价 1499 元，Bug 价格是 149 元等等。</p>
+<p>　　据苹果 Apple Store 条款与条件显示，网站上的产品和定价信息在公布前已经过核实。但是，在极少数的情形下可能有误。如果 Apple 发现定价错误，将会通知用户，取消该订单，并对订单进行全额退款。</p>

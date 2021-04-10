@@ -125,7 +125,7 @@ def convert_single_example(example, label_list, max_seq_length,
         input_ids=input_ids,
         input_mask=input_mask,
         segment_ids=segment_ids,
-        label_id=label_id,
+        label_id=[label_id],
         is_real_example=True)
 
     return feature

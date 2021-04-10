@@ -1,0 +1,39 @@
+苹果宣布一条大消息，芯片霸主“崩了”：一夜蒸发850亿
+每日经济新闻
+<p>　　来源：每日经济新闻</p>
+<p>　　在知乎上，曾有人提问：</p>
+<p>　　苹果连集成基带的芯片都做不出来，为什么会有那么多人买？</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/3/w630h173/20201214/bf66-kffctca9258926.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　有人回答称：</p>
+<p>　　现在这个社会不是小农经济了，讲究分工合作，没有谁家100%只依靠自己，自己能做得好就自己做，做不好就找别人买，有何不妥。</p>
+<p>　　正是依靠遍布全球的供应链，苹果建立起了2万亿美元市值的帝国，而苹果供应链上的公司也赚得盆满钵满。一旦失去苹果的订单，对这些公司来说，无疑是一场灾难。</p>
+<p>　　周五，苹果启动首个内部基带芯片的研发消息便让高通股价大跌。当日高通公司大跌7.36%，创下了2020年3月20日以来最大跌幅，市值一夜蒸发850亿元人民币。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/396/w538h658/20201214/2c1a-kffctca9258984.png" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　<strong>甩开高通？苹果开始自研基带芯片</strong></p>
+<p>　　12月10日苹果硬件技术部门高级副总裁约翰尼·斯鲁吉在与员工的一次会议上披露，今年苹果已经启动了首个内部基带芯片的研发，这意味着将推动苹果下一个关键转型。不过他并未披露苹果自研基带芯片何时将出货。</p>
+<p>　　基带是智能手机中的一个关键零件，作用是支持手机通话以及通过蜂窝网络连接互联网。在斯鲁吉看来，为确保苹果未来有丰富的创新技术，像这样的长期战略投资是十分关键的。</p>
+<p>　　去年7月，苹果宣布以10亿美元收购英特尔大部分智能手机基带芯片业务，12月双方正式完成交易。</p>
+<p>　　交易完成后，苹果获得超过1.7万项无线技术的专利，约有2200名英特尔员工将加入苹果，这也意外意味着苹果未来将大幅减少对高通的依赖。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/225/w630h395/20201214/ac23-kffctca9259123.png" alt="图文无关。图片来源：摄图网" data-link=""><span class="img_descr">图文无关。图片来源：摄图网</span></div>
+<p>　　除此之外，斯鲁吉还强调了苹果在芯片方面的其他工作，包括最新MacBook Air、MacBook Pro和Mac mini上使用的新M1处理器。他称，苹果还在研发一系列用于Mac的芯片。</p>
+<p>　　今年11月，苹果推出了首款为Mac电脑打造的苹果自行开发芯片，名为M1。它将取代自2005年起用于Mac的英特尔芯片。苹果这一5纳米自研芯片M1号称全球笔记本用的最高效芯片。</p>
+<p>　　<strong>高通公司约11%的收入来自苹果</strong></p>
+<p>　　据Strategy Analytics发布的2019年基带市场研究报告显示，全球蜂窝基带市场营收中，高通在营收中所占比重为41%，是第一大厂商，华为旗下的海思所占的比重为16%，排名第二，英特尔以14%的营收份额排第三。</p>
+<p>　　高通在通信领域实力强大，构筑了巨大的专利墙，通过专利官司、高额授权费等方式，将英特尔、苹果等众多竞争者挡在了门外；公司的基带专利费构成了整体营收的大部分，在最高的时候曾一度占到了整体营收的85%，是主要的营收来源。苹果在基带芯片领域依赖芯片厂商高通、英特尔等的供给，为此每年都要为此付出高昂的费用。供应商的稀缺，很容易使苹果公司陷入“被动状态”。</p>
+<p>　　2017年苹果与高通爆发诉讼大战，英特尔一度替代高通成为苹果唯一的基带处理器供应商。但在手机通讯基带领域，英特尔的产品与高通存在较大差距，这也是苹果此前几款手机信号差的主要原因之一，常常为消费者诟病。</p>
+<p>　　苹果公司为摆脱自己5G手机进度落后于同行的的风险，最终还是选择与高通和解并继续使用高通的基带芯片。在和解协议中，除了撤销专利诉讼之外，苹果将向高通支付一笔款项，但具体的金额没有公布，此外，苹果还跟高通签订了为期6年的芯片供应协议，未来还可选延期2年。</p>
+<p>　　据彭博社统计的数据显示，高通公司约11%的收入来自苹果，如果苹果公司的基带芯片进展顺利，显然将对高通公司形成重大利空。</p>
+<p>　　但券商Canaccord认为，苹果此举并没有改变其对高通的积极看法，高通仍在5G市场处于领导地位。</p>
+<p>　　<strong>高通总裁致敬苹果：</strong></p>
+<p>　　<strong>M1芯片证实了我们对计算未来的想法</strong></p>
+<p>　　值得注意的是，高通公司总裁克里斯蒂亚诺·阿蒙（Cristiano Amon）近日在接受媒体采访时，对苹果公司的M1芯片表示赞赏。阿蒙表示，M1芯片的成功“证实”了高通对计算未来的想法。</p>
+<p>　　在被问到，高通和微软等公司可以从M1芯片中吸取到那些经验教训，阿蒙表示，“我们对M1芯片的发布感到非常高兴，这是一件大事。向苹果公司表示敬意，因为它证明了我们的信念，即移动用户正在定义他们从PC体验中期望什么”。</p>
+<p>　　阿蒙还强调，苹果向ARM芯片的过渡有助于推动整个行业的发展。值得注意的是，高通刚刚发布了其最新旗舰处理器骁龙888。</p>
+<p>　　“当苹果加入到这个圈子之后，你会发现生态正发生变化。举个例子，我相信在这周，也是Adobe发布新应用的前一周，这些应用都是ARM原生的。一但这些应用成为ARM原生应用，它的性能会更高，而且兼容性更好。</p>
+<p>　　总体而言，这是一个非常好的信号。生态系统将发生变化，这也证明微软和高通走在正确的道路上。它关乎电池寿命、网络连接，以及与众不同的多媒体体验。”阿蒙表示。</p>
+<p>　　编辑|何小桃 王嘉琦 肖勇</p>
+<!--article_adlist[<p cms-style="font-L align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">校对|</font></font><font cms-style="font-L align-Center">赵云</font><font cms-style="font-L align-Center"></font><font cms-style="font-L align-Center"></font></p>]article_adlist--><!--article_adlist[<p cms-style="font-L align-Center"><font cms-style="font-L align-Center"><font cms-style="font-L align-Center">每日经济新闻综合证券时报、华尔街见闻、新浪数码</font></font></p>]article_adlist--><!--article_adlist[<p cms-style="font-L"><font cms-style="font-L">截至12月12日07:15，全球新冠肺炎确诊70058867例，死亡1590622</font><font cms-style="font-L">例。关注全球新冠肺炎疫情动态，请点击↓↓↓</font></p><p cms-style="font-L"><font cms-style="font-L"><font cms-style="font-L"></font></font></p><div class="img_wrapper"><font cms-style="font-L"><font cms-style="font-L"><img cms-width="479" style="max-width:640px" id="8" src="https://mmbiz.qpic.cn/mmbiz_png/CFF20LXzkOwaRcPDuGEeGB9bExJwELibPhibI4bCuEnNovxWygnObfLSgM2EzTEkbtU5SiaQiafy5aaz3XTqFKuicfg/640?wx_fmt=png" black-list="y"/><span class="img_descr"></span></font></font></div>]article_adlist--><!--article_adlist[<p cms-style="strong-Bold font-L align-Center"><font cms-style="strong-Bold font-L align-Center"><font cms-style="font-L strong-Bold align-Center"><font cms-style="font-L strong-Bold align-Center">推荐阅读</font></font></font></p><p cms-style="font-L align-Center"><font cms-style="font-L align-Center">“恶魔回到人间”！《素媛》原型罪犯出狱，愤怒民众扔鸡蛋！</font></p><p cms-style="font-L align-Center"><font cms-style="font-L align-Center"></font></p><div class="img_wrapper"><font cms-style="font-L align-Center"><img cms-width="577" style="max-width:640px" id="9" src="http://n.sinaimg.cn/spider20201212/126/w577h349/20201212/41c8-kffctca5314595.jpg" img-code="0" img-size="577,349"/><span class="img_descr"></span></font></div>]article_adlist-->
+<p><!--article_adlist[<font cms-style="font-L align-Center">100多个官司缠身，被限制消费后，罗永浩坐车17小时去领奖</font>]article_adlist--></p>
+<!--article_adlist[<p cms-style="font-L align-Center"><font cms-style="font-L align-Center"></font></p><div class="img_wrapper"><font cms-style="font-L align-Center"><img cms-width="661" style="max-width:640px" id="10" src="http://n.sinaimg.cn/spider20201212/369/w748h421/20201212/c0ba-kffctca4235100.png" img-code="0" img-size="748,421"/><span class="img_descr"></span></font></div>]article_adlist-->
+<p><!--article_adlist[<font cms-style="font-L align-Center">官方售卖事故二手车？法院判定“退一赔三”！特斯拉不服：将上诉</font>]article_adlist--></p>
+<!--article_adlist[<p cms-style="font-L"><font cms-style="font-L"></font></p><div class="img_wrapper"><font cms-style="font-L"><img cms-width="661" style="max-width:640px" id="11" src="http://n.sinaimg.cn/spider20201212/236/w1080h756/20201212/d1ea-kffctca4235127.jpg" img-code="0" img-size="1080,756"/><span class="img_descr"></span></font></div>]article_adlist--><!--article_adlist[<p cms-style="font-L align-Center"><font cms-style="font-L align-Center"><font cms-style="font-L align-Center"></font></font></p><div class="img_wrapper"><font cms-style="font-L align-Center"><font cms-style="font-L align-Center"><img cms-width="661" style="max-width:640px" id="12" src="http://n.sinaimg.cn/spider20201212/771/w1080h491/20201212/6a35-kffctca4235154.png" img-code="0" img-size="1080,491"/><span class="img_descr"></span></font></font></div>]article_adlist-->

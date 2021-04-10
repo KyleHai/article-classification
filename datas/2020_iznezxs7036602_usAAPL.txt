@@ -1,0 +1,13 @@
+iOS 14.3为iPhone 12 Pro系列带来ProRAW功能 朝专业再进一步
+新浪数码
+<p>　　新浪数码讯 12月15日下午消息，苹果公司今天正式推送了iOS 14.3系统，新系统带来一系列改进，自然也包括为iPhone 12 Pro和12 Pro Max用户提供ProRAW照片拍摄。</p>
+<p>　　ProRAW功能与iPhone 12 Pro系列一同发布，也是iPhone 12 Pro和iPhone 12 Pro Max独有的功能。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/184/w630h354/20201215/747e-kffctcc3921144.jpg" alt="苹果的ProRAW" data-link=""><span class="img_descr">苹果的ProRAW</span></div>
+<p>　　其实，iPhone一直可以拍摄RAW格式照片，这类照片原有的意思是“未经加工”，即CMOS图像传感器将捕捉到的光源信号转化为数字信号的原始数据。</p>
+<p>　　由于RAW文件记录了全部图像信息，所以摄影师在做后期时，可以充分发挥自己的想象力。但手机拍摄的RAW文件，因为缺少多帧合成、降噪等处理，失去了智能手机计算摄影的优势。</p>
+<p>　　苹果ProRAW的目的就是打破这层桎梏，让文件既拥有RAW格式的控制力和灵活性，又能体会到“计算摄影”功能的强大。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/302/w630h472/20201215/ee3a-kffctcc3909640.jpg" alt="Eric Zhang使用ProRAW拍摄并经由第三方App编辑的作品" data-link=""><span class="img_descr">Eric Zhang使用ProRAW拍摄并经由第三方App编辑的作品</span></div>
+<p>　　苹果构建了新的图像管线，将中央处理器、图形处理器、图像信号处理器和神经网络引擎所做的各部分处理，合并为一个新的深度影像文件。它不仅提供所有标准RAW信息，还附带了苹果图像管线数据。可以简单的理解为ProRAW相较标准RAW，增加了手机算法对图像的优化，比如智能HDR、深度融合等能力。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/643/w630h813/20201215/59d3-kffctcc3913775.jpg" alt="未经后期的ProRAW照片（作者Eric Zhang）" data-link=""><span class="img_descr">未经后期的ProRAW照片（作者Eric Zhang）</span></div>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/tech/transform/670/w630h840/20201215/45f1-kffctcc3915101.jpg" alt="后期处理之后（作者Eric Zhang）" data-link=""><span class="img_descr">后期处理之后（作者Eric Zhang）</span></div>
+<p>　　在iOS 14.3系统中，苹果将ProRAW的开关放在设置-相机中，打开这个开关，就能在相机右上角看到拍摄ProRAW图像的按钮，拍摄的图像也能在照片App中直接编辑。</p>
